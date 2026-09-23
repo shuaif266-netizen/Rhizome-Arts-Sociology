@@ -1,0 +1,11 @@
+{
+  "id": "concept_dependency_relations_hjelmslev",
+  "type": "concept",
+  "name_zh": "依从关系与三类功能",
+  "name_en": "dependency relations and functions",
+  "aliases": [
+    "互依关系",
+    "决定关系",
+    "并存关系"
+  ]
+}
