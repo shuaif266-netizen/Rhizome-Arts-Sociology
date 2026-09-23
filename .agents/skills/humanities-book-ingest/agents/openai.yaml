@@ -1,0 +1,4 @@
+interface:
+  display_name: "人文书籍入库"
+  short_description: "将书籍核校并整理进人文知识库"
+  default_prompt: "按本仓库架构处理当前书籍或章节，核对 PDF 页码，整理中文知识卡并同步 GitHub。"
