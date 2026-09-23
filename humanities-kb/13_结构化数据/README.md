@@ -1,7 +1,6 @@
 # 结构化数据层
 
 本目录为 Markdown 知识库的机器可读补充。截至2026-09-23已累计1210个实体、1440条关系；其中1319条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
-
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
