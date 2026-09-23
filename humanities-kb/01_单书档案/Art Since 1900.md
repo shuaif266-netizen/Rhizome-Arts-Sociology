@@ -14,11 +14,13 @@
 
 关键词：现代艺术史、现代主义、艺术批评方法、精神分析、艺术社会史、形式主义、结构主义、后结构主义、解构、话语与权力、制度批判、挪用艺术、全球艺术史、地方网络、聚合形式、构成主义、生产主义、包豪斯、超现实主义、自动主义、摄影、现代主义原始主义、殖民凝视、性别化观看、后现代主义。
 
-阅读状态：**部分阅读**。已读五篇方法导论、130篇正文条目（书内pp.64–841；PDF pp.68–845）、两篇圆桌讨论、Glossary全76个词条（书内pp.857–865 / PDF pp.861–869），并核读Further Reading书目（书内pp.866–875 / PDF pp.870–879）。下一项Selected useful websites从PDF p.880（书内p.876）开始；被推荐的书目不因此视为已读。
+阅读状态：**部分阅读**。已读五篇方法导论、130篇正文条目（书内pp.64–841；PDF pp.68–845）、两篇圆桌讨论、Glossary全76个词条（书内pp.857–865 / PDF pp.861–869），Further Reading书目与Selected useful websites（书内pp.866–877 / PDF pp.870–881）。推荐书目不等于已读；2016版网站链接未逐个核验。下一项Picture Credits从PDF p.882（书内p.878）开始。
 
 
 
 **2015章节增量档案**：[The new museums of art](2015%20The%20new%20museums%20of%20art.md)
+**在线资源目录增量档案**：[Selected useful websites](Art%20Since%201900在线资源目录.md)
+
 **Further Reading主题导航**：[Art Since 1900 Further Reading目录](Art%20Since%201900%20Further%20Reading目录.md)
 
 **Glossary术语索引**：[Art Since 1900 Glossary p857-865](Art%20Since%201900%20Glossary%20p857-865.md)
