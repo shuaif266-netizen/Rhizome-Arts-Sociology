@@ -129,3 +129,5 @@
 | 840–845 | 2015：The new museums of art（Hal Foster） | 已读正文、7幅图注及Further Reading书目；PDF p.846为过渡页 | 836–841 |
 
 | 847–858 | 2015圆桌：The predicament of contemporary art | 已核读；原始讨论于2003-12，Joselit补充于2010-09 | 843–854 |
+
+| 861–869 | Glossary（76个词条） | 已核读并建立术语索引；PDF p.870开始Further Reading | 857–865 |

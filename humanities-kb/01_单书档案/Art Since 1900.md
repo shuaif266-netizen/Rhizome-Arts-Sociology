@@ -14,11 +14,13 @@
 
 关键词：现代艺术史、现代主义、艺术批评方法、精神分析、艺术社会史、形式主义、结构主义、后结构主义、解构、话语与权力、制度批判、挪用艺术、全球艺术史、地方网络、聚合形式、构成主义、生产主义、包豪斯、超现实主义、自动主义、摄影、现代主义原始主义、殖民凝视、性别化观看、后现代主义。
 
-阅读状态：**部分阅读**。已读五篇方法导论、130篇正文条目（书内pp.64–841；PDF pp.68–845），及两篇圆桌讨论：“Art at mid-century”（书内pp.375–384 / PDF pp.379–388）和2015“The predicament of contemporary art”（书内pp.843–854 / PDF pp.847–858；原始讨论于2003年12月，Joselit于2010年补充）。下一项为Glossary，从PDF p.861（书内p.857）开始；全书仍有大量正文、圆桌和附录未读。
+阅读状态：**部分阅读**。已读五篇方法导论、130篇正文条目（书内pp.64–841；PDF pp.68–845）、两篇圆桌讨论以及Glossary全76个词条（书内pp.857–865 / PDF pp.861–869）。下一项Further Reading从PDF p.870（书内p.866）开始；全书仍有大量正文和附录未读。
 
 
 
 **2015章节增量档案**：[The new museums of art](2015%20The%20new%20museums%20of%20art.md)
+**Glossary术语索引**：[Art Since 1900 Glossary p857-865](Art%20Since%201900%20Glossary%20p857-865.md)
+
 **2015圆桌增量档案**：[The predicament of contemporary art](2015%20The%20predicament%20of%20contemporary%20art.md)
 
 
