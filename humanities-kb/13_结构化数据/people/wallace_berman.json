@@ -1,0 +1,31 @@
+{
+  "concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "sources": [
+    {
+      "author": "Yve-Alain Bois",
+      "book": "Art Since 1900, third edition",
+      "location": "sections on Berman, Conner and Kienholz; figures 1–5",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "chapter": "1959b: Assemblage"
+    }
+  ],
+  "related_art": [],
+  "fields": [
+    "art",
+    "assemblage",
+    "publishing"
+  ],
+  "id": "person_wallace_berman",
+  "type": "person",
+  "name_zh": "",
+  "related_events": [],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "aliases": [],
+  "name": "Wallace Berman",
+  "last_updated": "2026-09-21"
+}

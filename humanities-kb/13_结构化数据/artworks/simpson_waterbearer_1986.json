@@ -1,0 +1,11 @@
+{
+  "id": "artwork_simpson_waterbearer_1986",
+  "type": "artwork",
+  "name": "The Waterbearer",
+  "name_zh": "Lorna Simpson《提水者》",
+  "aliases": [],
+  "artist_ids": [
+    "person_lorna_simpson"
+  ],
+  "date_text": "1986"
+}

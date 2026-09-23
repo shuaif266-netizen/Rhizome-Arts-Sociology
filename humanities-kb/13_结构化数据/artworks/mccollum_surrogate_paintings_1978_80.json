@@ -1,0 +1,11 @@
+{
+  "id": "artwork_mccollum_surrogate_paintings_1978_80",
+  "type": "artwork",
+  "name": "Surrogate Paintings",
+  "name_zh": "麦科勒姆《替代绘画》",
+  "aliases": [],
+  "artist_ids": [
+    "person_allan_mccollum"
+  ],
+  "date_text": "1978–1980"
+}

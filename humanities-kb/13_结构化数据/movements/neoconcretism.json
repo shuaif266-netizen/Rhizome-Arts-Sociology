@@ -1,0 +1,51 @@
+{
+  "id": "movement_neoconcretism",
+  "type": "movement",
+  "name": "Neoconcretism",
+  "name_zh": "新具体主义",
+  "aliases": [
+    "Neoconcrete movement"
+  ],
+  "description": "Bois describes the Brazilian movement as officially launched in March 1959 through an exhibition and manifesto, with a deliberate phenomenological rebuttal to rationalist geometric abstraction.",
+  "fields": [
+    "modern_art",
+    "Brazil"
+  ],
+  "key_figures_discussed": [
+    "person_ferreira_gullar",
+    "person_lygia_clark",
+    "person_lygia_pape",
+    "person_helio_oiticica",
+    "person_amilcar_de_castro"
+  ],
+  "related_people": [
+    "person_ferreira_gullar",
+    "person_lygia_clark",
+    "person_lygia_pape",
+    "person_helio_oiticica",
+    "person_amilcar_de_castro"
+  ],
+  "related_concepts": [
+    "concept_neoconcrete_quasi_corpus",
+    "concept_organic_line_spatialization",
+    "concept_participant_object_relation",
+    "concept_nonobject_vivencias"
+  ],
+  "related_events": [
+    "event_first_national_concrete_art_exhibition_1956_57",
+    "event_neoconcrete_manifesto_first_exhibition_1959"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

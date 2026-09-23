@@ -1,0 +1,57 @@
+{
+  "id": "concept_nonobject_vivencias",
+  "type": "concept",
+  "name": "Nonobject and lived experience",
+  "name_zh": "非物与生活经验",
+  "definitions": [
+    {
+      "thinker": "Ferreira Gullar (as discussed by Bois)",
+      "summary": "The term nonobject names a direction in which art is not reducible to an autonomous art object.",
+      "source": {
+        "book": "Art Since 1900, third edition",
+        "author": "Yve-Alain Bois",
+        "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+        "page": "book pp.494–501; PDF pp.498–505",
+        "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+      }
+    },
+    {
+      "thinker": "Lygia Clark and Hélio Oiticica (as cited by Bois)",
+      "summary": "Vivências is used for life-experiences produced through participatory propositions and embodied encounters.",
+      "source": {
+        "book": "Art Since 1900, third edition",
+        "author": "Yve-Alain Bois",
+        "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+        "page": "book pp.494–501; PDF pp.498–505",
+        "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+      }
+    }
+  ],
+  "related_people": [
+    "person_ferreira_gullar",
+    "person_lygia_clark",
+    "person_helio_oiticica"
+  ],
+  "related_concepts": [
+    "concept_participant_object_relation"
+  ],
+  "related_events": [],
+  "related_art": [
+    "artwork_clark_caminhando_1964",
+    "artwork_oiticica_parangole_p4_cape1_1964",
+    "artwork_pape_divisor_1968"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

@@ -1,0 +1,8 @@
+# Original source collections and temporary render/cache data
+/书/
+/新鬼专栏课件/
+**/_tmp_pdf_read/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

@@ -1,0 +1,56 @@
+{
+  "id": "concept_organic_line_spatialization",
+  "type": "concept",
+  "name": "Organic line and spatialization",
+  "name_zh": "有机线与空间化",
+  "definitions": [
+    {
+      "thinker": "Lygia Clark (quoted by Bois)",
+      "summary": "The organic line is a real spatial line found at boundaries such as collage and frame or doors and windows; it organizes space.",
+      "source": {
+        "book": "Art Since 1900, third edition",
+        "author": "Yve-Alain Bois",
+        "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+        "page": "book pp.494–501; PDF pp.498–505",
+        "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+      }
+    },
+    {
+      "thinker": "Yve-Alain Bois",
+      "summary": "Spatialization names the Neoconcretists’ shared movement from geometric plane toward phenomenal space and bodily encounter.",
+      "source": {
+        "book": "Art Since 1900, third edition",
+        "author": "Yve-Alain Bois",
+        "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+        "page": "book pp.494–501; PDF pp.498–505",
+        "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+      }
+    }
+  ],
+  "related_people": [
+    "person_lygia_clark"
+  ],
+  "related_concepts": [
+    "concept_neoconcrete_quasi_corpus"
+  ],
+  "related_events": [
+    "event_neoconcrete_manifesto_first_exhibition_1959"
+  ],
+  "related_art": [
+    "artwork_clark_modulated_surfaces_1957",
+    "artwork_clark_cocoon_1959"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

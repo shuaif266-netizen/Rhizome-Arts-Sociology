@@ -1,0 +1,30 @@
+{
+  "concepts": [
+    "concept_social_type_counterportrait"
+  ],
+  "sources": [
+    {
+      "author": "Benjamin H. D. Buchloh",
+      "book": "Art Since 1900, third edition",
+      "location": "sections on magazine design, documentary photography and counterportraits; figures 1–6",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "chapter": "1959d: New York School photography"
+    }
+  ],
+  "related_art": [],
+  "fields": [
+    "photography",
+    "portraiture"
+  ],
+  "id": "person_diane_arbus",
+  "type": "person",
+  "name_zh": "",
+  "related_events": [],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "aliases": [],
+  "name": "Diane Arbus",
+  "last_updated": "2026-09-21"
+}

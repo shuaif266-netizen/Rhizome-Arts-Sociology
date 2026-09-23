@@ -1,0 +1,46 @@
+{
+  "name_zh": "明星主体与商品摄影",
+  "name": "Star subject and commodity photography",
+  "related_art": [
+    "artwork_avedon_observations_1959",
+    "artwork_brodovitch_ballet_1945"
+  ],
+  "related_events": [
+    "event_family_of_man_1955"
+  ],
+  "id": "concept_star_subject_commodity_photography",
+  "definitions": [
+    {
+      "thinker": "Benjamin H. D. Buchloh",
+      "summary": "Buchloh把Avedon/Penn的战后摄影与明星主体、时尚广告、摄影师品牌及商品美学联系起来。",
+      "source": {
+        "location": "magazine design, documentary photography, counterportrait; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959d: New York School photography",
+        "page": "book pp.488–493; PDF pp.492–497",
+        "author": "Benjamin H. D. Buchloh"
+      }
+    }
+  ],
+  "related_people": [
+    "person_benjamin_buchloh",
+    "person_alexey_brodovitch",
+    "person_richard_avedon",
+    "person_irving_penn"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "magazine design, documentary photography, counterportrait; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "author": "Benjamin H. D. Buchloh"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

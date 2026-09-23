@@ -1,0 +1,30 @@
+{
+  "id": "artwork_avedon_observations_1959",
+  "type": "artwork",
+  "name": "Observations",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_richard_avedon"
+  ],
+  "date_text": "1959",
+  "medium": "Photobook; comments by Truman Capote",
+  "description": "Buchloh discusses celebrity portraiture, white backgrounds, contact-sheet markings, and photographer branding.",
+  "related_concepts": [
+    "concept_star_subject_commodity_photography"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

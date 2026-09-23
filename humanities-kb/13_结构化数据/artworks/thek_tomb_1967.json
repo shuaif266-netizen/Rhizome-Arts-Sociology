@@ -1,0 +1,11 @@
+{
+  "id": "artwork_thek_tomb_1967",
+  "type": "artwork",
+  "name": "The Tomb",
+  "name_zh": "泰克《坟墓》",
+  "aliases": [],
+  "artist_ids": [
+    "person_paul_thek"
+  ],
+  "date_text": "1967"
+}

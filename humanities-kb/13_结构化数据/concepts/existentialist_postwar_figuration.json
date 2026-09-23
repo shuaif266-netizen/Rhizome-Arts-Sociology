@@ -1,0 +1,51 @@
+{
+  "name_zh": "存在主义美学与战后具象",
+  "name": "Existentialist aesthetics and postwar figuration",
+  "related_art": [
+    "artwork_giacometti_femme_debout_leoni_1947",
+    "artwork_giacometti_trois_hommes_qui_marchent_1948",
+    "artwork_bacon_study_after_velazquez_pope_1953",
+    "artwork_de_kooning_woman_1953"
+  ],
+  "related_events": [
+    "event_new_images_of_man_1959"
+  ],
+  "id": "concept_existentialist_postwar_figuration",
+  "definitions": [
+    {
+      "thinker": "Rosalind Krauss",
+      "summary": "Krauss分析1959年展览如何把多种战后具象实践统摄为存在主义现实主义，同时指出这些实践在孤立、行动、污损、重复等方面并不相同。",
+      "source": {
+        "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959c: Postwar figuration",
+        "page": "book pp.483–487; PDF pp.487–491",
+        "author": "Rosalind Krauss"
+      }
+    }
+  ],
+  "related_people": [
+    "person_rosalind_krauss",
+    "person_jean_paul_sartre",
+    "person_alberto_giacometti",
+    "person_francis_ponge",
+    "person_jean_dubuffet",
+    "person_francis_bacon",
+    "person_willem_de_kooning"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "author": "Rosalind Krauss"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

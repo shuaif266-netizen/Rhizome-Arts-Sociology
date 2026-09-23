@@ -1,0 +1,36 @@
+{
+  "aliases": [],
+  "name": "West Coast assemblage",
+  "related_events": [],
+  "description": "1959b条目以Conner、Berman、Kienholz等为例讨论西海岸组装实践；数据层不据此推断其为有正式成员制度的组织。",
+  "type": "movement",
+  "key_figures_discussed": [
+    "person_bruce_conner",
+    "person_wallace_berman",
+    "person_edward_kienholz"
+  ],
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "last_updated": "2026-09-21",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "fields": [],
+  "name_zh": "美国西海岸组装艺术",
+  "related_people": [
+    "person_bruce_conner",
+    "person_wallace_berman",
+    "person_edward_kienholz"
+  ],
+  "id": "movement_west_coast_assemblage",
+  "sources": [
+    {
+      "location": "Berman, Conner and Kienholz discussion; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "author": "Yve-Alain Bois"
+    }
+  ]
+}

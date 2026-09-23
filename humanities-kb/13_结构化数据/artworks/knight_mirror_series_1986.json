@@ -1,0 +1,11 @@
+{
+  "id": "artwork_knight_mirror_series_1986",
+  "type": "artwork",
+  "name": "Mirror series",
+  "name_zh": "奈特《镜子系列》",
+  "aliases": [],
+  "artist_ids": [
+    "person_john_knight"
+  ],
+  "date_text": "1986"
+}

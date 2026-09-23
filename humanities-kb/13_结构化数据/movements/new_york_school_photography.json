@@ -1,0 +1,50 @@
+{
+  "aliases": [],
+  "name": "New York School photography",
+  "related_events": [],
+  "description": "1959d章节标题和批评分类。Buchloh区分广告/明星主体与社会纪实、反肖像等路径；本实体表示章节中的分类框架，不宣称成员共享宣言。",
+  "type": "movement",
+  "key_figures_discussed": [
+    "person_alexey_brodovitch",
+    "person_richard_avedon",
+    "person_irving_penn",
+    "person_helen_levitt",
+    "person_roy_decarava",
+    "person_lisette_model",
+    "person_weegee",
+    "person_robert_frank",
+    "person_diane_arbus"
+  ],
+  "related_concepts": [
+    "concept_star_subject_commodity_photography",
+    "concept_social_documentary_postwar",
+    "concept_counterportrait"
+  ],
+  "last_updated": "2026-09-21",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "fields": [],
+  "name_zh": "纽约摄影学派",
+  "related_people": [
+    "person_alexey_brodovitch",
+    "person_richard_avedon",
+    "person_irving_penn",
+    "person_helen_levitt",
+    "person_roy_decarava",
+    "person_lisette_model",
+    "person_weegee",
+    "person_robert_frank",
+    "person_diane_arbus"
+  ],
+  "id": "movement_new_york_school_photography",
+  "sources": [
+    {
+      "location": "magazine design, documentary photography, counterportrait; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "author": "Benjamin H. D. Buchloh"
+    }
+  ]
+}

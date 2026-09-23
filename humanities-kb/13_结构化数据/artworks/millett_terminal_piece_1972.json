@@ -1,0 +1,11 @@
+{
+  "id": "artwork_millett_terminal_piece_1972",
+  "type": "artwork",
+  "name": "Terminal Piece",
+  "name_zh": "米利特《终端作品》",
+  "aliases": [],
+  "artist_ids": [
+    "person_kate_millett"
+  ],
+  "date_text": "1972"
+}

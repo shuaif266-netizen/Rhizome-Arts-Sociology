@@ -1,0 +1,11 @@
+{
+  "id": "artwork_eisenman_drawing_installation_1994",
+  "type": "artwork",
+  "name": "Drawing Installation",
+  "name_zh": "艾森曼《绘画装置》",
+  "aliases": [],
+  "artist_ids": [
+    "person_nicole_eisenman"
+  ],
+  "date_text": "1994"
+}

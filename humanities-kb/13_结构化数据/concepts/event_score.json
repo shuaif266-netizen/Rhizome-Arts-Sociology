@@ -1,0 +1,9 @@
+{
+  "id": "concept_event_score",
+  "type": "concept",
+  "name_zh": "事件分数",
+  "name_en": "event score",
+  "aliases": [
+    "event scores"
+  ]
+}

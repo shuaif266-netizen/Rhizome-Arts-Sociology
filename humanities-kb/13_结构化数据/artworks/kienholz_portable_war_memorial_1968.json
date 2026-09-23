@@ -1,0 +1,30 @@
+{
+  "id": "artwork_kienholz_portable_war_memorial_1968",
+  "type": "artwork",
+  "name": "Portable War Memorial",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_edward_kienholz"
+  ],
+  "date_text": "1968",
+  "medium": "Environmental construction with operating jukebox",
+  "description": "Buchloh describes its accumulation of political symbols and criticizes its force-fed, one-directional message.",
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

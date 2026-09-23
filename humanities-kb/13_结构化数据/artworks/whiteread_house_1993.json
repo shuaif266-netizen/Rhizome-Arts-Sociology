@@ -1,0 +1,11 @@
+{
+  "id": "artwork_whiteread_house_1993",
+  "type": "artwork",
+  "name": "House",
+  "name_zh": "瑞秋·怀特里德《房屋》",
+  "aliases": [],
+  "artist_ids": [
+    "person_rachel_whiteread"
+  ],
+  "date_text": "1993"
+}

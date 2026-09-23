@@ -1,0 +1,11 @@
+{
+  "id": "artwork_smith_trough_1990",
+  "type": "artwork",
+  "name": "Trough",
+  "name_zh": "基基·史密斯《槽》",
+  "aliases": [],
+  "artist_ids": [
+    "person_kiki_smith"
+  ],
+  "date_text": "1990"
+}

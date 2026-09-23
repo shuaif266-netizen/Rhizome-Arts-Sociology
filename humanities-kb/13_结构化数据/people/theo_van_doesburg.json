@@ -1,0 +1,30 @@
+{
+  "id": "person_theo_van_doesburg",
+  "type": "person",
+  "name": "Theo van Doesburg",
+  "name_zh": "",
+  "aliases": [],
+  "fields": [
+    "art",
+    "concrete_art"
+  ],
+  "concepts": [
+    "concept_neoconcrete_quasi_corpus"
+  ],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "related_events": [],
+  "related_art": [],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

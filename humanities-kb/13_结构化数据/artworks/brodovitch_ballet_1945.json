@@ -1,0 +1,30 @@
+{
+  "id": "artwork_brodovitch_ballet_1945",
+  "type": "artwork",
+  "name": "Ballet",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_alexey_brodovitch"
+  ],
+  "date_text": "1945",
+  "medium": "Photobook",
+  "description": "Buchloh reads its cinematic layout and image transformations as a melancholic invocation of elite culture that also anticipates spectacle.",
+  "related_concepts": [
+    "concept_star_subject_commodity_photography"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

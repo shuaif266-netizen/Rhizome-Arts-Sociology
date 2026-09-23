@@ -1,0 +1,31 @@
+{
+  "concepts": [
+    "concept_star_subject_counterportrait",
+    "concept_social_documentary_postwar"
+  ],
+  "sources": [
+    {
+      "author": "Benjamin H. D. Buchloh",
+      "book": "Art Since 1900, third edition",
+      "location": "sections on magazine design, documentary photography and counterportraits; figures 1–6",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "chapter": "1959d: New York School photography"
+    }
+  ],
+  "related_art": [],
+  "fields": [
+    "art_history",
+    "art_criticism"
+  ],
+  "id": "person_benjamin_buchloh",
+  "type": "person",
+  "name_zh": "",
+  "related_events": [],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "aliases": [],
+  "name": "Benjamin H. D. Buchloh",
+  "last_updated": "2026-09-21"
+}

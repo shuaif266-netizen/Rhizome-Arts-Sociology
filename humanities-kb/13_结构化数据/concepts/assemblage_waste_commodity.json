@@ -1,0 +1,47 @@
+{
+  "name_zh": "西海岸组装艺术、废弃物与商品关系",
+  "name": "West Coast assemblage, waste and commodity",
+  "related_art": [
+    "artwork_bruce_conner_child_1959",
+    "artwork_wallace_berman_cross_1956_57",
+    "artwork_kienholz_portable_war_memorial_1968"
+  ],
+  "related_events": [
+    "event_ferus_gallery_search_1957"
+  ],
+  "id": "concept_assemblage_waste_commodity",
+  "definitions": [
+    {
+      "thinker": "Yve-Alain Bois",
+      "summary": "Bois把Conner的旧物、多义性及拾荒者认同与社会废弃物联系，同时指出旧物进入艺术市场后并不自动脱离商品制度。",
+      "source": {
+        "location": "Berman, Conner and Kienholz discussion; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959b: Assemblage",
+        "page": "book pp.477–482; PDF pp.481–486",
+        "author": "Yve-Alain Bois"
+      }
+    }
+  ],
+  "related_people": [
+    "person_yve_alain_bois",
+    "person_bruce_conner",
+    "person_wallace_berman",
+    "person_edward_kienholz"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "Berman, Conner and Kienholz discussion; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "author": "Yve-Alain Bois"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

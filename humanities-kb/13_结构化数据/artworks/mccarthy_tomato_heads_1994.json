@@ -1,0 +1,11 @@
+{
+  "id": "artwork_mccarthy_tomato_heads_1994",
+  "type": "artwork",
+  "name": "Tomato Heads",
+  "name_zh": "保罗·麦卡锡《番茄头》",
+  "aliases": [],
+  "artist_ids": [
+    "person_paul_mccarthy"
+  ],
+  "date_text": "1994"
+}

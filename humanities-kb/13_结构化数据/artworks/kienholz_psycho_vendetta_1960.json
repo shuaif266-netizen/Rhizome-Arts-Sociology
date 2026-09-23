@@ -1,0 +1,30 @@
+{
+  "id": "artwork_kienholz_psycho_vendetta_1960",
+  "type": "artwork",
+  "name": "The Psycho-Vendetta Case",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_edward_kienholz"
+  ],
+  "date_text": "1960",
+  "medium": "Painted wood, canvas, tin cans, and handcuffs",
+  "description": "Buchloh uses it in a critical comparison of Kienholz political allegory with Conner assemblages.",
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

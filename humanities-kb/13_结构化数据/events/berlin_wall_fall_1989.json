@@ -1,0 +1,9 @@
+{
+  "id": "event_berlin_wall_fall_1989",
+  "type": "event",
+  "name_zh": "柏林墙倒塌",
+  "name_en": "Fall of the Berlin Wall",
+  "aliases": [],
+  "date_text": "1989-11",
+  "location": "Berlin"
+}

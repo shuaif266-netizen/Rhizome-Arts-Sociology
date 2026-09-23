@@ -1,0 +1,11 @@
+{
+  "id": "artwork_smith_tale_1992",
+  "type": "artwork",
+  "name": "Tale",
+  "name_zh": "基基·史密斯《故事》",
+  "aliases": [],
+  "artist_ids": [
+    "person_kiki_smith"
+  ],
+  "date_text": "1992"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "topic_assemblage_waste_and_media",
+  "name": "Assemblage, waste and mass media",
+  "name_zh": "组装艺术、废弃物与大众媒介",
+  "summary": "1959b比较Berman、Conner与Kienholz对旧物、媒体图像、社会废弃和商品化的不同处理。",
+  "related_people": [
+    "person_yve_alain_bois",
+    "person_bruce_conner",
+    "person_wallace_berman",
+    "person_edward_kienholz"
+  ],
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "related_events": [
+    "event_ferus_gallery_search_1957"
+  ],
+  "related_art": [
+    "artwork_wallace_berman_cross_1956_57",
+    "artwork_bruce_conner_child_1959",
+    "artwork_kienholz_portable_war_memorial_1968"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "type": "topic"
+}

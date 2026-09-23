@@ -1,0 +1,44 @@
+{
+  "name_zh": "意向性意识与处境",
+  "name": "Intentional consciousness and situation",
+  "related_art": [
+    "artwork_giacometti_femme_debout_leoni_1947",
+    "artwork_giacometti_trois_hommes_qui_marchent_1948"
+  ],
+  "related_events": [
+    "event_new_images_of_man_1959"
+  ],
+  "id": "concept_intentionality_situation",
+  "definitions": [
+    {
+      "thinker": "Jean-Paul Sartre (as summarized by Rosalind Krauss)",
+      "summary": "意识总是朝向对象；主体通过投向世界的计划、行动和具体处境形成，而非先有固定本质。",
+      "source": {
+        "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959c: Postwar figuration",
+        "page": "book pp.483–487; PDF pp.487–491",
+        "author": "Rosalind Krauss"
+      }
+    }
+  ],
+  "related_people": [
+    "person_jean_paul_sartre",
+    "person_edmund_husserl"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "author": "Rosalind Krauss"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

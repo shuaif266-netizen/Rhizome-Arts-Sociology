@@ -1,0 +1,31 @@
+{
+  "id": "artwork_arbus_identical_twins_1967",
+  "type": "artwork",
+  "name": "Identical Twins, Rozel, New Jersey",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_diane_arbus"
+  ],
+  "date_text": "1967",
+  "medium": "Silver-gelatin print",
+  "description": "Figure used in the discussion of Arbus photographic universe of outsiders.",
+  "related_concepts": [
+    "concept_counterportrait",
+    "concept_social_documentary_postwar"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

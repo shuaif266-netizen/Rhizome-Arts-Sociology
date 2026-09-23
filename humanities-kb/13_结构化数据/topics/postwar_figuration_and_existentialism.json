@@ -1,0 +1,38 @@
+{
+  "id": "topic_postwar_figuration_and_existentialism",
+  "name": "Postwar figuration and existentialism",
+  "name_zh": "战后具象与存在主义",
+  "summary": "1959c讨论Sartre式主体、Giacometti、Ponge的竞争性解释，以及New Images of Man展和冷战话语。",
+  "related_people": [
+    "person_rosalind_krauss",
+    "person_jean_paul_sartre",
+    "person_alberto_giacometti",
+    "person_francis_ponge"
+  ],
+  "related_concepts": [
+    "concept_intentionality_situation",
+    "concept_existentialist_postwar_figuration",
+    "concept_cold_war_humanism"
+  ],
+  "related_events": [
+    "event_new_images_of_man_1959"
+  ],
+  "related_art": [
+    "artwork_giacometti_femme_debout_leoni_1947",
+    "artwork_de_kooning_woman_1953"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Rosalind Krauss",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "type": "topic"
+}

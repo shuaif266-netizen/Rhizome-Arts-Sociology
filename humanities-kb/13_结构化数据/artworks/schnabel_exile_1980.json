@@ -1,0 +1,11 @@
+{
+  "id": "artwork_schnabel_exile_1980",
+  "type": "artwork",
+  "name": "Exile",
+  "name_zh": "施纳贝尔《流放》",
+  "aliases": [],
+  "artist_ids": [
+    "person_julian_schnabel"
+  ],
+  "date_text": "1980"
+}

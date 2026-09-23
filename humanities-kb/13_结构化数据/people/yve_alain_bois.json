@@ -1,0 +1,39 @@
+{
+  "concepts": [
+    "concept_assemblage_waste_commodity",
+    "concept_neoconcrete_quasi_corpus",
+    "concept_organic_line_spatialization"
+  ],
+  "sources": [
+    {
+      "author": "Yve-Alain Bois",
+      "book": "Art Since 1900, third edition",
+      "location": "sections on Berman, Conner and Kienholz; figures 1–5",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "chapter": "1959b: Assemblage"
+    },
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "related_art": [],
+  "fields": [
+    "art_history",
+    "art_criticism"
+  ],
+  "id": "person_yve_alain_bois",
+  "type": "person",
+  "name_zh": "",
+  "related_events": [],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "aliases": [],
+  "name": "Yve-Alain Bois",
+  "last_updated": "2026-09-21"
+}

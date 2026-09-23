@@ -1,0 +1,11 @@
+{
+  "id": "artwork_mccarthy_my_doctor_1978",
+  "type": "artwork",
+  "name": "My Doctor",
+  "name_zh": "保罗·麦卡锡《我的医生》",
+  "aliases": [],
+  "artist_ids": [
+    "person_paul_mccarthy"
+  ],
+  "date_text": "1978"
+}

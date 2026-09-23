@@ -1,0 +1,11 @@
+{
+  "id": "artwork_smith_flaming_creatures_1962_63",
+  "type": "artwork",
+  "name": "Flaming Creatures",
+  "name_zh": "史密斯《燃烧的生物》",
+  "aliases": [],
+  "artist_ids": [
+    "person_jack_smith"
+  ],
+  "date_text": "1962–63"
+}

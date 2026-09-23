@@ -1,0 +1,30 @@
+{
+  "id": "artwork_frank_the_americans_1959",
+  "type": "artwork",
+  "name": "The Americans",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_robert_frank"
+  ],
+  "date_text": "1958 Paris edition; 1959 New York edition",
+  "medium": "Photobook",
+  "description": "Buchloh reads the book as social diagnosis that also questions photography transparent access to social relations.",
+  "related_concepts": [
+    "concept_social_documentary_postwar"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

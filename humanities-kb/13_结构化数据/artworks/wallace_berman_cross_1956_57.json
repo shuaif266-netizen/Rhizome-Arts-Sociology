@@ -1,0 +1,32 @@
+{
+  "id": "artwork_wallace_berman_cross_1956_57",
+  "type": "artwork",
+  "name": "Cross",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_wallace_berman"
+  ],
+  "date_text": "1956–57",
+  "medium": "Wood, metal, chain, and photograph",
+  "description": "Buchloh discusses the work in the 1957 Ferus Gallery search narrative; figure caption dates it 1956–57.",
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "related_events": [
+    "event_ferus_gallery_search_1957"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

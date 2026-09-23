@@ -1,0 +1,36 @@
+{
+  "related_people": [
+    "person_edward_steichen",
+    "person_lisette_model",
+    "person_helen_levitt",
+    "person_richard_avedon",
+    "person_diane_arbus",
+    "person_robert_frank"
+  ],
+  "name": "The Family of Man exhibition",
+  "description": "Buchloh将展览作为战后纪实摄影与纽约摄影学派摄影人并置、摄影先锋与大众观众关系重组的节点。",
+  "type": "event",
+  "location": "Museum of Modern Art, New York",
+  "related_art": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "related_concepts": [
+    "concept_social_documentary_postwar",
+    "concept_star_subject_commodity_photography"
+  ],
+  "date_text": "1955",
+  "last_updated": "2026-09-21",
+  "related_movements": [],
+  "name_zh": "《人类一家》摄影展",
+  "id": "event_family_of_man_1955",
+  "sources": [
+    {
+      "location": "magazine design, documentary photography, counterportrait; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "author": "Benjamin H. D. Buchloh"
+    }
+  ]
+}

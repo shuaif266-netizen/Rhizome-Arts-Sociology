@@ -1,0 +1,32 @@
+{
+  "id": "artwork_de_kooning_woman_1953",
+  "type": "artwork",
+  "name": "Woman",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_willem_de_kooning"
+  ],
+  "date_text": "1953",
+  "medium": "Oil and charcoal on paper mounted on canvas",
+  "description": "Krauss reads the repeated media-derived figure as complicating an existentialist model of unique, unrepeatable action.",
+  "related_concepts": [
+    "concept_existentialist_postwar_figuration"
+  ],
+  "related_events": [
+    "event_new_images_of_man_1959"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Rosalind Krauss",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

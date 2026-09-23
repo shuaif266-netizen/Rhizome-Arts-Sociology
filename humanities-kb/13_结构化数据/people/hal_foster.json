@@ -1,0 +1,28 @@
+{
+  "aliases": [],
+  "name": "Hal Foster",
+  "related_events": [],
+  "concepts": [],
+  "type": "person",
+  "related_art": [],
+  "related_people": [],
+  "last_updated": "2026-09-21",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "fields": [
+    "art_history",
+    "art_criticism"
+  ],
+  "name_zh": "",
+  "id": "person_hal_foster",
+  "sources": [
+    {
+      "location": "author listing",
+      "book": "Art Since 1900, third edition",
+      "chapter": "book metadata",
+      "page": "book —; PDF PDF title/copyright pages",
+      "author": "book editors/authors"
+    }
+  ]
+}

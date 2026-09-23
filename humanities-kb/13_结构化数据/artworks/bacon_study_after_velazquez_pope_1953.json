@@ -1,0 +1,32 @@
+{
+  "id": "artwork_bacon_study_after_velazquez_pope_1953",
+  "type": "artwork",
+  "name": "Study after Velazquez Portrait of Pope Innocent X",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_francis_bacon"
+  ],
+  "date_text": "1953",
+  "medium": "Oil on canvas",
+  "description": "Krauss discusses Bacon cage-like isolation, blurred features, and figures overwhelmed by space.",
+  "related_concepts": [
+    "concept_existentialist_postwar_figuration"
+  ],
+  "related_events": [
+    "event_new_images_of_man_1959"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Rosalind Krauss",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

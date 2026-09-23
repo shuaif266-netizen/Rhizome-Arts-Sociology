@@ -1,0 +1,30 @@
+{
+  "concepts": [
+    "concept_existentialist_postwar_figuration"
+  ],
+  "sources": [
+    {
+      "author": "Rosalind Krauss",
+      "book": "Art Since 1900, third edition",
+      "location": "Sartre/Giacometti discussion; Cold War insert; figures 1–4",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "chapter": "1959c: Postwar figuration"
+    }
+  ],
+  "related_art": [],
+  "fields": [
+    "art",
+    "painting"
+  ],
+  "id": "person_francis_bacon",
+  "type": "person",
+  "name_zh": "",
+  "related_events": [],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "aliases": [],
+  "name": "Francis Bacon",
+  "last_updated": "2026-09-21"
+}

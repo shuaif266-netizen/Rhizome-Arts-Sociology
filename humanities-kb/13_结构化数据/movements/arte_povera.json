@@ -1,0 +1,9 @@
+{
+  "id": "movement_arte_povera",
+  "type": "movement",
+  "name_zh": "Arte Povera（贫穷艺术）",
+  "name_en": "Arte Povera",
+  "aliases": [
+    "Poor Art"
+  ]
+}

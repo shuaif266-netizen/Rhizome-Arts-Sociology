@@ -1,0 +1,30 @@
+{
+  "aliases": [],
+  "name": "Walter Hopps",
+  "related_events": [],
+  "concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "type": "person",
+  "related_art": [],
+  "related_people": [],
+  "last_updated": "2026-09-21",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "fields": [
+    "curating",
+    "art_institutions"
+  ],
+  "name_zh": "",
+  "id": "person_walter_hopps",
+  "sources": [
+    {
+      "location": "Berman, Conner and Kienholz discussion; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "author": "Yve-Alain Bois"
+    }
+  ]
+}

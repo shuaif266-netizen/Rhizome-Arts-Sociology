@@ -1,0 +1,54 @@
+{
+  "id": "concept_neoconcrete_quasi_corpus",
+  "type": "concept",
+  "name": "Neoconcrete quasi-corpus and phenomenological work",
+  "name_zh": "新具体主义准身体与现象学作品观",
+  "definitions": [
+    {
+      "thinker": "Manifesto of Neoconcrete Art (as quoted by Bois)",
+      "summary": "A work of art is not a machine or ordinary object but a quasi-corpus, more than the sum of its elements and fully understood through phenomenological means.",
+      "source": {
+        "book": "Art Since 1900, third edition",
+        "author": "Yve-Alain Bois",
+        "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+        "page": "book pp.494–501; PDF pp.498–505",
+        "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+      }
+    },
+    {
+      "thinker": "Yve-Alain Bois",
+      "summary": "The manifesto and movement deliberately rebut a rationalist, scientific reading of geometric abstraction associated in the chapter with Max Bill.",
+      "source": {
+        "book": "Art Since 1900, third edition",
+        "author": "Yve-Alain Bois",
+        "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+        "page": "book pp.494–501; PDF pp.498–505",
+        "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+      }
+    }
+  ],
+  "related_people": [
+    "person_ferreira_gullar",
+    "person_lygia_clark",
+    "person_max_bill",
+    "person_piet_mondrian"
+  ],
+  "related_concepts": [],
+  "related_events": [
+    "event_neoconcrete_manifesto_first_exhibition_1959"
+  ],
+  "related_art": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

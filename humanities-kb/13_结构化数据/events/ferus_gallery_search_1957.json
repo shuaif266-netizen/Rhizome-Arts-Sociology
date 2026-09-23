@@ -1,0 +1,33 @@
+{
+  "related_people": [
+    "person_wallace_berman",
+    "person_walter_hopps"
+  ],
+  "name": "Ferus Gallery search and Wallace Berman arrest",
+  "description": "Bois回述警察搜查Berman在Ferus Gallery的展览，并称之后因Semina刊载的图像逮捕Berman；本记录保留章节归属，外部档案未核。",
+  "type": "event",
+  "location": "Los Angeles, United States",
+  "related_art": [
+    "artwork_wallace_berman_cross_1956_57"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "date_text": "June 1957",
+  "last_updated": "2026-09-21",
+  "related_movements": [],
+  "name_zh": "Ferus Gallery遭搜查与Wallace Berman被捕",
+  "id": "event_ferus_gallery_search_1957",
+  "sources": [
+    {
+      "location": "Berman, Conner and Kienholz discussion; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "author": "Yve-Alain Bois"
+    }
+  ]
+}

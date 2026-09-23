@@ -1,0 +1,30 @@
+{
+  "id": "artwork_bruce_conner_child_1959",
+  "type": "artwork",
+  "name": "Child",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_bruce_conner"
+  ],
+  "date_text": "1959",
+  "medium": "Wax figure, nylon, cloth, metal, twine, and high chair",
+  "description": "Buchloh identifies the assemblage as a protest against capital punishment; his text notes its unusually direct message.",
+  "related_concepts": [
+    "concept_assemblage_waste_commodity"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959b: Assemblage",
+      "page": "book pp.477–482; PDF pp.481–486",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

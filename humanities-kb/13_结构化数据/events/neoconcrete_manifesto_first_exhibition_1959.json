@@ -1,0 +1,37 @@
+{
+  "id": "event_neoconcrete_manifesto_first_exhibition_1959",
+  "type": "event",
+  "name": "First Exhibition of Neoconcrete Art and manifesto publication",
+  "name_zh": "第一届新具体艺术展与宣言发表",
+  "date_text": "March 1959",
+  "location": "Museu de Arte Moderna do Rio de Janeiro; Jornal do Brasil, Rio de Janeiro",
+  "description": "Bois dates the movement’s official launch to the MAM-RJ exhibition and the publication of Gullar’s manifesto as a newspaper spread.",
+  "related_people": [
+    "person_ferreira_gullar",
+    "person_lygia_clark",
+    "person_lygia_pape",
+    "person_amilcar_de_castro",
+    "person_helio_oiticica"
+  ],
+  "related_concepts": [
+    "concept_neoconcrete_quasi_corpus",
+    "concept_organic_line_spatialization"
+  ],
+  "related_movements": [
+    "movement_neoconcretism"
+  ],
+  "related_art": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

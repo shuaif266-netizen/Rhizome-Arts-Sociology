@@ -1,0 +1,11 @@
+{
+  "id": "artwork_miller_dick_jane_1991",
+  "type": "artwork",
+  "name": "Dick/Jane",
+  "name_zh": "约翰·米勒《迪克／简》",
+  "aliases": [],
+  "artist_ids": [
+    "person_john_miller"
+  ],
+  "date_text": "1991"
+}

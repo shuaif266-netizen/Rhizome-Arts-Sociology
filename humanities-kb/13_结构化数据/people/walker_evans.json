@@ -1,0 +1,28 @@
+{
+  "id": "person_walker_evans",
+  "type": "person",
+  "name": "Walker Evans",
+  "name_zh": "",
+  "aliases": [],
+  "fields": [
+    "photography",
+    "documentary_photography"
+  ],
+  "concepts": [],
+  "related_people": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "related_events": [],
+  "related_art": [],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "Brodovitch/design, documentary and portrait discussions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

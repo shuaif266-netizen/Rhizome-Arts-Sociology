@@ -1,0 +1,40 @@
+{
+  "name_zh": "冷战人文主义与现代主义文化外交",
+  "name": "Cold War humanism and modernist cultural diplomacy",
+  "related_art": [],
+  "related_events": [
+    "event_new_images_of_man_1959"
+  ],
+  "id": "concept_cold_war_humanism",
+  "definitions": [
+    {
+      "thinker": "Rosalind Krauss",
+      "summary": "Krauss把Voice of America、文化自由大会、MoMA巡展、Life杂志等放入现代主义艺术的冷战传播语境，并指出存在主义人文主义也可能成为推广口号。",
+      "source": {
+        "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959c: Postwar figuration",
+        "page": "book pp.483–487; PDF pp.487–491",
+        "author": "Rosalind Krauss"
+      }
+    }
+  ],
+  "related_people": [
+    "person_rosalind_krauss"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "author": "Rosalind Krauss"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

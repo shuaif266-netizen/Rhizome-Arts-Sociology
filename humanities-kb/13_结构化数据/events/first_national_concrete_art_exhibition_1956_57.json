@@ -1,0 +1,39 @@
+{
+  "id": "event_first_national_concrete_art_exhibition_1956_57",
+  "type": "event",
+  "name": "First National Exhibition of Concrete Art",
+  "name_zh": "第一届全国具体艺术展",
+  "date_text": "December 1956, São Paulo; January 1957, Rio de Janeiro",
+  "location": "São Paulo and Rio de Janeiro, Brazil",
+  "description": "Bois recounts the two-city exhibition as an attempted federation of concrete artists that instead deepened the split between São Paulo and Rio networks.",
+  "related_people": [
+    "person_waldemar_cordeiro",
+    "person_ferreira_gullar",
+    "person_mario_pedrosa",
+    "person_max_bill",
+    "person_lygia_clark",
+    "person_lygia_pape",
+    "person_helio_oiticica"
+  ],
+  "related_concepts": [
+    "concept_neoconcrete_quasi_corpus"
+  ],
+  "related_movements": [
+    "movement_brazilian_concrete_art",
+    "movement_neoconcretism"
+  ],
+  "related_art": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

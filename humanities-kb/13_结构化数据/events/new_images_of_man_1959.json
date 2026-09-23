@@ -1,0 +1,38 @@
+{
+  "related_people": [
+    "person_alberto_giacometti",
+    "person_jean_dubuffet",
+    "person_francis_bacon",
+    "person_willem_de_kooning"
+  ],
+  "name": "New Images of Man exhibition",
+  "description": "Krauss讨论MoMA展览如何将存在主义话语用于战后具象艺术，并批评其把差异很大的实践置于统一叙事。",
+  "type": "event",
+  "location": "Museum of Modern Art, New York",
+  "related_art": [
+    "artwork_giacometti_femme_debout_leoni_1947",
+    "artwork_bacon_study_after_velazquez_pope_1953",
+    "artwork_de_kooning_woman_1953"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "related_concepts": [
+    "concept_existentialist_postwar_figuration",
+    "concept_cold_war_humanism"
+  ],
+  "date_text": "1959",
+  "last_updated": "2026-09-21",
+  "related_movements": [],
+  "name_zh": "MoMA“New Images of Man”展",
+  "id": "event_new_images_of_man_1959",
+  "sources": [
+    {
+      "location": "Sartre/Giacometti discussion; Cold War insert; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959c: Postwar figuration",
+      "page": "book pp.483–487; PDF pp.487–491",
+      "author": "Rosalind Krauss"
+    }
+  ]
+}

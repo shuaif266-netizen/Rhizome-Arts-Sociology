@@ -1,0 +1,31 @@
+{
+  "id": "artwork_decarava_sweet_flypaper_1955",
+  "type": "artwork",
+  "name": "The Sweet Flypaper of Life",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_roy_decarava",
+    "person_langston_hughes"
+  ],
+  "date_text": "1955",
+  "medium": "Photobook with photographs and first-person narrative",
+  "description": "Buchloh describes the collaboration as centered on a Harlem African American family and narrated from the grandmother perspective.",
+  "related_concepts": [
+    "concept_social_documentary_postwar"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

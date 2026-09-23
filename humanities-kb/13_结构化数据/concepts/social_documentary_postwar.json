@@ -1,0 +1,47 @@
+{
+  "name_zh": "战后社会纪实与主体具体性",
+  "name": "Postwar social documentary and social specificity",
+  "related_art": [
+    "artwork_decarava_sweet_flypaper_1955",
+    "artwork_frank_the_americans_1959"
+  ],
+  "related_events": [
+    "event_family_of_man_1955"
+  ],
+  "id": "concept_social_documentary_postwar",
+  "definitions": [
+    {
+      "thinker": "Benjamin H. D. Buchloh",
+      "summary": "Buchloh对读Levitt、DeCarava/Hughes与Frank，指出纪实摄影仍承载社会诊断，但透明再现和普遍主义受到质疑；具体家庭叙述、社区位置与种族经验提供不同主体位置。",
+      "source": {
+        "location": "magazine design, documentary photography, counterportrait; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959d: New York School photography",
+        "page": "book pp.488–493; PDF pp.492–497",
+        "author": "Benjamin H. D. Buchloh"
+      }
+    }
+  ],
+  "related_people": [
+    "person_benjamin_buchloh",
+    "person_helen_levitt",
+    "person_roy_decarava",
+    "person_langston_hughes",
+    "person_robert_frank"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "magazine design, documentary photography, counterportrait; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "author": "Benjamin H. D. Buchloh"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

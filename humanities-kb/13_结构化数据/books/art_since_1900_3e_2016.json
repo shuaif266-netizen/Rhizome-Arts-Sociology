@@ -1,0 +1,40 @@
+{
+  "related_art": [],
+  "sources": [
+    {
+      "author": "Hal Foster; Rosalind Krauss; Yve-Alain Bois; Benjamin H. D. Buchloh",
+      "book": "Art Since 1900, third edition",
+      "location": "title/copyright information and cited chapters",
+      "page": "PDF pp.1–8; pp.481–497",
+      "chapter": "book metadata and 1959b–d entries"
+    },
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "fields": [
+    "modern_art_history",
+    "art_criticism"
+  ],
+  "authors": [
+    "person_hal_foster",
+    "person_rosalind_krauss",
+    "person_yve_alain_bois",
+    "person_benjamin_buchloh"
+  ],
+  "id": "book_art_since_1900_3e_2016",
+  "type": "book",
+  "related_concepts": [],
+  "publication_year": "2016",
+  "name_zh": "",
+  "related_events": [],
+  "related_people": [],
+  "edition": "Third edition",
+  "aliases": [],
+  "name": "Art Since 1900",
+  "last_updated": "2026-09-21"
+}

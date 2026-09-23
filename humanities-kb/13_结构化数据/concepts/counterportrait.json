@@ -1,0 +1,43 @@
+{
+  "name_zh": "反肖像",
+  "name": "Counterportrait",
+  "related_art": [
+    "artwork_model_sammys_bar_1940",
+    "artwork_arbus_identical_twins_1967"
+  ],
+  "related_events": [],
+  "id": "concept_counterportrait",
+  "definitions": [
+    {
+      "thinker": "Benjamin H. D. Buchloh",
+      "summary": "Buchloh用反肖像描述Model等对街头边缘主体的刻画：不将被摄者美化为风景，而强调其难以被消费奇观完全吸收；他也把Arbus置于这一问题的后续谱系中。",
+      "source": {
+        "location": "magazine design, documentary photography, counterportrait; figure captions",
+        "book": "Art Since 1900, third edition",
+        "chapter": "1959d: New York School photography",
+        "page": "book pp.488–493; PDF pp.492–497",
+        "author": "Benjamin H. D. Buchloh"
+      }
+    }
+  ],
+  "related_people": [
+    "person_benjamin_buchloh",
+    "person_lisette_model",
+    "person_diane_arbus"
+  ],
+  "type": "concept",
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "location": "magazine design, documentary photography, counterportrait; figure captions",
+      "book": "Art Since 1900, third edition",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "author": "Benjamin H. D. Buchloh"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "related_concepts": []
+}

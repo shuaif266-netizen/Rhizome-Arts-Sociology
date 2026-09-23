@@ -1,0 +1,9 @@
+{
+  "id": "concept_specific_object",
+  "type": "concept",
+  "name_zh": "特定物",
+  "name_en": "specific object",
+  "aliases": [
+    "Specific Objects"
+  ]
+}

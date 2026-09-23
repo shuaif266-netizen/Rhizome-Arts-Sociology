@@ -1,0 +1,43 @@
+{
+  "id": "topic_photography_subject_and_mass_culture",
+  "name": "Photography, subjecthood and mass culture",
+  "name_zh": "摄影、主体与大众文化",
+  "summary": "1959d比较商业明星肖像、社会纪实、反肖像和摄影对社会关系的诊断。",
+  "related_people": [
+    "person_benjamin_buchloh",
+    "person_alexey_brodovitch",
+    "person_richard_avedon",
+    "person_irving_penn",
+    "person_roy_decarava",
+    "person_lisette_model",
+    "person_robert_frank",
+    "person_diane_arbus"
+  ],
+  "related_concepts": [
+    "concept_star_subject_commodity_photography",
+    "concept_social_documentary_postwar",
+    "concept_counterportrait"
+  ],
+  "related_events": [
+    "event_family_of_man_1955"
+  ],
+  "related_art": [
+    "artwork_avedon_observations_1959",
+    "artwork_decarava_sweet_flypaper_1955",
+    "artwork_frank_the_americans_1959"
+  ],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Benjamin H. D. Buchloh",
+      "chapter": "1959d: New York School photography",
+      "page": "book pp.488–493; PDF pp.492–497",
+      "location": "text and figure captions"
+    }
+  ],
+  "last_updated": "2026-09-21",
+  "type": "topic"
+}

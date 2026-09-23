@@ -1,0 +1,11 @@
+{
+  "id": "artwork_steinbach_related_and_different_1985",
+  "type": "artwork",
+  "name": "related and different",
+  "name_zh": "斯坦巴赫《相关而不同》",
+  "aliases": [],
+  "artist_ids": [
+    "person_haim_steinbach"
+  ],
+  "date_text": "1985"
+}

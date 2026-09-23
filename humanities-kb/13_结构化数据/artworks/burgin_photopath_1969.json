@@ -1,0 +1,11 @@
+{
+  "id": "artwork_burgin_photopath_1969",
+  "type": "artwork",
+  "name": "Photopath",
+  "name_zh": "伯金《摄影路径》",
+  "aliases": [],
+  "artist_ids": [
+    "person_victor_burgin"
+  ],
+  "date_text": "1969"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "artwork_clark_cocoon_1959",
+  "type": "artwork",
+  "name": "Cocoon",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_lygia_clark"
+  ],
+  "date_text": "1959",
+  "medium": "Partially cut and folded sheet metal; captioned example in nitrocellulose paint on tin",
+  "description": "A folded plane conceals an interior space that the viewer discovers by moving aside.",
+  "related_concepts": [
+    "concept_organic_line_spatialization"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

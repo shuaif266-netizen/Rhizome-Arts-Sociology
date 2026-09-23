@@ -1,0 +1,30 @@
+{
+  "id": "artwork_clark_units_1958",
+  "type": "artwork",
+  "name": "Units",
+  "name_zh": "",
+  "aliases": [],
+  "artist_ids": [
+    "person_lygia_clark"
+  ],
+  "date_text": "1958",
+  "medium": "Small paintings on wood with sunken white lines",
+  "description": "The recessed line acts more like a hinge than a frame and torques the plane, in Bois’s account.",
+  "related_concepts": [
+    "concept_organic_line_spatialization"
+  ],
+  "related_events": [],
+  "related_books": [
+    "book_art_since_1900_3e_2016"
+  ],
+  "sources": [
+    {
+      "book": "Art Since 1900, third edition",
+      "author": "Yve-Alain Bois",
+      "chapter": "1959e: The Manifesto of Neoconcrete Art is published",
+      "page": "book pp.494–501; PDF pp.498–505",
+      "location": "concrete-art exhibition history, manifesto, Clark, Oiticica and Pape; figures 1–8"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
