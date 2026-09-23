@@ -1,7 +1,9 @@
 {
   "id": "person_fredric_jameson",
   "type": "person",
-  "name_zh": "",
+  "name_zh": "弗雷德里克·詹姆逊",
   "name_en": "Fredric Jameson",
-  "aliases": []
+  "aliases": [
+    "詹姆逊"
+  ]
 }
