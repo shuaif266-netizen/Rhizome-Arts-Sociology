@@ -1,0 +1,12 @@
+{
+  "id": "event_french_may_1968",
+  "type": "event",
+  "name_zh": "法国五月风暴",
+  "name_en": "May 1968 in France",
+  "aliases": [
+    "法国五月事件",
+    "May '68"
+  ],
+  "date_text": "May 1968",
+  "location": "France"
+}
