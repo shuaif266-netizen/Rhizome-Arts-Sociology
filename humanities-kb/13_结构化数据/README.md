@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-22已累计1119个实体、1330条关系；1209条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-23已累计1144个实体、1351条关系；其中1230条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 
 ## 目录
 
@@ -260,3 +260,5 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 2010a“Chinese contemporary art”（David Joselit，书内pp.824–829 / PDF pp.828–833）新增28条verified关系，来源指向章节页码和图注。
 
 - 2010b“The avatar as artistic strategy”（David Joselit，书内pp.830–835 / PDF pp.834–839）新增26条verified关系，来源指向章节页码和图注。
+
+- Hal Foster, “2015: The new museums of art,” book pp.836–841 / PDF pp.840–845：新增来源限定人物、作品、事件与概念；仅纳入有明确章节页码的关系。历史旧关系保持原样。
