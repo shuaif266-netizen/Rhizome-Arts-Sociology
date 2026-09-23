@@ -127,3 +127,5 @@
 | 834–839 | 2010b：The avatar as artistic strategy（David Joselit） | 已读正文、六幅图版、图注及Further reading；PDF p.840为2015时间轴页 | 830–835 |
 
 | 840–845 | 2015：The new museums of art（Hal Foster） | 已读正文、7幅图注及Further Reading书目；PDF p.846为过渡页 | 836–841 |
+
+| 847–858 | 2015圆桌：The predicament of contemporary art | 已核读；原始讨论于2003-12，Joselit补充于2010-09 | 843–854 |
