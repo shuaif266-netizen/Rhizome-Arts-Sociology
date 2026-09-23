@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-23已累计1210个实体、1440条关系；其中1319条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-24已累计1222个实体、1455条关系；其中1334条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -277,3 +277,9 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 用户上传05（43页）与06（35页）已逐页视觉核读；课程以Hjelmslev为核心，但未提供完整原著出处，故结构化关系标记为课件来源限定。
 - 新增轻量实体：Louis Hjelmslev、Mohamed Bourouissa、Taryn Simon，表达／内容平面、形式／实体／质料、过程／系统、依从关系，Hjelmslev专题，以及《R.I.P》《Shoplifters》《Paperwork, and the Will of Capital》《Blind Spot》等作品节点。
 - 新增17条verified关系，优先记录理论概念、作品归属及课程实际用于分析的案例关系；未把艺术家与Hjelmslev之间写成影响关系。
+
+### 2026-09-24：《20世纪60年代西方文化运动》
+
+- 整本101页扫描PDF已逐页视觉核读；新增1个book、4个人物、4个事件、2个movement与1个topic轻量实体，共12个实体。
+- 新增15条verified关系，主要记录“本书讨论哪些事件／人物／运动”及少量来源明确的关系；不把通俗叙事中的强因果或遇刺阴谋说法写入图谱。
+- Markdown保留详细论证、书内页码／PDF页码、跨书互读和证据边界。
