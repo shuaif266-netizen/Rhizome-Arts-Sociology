@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-23已累计1198个实体、1423条关系；其中1302条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-23已累计1210个实体、1440条关系；其中1319条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 
 ## 目录
 
@@ -272,3 +272,9 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 用户上传《当代艺术摄影与符号学》前言PDF pp.1–16已逐页视觉核读；作者和完整书目信息未在片段中确认。
 - 新增轻量实体：`topic_contemporary_art_photography_semiotics`、`concept_anti_semiotics_image_as_subject`。
 - 新增3条verified关系，只记录本片段明确支持的“当代艺术摄影—符号学”“当代艺术摄影—反符号学”及Galton复合肖像案例；更大的类型学／政治史解释留在Markdown并标为待核。
+
+### 2026-09-23：当代艺术摄影与符号学05–06（叶尔姆斯列夫）
+
+- 用户上传05（43页）与06（35页）已逐页视觉核读；课程以Hjelmslev为核心，但未提供完整原著出处，故结构化关系标记为课件来源限定。
+- 新增轻量实体：Louis Hjelmslev、Mohamed Bourouissa、Taryn Simon，表达／内容平面、形式／实体／质料、过程／系统、依从关系，Hjelmslev专题，以及《R.I.P》《Shoplifters》《Paperwork, and the Will of Capital》《Blind Spot》等作品节点。
+- 新增17条verified关系，优先记录理论概念、作品归属及课程实际用于分析的案例关系；未把艺术家与Hjelmslev之间写成影响关系。
