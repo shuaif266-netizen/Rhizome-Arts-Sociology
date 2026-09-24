@@ -161,6 +161,27 @@
       "chapter": "VIB Modernist Art",
       "page": "book pp.762–802; PDF pp.790–830",
       "location": "selections 1–11 complete; selection 12 Stanley Cavell read through book p.802 / PDF p.830"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIB Modernist Art",
+      "page": "book pp.762–810; PDF pp.790–838",
+      "location": "all fourteen selections; PDF p.839 is the Part VII title page and p.840 is blank"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VII Introduction: Institutions and Objections",
+      "page": "book pp.813–817; PDF pp.841–845",
+      "location": "editorial framing of modernist authority, objecthood, materialism, context, 1968 and critical theory"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIIA Objecthood and Reductivism",
+      "page": "book pp.818–861; PDF pp.846–889",
+      "location": "selections 1–12 complete; selection 13 editor introduction read, author text not yet read"
     }
   ],
   "fields": [
@@ -290,6 +311,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "830",
-  "last_read_book_page": "802"
+  "last_read_pdf_page": "889",
+  "last_read_book_page": "861"
 }
