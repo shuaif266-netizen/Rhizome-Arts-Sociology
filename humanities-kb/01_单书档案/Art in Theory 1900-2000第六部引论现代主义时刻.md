@@ -22,4 +22,4 @@
 
 ## 下一步
 
-接续VIA第7篇Allan Kaprow《集会、环境与偶发艺术》节选，已读至书内p.718 / PDF p.746，下一页书内p.719 / PDF p.747。见[VIA札记](Art%20in%20Theory%201900-2000第六部VIA艺术与现代生活.md)。
+VIA第1–13篇已读完；第14篇Jasper Johns与David Sylvester访谈读至书内p.738 / PDF p.766，下一页书内p.739 / PDF p.767。见[VIA札记](Art%20in%20Theory%201900-2000第六部VIA艺术与现代生活.md)。

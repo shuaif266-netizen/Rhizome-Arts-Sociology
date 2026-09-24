@@ -152,8 +152,8 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VIA Art and Modern Life",
-      "page": "book pp.693–718; PDF pp.721–746",
-      "location": "selections 1–6 complete; selection 7 Kaprow read through book p.718 / PDF p.746"
+      "page": "book pp.693–738; PDF pp.721–766",
+      "location": "selections 1–13 complete; selection 14 Jasper Johns read through book p.738 / PDF p.766"
     }
   ],
   "fields": [
@@ -272,6 +272,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "746",
-  "last_read_book_page": "718"
+  "last_read_pdf_page": "766",
+  "last_read_book_page": "738"
 }
