@@ -19,3 +19,9 @@ Yve-Alain Bois, “1915: Malevich and Suprematist painting,” book pp.142–146
 ## 新增阅读记录（1928a）
 
 Bois提到Strzeminski与Kobro曾在Malevich主持的Svomas学习，并继续联系其Unovis学校；柏林俄国艺术展也展示了Malevich及学生的Suprematist实践。Strzeminski继承其构成主义/抽象问题，却批评多数动态Suprematist构图仍含先验、巴洛克式图形组织。来源：Yve-Alain Bois, “1928a,” book pp.264–266 / PDF pp.268–270。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《从立体主义与未来主义到至上主义》把速度经验视为迈向绘画非客体创造的过渡，并主张色彩和画面形式从再现任务中独立出来。“新现实主义”在此是宣言性的绘画理论定义。
+
+**来源**：Art in Theory 1900–2000, second edition，IIA “Modernity”，书内pp.173–183 / PDF pp.201–211。

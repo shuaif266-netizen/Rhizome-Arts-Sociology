@@ -11,3 +11,10 @@ Boccioni的《空间连续性的独特形式》将运动痕迹放入静态雕塑
 ## 来源
 
 Buchloh/Krauss, “1909,” *Art Since 1900*, 3rd ed., book pp.104–107 / PDF pp.108–111.
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+波丘尼等人的《未来主义绘画：技术宣言》要求绘画表现动态感觉、移动视点和都市环境中感知的叠加，而非固定瞬间。此为本书所收的1910年宣言立场。
+
+**来源**：Art in Theory 1900–2000, second edition，IIA “Modernity”，书内pp.150–152 / PDF pp.178–180。

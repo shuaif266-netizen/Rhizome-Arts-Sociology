@@ -13,3 +13,10 @@ Hal Foster把Marc与Blaue Reiter及Worringer“抽象/移情”理论联系起�
 ## 来源
 
 Hal Foster, “1908,” *Art Since 1900*, 3rd ed., book pp.97–100 / PDF pp.101–104.
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《青骑士》计划第二卷序言以与过去断裂、进入新生时代为核心问题。编者指出，战前先锋派的“原始主义”语气在一战前夕呈现出更阴暗的危机感。
+
+**来源**：Art in Theory 1900–2000, second edition，IIA “Modernity”，书内pp.158–159 / PDF pp.186–187。

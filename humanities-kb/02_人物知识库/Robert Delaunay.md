@@ -11,3 +11,10 @@ Delaunay以“Windows”系列、Simultanéisme及《圆盘》发展色彩/光�
 ## 来源
 
 Hal Foster, “1913,” *Art Since 1900*, 3rd ed., book pp.133–135 / PDF pp.137–139.
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《纯粹绘画中的现实建构》把同时色彩对比和光的组织作为绘画表达现实的核心方式；绘画主题被解释为塑性关系，而非文学叙事。
+
+**来源**：Art in Theory 1900–2000, second edition，IIA “Modernity”，书内pp.152–154 / PDF pp.181–182。
