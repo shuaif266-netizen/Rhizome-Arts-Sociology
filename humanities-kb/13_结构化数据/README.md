@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-25已累计1330个实体、1608条关系；其中1487条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-25已累计1336个实体、1618条关系；其中1497条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -18,6 +18,12 @@
 - relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
 - 来源优先包含书名、章节作者、章节标题、书内页码、PDF页码和可定位段落/图注。
 - Markdown档案仍是主要的人类可读记录；结构化实体与关系不得替代、覆盖或削弱原笔记。
+
+### 2026-09-25：《艺术的法则》整本阅读
+
+- 新增1个书籍实体、5个概念实体及10条带来源关系；复用既有文化资本实体。
+- 关系包括作者与书、正文概念关系，以及与《历史资本主义》《开放社会科学》《Art Since 1900》的跨书比较；跨书记录标注为解释，不归为布迪厄原话。
+- JSON/JSONL解析、关系端点与重复三元组核验通过；整本论证和阅读位置见单书档案。
 
 ## 文件状态
 

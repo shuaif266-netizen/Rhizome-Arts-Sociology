@@ -1,0 +1,17 @@
+{
+  "id": "book_the_rules_of_art_bourdieu_zh",
+  "type": "book",
+  "name_zh": "《艺术的法则：文学场的生成与结构》",
+  "name_en": "The Rules of Art: Genesis and Structure of the Literary Field",
+  "aliases": [
+    "《艺术的法则》",
+    "后现代书系·艺术的法则：文学场的生成与结构（新修订本）",
+    "The Rules of Art"
+  ],
+  "author_id": "person_pierre_bourdieu",
+  "edition": "EPUB包内题名含“新修订本”；版次未独立核实",
+  "publication_year": "",
+  "publisher": "中央编译出版社（EPUB元数据字段；未由版权页独立核实）",
+  "local_source_status": "完整阅读EPUB的11个阅读序列项：前言、目录、正文三部分、补充篇、后记及两份索引；未上传原始EPUB。",
+  "source_locator": "EPUB各文件段、章节标题和纯文本字符位置；文件无可用印刷页分页标记。"
+}
