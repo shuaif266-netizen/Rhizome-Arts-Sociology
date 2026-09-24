@@ -47,4 +47,4 @@
 
 ## 下一步
 
-VB已读完。接续VC“Art and Society”，目前已读至书内p.677 / PDF p.705，第19篇Henry Moore的编者引言尚未读完；下一页为书内p.678 / PDF p.706。全书状态见[整本阅读档案](Art%20in%20Theory%201900-2000整本阅读档案.md)。
+VB已读完。VC“Art and Society”也已读完；第六部引论已读完，VIA第1–6篇已完成，第7篇Kaprow节选读至书内p.718 / PDF p.746，下一页p.719 / PDF p.747。全书状态见[整本阅读档案](Art%20in%20Theory%201900-2000整本阅读档案.md)。

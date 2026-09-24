@@ -138,8 +138,22 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VC Art and Society",
-      "page": "book pp.640–677; PDF pp.668–705",
-      "location": "selections 1–18 read; selection 19 editorial introduction begun at book p.677 / PDF p.705; next page p.678 / PDF p.706"
+      "page": "book pp.640–686; PDF pp.668–714",
+      "location": "all 21 selections; PDF p.715 is the Part VI divider and p.716 is blank"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VI Introduction: The Moment of Modernism",
+      "page": "book pp.689–692; PDF pp.717–720",
+      "location": "editorial framing of modernity, mass culture and medium-specific autonomy"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIA Art and Modern Life",
+      "page": "book pp.693–718; PDF pp.721–746",
+      "location": "selections 1–6 complete; selection 7 Kaprow read through book p.718 / PDF p.746"
     }
   ],
   "fields": [
@@ -164,7 +178,10 @@
     "concept_nonobjective_art_and_suprematism",
     "concept_speed_city_modern_visuality",
     "concept_existentialist_postwar_figuration",
-    "concept_art_brut_cultural_art_and_classification"
+    "concept_art_brut_cultural_art_and_classification",
+    "concept_semiology_semiotics",
+    "concept_spectacle",
+    "concept_postcolonial_discourse"
   ],
   "publication_year": "2002",
   "name_zh": "《1900—2000年的艺术理论：观念变迁选集》（暂译）",
@@ -238,7 +255,11 @@
     "person_jean_dubuffet",
     "person_jacques_lacan",
     "person_georg_baselitz",
-    "person_francis_bacon"
+    "person_francis_bacon",
+    "person_roland_barthes",
+    "person_frantz_fanon",
+    "person_allan_kaprow",
+    "person_guy_debord"
   ],
   "edition": "Second edition",
   "aliases": [
@@ -251,6 +272,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "705",
-  "last_read_book_page": "677"
+  "last_read_pdf_page": "746",
+  "last_read_book_page": "718"
 }

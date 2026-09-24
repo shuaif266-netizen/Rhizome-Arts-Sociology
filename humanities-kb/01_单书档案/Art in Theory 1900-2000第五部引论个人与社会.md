@@ -19,4 +19,4 @@
 
 ## 下一步
 
-VA“美国先锋艺术”与VB“Individualism in Europe”均已读完；VC第1–18篇已读完，第19篇Henry Moore的编者引言读至书内p.677 / PDF p.705，下一页p.678 / PDF p.706。详见[VC阶段札记](Art%20in%20Theory%201900-2000第五部VC艺术与社会.md)。
+VA“美国先锋艺术”、VB“Individualism in Europe”和VC“Art and Society”均已读完。第六部引论也已读完；VIA第一篇Barthes节选读至书内p.695 / PDF p.723，下一页p.696 / PDF p.724。详见[VC札记](Art%20in%20Theory%201900-2000第五部VC艺术与社会.md)和[第六部引论札记](Art%20in%20Theory%201900-2000第六部引论现代主义时刻.md)。
