@@ -201,8 +201,22 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VIID Critical Revisions",
-      "page": "book pp.944–999; PDF pp.972–1027",
-      "location": "selections 1–12 complete; selection 13 Fredric Jameson editor introduction and opening read"
+      "page": "book pp.944–1009; PDF pp.972–1037",
+      "location": "all fifteen selections, from Derrida through Edward Said"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIII Introduction: Ideas of the Postmodern",
+      "page": "book pp.1013–1017; PDF pp.1041–1045",
+      "location": "editorial framing; PDF pp.1038–1040 are blank/divider/blank"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIIIA The Critique of Originality",
+      "page": "book pp.1018–1027; PDF pp.1046–1055",
+      "location": "selections 1–2 complete; selection 3 Craig Owens read through book p.1027 / PDF p.1055"
     }
   ],
   "fields": [
@@ -332,6 +346,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "1027",
-  "last_read_book_page": "999"
+  "last_read_pdf_page": "1055",
+  "last_read_book_page": "1027"
 }
