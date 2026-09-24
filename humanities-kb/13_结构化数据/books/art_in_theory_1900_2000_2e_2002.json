@@ -152,8 +152,15 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VIA Art and Modern Life",
-      "page": "book pp.693–738; PDF pp.721–766",
-      "location": "selections 1–13 complete; selection 14 Jasper Johns read through book p.738 / PDF p.766"
+      "page": "book pp.693–761; PDF pp.721–789",
+      "location": "all 23 selections read"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIB Modernist Art",
+      "page": "book pp.762–802; PDF pp.790–830",
+      "location": "selections 1–11 complete; selection 12 Stanley Cavell read through book p.802 / PDF p.830"
     }
   ],
   "fields": [
@@ -181,7 +188,12 @@
     "concept_art_brut_cultural_art_and_classification",
     "concept_semiology_semiotics",
     "concept_spectacle",
-    "concept_postcolonial_discourse"
+    "concept_postcolonial_discourse",
+    "concept_mass_subjectivity",
+    "concept_media_as_extension",
+    "concept_mediation_of_history",
+    "concept_medium_specificity_self_criticism",
+    "concept_artistic_autonomy_and_integrated_spectacle"
   ],
   "publication_year": "2002",
   "name_zh": "《1900—2000年的艺术理论：观念变迁选集》（暂译）",
@@ -259,7 +271,13 @@
     "person_roland_barthes",
     "person_frantz_fanon",
     "person_allan_kaprow",
-    "person_guy_debord"
+    "person_guy_debord",
+    "person_andy_warhol",
+    "person_marshall_mcluhan",
+    "person_gerhard_richter",
+    "person_clement_greenberg",
+    "person_theodor_adorno",
+    "person_michael_fried"
   ],
   "edition": "Second edition",
   "aliases": [
@@ -272,6 +290,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "766",
-  "last_read_book_page": "738"
+  "last_read_pdf_page": "830",
+  "last_read_book_page": "802"
 }

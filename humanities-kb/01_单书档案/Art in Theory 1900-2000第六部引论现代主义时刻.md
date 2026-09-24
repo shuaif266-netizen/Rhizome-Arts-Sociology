@@ -22,4 +22,4 @@
 
 ## 下一步
 
-VIA第1–13篇已读完；第14篇Jasper Johns与David Sylvester访谈读至书内p.738 / PDF p.766，下一页书内p.739 / PDF p.767。见[VIA札记](Art%20in%20Theory%201900-2000第六部VIA艺术与现代生活.md)。
+VIA第1–20篇已读完；第21篇Richter札记读至书内p.758 / PDF p.786，下一页书内p.759 / PDF p.787。见[VIA札记](Art%20in%20Theory%201900-2000第六部VIA艺术与现代生活.md)。
