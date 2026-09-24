@@ -1,0 +1,31 @@
+{
+  "id": "concept_art_brut_cultural_art_and_classification",
+  "type": "concept",
+  "name_zh": "Art Brut、文化艺术与艺术分类权力",
+  "name_en": "Art Brut, cultural art, and classificatory power",
+  "aliases": [
+    "Art Brut",
+    "粗野艺术",
+    "文化艺术"
+  ],
+  "definitions": [
+    {
+      "thinker": "Jean Dubuffet",
+      "summary": "杜布菲以Art Brut批评职业艺术体制和学院分类，强调非专业创作者的发明能力；“非文化”“疯狂”等类别是其历史性论战用语，不作为医学事实。",
+      "source": {
+        "book": "Art in Theory 1900–2000, 2nd edition",
+        "author": "Jean Dubuffet",
+        "chapter": "VB Individualism in Europe, texts 3–4",
+        "page": "book pp.603–608; PDF pp.631–636",
+        "location": "“Notes for the Well-Lettered”; “Crude Art Preferred to Cultural Art”"
+      }
+    }
+  ],
+  "related_books": [
+    "book_art_in_theory_1900_2000_2e_2002"
+  ],
+  "related_people": [
+    "person_jean_dubuffet"
+  ],
+  "last_updated": "2026-09-24"
+}

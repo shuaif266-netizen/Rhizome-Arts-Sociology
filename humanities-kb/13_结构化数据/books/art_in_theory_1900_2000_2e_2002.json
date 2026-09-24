@@ -91,6 +91,55 @@
       "chapter": "IVA The Modern as Ideal",
       "page": "book pp.362–389 / PDF pp.390–417",
       "location": "Klee through Mondrian, with Mondrian selection in progress"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IVB Realism as Figuration",
+      "page": "book pp.402–441; PDF pp.430–469",
+      "location": "20 selections"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IVC Realism as Critique",
+      "page": "book pp.442–505; PDF pp.470–533",
+      "location": "19 selections"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IVD Modernism as Critique",
+      "page": "book pp.506–553; PDF pp.534–581",
+      "location": "12 selections"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "V Introduction: The Individual and the Social",
+      "page": "book pp.557–561; PDF pp.585–589",
+      "location": "editorial framing"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VA The American Avant-Garde",
+      "page": "book pp.562–594; PDF pp.590–622",
+      "location": "17 selections"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VB Individualism in Europe",
+      "page": "book pp.595–639; PDF pp.623–667",
+      "location": "14 selections"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VC Art and Society",
+      "page": "book pp.640–677; PDF pp.668–705",
+      "location": "selections 1–18 read; selection 19 editorial introduction begun at book p.677 / PDF p.705; next page p.678 / PDF p.706"
     }
   ],
   "fields": [
@@ -113,7 +162,9 @@
     "concept_estrangement",
     "concept_metropolitan_modernity_and_blase_attitude",
     "concept_nonobjective_art_and_suprematism",
-    "concept_speed_city_modern_visuality"
+    "concept_speed_city_modern_visuality",
+    "concept_existentialist_postwar_figuration",
+    "concept_art_brut_cultural_art_and_classification"
   ],
   "publication_year": "2002",
   "name_zh": "《1900—2000年的艺术理论：观念变迁选集》（暂译）",
@@ -182,7 +233,12 @@
     "person_vladimir_ilyich_lenin",
     "person_vladimir_tatlin",
     "person_walter_gropius",
-    "person_wladyslaw_strzeminski"
+    "person_wladyslaw_strzeminski",
+    "person_jean_paul_sartre",
+    "person_jean_dubuffet",
+    "person_jacques_lacan",
+    "person_georg_baselitz",
+    "person_francis_bacon"
   ],
   "edition": "Second edition",
   "aliases": [
@@ -195,6 +251,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "417",
-  "last_read_book_page": "389"
+  "last_read_pdf_page": "705",
+  "last_read_book_page": "677"
 }

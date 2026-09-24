@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-24已累计1244个实体、1485条关系；其中1364条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-24已累计1320个实体、1589条关系；其中1468条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -38,6 +38,7 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新关系类型优先复用既有词表。确需细分时可增少量精确词，如organized、launched、negotiates、repositions；不得为同义关系重复造词。
 
 新增章节来源：
+- *Art in Theory 1900–2000*, 2nd edition, Parts IVB–IVD and Part V Introduction/VA–VB; VC selections 1–18, book pp.402–677 / PDF pp.430–705, plus the start of selection 19's editorial introduction. Added a source-backed Art Brut concept and two new verified relations; with an earlier relation, three book-to-concept relations are recorded. The full book remains in progress.
 - Benjamin H. D. Buchloh, “1960a: Nouveau Réalisme,” book pp.504–508 / PDF pp.508–512.
 - Rosalind Krauss, “1960b: Greenberg's modernism,” book pp.509–514 / PDF pp.513–518.
 
