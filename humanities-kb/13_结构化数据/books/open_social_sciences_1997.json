@@ -1,0 +1,44 @@
+{
+  "id": "book_open_social_sciences_report_1997",
+  "type": "book",
+  "name": "开放社会科学：重建社会科学报告书",
+  "name_zh": "开放社会科学：重建社会科学报告书",
+  "aliases": ["开放社会科学"],
+  "collective_author": "Gulbenkian Commission on the Restructuring of the Social Sciences",
+  "publication_year": "1997",
+  "publisher": "生活·读书·新知三联书店",
+  "edition": "Chinese first edition; April 1997",
+  "isbn": "7-108-00999-0",
+  "fields": ["social_sciences", "sociology", "history_of_social_sciences", "interdisciplinary_studies"],
+  "authors": [],
+  "related_people": ["person_immanuel_wallerstein"],
+  "related_concepts": ["concept_interdisciplinarity", "concept_eurocentrism_social_sciences", "concept_social_science_objectivity"],
+  "sources": [
+    {
+      "author": "Gulbenkian Commission on the Restructuring of the Social Sciences",
+      "book": "开放社会科学：重建社会科学报告书",
+      "chapter": "CIP, committee roster, and Preface",
+      "page": "PDF pp.2–7",
+      "location": "printed title/publication data, committee composition, Wallerstein's chair role, and commission meetings"
+    },
+    {
+      "author": "Gulbenkian Commission on the Restructuring of the Social Sciences",
+      "book": "开放社会科学：重建社会科学报告书",
+      "chapter": "Chapters 1–2",
+      "page": "printed pp.1–74; PDF pp.9–79",
+      "location": "historical construction of disciplines and post-1945 debates"
+    },
+    {
+      "author": "Gulbenkian Commission on the Restructuring of the Social Sciences",
+      "book": "开放社会科学：重建社会科学报告书",
+      "chapter": "Chapters 3–4",
+      "page": "printed pp.75–113; PDF pp.80–116",
+      "location": "proposed foundations and organizational recommendations for restructuring"
+    }
+  ],
+  "reading_status": "complete",
+  "last_read_pdf_page": "116",
+  "last_read_book_page": "113",
+  "last_updated": "2026-09-25",
+  "local_source_status": "119-page image-only scan; the six local DOCX files are OCR drafts, not independent sources. The printed CIP identifies the Chinese title, 1997 first edition and ISBN; the PDF metadata title '自由交流' is inconsistent and was not used. PDF pp.117–118 are publisher catalog ads and p.119 is blank; OCR falsely repeats the ad for p.119. Chapter transitions omit likely blank versos at printed pp.2, 36, 74, 76 and 102; no missing text-bearing page was found."
+}
