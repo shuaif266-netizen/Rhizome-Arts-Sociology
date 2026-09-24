@@ -20,3 +20,9 @@ van Doesburg参与杜塞尔多夫国际进步艺术家大会，并与Lissitzky�
 ## 新增阅读记录（1928b）
 
 Tschichold简略讨论De Stijl；Bois指出van Doesburg此前已在排版中使用网格，也曾以Dada版式组织刊物Mecano。新字体的非对称处理并非1928年突然出现。来源：Yve-Alain Bois, “1928b,” book pp.268–270 / PDF pp.272–274。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《新造型艺术原则》把纯粹形式、平衡和相互抵消视为绘画表达普遍关系的方式。
+
+**来源**：Art in Theory 1900–2000, second edition，书内pp.281–284 / PDF pp.309–312。

@@ -11,3 +11,10 @@ Arp与Sophie Taeuber在苏黎世Dada语境中发展拼贴、织物、浮雕和�
 ## 来源与定位
 
 Hal Foster, “Dada is launched,” *Art Since 1900*, 3rd ed., book pp.149–153 / PDF pp.153–157。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《目录导言》把艺术作品描述为线、面、形、色的建构，并反对名望与自然主义再现对艺术的支配。
+
+**来源**：Art in Theory 1900–2000, second edition，书内pp.276–277 / PDF pp.304–305。

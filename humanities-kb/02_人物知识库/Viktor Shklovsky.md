@@ -15,3 +15,10 @@ Bois将Shklovsky 1917年《艺术作为手法》中的“陌生化”（ostranen
 ## 来源
 
 Yve-Alain Bois, “Malevich and Suprematist painting,” *Art Since 1900*, 3rd ed., book pp.143–144 / PDF pp.147–148。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《艺术作为手法》指出习惯会使感知自动化；艺术通过陌生化和延长感知过程，让人重新感受到对象。
+
+**来源**：Art in Theory 1900–2000, second edition，书内pp.277–281 / PDF pp.305–309。

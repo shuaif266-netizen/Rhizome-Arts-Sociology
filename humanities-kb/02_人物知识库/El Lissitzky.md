@@ -19,3 +19,9 @@ Lissitzky与Ilya Ehrenburg编辑Veshch’/Gegenstand/Objet，并在1922年柏林
 ## 新增阅读记录（1928b）
 
 Bois将Lissitzky视作新字体形成的关键人物：其《为了声音》索引及《字体地形学》把文字功能、排版节奏和阅读组织联系起来；1921年后他在德国的传播活动影响了Tschichold及Schwitters、Moholy-Nagy、van Doesburg。来源：Yve-Alain Bois, “1928b,” book pp.269–271 / PDF pp.273–275。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《Veshch》声明把艺术说成组织共同生活的工作方法；《A.与广义几何学》讨论空间形式的历史变化。
+
+**来源**：Art in Theory 1900–2000, second edition，book pp.344–345, 317–321 / PDF pp.372–373, 345–349。

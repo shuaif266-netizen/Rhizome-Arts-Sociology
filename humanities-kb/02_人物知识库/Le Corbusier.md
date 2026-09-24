@@ -10,3 +10,10 @@ Bois讨论其Pavillon de l’Esprit Nouveau及Plan Voisin，指出他借标准�
 
 ## 来源
 
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+与奥岑方合著《纯粹主义》，以经济、选择、标准形式和可传递的造型语言解释绘画秩序；这是本文的形式理论。
+
+**来源**：Art in Theory 1900–2000, second edition，书内pp.239–242 / PDF pp.267–270。

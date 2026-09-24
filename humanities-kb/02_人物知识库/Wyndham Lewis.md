@@ -19,3 +19,9 @@ Hal Foster, “1908,” *Art Since 1900*, 3rd ed., book pp.100–101 / PDF pp.10
 Foster把Lewis与《Blast》及Vorticist“New Ego”观念联系起来：现代人以激进、机械和反人文的姿态承受现代世界冲击。Lewis后来的回顾性描述把Vorticism说成旧世界终结的征兆。该说法是作者引用/转述的历史解释，需与Lewis原文及刊物语境核对。
 
 来源：Hal Foster，“1934b: British sculpture”，书内pp.314–316 / PDF pp.318–320。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《新时代的孩子们》将一战视为时代断裂，以战后秩序和“权威”语言描述新世代。记录为刘易斯在本文中的战后立场，不与其战前漩涡派宣言合并。
+
+**来源**：IIIA，书内pp.245–246 / PDF pp.273–274。

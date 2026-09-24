@@ -26,3 +26,10 @@ Foster分析《Gift》（1921）和《Enigma of Isidore Ducasse》（1920），�
 **限制**：仅据Hal Foster“1931a”；理论文本未直接阅读。
 
 **来源**：*Art Since 1900*, 3rd ed., book pp.293 / PDF pp.296–300。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《声明》强调平面、颜料、质地、色彩与形式组织，主张以媒介内部的生命力评价绘画。
+
+**来源**：Art in Theory 1900–2000, second edition，书内p.277 / PDF p.305。

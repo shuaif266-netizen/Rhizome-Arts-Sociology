@@ -62,3 +62,10 @@ Buchloh称Beuys在1964年的电视访谈／表演中写下《The Silence of Marc
 Krauss把《给予：1.瀑布 2.照明气体》（1946–66）解释为超出纯现成品、摄影索引或观念作品分类的新范式。其窥孔结构将观者固定在可能暴露的窥视位置；作品借博物馆的永久展示条件，揭示审美无利害和普遍观看位置的身体及制度基础。此为Krauss的批评史阐释，不是Duchamp自述。
 
 **来源**：Rosalind Krauss，“1966a: Duchamp’s Étant Donnés,” *Art Since 1900*, 3rd ed., book pp.572–575 / PDF pp.576–579。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《理查德·穆特事件》以《泉》的争议说明选择、命名和展示位置可以改变日用品的意义，并把艺术制度的裁决变成问题。
+
+**来源**：Art in Theory 1900–2000, second edition，书内p.252 / PDF p.280。

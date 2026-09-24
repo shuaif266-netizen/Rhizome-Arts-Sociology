@@ -34,3 +34,9 @@ Krauss在Benjamin的摄影史脉络中提到Rodchenko《打电话的女人》，
 Foster指出，六十年代初Andre和LeWitt特别重视Rodchenko的透明构造、近似序列生成的结构和空间构造，但二人分别将这些资源转为雕塑场址／单位逻辑与模块结构。该接受史带有冷战时期对构成主义的选择性重写。
 
 **来源**：Hal Foster，“1962c: Andre, Flavin, and LeWitt”，*Art Since 1900*, 3rd ed., book pp.540–544 / PDF pp.544–548。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+“口号”和工作室计划反对艺术作为生活装饰，主张研究色彩、形式、构造、材料并服务日常使用和工业生产。
+
+**来源**：Art in Theory 1900–2000, second edition，book pp.339–341 / PDF pp.367–369。

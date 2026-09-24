@@ -15,3 +15,9 @@
 ## 来源
 
 Yve-Alain Bois, “1928a,” *Art Since 1900*, 3rd ed., book pp.262–264 / PDF pp.266–268。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+作为《Veshch》共同编辑之一，与利西茨基一道反对把进步艺术组织成展览商业联盟。
+
+**来源**：Art in Theory 1900–2000, second edition，book pp.344–345 / PDF pp.372–373。

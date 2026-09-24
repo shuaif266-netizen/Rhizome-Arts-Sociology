@@ -15,3 +15,9 @@ Yve-Alain Bois，“1937b: Interwar European abstraction”，书内pp.334–337
 ## 1955b关联
 《Kinetic Construction》（1919–20）以小型电机带动细金属杆振荡，Bois称其生成“虚拟体积”；1955年展览借此建立运动艺术的现代主义前史。
 **来源**：*Art Since 1900*, 3rd ed., book pp.442–443。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+与佩夫斯纳合写《现实主义宣言》，将空间、时间和构造关系视为艺术研究基础，拒绝把作品仅看成雕塑质量或实用对象。
+
+**来源**：Art in Theory 1900–2000, second edition，book pp.298–300 / PDF pp.326–328。

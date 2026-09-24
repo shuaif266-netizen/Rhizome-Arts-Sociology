@@ -12,3 +12,8 @@
 
 ## 来源
 
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+与罗德琴科合写的构成主义工作组纲领强调以唯物主义、材料研究、faktura、tectonics与construction把艺术研究转入实际生产。
+
+**来源**：Art in Theory 1900–2000, second edition，book pp.341–343 / PDF pp.369–371。

@@ -24,3 +24,9 @@ Yve-Alain Bois, “Mondrian breaks through to abstraction,” *Art Since 1900*, 
 ## 1951 Newman条目的关系补充
 Bois记载，Newman后来意识到自己先前批判的“Mondrian”是基于二手陈词的虚构形象；他承认二人都重视直觉，却仍反对Mondrian的关系构图及其社会乌托邦。这条关系来自Bois对Newman思想转变的重建，不应等同于Mondrian的自我说明。
 来源：Yve-Alain Bois，“1951: Barnett Newman”，书内p.428。
+
+## 《Art in Theory》第二版补充：新造型主义的自我说明
+
+蒙德里安的《新造型对话》与《新造型主义：造型等价的一般原则》把抽象解释为个体/普遍、可变/不变之间的均衡关系，强调通过线和色面直接组织这种关系。文章将新造型主义从自然写实中区分出来，但仍把它说成“自然—人”关系的再组织，而不是脱离生活的纯几何练习。
+
+**来源**：Piet Mondrian, “Dialogue on the New Plastic,” book pp.284–289 / PDF pp.312–317；“Neo-Plasticism: The General Principle of Plastic Equivalence,” book pp.289–292 / PDF pp.317–320。

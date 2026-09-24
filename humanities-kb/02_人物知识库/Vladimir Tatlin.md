@@ -31,3 +31,9 @@ Bois以Tatlin第三国际纪念碑和俄国Constructivism的材料/过程理论�
 Foster区分Tatlin、Rodchenko的材料／生产主义构成主义与Gabo、Pevsner偏向纯艺术和技术形式的西方谱系。六十年代初，Flavin、Andre和LeWitt从Tatlin／Rodchenko获得不同的结构资源；Foster强调这种重新发现既改变美国雕塑，也无法复原原有革命政治目标。
 
 **来源**：Hal Foster，“1962c: Andre, Flavin, and LeWitt”，*Art Since 1900*, 3rd ed., book pp.540–544 / PDF pp.544–548。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《集体中的主动个人》把发明者视为集体愿望的实现节点；《材料文化部工作报告》记录其团队对颜料、衣物与炉具的应用研究。
+
+**来源**：Art in Theory 1900–2000, second edition，book pp.334, 352–354 / PDF pp.362, 380–382。

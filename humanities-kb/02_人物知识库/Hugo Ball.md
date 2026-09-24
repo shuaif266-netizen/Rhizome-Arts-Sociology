@@ -11,3 +11,10 @@ Foster将Ball作为苏黎世Dada的关键参与者，尤其讨论他在Cabaret V
 ## 来源与定位
 
 Hal Foster, “Dada is launched,” *Art Since 1900*, 3rd ed., book pp.147–150 / PDF pp.151–154。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《达达片段》以战争时期的语言危机、声音实验和矛盾姿态表达对理性秩序的怀疑；文本是巴尔的记录，不代表所有达达实践。
+
+**来源**：Art in Theory 1900–2000, second edition，书内pp.250–252 / PDF pp.278–280。
