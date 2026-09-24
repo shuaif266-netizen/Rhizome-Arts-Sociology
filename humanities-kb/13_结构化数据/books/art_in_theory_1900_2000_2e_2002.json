@@ -77,6 +77,20 @@
       "chapter": "IIID Utility and Construction",
       "page": "book pp.333–334 / PDF pp.361–362",
       "location": "KOMFUT programme and opening page of Tatlin’s text"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IV Introduction: Freedom, Responsibility and Power",
+      "page": "book pp.357–361 / PDF pp.385–389",
+      "location": "editorial framework: abstraction, Realism, Surrealism and political allegiances"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IVA The Modern as Ideal",
+      "page": "book pp.362–389 / PDF pp.390–417",
+      "location": "Klee through Mondrian, with Mondrian selection in progress"
     }
   ],
   "fields": [
@@ -90,6 +104,7 @@
   "id": "book_art_in_theory_1900_2000_2e_2002",
   "type": "book",
   "related_concepts": [
+    "concept_artistic_form_and_political_commitment",
     "concept_constructivism_and_productionist_art",
     "concept_cubism_and_pictorial_space",
     "concept_dada_antiart_and_institutional_critique",
@@ -108,8 +123,10 @@
     "person_alexander_blok",
     "person_alexander_rodchenko",
     "person_alexei_gan",
+    "person_alfred_h_barr_jr",
     "person_amedee_ozenfant",
     "person_andre_derain",
+    "person_carl_gustav_jung",
     "person_carlo_carra",
     "person_charles_edouard_jeanneret",
     "person_daniel_henry_kahnweiler",
@@ -126,8 +143,10 @@
     "person_guillaume_apollinaire",
     "person_gustav_hartlaub",
     "person_hans_arp",
+    "person_hans_hofmann",
     "person_henri_bergson",
     "person_henri_gaudier_brzeska",
+    "person_henri_matisse",
     "person_hugo_ball",
     "person_ilya_ehrenburg",
     "person_jacques_riviere",
@@ -143,11 +162,13 @@
     "person_max_beckmann",
     "person_max_pechstein",
     "person_max_weber",
+    "person_naum_gabo",
     "person_nikolai_punin",
     "person_olga_rozanova",
     "person_osip_brik",
     "person_oswald_spengler",
     "person_pablo_picasso",
+    "person_paul_klee",
     "person_percy_wyndham_lewis",
     "person_piet_mondrian",
     "person_raoul_hausmann",
@@ -160,7 +181,8 @@
     "person_viktor_shklovsky",
     "person_vladimir_ilyich_lenin",
     "person_vladimir_tatlin",
-    "person_walter_gropius"
+    "person_walter_gropius",
+    "person_wladyslaw_strzeminski"
   ],
   "edition": "Second edition",
   "aliases": [
@@ -173,6 +195,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "362",
-  "last_read_book_page": "334"
+  "last_read_pdf_page": "417",
+  "last_read_book_page": "389"
 }

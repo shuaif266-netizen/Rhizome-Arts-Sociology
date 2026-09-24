@@ -15,3 +15,9 @@ Strzeminski与Katarzyna Kobro共同推动波兰先锋艺术。其Unism要求绘�
 ## 来源
 
 Yve-Alain Bois, “1928a,” *Art Since 1900*, 3rd ed., book pp.264–267 / PDF pp.268–271。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+声明和问卷答复强调画面的形式统一、媒介特性和非叙事组织，反对把艺术简单当作自然模仿或时代故事。
+
+**来源**：Art in Theory 1900–2000, second edition，IVA “The Modern as Ideal”，book pp.376–378 / PDF pp.404–406。

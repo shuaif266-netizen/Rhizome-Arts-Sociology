@@ -27,3 +27,9 @@ Yve-Alain Bois, “1900b,” *Art Since 1900*, book pp.69–75 / PDF pp.73–79�
 Bois讨论Matisse的晚期绘画方法：分析性准备、反复擦除与最终快速执行并存。他把Matisse所说的“无意识”解释为长期练习后的反射，而不是Freud的受压抑欲望；剪纸则被视为调和线条和色彩的方式。威尼斯双年展在战后将其早期与晚期作品并置。
 
 **来源**：Yve-Alain Bois，“1944b”，书内pp.369–371。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+致特里亚德声明强调现代绘画需要回到有力量的基本色彩和表达手段；“回到本源”并非复古，而是重获形式能量。
+
+**来源**：Art in Theory 1900–2000, second edition，IVA “The Modern as Ideal”，book pp.383–384 / PDF pp.411–412。

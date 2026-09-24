@@ -23,3 +23,9 @@ Hal Foster, “1927c,” *Art Since 1900*, 3rd ed., book pp.256–257 / PDF pp.2
 Foster引用Barr在1927–28年苏联旅行日记，指出Barr虽见到苏联艺术的多样性，却仍优先寻找传统意义上的画家；Foster把此视为MoMA后来偏重回望立体主义绘画、而非构成主义对传统媒介之超越的早期例证。此为Foster的机构史论证。
 
 **来源**：Hal Foster，“1962c: Andre, Flavin, and LeWitt”，*Art Since 1900*, 3rd ed., book p.540 / PDF p.544。
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《立体主义与抽象艺术》以两条形式路线绘制抽象艺术史：几何/结构与有机/直觉。此为1936年MoMA展览及目录的策展框架。
+
+**来源**：Art in Theory 1900–2000, second edition，IVA “The Modern as Ideal”，book pp.381–383 / PDF pp.409–411。
