@@ -1,6 +1,6 @@
-# 第一部：象征主义的遗产——IA“古典主义与原创性”
+# 第一部：象征主义的遗产
 
-**覆盖范围**：书内pp.11–58 / PDF pp.39–86。第一部引论与IA全部选文已读；IB“Expression and the Primitive”尚未开始。
+**覆盖范围**：第一部全段，书内pp.11–124 / PDF pp.39–152；PDF p.153是第二部标题页，p.154为空白。IA“Classicism and Originality”和IB“Expression and the Primitive”均已核读。
 
 ## 第一部引论：自然主义、符号形式与现代艺术
 
@@ -32,4 +32,38 @@ Harrison与Wood把19世纪末法国的Realism、Naturalism、现代性和先锋�
 2. Gauguin及后来现代主义者借用“原始”艺术时，形式赞赏如何与殖民语境和对象自身的文化位置并存？这将在下一节继续核对。
 3. 艺术自治能否抵抗市场与制度收编，还是会变成新的收藏和阶层区分？Meier-Graefe的论述与其他选文之间仍需互读。
 
-**下一位置**：IB“Expression and the Primitive”，书内p.59 / PDF p.87。
+**下一位置**：第二部“The Idea of the Modern World”，书内p.127 / PDF p.155。
+
+## IB “Expression and the Primitive”
+
+**阅读范围**：书内pp.59–124 / PDF pp.87–152。以下把作者立场与编者导言分开；“primitive”一词保留其历史语境，不作今天的中性分类。
+
+| 原文与作者 | 页码锚点 | 读书札记 |
+|---|---|---|
+| August Endell，“The Beauty of Form and Decorative Art”（1897–98） | 书内pp.59–61 / PDF pp.87–89 | 主张视觉形式可以像音乐那样不依赖描绘对象而直接唤起情绪；线条方向、速度和张力被赋予心理效应。这是Endell的形式心理学假设。 |
+| Albert Pinkham Ryder，“Paragraphs from the Studio of a Recluse”（1905） | 书内pp.62–63 / PDF pp.90–91 | 反对把细节复制当作绘画目的，强调第一眼的个人视觉、耐心和自然观察；他把画面完成视为漫长沉淀，而非一次性写生。 |
+| André Derain，致Vlaminck书信（1905、1909） | 书内pp.63–64 / PDF pp.91–92 | 信中记录艺术家在自然观察、色彩强度、构图和个人表达之间的拉扯；谈论“装饰”不等于已找到稳定的新法则。它们保留了试验过程中的犹疑。 |
+| Ernst Ludwig Kirchner，《桥社纲领》（1906） | 书内p.65 / PDF p.93 | 以“青年”名义呼吁反抗既定力量，强调直接、真实的创作冲动；文本更像结盟宣言，不是完整的形式理论。 |
+| Wilhelm Worringer，*Abstraction and Empathy*节选（1908） | 书内pp.66–68 / PDF pp.94–96 | 把移情理解为对有机生命的共感，把抽象冲动理解为在世界不安中寻求稳定、不可变形式的倾向。其关于“原始民族”和“东方”的概括属于当时的文化心理框架，不能直接当作跨文化事实。 |
+| Henri Matisse，“Notes of a Painter”（1908） | 书内pp.69–74 / PDF pp.97–102 | 认为表达来自画面整体组织：人物、空处、比例、线条和色彩共同构成意义；创作需要反复重做，使瞬时印象凝成更稳定的感受。 |
+| Roger Fry，“An Essay in Aesthetics”（1909） | 书内pp.75–81 / PDF pp.103–109 | 把艺术理解为想象生活的表达，并以秩序、变化、统一、线条节奏、体积、空间、明暗和色彩解释形式如何触发审美情绪。他将“审美感受”与日常功用区分，是一条明确的形式主义路径。 |
+| Wassily Kandinsky，*Concerning the Spiritual in Art*节选（1911） | 书内pp.82–88 / PDF pp.110–116 | 以“内在必然性”说明色彩、形式和抽象如何表达精神经验，并把艺术变化放入精神进步的层级图式；这是Kandinsky的神秘主义世界观，不是本书全体作者的共同立场。 |
+| Wassily Kandinsky，“The Cologne Lecture”（1914） | 书内pp.89–92 / PDF pp.117–120 | Kandinsky回顾自己从自然景物与色彩印象转向更自由的构图和抽象形式，反对强行套用风格；形式应在创作成熟时自然出现。 |
+| Franz Marc，“The ‘Savages’ of Germany”与“Two Pictures”（1912） | 书内pp.93–94 / PDF pp.121–122 | Marc把德国先锋派称为反抗旧秩序的“野蛮人”，期待艺术成为未来精神生活的象征；这是一种时代宣言及其自我定位。 |
+| August Macke，“Masks”（1912） | 书内pp.95–96 / PDF pp.123–124 | 以面具和自然形式讨论可见形式与不可见精神的关系，并把儿童、所谓“野蛮人”和艺术家创造冲动相连；需要连同欧洲挪用原始文化的语境阅读。 |
+| Emil Nolde，“On Primitive Art”（1912） | 书内pp.96–97 / PDF pp.124–125 | 反思博物馆如何把非欧洲作品归入民族学而非艺术，肯定其形式创造力；他的论述也使用概括性的“primitive peoples”分类，不能代替相关文化自身的艺术史。 |
+| Oskar Kokoschka，“On the Nature of Visions”（1912） | 书内pp.97–99 / PDF pp.125–127 | 把视觉“显现”理解成意识与内在生命相遇的流动过程，采用灵魂、自然和生命力的语言；这是一种神秘主义式的艺术观，不是经验心理学报告。 |
+| Alexander Shevchenko，“Neo-Primitivism”（1913） | 书内pp.99–101 / PDF pp.127–129 | 将现代都市、机械生活与农村木版画、圣像和东方艺术并置，主张新艺术既吸收立体主义又回到本土民间形式；其关于“俄罗斯即东方”的说法属于当时的文化政治论述。 |
+| Benedetto Croce，*What Is Art?*节选（1913） | 书内pp.102–106 / PDF pp.130–134 | 把艺术定义为直觉/表现，并与物理对象、功用、道德判断和概念知识区分；反对把图像看成思想的任意寓言。 |
+| Clive Bell，“The Aesthetic Hypothesis”（1914） | 书内pp.107–109 / PDF pp.135–137 | 提出“有意味的形式”引发审美情绪，代表性题材本身并不决定艺术价值；他以原始艺术论证形式的普遍性，但其普遍主义假设仍需批判审视。 |
+| Carl Einstein，“Negro Sculpture”（1915） | 书内pp.110–115 / PDF pp.138–143 | 反驳欧洲对非洲艺术的轻率贬低，主张分析雕塑如何组织体积、空间与观看，而不以自然主义相似性为唯一尺度；文章仍使用殖民时代术语，也未提供非洲创作者的自述。 |
+| Hermann Bahr，*Expressionism*节选（1914写、1916刊） | 书内pp.116–120 / PDF pp.144–148 | 将表现主义描述为对机械化现代生活和“灵魂失落”的回应，以内在生命对抗被动记录现实；其广阔文明叙事是Bahr的立场。 |
+| Hans Prinzhorn，*Artistry of the Mentally Ill*节选（1922） | 书内pp.121–124 / PDF pp.149–152 | 认为非专业患者的图像能显露普遍的形式创造冲动，同时警告不能凭外观相似就推断现代艺术家精神疾病；他也把当代艺术置于心理、文明和历史的比较框架。 |
+
+### 第一部小结与跨学科接口
+
+这一部并未给出统一的“抽象起源论”。Endell、Worringer、Fry、Croce和Bell从形式、心理和审美经验提出不同模型；Kandinsky、Marc、Macke、Bahr等使用精神性与现代危机的语言；Einstein和Nolde则讨论欧洲如何重新观看非欧洲艺术。编辑引论指出，所谓“原始”形式的现代主义接受常与殖民收藏、民族志分类和理想化想象相连（书内pp.13–14 / PDF pp.41–42）。
+
+与既有档案的有限互读见[现代主义原始主义与殖民凝视](../04_核心概念/现代主义原始主义与殖民凝视.md)。本部选文只能说明欧洲作者怎样谈论这些对象，不能代替非欧洲艺术家的历史和自我阐释。
+
+**下一位置**：第二部“The Idea of the Modern World”，书内p.127 / PDF p.155。

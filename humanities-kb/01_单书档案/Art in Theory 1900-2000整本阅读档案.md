@@ -8,8 +8,9 @@
 - **版次**：第二版；2002年；Charles Harrison、Paul Wood编；Wiley-Blackwell；ISBN 978-0-631-22708-3。
 - **出版社核验**：[Wiley-VCH正式书目](https://www.wiley-vch.de/en?isbn=9780631227083&option=com_eshop&view=product)列为第二版、Charles Harrison与Paul Wood编、ISBN 978-0-631-22708-3。不同Wiley产品页对页数分别标示1288与1296；本地PDF自身共1288页。用户确认目标为1900–2000第二版。
 - **本地文件**：`新鬼专栏课件\观念艺术与摄影\参考阅读\Art in Theory 1900-1990.pdf`，1288个PDF页。文件名错误沿用1900–1990；PDF前四页含Robin Hood Free Library署名、盗版引语和戏仿版权文字。笔记不采信这四页的出版信息，依据出版社书目、PDF p.5起的真实目录、第二版序言及逐页正文核读。
-- **阅读状态**：进行中。已核读目录、序言、文本编辑说明、总论、第一部引论与IA“Classicism and Originality”全部选文，至PDF p.86 / 书内p.58。接续位置：IB“Expression and the Primitive”，PDF p.87 / 书内p.59。
+- **阅读状态**：进行中。已完成目录、序言、编辑说明、总论及第一部《象征主义的遗产》（书内pp.11–124 / PDF pp.39–152）；PDF p.153为第二部标题页，p.154为空白页。接续第二部“The Idea of the Modern World”，PDF p.155 / 书内p.127。
 - **转换件边界**：65份Word分卷连续覆盖PDF pp.1–1288，但均由上述同一PDF转换，不作为独立版本或第二份证据；原PDF和转换件均保持原样，GitHub只上传阅读笔记与结构化索引。
+- **文本层检查**：pypdf从1288页中提取到文字的页面为1275页；13页无文字层、另有10页文字少于80字符。已将这23页渲染成接触表核看，均为空白页或分部标题页；它们不含漏掉的正文段落。此项是页码完整性检查，不替代逐页阅读与疑难文字的图像核验。
 
 ## 编者说明的阅读方法
 
