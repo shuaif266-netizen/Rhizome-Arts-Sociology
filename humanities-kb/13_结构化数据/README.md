@@ -38,7 +38,7 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新关系类型优先复用既有词表。确需细分时可增少量精确词，如organized、launched、negotiates、repositions；不得为同义关系重复造词。
 
 新增章节来源：
-- *Art in Theory 1900–2000*, 2nd edition, Parts IVB–IVD, all of Part V, Part VI and its fourteen VIB selections, the Part VII introduction, all thirteen VIIA selections, all fourteen VIIB selections, all fourteen VIIC selections, all fifteen VIID selections, the Part VIII introduction, and VIIIA selections 1–2 plus the opening of selection 3; book pp.402–1027 / PDF pp.430–1055. The Part VIII divider pages PDF pp.1038–1040 were also checked. Added source-backed Art Brut, medium-specificity, specific-object and maintenance-art material; four verified relations have been added across this cumulative increment, including one in this update. The full book remains in progress.
+- 《Art in Theory 1900–2000》第二版正文八部及书后书目、版权致谢、索引已全部核读，读至书内p.1258 / PDF p.1286；完整进度见[整本阅读档案](../01_单书档案/Art%20in%20Theory%201900-2000整本阅读档案.md)。本结构化层仍只覆盖实际入库且逐条列明来源的章节，不代表整本书已转换为实体关系图谱。本次累计补录涉及艺术原生性（Art Brut）、媒介特定性、特定物与维护艺术；新增关系仍按下方各条目记录来源和状态。
 - Benjamin H. D. Buchloh, “1960a: Nouveau Réalisme,” book pp.504–508 / PDF pp.508–512.
 - Rosalind Krauss, “1960b: Greenberg's modernism,” book pp.509–514 / PDF pp.513–518.
 

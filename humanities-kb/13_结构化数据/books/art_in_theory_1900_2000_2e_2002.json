@@ -215,8 +215,43 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VIIIA The Critique of Originality",
-      "page": "book pp.1018–1027; PDF pp.1046–1055",
-      "location": "selections 1–2 complete; selection 3 Craig Owens read through book p.1027 / PDF p.1055"
+      "page": "book pp.1018–1056; PDF pp.1046–1084",
+      "location": "all twelve selections, from Baudrillard through Kristeva"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIIIB Figures of Difference",
+      "page": "book pp.1057–1116; PDF pp.1085–1144",
+      "location": "all seventeen selections"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIIIC The Condition of History",
+      "page": "book pp.1117–1187; PDF pp.1145–1215",
+      "location": "all sixteen selections; last section of the anthology body"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood (eds.)",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "Bibliography",
+      "page": "book pp.1188–1211; PDF pp.1216–1239",
+      "location": "alphabetical reference list; introduction on PDF p.1216"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood (eds.)",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "Copyright Acknowledgements",
+      "page": "book pp.1212–1227; PDF pp.1240–1255",
+      "location": "rights and source acknowledgements for anthology excerpts"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood (eds.)",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "Index",
+      "page": "book pp.1228–1258; PDF pp.1256–1286",
+      "location": "complete alphabetical index, using printed book pages"
     }
   ],
   "fields": [
@@ -343,9 +378,9 @@
   "name": "Art in Theory 1900–2000: An Anthology of Changing Ideas",
   "publisher": "Wiley-Blackwell",
   "isbn": "978-0-631-22708-3",
-  "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
+  "local_source_status": "The PDF filename says 1900-1990. PDF pp.1–4 and pp.1287–1288 contain altered library/publisher wrapper pages and are not treated as edition evidence or book content. The printed index ends at book p.1258 / PDF p.1286; the source PDF has 1288 total pages.",
   "last_updated": "2026-09-24",
-  "reading_status": "in_progress",
-  "last_read_pdf_page": "1055",
-  "last_read_book_page": "1027"
+  "reading_status": "complete",
+  "last_read_pdf_page": "1286",
+  "last_read_book_page": "1258"
 }
