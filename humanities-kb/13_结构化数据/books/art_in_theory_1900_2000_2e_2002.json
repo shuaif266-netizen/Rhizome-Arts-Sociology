@@ -194,8 +194,15 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VIIC Political Aspects",
-      "page": "book pp.913–922; PDF pp.941–950",
-      "location": "selections 1–4 complete; selection 5 “The Artist and Politics” begun, through Carl Andre’s response opening"
+      "page": "book pp.913–943; PDF pp.941–971",
+      "location": "all fourteen selections, from Oiticica’s “Appearance of the Supra-Sensorial” through the Art & Language editorial"
+    },
+    {
+      "author": "Jacques Derrida; editors Charles Harrison and Paul Wood (intro.)",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIID Critical Revisions",
+      "page": "book p.944 / PDF p.972",
+      "location": "Part VIID heading, editorial introduction and opening of Derrida excerpt; text in progress"
     }
   ],
   "fields": [
@@ -325,6 +332,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "950",
-  "last_read_book_page": "922"
+  "last_read_pdf_page": "972",
+  "last_read_book_page": "944"
 }
