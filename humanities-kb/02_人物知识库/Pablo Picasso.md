@@ -53,3 +53,10 @@ Buchloh讨论Picasso为西班牙共和国馆创作《Guernica》，以Dora Maar�
 Bois把Picasso在Matisse去世后的《阿尔及尔的女人》等系列解释为与Matisse艺术展开的绘画对话，并称晚期方法具有现象学式同理特征。新一代艺术家仍需面对Picasso的持续影响。
 
 **来源**：Yve-Alain Bois，“1944b”，书内pp.371–372。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+《毕加索谈话》拒绝把立体主义说成面向未来的过渡实验，强调作品结果胜过创作意图；此为1923年访谈中的个人立场。
+
+**来源**：Art in Theory 1900–2000, 2nd ed., IIB “Cubism”，book pp.215–217 / PDF pp.243–245。

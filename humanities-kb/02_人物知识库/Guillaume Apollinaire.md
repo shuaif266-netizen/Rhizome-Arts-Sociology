@@ -13,3 +13,10 @@
 Rosalind Krauss, “1911,” *Art Since 1900*, 3rd ed., book pp.119–120 / PDF pp.123–124。
 
 Krauss在“1912”把Apollinaire对报纸、广告、日常语言的赞颂与Mallarmé对新闻语言的看法并置，并将其Calligrammes和Picasso拼贴区分为不同的图像/文字关系。来源：book pp.124–129 / PDF pp.128–133。
+
+
+## 本书新增阅读记录：《Art in Theory 1900–2000》第二版
+
+阿波利奈尔为立体主义命名、阐释并进行内部分类；其“纯绘画”和“第四维”等说法属于诗人/批评家的理论框架。
+
+**来源**：Art in Theory 1900–2000, 2nd ed., IIB “Cubism”，book pp.185–190 / PDF pp.213–218。

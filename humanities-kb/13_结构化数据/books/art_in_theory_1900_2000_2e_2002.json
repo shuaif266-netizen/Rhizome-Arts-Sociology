@@ -28,6 +28,27 @@
       "chapter": "IIB Cubism",
       "page": "book pp.184–185; PDF pp.212–213",
       "location": "Metzinger essay and opening of Apollinaire essay"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IIB Cubism",
+      "page": "book pp.184–217; PDF pp.212–245",
+      "location": "twelve selections, including the Picasso interview"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "III Introduction: Rationalization and Transformation",
+      "page": "book pp.221–225; PDF pp.249–253",
+      "location": "editorial introduction; three postwar tendencies"
+    },
+    {
+      "author": "Amédée Ozenfant; Charles Harrison and Paul Wood (intro.)",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "IIIA Neo-Classicism and the Call to Order",
+      "page": "book p.226 / PDF p.254",
+      "location": "opening page of “Notes on Cubism”; selected text in progress"
     }
   ],
   "fields": [
@@ -41,6 +62,7 @@
   "id": "book_art_in_theory_1900_2000_2e_2002",
   "type": "book",
   "related_concepts": [
+    "concept_cubism_and_pictorial_space",
     "concept_duration",
     "concept_metropolitan_modernity_and_blase_attitude",
     "concept_nonobjective_art_and_suprematism",
@@ -50,18 +72,27 @@
   "name_zh": "《1900—2000年的艺术理论：观念变迁选集》（暂译）",
   "related_events": [],
   "related_people": [
+    "person_albert_gleizes",
     "person_alexander_blok",
+    "person_amedee_ozenfant",
+    "person_daniel_henry_kahnweiler",
     "person_fernand_leger",
     "person_filippo_tommaso_marinetti",
     "person_franz_marc",
     "person_georg_simmel",
+    "person_georges_braque",
     "person_georgy_plekhanov",
+    "person_guillaume_apollinaire",
     "person_henri_bergson",
     "person_henri_gaudier_brzeska",
+    "person_jacques_riviere",
+    "person_jean_metzinger",
     "person_karl_kraus",
     "person_kazimir_malevich",
     "person_ludwig_meidner",
     "person_max_weber",
+    "person_olga_rozanova",
+    "person_pablo_picasso",
     "person_percy_wyndham_lewis",
     "person_robert_delaunay",
     "person_umberto_boccioni",
@@ -78,6 +109,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "213",
-  "last_read_book_page": "185"
+  "last_read_pdf_page": "254",
+  "last_read_book_page": "226"
 }

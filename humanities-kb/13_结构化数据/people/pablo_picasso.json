@@ -1,0 +1,10 @@
+{
+  "id": "person_pablo_picasso",
+  "type": "person",
+  "name_zh": "巴勃罗·毕加索",
+  "name_en": "Pablo Picasso",
+  "aliases": [
+    "Picasso",
+    "毕加索"
+  ]
+}
