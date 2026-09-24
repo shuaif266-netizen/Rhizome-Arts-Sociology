@@ -1,0 +1,44 @@
+{
+  "related_art": [],
+  "sources": [
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, 2nd edition",
+      "location": "Wiley-VCH official bibliographic record",
+      "page": "n/a",
+      "chapter": "edition, editors, ISBN and page count"
+    },
+    {
+      "author": "Charles Harrison; Paul Wood",
+      "book": "Art in Theory 1900–2000, 2nd edition",
+      "location": "Preface and General Introduction",
+      "page": "PDF pp.25–36; printed pp.xxv–xxvii, 1–8",
+      "chapter": "expanded edition, editorial policy and scope"
+    }
+  ],
+  "fields": [
+    "modern_art_history",
+    "art_theory"
+  ],
+  "authors": [
+    "person_charles_harrison",
+    "person_paul_wood"
+  ],
+  "id": "book_art_in_theory_1900_2000_2e_2002",
+  "type": "book",
+  "related_concepts": [],
+  "publication_year": "2002",
+  "name_zh": "《1900—2000年的艺术理论：观念变迁选集》（暂译）",
+  "related_events": [],
+  "related_people": [],
+  "edition": "Second edition",
+  "aliases": [
+    "Art in Theory 1900-2000",
+    "Art in Theory 1900–2000"
+  ],
+  "name": "Art in Theory 1900–2000: An Anthology of Changing Ideas",
+  "publisher": "Wiley-Blackwell",
+  "isbn": "978-0-631-22708-3",
+  "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
+  "last_updated": "2026-09-24"
+}

@@ -20,11 +20,10 @@
 
 ## 与出版社书目记录对照
 
-Wiley的产品记录将第二版列为 *Art in Theory 1900–2000: An Anthology of Changing Ideas*，编辑为Charles Harrison与Paul Wood，ISBN 978-0-631-22708-3，出版时间为2002年10月，书目页标示1296页：[Wiley书目记录](https://uat.store.wiley.com/en-us/art-in-theory-1900-2000-an-anthology-of-changing-ideas-2nd-edition-p-9780631227083)。这与本地PDF的封面、第三位编辑和页数标示不一致。
+Wiley-VCH正式产品页将该书列为第二版，编辑为Charles Harrison与Paul Wood，ISBN 978-0-631-22708-3，2002年9月出版，书目页标示1288页：[Wiley-VCH书目记录](https://www.wiley-vch.de/en?isbn=9780631227083&option=com_eshop&view=product)。另一Wiley产品页面对同一ISBN显示1296页：[Wiley US产品记录](https://uat.store.wiley.com/en-us/art-in-theory-1900-2000-an-anthology-of-changing-ideas-2nd-edition-p-9780631227083)。因此出版方网页的页数元数据彼此不一致；本地PDF的1288页只作为文件页序，不能单凭页数判断版本。可靠的版本识别依据是标题、编辑、ISBN及正文目录；扫描件pp.1–4另含明显改写包装。
 
-## 知识库处理决定
+## 2026-09-24 版次确认与阅读边界
 
-- 将该文件标为**疑似经过恶搞性改写的副本**，不把其正文、目录或参考书目当作可靠原典摘录。
-- 暂停书目第2项的正文阅读；不把这次目录核看计作已读。
-- 后续需找到与《Art in Theory 1900–1990》条目匹配的可核验版本，或明确改读正式出版的2000年第二版，并重新核对封面、版权页和目录。
-- 在可信副本出现前，按总书目顺序继续其他来源；本文件不进入知识图谱或论证档案。
+用户确认本次目标为**《Art in Theory 1900–2000》第二版**。本地PDF的目录、第二版序言、编辑名单与ISBN和Wiley-VCH记录相符：Charles Harrison、Paul Wood编，2002年，ISBN 978-0-631-22708-3。出版社不同网页对页数分别标示1288与1296；本地扫描PDF共1288页。[Wiley-VCH正式书目](https://www.wiley-vch.de/en?isbn=9780631227083&option=com_eshop&view=product)
+
+本地文件名仍叫`Art in Theory 1900-1990.pdf`，PDF前四页含Robin Hood Free Library、盗版引语及戏仿版权文字，属于被替换或改写的外包装，不作为出版社、编辑或版权声明的证据。正文从PDF p.5的目录开始；p.25序言说明第二版扩展了1900–1990版，并新增1990年代内容。阅读笔记以这份本地第二版扫描为底本，标注PDF页码与书内页码，不上传原PDF或整段原文。正文的每条论述仍以实际核读页为准；目前只完成开篇及第一部A节。
