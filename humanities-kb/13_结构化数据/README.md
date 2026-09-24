@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-24已累计1320个实体、1598条关系；其中1477条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-24已累计1321个实体、1599条关系；其中1478条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明/related_*字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -38,7 +38,7 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新关系类型优先复用既有词表。确需细分时可增少量精确词，如organized、launched、negotiates、repositions；不得为同义关系重复造词。
 
 新增章节来源：
-- *Art in Theory 1900–2000*, 2nd edition, Parts IVB–IVD, all of Part V, Part VI Introduction and VIA, plus all of Part V, Part VI and its fourteen VIB selections, the Part VII introduction, and VIIA selections 1–12; book pp.402–861 / PDF pp.430–889. Added source-backed Art Brut, medium-specificity and specific-object material; three verified relations have been added across this cumulative increment, including one in this update. The full book remains in progress.
+- *Art in Theory 1900–2000*, 2nd edition, Parts IVB–IVD, all of Part V, Part VI Introduction and VIA, plus all of Part V, Part VI and its fourteen VIB selections, the Part VII introduction, all thirteen VIIA selections, all fourteen VIIB selections, and VIIC selections 1–4 plus the opening of selection 5; book pp.402–922 / PDF pp.430–950. Added source-backed Art Brut, medium-specificity, specific-object, and maintenance-art material; four verified relations have been added across this cumulative increment, including one in this update. The full book remains in progress.
 - Benjamin H. D. Buchloh, “1960a: Nouveau Réalisme,” book pp.504–508 / PDF pp.508–512.
 - Rosalind Krauss, “1960b: Greenberg's modernism,” book pp.509–514 / PDF pp.513–518.
 

@@ -180,8 +180,22 @@
       "author": "selected contributors",
       "book": "Art in Theory 1900–2000, second edition",
       "chapter": "VIIA Objecthood and Reductivism",
-      "page": "book pp.818–861; PDF pp.846–889",
-      "location": "selections 1–12 complete; selection 13 editor introduction read, author text not yet read"
+      "page": "book pp.818–867; PDF pp.846–895",
+      "location": "all thirteen selections, including Buren’s “Beware”"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIIB Attitudes to Form",
+      "page": "book pp.868–912; PDF pp.896–940",
+      "location": "all fourteen selections, from Atkinson and Baldwin’s “Air Show” through Nauman’s interview"
+    },
+    {
+      "author": "selected contributors",
+      "book": "Art in Theory 1900–2000, second edition",
+      "chapter": "VIIC Political Aspects",
+      "page": "book pp.913–922; PDF pp.941–950",
+      "location": "selections 1–4 complete; selection 5 “The Artist and Politics” begun, through Carl Andre’s response opening"
     }
   ],
   "fields": [
@@ -311,6 +325,6 @@
   "local_source_status": "The PDF filename says 1900-1990; PDF pp.1–4 are altered wrapper pages. Reading notes use the second edition as confirmed by the user and the publisher record.",
   "last_updated": "2026-09-24",
   "reading_status": "in_progress",
-  "last_read_pdf_page": "889",
-  "last_read_book_page": "861"
+  "last_read_pdf_page": "950",
+  "last_read_book_page": "922"
 }
