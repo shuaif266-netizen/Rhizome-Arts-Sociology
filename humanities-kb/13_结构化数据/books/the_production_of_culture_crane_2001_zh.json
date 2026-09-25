@@ -1,0 +1,19 @@
+{
+  "id": "book_production_of_culture_crane_2001_zh",
+  "type": "book",
+  "name_zh": "《文化生产：媒体与都市艺术》",
+  "name_en": "The Production of Culture: Media and the Urban Arts",
+  "aliases": [
+    "《文化生产》",
+    "The Production of Culture",
+    "戴安娜·克兰《文化生产：媒体与都市艺术》"
+  ],
+  "author_id": "person_diana_crane",
+  "translator": "赵国新",
+  "edition": "译林出版社中译本第一版",
+  "publication_year": "2001",
+  "publisher": "译林出版社",
+  "isbn": "7-80567-098-5",
+  "local_source_status": "完整核读扫描PDF 1–213页；正文印刷pp.1–175、参考书目pp.176–203；11份Word仅作OCR导航，原PDF页图为准。",
+  "source_locator": "印刷页1对应PDF p.11，正文PDF页码=印刷页码+10。"
+}
