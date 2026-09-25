@@ -1,0 +1,21 @@
+{
+  "id": "book_conceptual_art_critical_anthology_1999",
+  "type": "book",
+  "name_zh": "观念艺术批评选集（工作译名）",
+  "name_en": "Conceptual Art: A Critical Anthology",
+  "aliases": [
+    "Conceptual Art: A Critical Anthology",
+    "1999 anthology on conceptual art"
+  ],
+  "editor_ids": [
+    "person_alexander_alberro",
+    "person_blake_stimson"
+  ],
+  "publication_year": 1999,
+  "publisher": "The MIT Press",
+  "isbn": "0-262-01173-5",
+  "page_count": 624,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_edition",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/1999 conceptual art-a critical anthology.pdf; SHA-256 95b5ea253559a2103ead971ab9085e77fcf85543754d30c85cd679b5bbb1ff53"
+}

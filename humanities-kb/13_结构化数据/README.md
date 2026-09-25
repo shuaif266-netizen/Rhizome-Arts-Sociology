@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-25已累计1360个实体、1651条关系；其中1530条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-25本书归档后累计1363个实体、1657条关系；其中1536条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -15,7 +15,7 @@
 - confidence 描述当前项目材料对关系的支持程度，不是真实性评分。
 - concepts.definitions 分作者记录，不把不同思想家的概念压成统一定义。
 - movements 中的“纽约摄影学派”“西海岸组装艺术”按章节中的批评分类记录；若来源未证明其为正式组织，不推断其有成员制度或共同宣言。
-- relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
+- relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、edited_by、reprints_text_from、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
 - 来源优先包含书名、章节作者、章节标题、书内页码、PDF页码和可定位段落/图注。
 - Markdown档案仍是主要的人类可读记录；结构化实体与关系不得替代、覆盖或削弱原笔记。
 
@@ -36,6 +36,12 @@
 - 新增1本书与6个轻量概念实体；复用露西·R.·利帕德人物节点。
 - 新增10条有来源关系：作者归属、六条书目—概念关系和三条跨书比较；跨书解释明确区别于利帕德的原书判断。
 - 所有新增关系含书名、作者、章节或年度范围、印刷页/PDF页、位置、证据类型、信心和状态；JSON、关系端点及重复三元组完成结构校验。
+
+### 2026-09-25：《Conceptual Art: A Critical Anthology》
+
+- 新增1本书、2位编者轻量实体；复用现有去物质化、制度批判、艺术市场概念与Lippard书籍实体。
+- 新增6条关系：两位编者、三条主题关系，以及与《六年》的后记重印关系。关系注明具体PDF页与篇目，区分文本概括和原文直接信息。
+- 全书详细阅读证据与各作者的立场差异留在[整本阅读档案](../01_单书档案/Conceptual%20Art%20A%20Critical%20Anthology_Alberro-Stimson_整本阅读档案.md)；机器关系仅作轻量入口。
 
 ### 2026-09-25：《艺术的法则》整本阅读
 
