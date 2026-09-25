@@ -1,0 +1,17 @@
+{
+  "id": "book_culture_industry_selected_essays_2005",
+  "type": "book",
+  "name_zh": "文化工业：大众文化论文选",
+  "name_en": "The Culture Industry: Selected Essays on Mass Culture",
+  "aliases": [
+    "文化工业"
+  ],
+  "author_id": "person_theodor_adorno",
+  "editor_id": "person_j_m_bernstein",
+  "publication_year": 2005,
+  "first_publication_year": 1991,
+  "publisher": "Taylor & Francis e-Library",
+  "edition": "e-Library edition; Routledge Classics edition first published 2001",
+  "local_source_status": "read_only_verified",
+  "source_locator": "【阿多诺】文化工业.pdf; SHA-256 d442322aaabe23c48c7f7302618e440b8775414e03d80c44b1f67b38627400c1"
+}
