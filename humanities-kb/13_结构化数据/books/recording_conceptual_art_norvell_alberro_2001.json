@@ -1,0 +1,27 @@
+{
+  "id": "book_recording_conceptual_art_norvell_alberro_2001",
+  "type": "book",
+  "name_zh": "观念艺术录音：早期访谈（暂译）",
+  "name_en": "Recording Conceptual Art: Early Interviews with Barry, Huebler, Kaltenbach, LeWitt, Morris, Oppenheim, Siegelaub, Smithson, and Weiner",
+  "aliases": [
+    "Recording Conceptual Art: Early Interviews",
+    "观念艺术录音：早期访谈"
+  ],
+  "editor_ids": [
+    "person_alexander_alberro",
+    "person_patricia_norvell"
+  ],
+  "interviewer_ids": [
+    "person_patricia_norvell"
+  ],
+  "publication_year": 2001,
+  "publisher": "University of California Press",
+  "edition": "1st paperback edition",
+  "isbn": "978-0-520-22011-9",
+  "page_count": 177,
+  "local_pdf_page_count": 207,
+  "illustration_count": 39,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_edition",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/2001Recording conceptual art.pdf; SHA-256 D59EA2ADA9C4F5A320795ED43A083BCFA8D783C9A09EBFAA4B29EBA4024CDE28"
+}
