@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-26《二十世纪西方文学理论》归档后累计1386个实体、1694条关系；其中1573条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-26《Documents of Doubt》归档后累计1389个实体、1705条关系；其中1584条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -361,3 +361,9 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新增1本书、1位作者、3个本书专属核心概念、结构主义／后结构主义2个补缺概念实体和1个专题实体，共8个轻量JSON实体；已有现象学、诠释学、符号学与精神分析文学批评实体直接复用。
 - 新增10条verified关系：作者归属，以及书籍与文学制度／价值判断、现象学、诠释学、接受理论、结构主义、符号学、后结构主义、精神分析文学批评、政治批评的来源关系。
 - 每条新增关系均保存书名、作者、章节、书内／PDF页码、evidence_type、confidence和status。跨书艺术史／文化生产互读保留在Markdown解释层，不强行结构化为作者明确关系。
+
+### 2026-09-26：《Documents of Doubt》
+
+- 新增1本书与2位人物轻量实体；Bochner、Nauman、Huebler、Baldessari四个个案对象与摄影真实性、photoconceptualism、indexicality等既有节点相连。
+- 新增11条有来源关系：作者、四个个案对象、主题概念、对去物质化简化叙述的修正，以及与Norvell访谈集和批评选集的连接。跨书比较标注为cross_book_interpretation。
+- 本地PDF 294页与出版社书目296页的差异、完整阅读证据和页码映射见[整本档案](../01_单书档案/疑证文件_Heather-Diack_2020_整本阅读档案.md)。原PDF与Word辅助稿不入库。
