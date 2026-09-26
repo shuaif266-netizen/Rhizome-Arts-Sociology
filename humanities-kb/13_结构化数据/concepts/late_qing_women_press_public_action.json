@@ -1,0 +1,27 @@
+{
+  "id": "concept_late_qing_women_press_public_action",
+  "type": "concept",
+  "name_zh": "晚清女报与女性公共行动",
+  "name_en": "women's periodicals and public action in late Qing China",
+  "aliases": [
+    "女报与公共行动"
+  ],
+  "definition": "夏晓虹对晚清报刊、女子学校和妇女团体案例的分析，显示女性议题如何借助刊物传播、公开信、募捐、学校活动和社团组织进入跨地域公共讨论。此条概括本书材料，不把报刊视为无立场的社会全貌。",
+  "source_limited": true,
+  "related_books": [
+    "book_late_qing_women_modern_china_xia_xiaohong_2004_zh"
+  ],
+  "related_people": [
+    "person_xia_xiaohong"
+  ],
+  "sources": [
+    {
+      "book": "晚清女性与近代中国",
+      "author": "夏晓虹",
+      "chapter": "第一、二、三、八、九、十章",
+      "page": "PDF pp.18–128, 238–340",
+      "location": "办学报道、公开信、女子刊物、社团活动与案件传播"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

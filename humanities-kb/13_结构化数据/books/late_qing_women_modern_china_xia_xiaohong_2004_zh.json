@@ -1,0 +1,45 @@
+{
+  "id": "book_late_qing_women_modern_china_xia_xiaohong_2004_zh",
+  "type": "book",
+  "name_zh": "晚清女性与近代中国",
+  "name": "Late Qing Women and Modern China",
+  "aliases": [
+    "《晚清女性与近代中国》",
+    "晚清女性与近代中国（2004）"
+  ],
+  "author": "Xia Xiaohong",
+  "authors": [
+    "person_xia_xiaohong"
+  ],
+  "publisher": "北京大学出版社",
+  "publication_year": "2004",
+  "edition": "2004年8月第1版，首次印刷",
+  "isbn": "7-301-07635-5",
+  "fields": [
+    "中国近代史",
+    "女性史",
+    "报刊史",
+    "社会文化史"
+  ],
+  "read_status": "read_in_full",
+  "related_people": [
+    "person_xia_xiaohong"
+  ],
+  "related_concepts": [
+    "concept_late_qing_women_press_public_action",
+    "concept_gendered_nationalism_late_qing",
+    "concept_public_sphere"
+  ],
+  "sources": [
+    {
+      "book": "晚清女性与近代中国",
+      "author": "夏晓虹",
+      "location": "copyright/CIP page and table of contents",
+      "page": "PDF pp.3, 13–15",
+      "chapter": "publication metadata and book structure"
+    }
+  ],
+  "source_sha256": "B3B3C2720CEBABD0DB7C42C352AC0B938BD816A8EEE1B88FA380AE8AE28AA62B",
+  "pdf_pages": 354,
+  "last_updated": "2026-09-26"
+}

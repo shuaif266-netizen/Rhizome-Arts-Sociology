@@ -1,0 +1,24 @@
+{
+  "id": "person_xia_xiaohong",
+  "type": "person",
+  "name_zh": "夏晓虹",
+  "name": "Xia Xiaohong",
+  "aliases": [
+    "夏晓虹"
+  ],
+  "fields": [
+    "中国近代文学",
+    "女性史",
+    "社会文化史"
+  ],
+  "sources": [
+    {
+      "book": "晚清女性与近代中国",
+      "author": "夏晓虹",
+      "location": "title page, copyright page and author biography",
+      "page": "PDF pp.1, 3, 12",
+      "chapter": "author and publication information"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

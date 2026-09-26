@@ -1,0 +1,27 @@
+{
+  "id": "concept_gendered_nationalism_late_qing",
+  "type": "concept",
+  "name_zh": "晚清民族主义与女性主体",
+  "name_en": "gendered nationalism in late Qing China",
+  "aliases": [
+    "女权、女学与民族国家"
+  ],
+  "definition": "本书分析的晚清论述常将女子教育、女性权利、身体改造与民族国家的存亡相连。此话语可为女性公共行动争取正当性，也可能把女性限定为生育、教养国民的工具；不同章节与人物的立场并不一致。",
+  "source_limited": true,
+  "related_books": [
+    "book_late_qing_women_modern_china_xia_xiaohong_2004_zh"
+  ],
+  "related_people": [
+    "person_xia_xiaohong"
+  ],
+  "sources": [
+    {
+      "book": "晚清女性与近代中国",
+      "author": "夏晓虹",
+      "chapter": "第三、四、八、九、十章",
+      "page": "PDF pp.91–159, 238–340",
+      "location": "女国民／国民母论述、历史记忆、旗人女学、放足和女性政治行动"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}
