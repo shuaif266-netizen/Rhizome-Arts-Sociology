@@ -1,10 +1,9 @@
 {
   "id": "book_postmodern_condition_lyotard_1979_zh_scan",
   "type": "book",
-  "title_zh": "后现代状况：关于知识的报告",
-  "title_en": "The Postmodern Condition: A Report on Knowledge",
+  "title_zh": "后现代状况",
   "author": "Jean-François Lyotard",
-  "translator": "岛子",
-  "year": "1979",
-  "source_file": "用户上传240页中文扫描PDF；SHA-256 20d8e5805697f9534caa05fffabbad061a676f0570473f24f7a47aff344377ba；扫描缺封面/版权页，中文出版社、版次、ISBN未核验"
+  "source_file": "用户上传150页中文扫描PDF；SHA-256 20d8e5805697f9534caa05fffabbad061a676f0570473f24f7a47aff344377ba；扫描从序言开始、缺封面/版权页，并在第12章PDF p.150中途截断；出版社、版次、ISBN、译者未由当前附件核验",
+  "reading_status": "partial",
+  "read_range": "PDF pp.1–150; chapters 1–11 complete, chapter 12 partial"
 }
