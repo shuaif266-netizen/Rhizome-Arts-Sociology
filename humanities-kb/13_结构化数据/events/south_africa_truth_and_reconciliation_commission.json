@@ -1,0 +1,21 @@
+{
+  "id": "event_south_africa_truth_and_reconciliation_commission",
+  "type": "event",
+  "name_zh": "南非真相与和解委员会",
+  "name_en": "South African Truth and Reconciliation Commission",
+  "aliases": [
+    "TRC",
+    "真相与和解委员会"
+  ],
+  "location": "南非",
+  "date_text": "本书以种族隔离结束后的政治转型作背景；具体起讫日期未从本地扫描文本建立",
+  "sources": [
+    {
+      "book": "《愤怒与宽恕》",
+      "author": "Martha C. Nussbaum",
+      "chapter": "第七章：政治领域——革命的正义",
+      "page": "PDF pp.295–303",
+      "location": "审判、赦免、真相与和解委员会、曼德拉政治实践的讨论"
+    }
+  ]
+}

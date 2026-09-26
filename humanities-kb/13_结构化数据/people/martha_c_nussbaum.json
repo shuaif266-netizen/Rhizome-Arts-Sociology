@@ -1,0 +1,26 @@
+{
+  "id": "person_martha_c_nussbaum",
+  "type": "person",
+  "name_zh": "玛莎·C.·努斯鲍姆",
+  "name_en": "Martha C. Nussbaum",
+  "aliases": [
+    "瑪莎·納思邦",
+    "Martha Nussbaum"
+  ],
+  "fields": [
+    "philosophy",
+    "ethics",
+    "political_philosophy",
+    "law"
+  ],
+  "sources": [
+    {
+      "book": "《愤怒与宽恕》",
+      "author": "Martha C. Nussbaum",
+      "chapter": "Acknowledgments",
+      "page": "PDF pp.329–330",
+      "location": "作者致谢说明本书源于2014年牛津大学John Locke Lectures"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

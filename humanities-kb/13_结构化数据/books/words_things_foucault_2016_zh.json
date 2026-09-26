@@ -1,0 +1,38 @@
+{
+  "id": "book_words_things_foucault_2016_zh",
+  "type": "book",
+  "name_zh": "词与物：人文科学的考古学",
+  "name_en": "The Order of Things: An Archaeology of the Human Sciences",
+  "aliases": [
+    "词与物",
+    "Les Mots et les choses",
+    "The Order of Things"
+  ],
+  "author_id": "person_michel_foucault",
+  "translator": "莫伟民",
+  "publication_year": 2016,
+  "original_publication_year": 1966,
+  "publisher": "上海三联书店",
+  "edition": "修订译本；2016年7月第1版第1次印刷",
+  "isbn": "978-7-5426-5652-0",
+  "page_count_pdf": 456,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "新鬼专栏课件\\想象的游荡：当代艺术与文学\\参考阅读\\疯狂、幽默、自反\\【中译】福柯- 词与物：人文科学考古学.pdf；原件本地只读，未上传",
+  "sources": [
+    {
+      "book": "《词与物：人文科学的考古学》",
+      "author": "Michel Foucault；莫伟民译",
+      "chapter": "题名页与CIP",
+      "page": "PDF pp.1–3",
+      "location": "作者、译者、上海三联书店、修订译本、2016年7月及ISBN"
+    },
+    {
+      "book": "《词与物：人文科学的考古学》",
+      "author": "莫伟民（译者导言）",
+      "chapter": "译者导言",
+      "page": "PDF p.8",
+      "location": "记载《词与物》1966年在巴黎出版"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

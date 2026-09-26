@@ -1,0 +1,49 @@
+{
+  "id": "book_anger_forgiveness_nussbaum_2017_zh_tw",
+  "type": "book",
+  "name_zh": "憤怒與寬恕：重思正義與法律背後的情感價值",
+  "name_en": "Anger and Forgiveness: Resentment, Generosity, Justice",
+  "aliases": [
+    "愤怒与宽恕：重思正义与法律背后的情感价值",
+    "Anger and Forgiveness"
+  ],
+  "author_id": "person_martha_c_nussbaum",
+  "translator": "高忠義",
+  "publication_year": 2017,
+  "publisher": "商周出版",
+  "edition": "2017年10月7日第1版（书目记录）",
+  "isbn": "978-986-477-323-7",
+  "page_count_pdf": 341,
+  "page_count_printed_catalog": 416,
+  "page_count_note": "本地扫描PDF 341页；书商目录列纸本416页，扫描页与纸本页未建立一一映射。阅读状态严格指向现存扫描PDF。",
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "新鬼专栏课件\\想象的游荡：当代艺术与文学\\参考阅读\\关于愤怒\\【中译】玛莎·C.努斯鲍姆 憤怒與寬恕︰重思正義與法律背後的情感價值.pdf；原件本地只读，未上传",
+  "sources": [
+    {
+      "book": "《憤怒與寬恕：重思正義與法律背後的情感價值》",
+      "author": "Martha C. Nussbaum；高忠義譯",
+      "chapter": "題名頁",
+      "page": "PDF pp.1–2",
+      "location": "作者、繁體中文題名及商周出版標識"
+    },
+    {
+      "book": "《憤怒與寬恕：重思正義與法律背後的情感價值》",
+      "author": "金石堂書店書目記錄",
+      "chapter": "出版資訊",
+      "page": "外部書目頁",
+      "location": "出版日、譯者、ISBN、紙本頁數416；與本地掃描件PDF頁數341分開記錄",
+      "url": "https://www.kingstone.com.tw/basic/2800000123681/"
+    },
+    {
+      "book": "Anger and Forgiveness: Resentment, Generosity, Justice",
+      "author": "Martha C. Nussbaum",
+      "chapter": "original edition bibliographic record",
+      "page": "n/a",
+      "location": "English title, Oxford University Press, 2016; cited record: https://www.sanmin.com.tw/product/index/005589339"
+    }
+  ],
+  "last_updated": "2026-09-27",
+  "original_publication_year": 2016,
+  "original_publisher": "Oxford University Press",
+  "original_isbn": "978-0-19-933587-9"
+}
