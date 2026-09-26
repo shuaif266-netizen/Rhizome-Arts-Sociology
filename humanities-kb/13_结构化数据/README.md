@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-26《Documents of Doubt》归档后累计1389个实体、1705条关系；其中1584条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-26《单行道》归档后累计1394个实体、1711条关系；其中1590条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -367,3 +367,10 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新增1本书与2位人物轻量实体；Bochner、Nauman、Huebler、Baldessari四个个案对象与摄影真实性、photoconceptualism、indexicality等既有节点相连。
 - 新增11条有来源关系：作者、四个个案对象、主题概念、对去物质化简化叙述的修正，以及与Norvell访谈集和批评选集的连接。跨书比较标注为cross_book_interpretation。
 - 本地PDF 294页与出版社书目296页的差异、完整阅读证据和页码映射见[整本档案](../01_单书档案/疑证文件_Heather-Diack_2020_整本阅读档案.md)。原PDF与Word辅助稿不入库。
+
+
+### 2026-09-26：《单行道》
+
+- 新增1本书与4个轻量概念实体：思想意象／短形式、广告／距离／震惊、技术／自然关系、儿童／物世界；复用Walter Benjamin与Theodor W. Adorno既有人物节点。
+- 新增6条verified关系，记录作者归属、四个核心问题和Adorno对全书的Denkbild解释；每条关系均使用书内页码与PDF页码。
+- 原扫描PDF为179页、无文本层；结构化数据只保存书目身份和少量关系，原PDF、OCR与页图不入库。
