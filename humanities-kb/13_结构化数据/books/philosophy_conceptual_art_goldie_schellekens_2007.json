@@ -1,0 +1,21 @@
+{
+  "id": "book_philosophy_conceptual_art_goldie_schellekens_2007",
+  "type": "book",
+  "name_zh": "哲学与观念艺术（暂译）",
+  "name_en": "Philosophy and Conceptual Art",
+  "aliases": [
+    "Philosophy and Conceptual Art",
+    "Oxford 2007 conceptual art philosophy volume"
+  ],
+  "editor_ids": [
+    "person_peter_goldie",
+    "person_elisabeth_schellekens"
+  ],
+  "publication_year": 2007,
+  "publisher": "Oxford University Press / Clarendon Press",
+  "isbn": "978-0-19-928555-6",
+  "page_count": 308,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_edition",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/2007Philosophy and Conceptual Art.pdf; SHA-256 DE1750354FE33D9C9A92BE552958CA9150BAA3E0588E6A6F04870AC42E99A304"
+}

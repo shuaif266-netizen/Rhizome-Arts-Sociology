@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-25本书归档后累计1363个实体、1657条关系；其中1536条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-26《Philosophy and Conceptual Art》归档后累计1367个实体、1663条关系；其中1542条为status=verified，覆盖部分已实际阅读章节；不是全书实体迁移或完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源关系自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -338,3 +338,9 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 ### 《历史资本主义》（2026-09-25）
 
 新增轻量书目实体与4个来源限定概念实体；5条关系带章节、页码、证据类型、confidence和status。覆盖积累、半无产阶级家庭、核心—边缘与地缘文化；其他论证仍以中文Markdown档案为主。英语段与中译本的扫描边界分别登记。
+
+### 2026-09-26：《Philosophy and Conceptual Art》
+
+- 新增1本书、两位编者轻量实体及“观念艺术的审美价值与认知价值”概念实体；新增6条带原书位置的关系。
+- 关系区分编者身份、章节文本概括与跨书解释；跨书比较链接到《Conceptual Art: A Critical Anthology》，不把不同章节立场合并成单一结论。
+- 全书阅读位置、章节分歧和页码边界见[整本档案](../01_单书档案/哲学与观念艺术_Goldie-Schellekens_2007_整本阅读档案.md)和[阅读进度](../00_项目管理/哲学与观念艺术阅读进度.md)。原PDF和Word辅助分卷不入库。
