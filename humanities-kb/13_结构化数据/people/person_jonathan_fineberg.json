@@ -1,0 +1,23 @@
+{
+  "id": "person_jonathan_fineberg",
+  "type": "person",
+  "name_zh": "乔纳森·费恩伯格",
+  "name": "Jonathan Fineberg",
+  "aliases": [
+    "Jonathan Fineberg"
+  ],
+  "fields": [
+    "艺术史",
+    "现代艺术"
+  ],
+  "sources": [
+    {
+      "book": "一九四零年以来的艺术：艺术生存的策略",
+      "author": "Jonathan Fineberg",
+      "location": "title and copyright pages",
+      "page": "PDF p.4",
+      "chapter": "author and publication information"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

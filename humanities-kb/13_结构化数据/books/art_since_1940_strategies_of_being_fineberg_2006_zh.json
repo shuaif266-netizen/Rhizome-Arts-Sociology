@@ -1,0 +1,42 @@
+{
+  "id": "book_art_since_1940_strategies_of_being_fineberg_2006_zh",
+  "type": "book",
+  "name_zh": "一九四零年以来的艺术：艺术生存的策略",
+  "name": "Art Since 1940: Strategies of Being",
+  "aliases": [
+    "一九四零年以来的艺术",
+    "Art Since 1940"
+  ],
+  "author": "Jonathan Fineberg",
+  "authors": [
+    "person_jonathan_fineberg"
+  ],
+  "publisher": "中国人民大学出版社",
+  "publication_year": "2006",
+  "edition": "中文第1版；据作者序言，本译本依据英文第2版",
+  "isbn": "7-300-07528-2",
+  "fields": [
+    "现代艺术史",
+    "战后艺术",
+    "艺术社会史"
+  ],
+  "read_status": "read_in_full",
+  "related_people": [
+    "person_jonathan_fineberg"
+  ],
+  "related_concepts": [
+    "concept_strategies_of_being_art",
+    "concept_existentialist_postwar_figuration",
+    "concept_postmodernism"
+  ],
+  "sources": [
+    {
+      "book": "一九四零年以来的艺术：艺术生存的策略",
+      "author": "Jonathan Fineberg",
+      "location": "copyright page, author preface and table of contents",
+      "page": "PDF pp.4, 11–20, 23–29",
+      "chapter": "publication metadata and author preface"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "concept_strategies_of_being_art",
+  "type": "concept",
+  "name_zh": "艺术生存的策略",
+  "name": "strategies of being",
+  "aliases": [
+    "艺术家的生存策略"
+  ],
+  "definition": "Jonathan Fineberg为其1940年以来艺术史叙述采用的观察框架：从艺术家的经验、处境和形式选择进入作品，并将个案放回社会与艺术制度的历史脉络。此条记录该书的分析框架，不主张这是适用于所有艺术家的统一理论。",
+  "type_note": "source-limited authorial frame",
+  "related_books": [
+    "book_art_since_1940_strategies_of_being_fineberg_2006_zh"
+  ],
+  "related_people": [
+    "person_jonathan_fineberg"
+  ],
+  "sources": [
+    {
+      "book": "一九四零年以来的艺术：艺术生存的策略",
+      "author": "Jonathan Fineberg",
+      "location": "author preface and introduction",
+      "page": "PDF pp.23–39",
+      "chapter": "narrative method and the artist's experience"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}
