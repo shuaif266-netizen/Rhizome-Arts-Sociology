@@ -1,0 +1,24 @@
+{
+  "id": "book_documents_of_doubt_diack_2020",
+  "type": "book",
+  "name_zh": "疑证文件：观念艺术的摄影条件（暂译）",
+  "name_en": "Documents of Doubt: The Photographic Conditions of Conceptual Art",
+  "aliases": [
+    "Documents of Doubt",
+    "The Photographic Conditions of Conceptual Art"
+  ],
+  "author_ids": [
+    "person_heather_diack"
+  ],
+  "publication_year": 2020,
+  "publisher": "University of Minnesota Press",
+  "edition": "paperback",
+  "isbn": "978-1-5179-0757-0",
+  "page_count": 296,
+  "local_pdf_page_count": 294,
+  "local_word_chunks": 15,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_available_pdf_full_content",
+  "publisher_url": "https://www.upress.umn.edu/9781517907570/documents-of-doubt/",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/2020The Photographic Conditions of Conceptual Art.pdf; SHA-256 4161ff73f71ab93748e998d88422d17d5ddad08266eb1be012b542244dc3bf44"
+}
