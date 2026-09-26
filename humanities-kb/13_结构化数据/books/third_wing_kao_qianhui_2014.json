@@ -1,0 +1,24 @@
+{
+  "id": "book_third_wing_kao_qianhui_2014",
+  "type": "book",
+  "name_zh": "第三翅膀：艺术观念及其不满",
+  "name_en": "Third Wing: Art Concept and Its Discontents",
+  "aliases": [
+    "第三翅膀",
+    "第三翅膀：藝術觀念及其不滿"
+  ],
+  "author_ids": [
+    "person_gao_qianhui"
+  ],
+  "publication_year": 2014,
+  "publisher": "典藏藝術家庭",
+  "edition": "初版",
+  "isbn": "978-986-6049-65-1",
+  "page_count": 368,
+  "local_pdf_page_count": 370,
+  "local_word_chunks": 19,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_book",
+  "book_catalog_url": "https://www.sanmin.com.tw/product/index/004613793",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/【中文】第三翅膀——藝術觀念及其不滿 by 高千惠.pdf; SHA-256 db395d7fdc8d3b642230591e8c51ed276daafaf84e5150383ed96a5451756ae4"
+}
