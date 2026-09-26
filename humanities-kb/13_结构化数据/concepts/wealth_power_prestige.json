@@ -1,0 +1,18 @@
+{
+  "id": "concept_wealth_power_prestige",
+  "type": "concept",
+  "name_zh": "财富、权力与声望",
+  "name_en": "wealth, power, and prestige",
+  "aliases": [
+    "三维资源框架"
+  ],
+  "definitions": [
+    {
+      "author": "杨继绳",
+      "book": "中国当代社会各阶层分析",
+      "chapter": "第一章；第十五章",
+      "page": "印刷 pp.1–15、340–353 / PDF pp.16–30、355–368",
+      "definition": "作者用来分析社会位置的三个主要维度；三者相互关联但不等同。第十五章的权重为财富0.36、权力0.38、声望0.26，作者承认模型没有新抽样调查作验证。"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "book_yang_jisheng_social_strata_2006_zh",
+  "type": "book",
+  "name_zh": "中国当代社会各阶层分析",
+  "name": "中国当代社会各阶层分析",
+  "aliases": [
+    "中国当代社会各阶层分析（杨继绳）"
+  ],
+  "author": "杨继绳",
+  "authors": [
+    "person_yang_jisheng"
+  ],
+  "publisher": "甘肃人民出版社",
+  "publication_year": "2006",
+  "edition": "2006年12月第1版、第1次印刷",
+  "isbn": "7-226-03493-X",
+  "fields": [
+    "社会学",
+    "社会分层",
+    "中国当代社会史"
+  ],
+  "read_status": "partially_read",
+  "read_status_note": "原PDF pp.1–416中，除扫描原件明确缺失的pp.74–75（印刷pp.59–60）外，所有现存内容已核读；未获得可核验的替代版本。",
+  "related_people": [
+    "person_yang_jisheng"
+  ],
+  "related_concepts": [
+    "concept_social_stratification_yang_jisheng",
+    "concept_wealth_power_prestige",
+    "concept_social_mobility_yang_jisheng",
+    "concept_class_consciousness_yang_jisheng"
+  ],
+  "sources": [
+    {
+      "book": "中国当代社会各阶层分析",
+      "author": "杨继绳",
+      "chapter": "版权页与CIP信息",
+      "page": "PDF p.3",
+      "location": "作者、出版社、ISBN、2006年12月第一版与第一次印刷"
+    },
+    {
+      "book": "中国当代社会各阶层分析",
+      "author": "杨继绳",
+      "chapter": "全书目录",
+      "page": "PDF pp.10–15",
+      "location": "十八章标题及印刷页码"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

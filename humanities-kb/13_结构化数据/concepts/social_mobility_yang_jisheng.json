@@ -1,0 +1,21 @@
+{
+  "id": "concept_social_mobility_yang_jisheng",
+  "type": "concept",
+  "name_zh": "阶层流动与阶层继承",
+  "name_en": "social mobility and social inheritance",
+  "aliases": [
+    "结构流动",
+    "循环流动",
+    "代际流动",
+    "代内流动"
+  ],
+  "definitions": [
+    {
+      "author": "杨继绳",
+      "book": "中国当代社会各阶层分析",
+      "chapter": "第十六章　阶层继承和阶层流动",
+      "page": "印刷 pp.354–375 / PDF pp.369–390",
+      "definition": "以代际、代内、横向、纵向及结构/循环等区别描述社会位置的变化，并讨论家庭背景、户籍、教育、职业结构和行政安排对地位取得的影响。"
+    }
+  ]
+}

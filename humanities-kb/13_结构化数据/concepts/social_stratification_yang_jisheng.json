@@ -1,0 +1,18 @@
+{
+  "id": "concept_social_stratification_yang_jisheng",
+  "type": "concept",
+  "name_zh": "社会分层与社会阶层",
+  "name_en": "social stratification and social strata",
+  "aliases": [
+    "阶层分析"
+  ],
+  "definitions": [
+    {
+      "author": "杨继绳",
+      "book": "中国当代社会各阶层分析",
+      "chapter": "第一章　社会分层的理论和分层标准",
+      "page": "印刷 pp.1–15 / PDF pp.16–30",
+      "definition": "以资源与社会位置差异考察群体间的分化；作者将其与以生产关系为中心的阶级分析区分，同时讨论两者在利益和冲突问题上的关联。"
+    }
+  ]
+}
