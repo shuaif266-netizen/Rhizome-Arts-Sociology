@@ -1,0 +1,32 @@
+{
+  "id": "book_china_thought_reference_late_qing_republic_2005",
+  "type": "book",
+  "name_zh": "中国思想史参考资料集·晚清至民国卷（上、下编）",
+  "name_en": "",
+  "aliases": [
+    "中国思想史参考资料集·晚清至民国卷",
+    "晚清至民国卷（上、下编）"
+  ],
+  "editor_ids": [
+    "person_zhang_yong_late_qing_thought",
+    "person_cai_lesu_late_qing_thought"
+  ],
+  "publication_year": 2005,
+  "publisher": "清华大学出版社",
+  "edition": "2005年8月第1版、第1次印刷；上下编一套",
+  "isbn": "7-302-10840-4",
+  "page_count_printed": 654,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_set",
+  "source_locator": "书/中国思想史参考资料集·晚清至民国卷 （上编）.pdf；书/中国思想史参考资料集·晚清至民国卷 （下编）.pdf；仅知识库阅读档案上传",
+  "sources": [
+    {
+      "book": "中国思想史参考资料集·晚清至民国卷（上、下编）",
+      "author": "张勇、蔡乐苏（主编）",
+      "chapter": "上编版权与CIP信息",
+      "page": "上编PDF p.4",
+      "location": "题名、主编、出版者、出版时间与ISBN"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}
