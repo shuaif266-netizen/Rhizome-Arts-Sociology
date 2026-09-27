@@ -3,5 +3,14 @@
   "type": "person",
   "name_zh": "罗兰·巴特",
   "name_en": "Roland Barthes",
-  "aliases": []
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《恋人絮语：一个解构主义的文本》",
+      "author": "罗兰·巴特",
+      "chapter": "现存正文片段",
+      "page": "PDF pp.17–279",
+      "location": "恋人话语、片段式写作、符号和身体；目录所列印刷pp.1–2导读缺页"
+    }
+  ]
 }

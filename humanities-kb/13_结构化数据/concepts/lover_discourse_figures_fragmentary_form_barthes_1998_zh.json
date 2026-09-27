@@ -1,0 +1,21 @@
+{
+  "id": "concept_lover_discourse_figures_fragmentary_form_barthes_1998_zh",
+  "type": "concept",
+  "name_zh": "恋人话语的图形与片段结构",
+  "name_en": "figures and fragmentary form of lover’s discourse",
+  "aliases": [
+    "恋人的图形",
+    "恋人絮语的片段结构"
+  ],
+  "definition_scope": "罗兰·巴特《恋人絮语》中的文体与主体经验；不作为所有恋爱关系的通用心理诊断。",
+  "summary": "以情感图形片段呈现恋人如何说、读、误读和重写关系；片段互相回返而不合成连续情节。语言既表达感受，也构成恋人的主体经验。",
+  "sources": [
+    {
+      "book": "《恋人絮语：一个解构主义的文本》",
+      "author": "罗兰·巴特；汪耀进、武佩荣译",
+      "chapter": "现存正文片段",
+      "page": "PDF pp.17–279",
+      "location": "片段组织、第一人称独白、文学联想、符号解释和身体经验；印刷导读pp.1–2缺页"
+    }
+  ]
+}

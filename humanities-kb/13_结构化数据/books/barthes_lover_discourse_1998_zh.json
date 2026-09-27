@@ -1,0 +1,57 @@
+{
+  "id": "book_barthes_lover_discourse_1998_zh",
+  "type": "book",
+  "name_zh": "恋人絮语：一个解构主义的文本",
+  "name_original": "Fragments d’un discours amoureux",
+  "aliases": [
+    "《恋人絮语》",
+    "恋人絮语——一个解构主义文本"
+  ],
+  "author_id": "person_roland_barthes",
+  "translator": "汪耀进、武佩荣",
+  "publication_year": 1998,
+  "publisher": "上海人民出版社",
+  "edition": "1998年11月第1版、第1次印刷",
+  "isbn": "7-208-00262-2/B·48",
+  "page_count_pdf": 280,
+  "last_read_pdf_page": 280,
+  "last_content_page_pdf": 279,
+  "last_printed_folio": 260,
+  "reading_status": "partially_read_missing_print_pages_1_2",
+  "missing_print_pages": [
+    1,
+    2
+  ],
+  "source_locator": "项目目录中的1998年扫描PDF；同名无(1)副本SHA-256相同；导读印刷pp.1–2未见于扫描。",
+  "sha256": "4ec9b2c7ada92bdbb3c9753873a3b9e151dd3d049af82b9cf901ffed68577a61",
+  "sources": [
+    {
+      "book": "《恋人絮语：一个解构主义的文本》",
+      "author": "罗兰·巴特；汪耀进、武佩荣译",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.1–2",
+      "location": "作者、译者、出版者、版次、日期及ISBN；版权页已核图"
+    },
+    {
+      "book": "《恋人絮语：一个解构主义的文本》",
+      "author": "罗兰·巴特",
+      "chapter": "现存正文片段",
+      "page": "PDF pp.17–279",
+      "location": "恋人图形、符号、身体、记忆与语言；印刷pp.1–2导读缺页"
+    },
+    {
+      "book": "《恋人絮语：一个解构主义的文本》",
+      "author": "目录署名汪耀进",
+      "chapter": "导读缺页位置",
+      "page": "PDF p.3；目录列印刷pp.1–2",
+      "location": "《罗兰·巴特和他的〈恋人絮语〉》《本书的问世》《本书怎样构成》；对应纸本页不在现有扫描中"
+    },
+    {
+      "book": "《恋人絮语：一个解构主义的文本》",
+      "author": "扫描页末标记",
+      "chapter": "数字化结束页",
+      "page": "PDF p.280",
+      "location": "红色手写“The End”附加页，不计正文"
+    }
+  ]
+}
