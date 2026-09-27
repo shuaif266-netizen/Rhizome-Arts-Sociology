@@ -1,0 +1,17 @@
+{
+  "id": "person_peter_sloterdijk",
+  "type": "person",
+  "name_zh": "彼得·斯洛特戴克",
+  "name_en": "Peter Sloterdijk",
+  "aliases": ["斯洛特戴克"],
+  "profile_scope": "仅依据本项目已读文本记录，不补写完整生平",
+  "sources": [
+    {
+      "book": "《资本的内部：全球化的哲学理论》",
+      "author": "彼得·斯洛特戴克",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.3–5",
+      "location": "作者署名与原作出版信息"
+    }
+  ]
+}

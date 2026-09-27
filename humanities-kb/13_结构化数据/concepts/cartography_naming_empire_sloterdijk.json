@@ -1,0 +1,17 @@
+{
+  "id": "concept_cartography_naming_empire_sloterdijk",
+  "type": "concept",
+  "name_zh": "制图、命名与帝国的世界图像",
+  "name_en": "cartography, naming, and imperial world image",
+  "aliases": ["制图学与帝国命名", "发现与占有"],
+  "definition_scope": "斯洛特戴克《资本的内部》第17、18、26章中的论述；具体地图史仍需专门材料核验",
+  "sources": [
+    {
+      "book": "《资本的内部：全球化的哲学理论》",
+      "author": "彼得·斯洛特戴克",
+      "chapter": "第17、18、26章",
+      "page": "PDF pp.166–190、224–228",
+      "location": "探险记录、地图、测绘、地名政治、档案与全球图书馆"
+    }
+  ]
+}

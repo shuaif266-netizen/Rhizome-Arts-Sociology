@@ -1,0 +1,35 @@
+{
+  "id": "book_sloterdijk_interior_of_capital_2014_zh",
+  "type": "book",
+  "name_zh": "资本的内部：全球化的哲学理论",
+  "name_original": "Im Weltinnenraum des Kapitals",
+  "aliases": ["《资本的内部》", "Peter Sloterdijk：Im Weltinnenraum des Kapitals"],
+  "author_id": "person_peter_sloterdijk",
+  "translator": "常晖",
+  "publication_year": 2014,
+  "publisher": "社会科学文献出版社",
+  "edition": "2014年1月第1版；2014年6月第1次印刷",
+  "isbn": "978-7-5097-5088-9",
+  "page_count_pdf": 438,
+  "reading_status": "completed_entire_local_scan",
+  "last_read_pdf_page": 438,
+  "source_locator": "书\\资本的内部：全球化的哲学理论_13459193.pdf；原始PDF与Word辅助卷留在本地只读",
+  "sources": [
+    {
+      "book": "《资本的内部：全球化的哲学理论》",
+      "author": "彼得·斯洛特戴克；常晖译",
+      "chapter": "题名页、CIP与版权页",
+      "page": "PDF pp.3–5",
+      "location": "作者、译者、出版信息、ISBN与德文原题"
+    },
+    {
+      "book": "《资本的内部：全球化的哲学理论》",
+      "author": "彼得·斯洛特戴克",
+      "chapter": "全书",
+      "page": "PDF pp.24–436；印刷pp.3–415",
+      "location": "42章正文及注释；PDF pp.437–438为目录复页"
+    }
+  ],
+  "local_source_status": "438页图像PDF已逐页核读；22份Word辅助分卷页标连续覆盖pp.1–438。PDF pp.437–438为重复目录页，无印刷页码；正文末页为PDF p.436。原PDF与Word未上传。",
+  "last_updated": "2026-09-27"
+}

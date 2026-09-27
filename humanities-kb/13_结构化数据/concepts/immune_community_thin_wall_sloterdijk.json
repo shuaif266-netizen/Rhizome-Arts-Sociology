@@ -1,0 +1,17 @@
+{
+  "id": "concept_immune_community_thin_wall_sloterdijk",
+  "type": "concept",
+  "name_zh": "全球化中的免疫共同体与薄墙社会",
+  "name_en": "immune community and thin-walled society under globalization",
+  "aliases": ["免疫学的变形", "薄墙社会"],
+  "definition_scope": "斯洛特戴克《资本的内部》第30、35、37章中的特定用法；不等同于医学免疫概念",
+  "sources": [
+    {
+      "book": "《资本的内部：全球化的哲学理论》",
+      "author": "彼得·斯洛特戴克",
+      "chapter": "第30、35、37章",
+      "page": "PDF pp.252–261、314–322、353–371",
+      "location": "共同体保护与边界、系统责任、福利和减轻负担"
+    }
+  ]
+}
