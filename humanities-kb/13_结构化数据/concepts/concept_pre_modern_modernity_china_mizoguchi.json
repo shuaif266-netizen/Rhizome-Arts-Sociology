@@ -1,0 +1,19 @@
+{
+  "id": "concept_pre_modern_modernity_china_mizoguchi",
+  "type": "concept",
+  "name_zh": "前近代／近代的中国思想史分期",
+  "name_en": "",
+  "aliases": [],
+  "source_book_id": "book_china_premodern_thought_evolution_mizoguchi_1997_zh",
+  "source_pages_pdf": "PDF pp.4–8,16–59,348–350",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "author": "沟口雄三",
+      "view": "避免将欧洲近代史写成普遍阶梯，转而从中国思想内部概念变化考察其历史路径。",
+      "source_pages_pdf": "PDF pp.4–8,16–59,348–350",
+      "source_chapter": "序言、序章及附文序言"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

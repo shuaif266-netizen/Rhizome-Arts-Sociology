@@ -1,0 +1,19 @@
+{
+  "id": "concept_chinese_natural_law_benli_dangran",
+  "type": "concept",
+  "name_zh": "中国自然法（沟口的比较概念）",
+  "name_en": "",
+  "aliases": [],
+  "source_book_id": "book_china_premodern_thought_evolution_mizoguchi_1997_zh",
+  "source_pages_pdf": "PDF pp.305–335,321–334",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "author": "沟口雄三",
+      "view": "“自然法”在本书中是比较分析工具；作者以“本来／合当”讨论中国理气思想的社会机能，不将其等同于欧洲神学自然法。",
+      "source_pages_pdf": "PDF pp.305–335,321–334",
+      "source_chapter": "下论第四章"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

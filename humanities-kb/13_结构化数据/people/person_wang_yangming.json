@@ -1,0 +1,15 @@
+{
+  "id": "person_wang_yangming",
+  "type": "person",
+  "name_zh": "王阳明",
+  "name_en": "Wang Yangming",
+  "aliases": [
+    "王守仁",
+    "阳明"
+  ],
+  "source_book": "中国前近代思想的演变",
+  "source_chapter": "晚明心学转折的主要思想来源。",
+  "source_pages": "PDF pp.166–179,262–263",
+  "source_limited_summary": "沟口讨论心即理、致良知与无善无恶，指出其新的主体方法仍带有特定伦理内容。",
+  "last_updated": "2026-09-27"
+}

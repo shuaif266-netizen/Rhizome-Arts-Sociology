@@ -1,0 +1,42 @@
+{
+  "id": "book_china_premodern_thought_evolution_mizoguchi_1997_zh",
+  "type": "book",
+  "name_zh": "中国前近代思想的演变",
+  "name_en": "",
+  "aliases": [
+    "中国前近代思想的屈折与展开（正文页眉用题）"
+  ],
+  "author_id": "person_mizoguchi_yuzo",
+  "translator": "索介然、龚颖",
+  "publication_year": 1997,
+  "publisher": "中华书局",
+  "edition": "1997年10月第1版",
+  "isbn": "7-101-01586-7",
+  "page_count_pdf": 497,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\中国前近代思想的演变.pdf；PDF pp.1–497全部顺序阅读；原件留本地只读，未上传",
+  "sources": [
+    {
+      "book": "中国前近代思想的演变",
+      "author": "沟口雄三",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.2–3",
+      "location": "题名页核对题名、作者、译者、出版社、版次与ISBN"
+    },
+    {
+      "book": "中国前近代思想的演变",
+      "author": "沟口雄三",
+      "chapter": "目录与扫描本附载论文目录",
+      "page": "PDF pp.9,12–14,346",
+      "location": "核对序章、上论、下论、年表、后语、译后记及附载《所谓东林派人士的思想》篇章次序"
+    },
+    {
+      "book": "中国前近代思想的演变",
+      "author": "沟口雄三",
+      "chapter": "全书",
+      "page": "PDF pp.1–497",
+      "location": "13份OCR分卷页标逐页覆盖497页，各页标一次；原PDF扫描页是最终核对依据"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

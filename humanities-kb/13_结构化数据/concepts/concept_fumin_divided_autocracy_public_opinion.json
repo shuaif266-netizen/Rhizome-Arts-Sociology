@@ -1,0 +1,19 @@
+{
+  "id": "concept_fumin_divided_autocracy_public_opinion",
+  "type": "concept",
+  "name_zh": "富民分治与公论（沟口的分析概念）",
+  "name_en": "",
+  "aliases": [],
+  "source_book_id": "book_china_premodern_thought_evolution_mizoguchi_1997_zh",
+  "source_pages_pdf": "PDF pp.243–260,348–390,441–460",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "author": "沟口雄三",
+      "view": "东林与黄宗羲所设想的公论、臣权、学校和法度对皇帝权力形成限制，但社会基础仍主要是富民、士绅和地主阶层。",
+      "source_pages_pdf": "PDF pp.243–260,348–390,441–460",
+      "source_chapter": "《明夷待访录》历史地位及附文政治论述"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}
