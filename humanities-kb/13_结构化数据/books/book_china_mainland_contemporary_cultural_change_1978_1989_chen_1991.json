@@ -1,0 +1,123 @@
+{
+  "id": "book_china_mainland_contemporary_cultural_change_1978_1989_chen_1991",
+  "type": "book",
+  "name_zh": "中国大陆当代文化变迁（1978—1989）",
+  "name_en": "",
+  "aliases": [
+    "中国大陆当代文化变迁_11008231",
+    "桂冠丛刊第14种"
+  ],
+  "author_id": "",
+  "editor_id": "person_chen_kuide",
+  "contributors": [
+    {
+      "person_id": "person_yu_yingshi",
+      "name_zh": "余英时",
+      "chapter": "引言：思想交流及其文化后果",
+      "pdf_pages": "PDF pp.10–15"
+    },
+    {
+      "person_id": "person_fu_weixun",
+      "name_zh": "傅伟勋",
+      "chapter": "外来思潮的冲击与多元开放的文化创新——回顾与前瞻",
+      "pdf_pages": "PDF pp.16–29"
+    },
+    {
+      "person_id": "person_su_xiaokang",
+      "name_zh": "苏晓康",
+      "chapter": "当代中国的文化紧张",
+      "pdf_pages": "PDF pp.30–44"
+    },
+    {
+      "person_id": "person_chen_kuide",
+      "name_zh": "陈奎德",
+      "chapter": "编者；序言；文化热：背景、思潮及两种倾向",
+      "pdf_pages": "PDF pp.5–8、46–70"
+    },
+    {
+      "person_id": "person_hu_ping",
+      "name_zh": "胡平",
+      "chapter": "自由主义思潮在中国的命运",
+      "pdf_pages": "PDF pp.72–122"
+    },
+    {
+      "person_id": "person_ding_xueliang",
+      "name_zh": "丁学良",
+      "chapter": "新马克思主义对中国大陆的影响",
+      "pdf_pages": "PDF pp.124–153"
+    },
+    {
+      "person_id": "person_li_shaomin",
+      "name_zh": "李少民",
+      "chapter": "中国大陆十年改革与马列主义",
+      "pdf_pages": "PDF pp.154–162"
+    },
+    {
+      "person_id": "person_yang_bingzhang",
+      "name_zh": "杨炳章",
+      "chapter": "关于儒学第三期和中国文化的前途",
+      "pdf_pages": "PDF pp.164–177"
+    },
+    {
+      "person_id": "person_yang_xiaokai",
+      "name_zh": "杨小凯",
+      "chapter": "评《河殇》代表的“新思潮”",
+      "pdf_pages": "PDF pp.178–191"
+    },
+    {
+      "person_id": "person_su_wei",
+      "name_zh": "苏炜",
+      "chapter": "文学的“寻根”与“话语”的嬗变",
+      "pdf_pages": "PDF pp.192–216"
+    },
+    {
+      "person_id": "person_liu_chang",
+      "name_zh": "刘昶",
+      "chapter": "国外学术思潮和当代中国史学",
+      "pdf_pages": "PDF pp.218–230"
+    },
+    {
+      "person_id": "person_zhang_langlang",
+      "name_zh": "张郎郎",
+      "chapter": "西来丹青引：近年来外国美术对中国美术界的影响",
+      "pdf_pages": "PDF pp.232–256"
+    },
+    {
+      "person_id": "person_yin_ding",
+      "name_zh": "殷鼎",
+      "chapter": "私生活的权利与范围",
+      "pdf_pages": "PDF pp.258–280"
+    }
+  ],
+  "publication_year": 1991,
+  "publisher": "桂冠图书股份有限公司（台北）",
+  "edition": "1991年7月初版一刷",
+  "isbn": "957-551-432-7",
+  "page_count_pdf": 287,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\中国大陆当代文化变迁_11008231.pdf；PDF pp.1–287；原件本地只读，未上传",
+  "sources": [
+    {
+      "book": "《中国大陆当代文化变迁（1978—1989）》",
+      "author": "陈奎德",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.3–4",
+      "location": "核对题名、主编、出版地、出版社、版本、印次与ISBN"
+    },
+    {
+      "book": "《中国大陆当代文化变迁（1978—1989）》",
+      "author": "陈奎德",
+      "chapter": "目录",
+      "page": "PDF p.9",
+      "location": "核对十三篇文章的篇名、作者及印刷起页"
+    },
+    {
+      "book": "《中国大陆当代文化变迁（1978—1989）》",
+      "author": "各篇作者",
+      "chapter": "全书",
+      "page": "PDF pp.1–287",
+      "location": "逐页阅读；八张空白页经原页图核验；作者简介及末页亦已读"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}
