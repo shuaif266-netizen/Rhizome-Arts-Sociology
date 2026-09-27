@@ -1,0 +1,20 @@
+{
+  "id": "concept_equal_liberty_market_distribution_zhou_2010",
+  "type": "concept",
+  "name_zh": "平等自由与市场分配",
+  "name_en": "equal liberty and market distribution",
+  "aliases": [
+    "自由的社会分配"
+  ],
+  "definition_scope": "周保松对放任自由主义自由论证的批评。",
+  "summary": "财产权既保障拥有者使用和转让财产的自由，也限制非拥有者的行动空间；市场分配因而同时分配资源与实际自由。核心问题是哪些自由应由何种制度平等保障。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "第3章《资本主义最能促进自由吗？》",
+      "page": "PDF pp.102–123",
+      "location": "自由总量论、产权与公园例子、贫富不平等和政治自由"
+    }
+  ]
+}

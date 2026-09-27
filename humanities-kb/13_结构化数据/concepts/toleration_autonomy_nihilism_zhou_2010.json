@@ -1,0 +1,20 @@
+{
+  "id": "concept_toleration_autonomy_nihilism_zhou_2010",
+  "type": "concept",
+  "name_zh": "宽容、自主与价值虚无主义",
+  "name_en": "toleration, autonomy, and nihilism",
+  "aliases": [
+    "宽容悖论"
+  ],
+  "definition_scope": "周保松对自由主义宽容的规范性辩护。",
+  "summary": "宽容并非认为所有价值等同；它允许对信念作道德异议，同时以尊重自主的道德主体为由克制强制干预。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "第4章《自由主义、宽容与虚无主义》",
+      "page": "PDF pp.124–166",
+      "location": "施特劳斯批评、洛克宗教宽容、密尔伤害原则、罗尔斯道德建构主义与宽容悖论"
+    }
+  ]
+}

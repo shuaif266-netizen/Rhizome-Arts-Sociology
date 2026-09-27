@@ -1,0 +1,26 @@
+{
+  "id": "person_zhou_baosong",
+  "type": "person",
+  "name_zh": "周保松",
+  "name_en": "Zhou Baosong",
+  "aliases": [
+    "周保松（政治哲学）"
+  ],
+  "profile_scope": "仅据《自由人的平等政治》及作者跋记录，不补写完整生平。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "题名页、CIP与自序",
+      "page": "PDF pp.3–4、13–21",
+      "location": "作者署名与其自由主义、平等和社会正义的问题意识"
+    },
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "作者跋《行于所当行——我的哲学之路》",
+      "page": "PDF pp.261–299",
+      "location": "回顾香港中文大学、约克大学与伦敦政经学院的求学和政治哲学写作"
+    }
+  ]
+}

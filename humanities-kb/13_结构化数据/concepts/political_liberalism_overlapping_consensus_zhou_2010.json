@@ -1,0 +1,20 @@
+{
+  "id": "concept_political_liberalism_overlapping_consensus_zhou_2010",
+  "type": "concept",
+  "name_zh": "政治自由主义与交迭共识",
+  "name_en": "political liberalism and overlapping consensus",
+  "aliases": [
+    "自立的政治正义观"
+  ],
+  "definition_scope": "周保松对罗尔斯后期政治自由主义的说明与保留意见。",
+  "summary": "在合理多元主义中，不同人生观的公民可从各自理由出发，接受一套公共政治原则。周保松指出，公共政治文化本身也可能有争议，政治原则如何取得道德优先性仍需说明。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松（阐释并批评罗尔斯）",
+      "chapter": "第5–6章；作者跋",
+      "page": "PDF pp.167–196、222–228、267–271",
+      "location": "合理多元主义、公共证成、交迭共识及政治身份的优先性"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_free_persons_equal_politics_zhou_2010",
+  "type": "concept",
+  "name_zh": "自由人的平等政治",
+  "name_en": "politics of liberal equality",
+  "aliases": [
+    "自由与平等的公平合作理想"
+  ],
+  "definition_scope": "周保松《自由人的平等政治》中的政治理想；不作为所有自由主义传统的统一定义。",
+  "summary": "把人理解为能够规划、修订人生并作道德判断的自由主体；公民具有平等的道德地位，制度须以公平合作安排基本权利、机会与资源。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "自序；第1章；结语",
+      "page": "PDF pp.13–21、24–56、253–260",
+      "location": "自由人、道德平等、社会基本结构与公平合作的关联"
+    }
+  ]
+}

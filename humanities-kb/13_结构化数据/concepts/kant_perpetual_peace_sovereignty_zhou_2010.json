@@ -1,0 +1,20 @@
+{
+  "id": "concept_kant_perpetual_peace_sovereignty_zhou_2010",
+  "type": "concept",
+  "name_zh": "康德永久和平与国家主权",
+  "name_en": "Kantian perpetual peace and state sovereignty",
+  "aliases": [
+    "共和政体、和平联盟与世界公民法"
+  ],
+  "definition_scope": "周保松对康德《迈向永久和平》的重构与当代延伸。",
+  "summary": "共和宪制、自由国家和平联盟和世界公民法构成康德的和平路径。周保松指出，无约束力联盟难保证守约，单一世界国家又可能威胁自由，因而须处理国际法效力与国家主权的张力。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "第7章《康德、永久和平及国家主权》",
+      "page": "PDF pp.229–252",
+      "location": "共和制、和平联盟、友好访问权、世界共和国与主权限制"
+    }
+  ]
+}

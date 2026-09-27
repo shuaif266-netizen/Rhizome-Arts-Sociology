@@ -1,0 +1,21 @@
+{
+  "id": "concept_priority_justice_congruence_zhou_2010",
+  "type": "concept",
+  "name_zh": "正义感优先性与德福契合",
+  "name_en": "priority of the sense of justice and congruence",
+  "aliases": [
+    "正当与“好”的契合",
+    "道德稳定性"
+  ],
+  "definition_scope": "周保松对罗尔斯稳定性论证的分析与批评。",
+  "summary": "道德稳定性追问理性公民为何应在正义与个人计划冲突时给予正义感优先。罗尔斯以正义感构成人的自由平等本性之实现来建立契合；周保松认为此路依赖康德式整全人性观，难以在合理多元主义下普遍成立。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松（阐释并批评罗尔斯）",
+      "chapter": "第5章《稳定性与正当性》；第6章《正义感的优先性与契合论》",
+      "page": "PDF pp.167–228",
+      "location": "社会/道德稳定性之分、正当与“好”、康德式诠释与政治自由主义转向"
+    }
+  ]
+}

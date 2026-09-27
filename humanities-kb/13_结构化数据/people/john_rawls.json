@@ -3,5 +3,14 @@
   "type": "person",
   "name_zh": "约翰·罗尔斯",
   "name_en": "John Rawls",
-  "aliases": []
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松（阐释与批评）",
+      "chapter": "第1–6章",
+      "page": "PDF pp.24–228",
+      "location": "原初状态、差异原则、正当与“好”、稳定性及政治自由主义；记录周保松的阐释，不归为罗尔斯原话"
+    }
+  ]
 }

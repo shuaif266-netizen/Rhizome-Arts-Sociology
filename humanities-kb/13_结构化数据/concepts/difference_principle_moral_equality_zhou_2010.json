@@ -1,0 +1,20 @@
+{
+  "id": "concept_difference_principle_moral_equality_zhou_2010",
+  "type": "concept",
+  "name_zh": "差异原则与道德平等",
+  "name_en": "difference principle and moral equality",
+  "aliases": [
+    "最弱势者优先的分配条件"
+  ],
+  "definition_scope": "周保松对罗尔斯差异原则的重构与批评；两种声音分别标示。",
+  "summary": "罗尔斯将经济不平等限制在有利于最弱势者的安排中。周保松追问道德平等如何证成这一原则，并讨论共同资产论、道德应得、机会平等和激励依赖之间的张力。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松（阐释并批评罗尔斯）",
+      "chapter": "第1章《契约、公平与社会正义》；第2章《道德平等与差异原则》",
+      "page": "PDF pp.35–46、57–101",
+      "location": "两原则、无知之幕、天赋与社会出身、道德应得及p.97二人分配表"
+    }
+  ]
+}

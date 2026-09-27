@@ -1,0 +1,43 @@
+{
+  "id": "book_zhou_baosong_politics_liberal_equality_2010_zh",
+  "type": "book",
+  "name_zh": "自由人的平等政治",
+  "name_original": "Politics of Liberal Equality",
+  "aliases": [
+    "《自由人的平等政治》",
+    "Politics of Liberal Equality (Chinese edition)"
+  ],
+  "author_id": "person_zhou_baosong",
+  "publication_year": 2010,
+  "publisher": "生活·读书·新知三联书店",
+  "edition": "2010年6月第1版、第1次印刷；三联·哈佛燕京学术丛书",
+  "isbn": "978-7-108-03441-0",
+  "page_count_pdf": 323,
+  "page_count_print": 298,
+  "reading_status": "completed_entire_local_scan",
+  "last_read_pdf_page": 323,
+  "source_locator": "书\\自由人的平等政治_周保松著(1).pdf；17份OCR/页图Word分卷留本地只读。PDF pp.322–323为平台附加页，不计入纸本页数。",
+  "sources": [
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "题名页、版权页与CIP",
+      "page": "PDF pp.3–4",
+      "location": "作者、出版者、版次、日期与ISBN"
+    },
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "正文与结语",
+      "page": "PDF pp.24–260",
+      "location": "七章、结语；涵盖自由平等政治、市场自由、宽容、稳定性与国际和平"
+    },
+    {
+      "book": "《自由人的平等政治》",
+      "author": "周保松",
+      "chapter": "作者跋与后附材料",
+      "page": "PDF pp.261–321",
+      "location": "思想史跋、参考书目、索引、出版后记和丛书目录；p.322–323为数字平台补页"
+    }
+  ]
+}
