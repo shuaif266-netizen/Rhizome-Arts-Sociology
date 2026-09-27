@@ -1,0 +1,27 @@
+{
+  "id": "book_reading_capital_althusser_balibar_zh",
+  "type": "book",
+  "name_zh": "读资本论",
+  "name_en": "Reading Capital",
+  "aliases": [
+    "阿尔都塞等《读资本论》"
+  ],
+  "author_ids": [
+    "person_louis_althusser",
+    "person_etienne_balibar"
+  ],
+  "edition_status": "edition_unverified_missing_title_and_copyright_pages",
+  "page_count_pdf": 385,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\【阿尔都塞】《读资本论》.pdf；本地PDF pp.1–385整本阅读；原件留本地只读，未上传",
+  "sources": [
+    {
+      "book": "《读资本论》",
+      "author": "目录与题名页",
+      "chapter": "目录；关于历史唯物主义的基本概念",
+      "page": "PDF pp.1–2,245–246",
+      "location": "目录列阿尔都塞与巴里巴尔篇章；PDF p.245题名页署巴里巴尔，正文p.246起"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}
