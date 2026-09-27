@@ -17,12 +17,24 @@
   "last_read_pdf_page": 280,
   "last_content_page_pdf": 279,
   "last_printed_folio": 260,
-  "reading_status": "partially_read_missing_print_pages_1_2",
-  "missing_print_pages": [
-    1,
-    2
-  ],
-  "source_locator": "项目目录中的1998年扫描PDF；同名无(1)副本SHA-256相同；导读印刷pp.1–2未见于扫描。",
+  "reading_status": "fully_read_with_cross_edition_intro_supplement",
+  "source_gap_in_1998_scan": {
+    "print_pages": [
+      1,
+      2
+    ],
+    "supplement_status": "导读已从同译者2009年版补读；不映射为1998版扫描页，也不假定两版逐字相同"
+  },
+  "supplemental_edition": {
+    "publication_year": 2009,
+    "publisher": "上海人民出版社",
+    "translators": "汪耀进、武佩荣",
+    "isbn": "978-7-208-08585-5",
+    "catalog_url": "https://opac.lib.uibe.edu.cn/opac/book/bfc70d08ea33c985f5ac474ebd2ae905",
+    "text_source_url": "https://www.scribd.com/document/835691997/Lover",
+    "use": "跨版补读汪耀进导读及‘本书的问世’‘本书怎样构成’三节"
+  },
+  "source_locator": "主体正文依据项目目录内1998年扫描PDF；同名无(1)副本SHA-256相同。导读用2009年同译者版补读，保留1998版扫描pp.1–2缺页说明。",
   "sha256": "4ec9b2c7ada92bdbb3c9753873a3b9e151dd3d049af82b9cf901ffed68577a61",
   "sources": [
     {
@@ -41,10 +53,10 @@
     },
     {
       "book": "《恋人絮语：一个解构主义的文本》",
-      "author": "目录署名汪耀进",
-      "chapter": "导读缺页位置",
+      "author": "目录署名汪耀进；导读文本据同译者2009年版补读",
+      "chapter": "导读位置与跨版补读",
       "page": "PDF p.3；目录列印刷pp.1–2",
-      "location": "《罗兰·巴特和他的〈恋人絮语〉》《本书的问世》《本书怎样构成》；对应纸本页不在现有扫描中"
+      "location": "1998版目录列《罗兰·巴特和他的〈恋人絮语〉》《本书的问世》《本书怎样构成》；导读与三节已从2009版同译本全文阅读，页码不映射到1998版"
     },
     {
       "book": "《恋人絮语：一个解构主义的文本》",
