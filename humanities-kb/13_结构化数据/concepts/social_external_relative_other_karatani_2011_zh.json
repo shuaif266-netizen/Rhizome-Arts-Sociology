@@ -1,0 +1,21 @@
+{
+  "id": "concept_social_external_relative_other_karatani_2011_zh",
+  "type": "concept",
+  "name_zh": "社会性外部与相对的他者",
+  "name_en": "social exterior and relative other",
+  "aliases": [
+    "不能被内化的他者",
+    "相对性他者"
+  ],
+  "definition_scope": "柄谷行人《作为隐喻的建筑》对规则、交换与共同体关系的说明；不是独立于社会关系的超越实体。",
+  "summary": "外部显现在与不能被主体或共同体完全内化的他者相遇之处。共同规则、语言意义和商品价值并非由单一主体先验担保，而在非对称交往中形成。",
+  "sources": [
+    {
+      "book": "《作为隐喻的建筑》",
+      "author": "柄谷行人",
+      "chapter": "第13–18章",
+      "page": "PDF pp.120–161",
+      "location": "唯我论、教学、现实建筑中的交往、规则、共同体及单独性"
+    }
+  ]
+}

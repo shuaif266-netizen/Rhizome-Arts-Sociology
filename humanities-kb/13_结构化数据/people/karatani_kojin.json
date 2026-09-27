@@ -1,0 +1,25 @@
+{
+  "id": "person_karatani_kojin",
+  "type": "person",
+  "name_zh": "柄谷行人",
+  "name_en": "Kojin Karatani",
+  "aliases": [
+    "柄谷行人（柄谷行人文集中文作者名）"
+  ],
+  "sources": [
+    {
+      "book": "《作为隐喻的建筑》",
+      "author": "柄谷行人",
+      "chapter": "作者简介",
+      "page": "PDF p.3",
+      "location": "1941年生于日本兵库县尼崎市；作者简介列其学习、任教经历与代表作"
+    },
+    {
+      "book": "《作为隐喻的建筑》",
+      "author": "柄谷行人",
+      "chapter": "中文版序言及正文",
+      "page": "PDF pp.5–25、30–180",
+      "location": "解构、形式化、城市规划、维特根斯坦、马克思、交换与信用"
+    }
+  ]
+}

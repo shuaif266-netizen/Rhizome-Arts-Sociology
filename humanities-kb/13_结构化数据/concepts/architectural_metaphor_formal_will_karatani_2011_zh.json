@@ -1,0 +1,21 @@
+{
+  "id": "concept_architectural_metaphor_formal_will_karatani_2011_zh",
+  "type": "concept",
+  "name_zh": "建筑隐喻与对建筑的意志",
+  "name_en": "architectural metaphor and will to architecture",
+  "aliases": [
+    "作为隐喻的建筑",
+    "建筑性的知识体系"
+  ],
+  "definition_scope": "柄谷行人《作为隐喻的建筑》中的哲学与形式批判；不等同于实体建筑史或建筑设计理论。",
+  "summary": "“建筑”指把知识和社会秩序构想为有稳固基础、统一中心和总体规划的体系。作者借现实建筑与城市实践反思这种建构冲动，并认为批判它不能只诉诸诗性或自然，而须检视形式化自身的边界。",
+  "sources": [
+    {
+      "book": "《作为隐喻的建筑》",
+      "author": "柄谷行人",
+      "chapter": "第1–6章与第15章",
+      "page": "PDF pp.30–74、134–141",
+      "location": "柏拉图以来的建筑隐喻、形式化与自然城市；以维特根斯坦参与设计的住宅说明现实建筑中的协商与偶然"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "concept_asymmetric_teaching_selling_exchange_karatani_2011_zh",
+  "type": "concept",
+  "name_zh": "教与卖的非对称交换",
+  "name_en": "asymmetric exchange in teaching and selling",
+  "aliases": [
+    "教—学关系",
+    "买方与卖方的非对称性"
+  ],
+  "definition_scope": "柄谷行人《作为隐喻的建筑》第三部的理论类比；不作为教育学或经济学的普遍定义。",
+  "summary": "教学发生在师生尚未共享全部规则的关系中；商品交换则要求卖方把商品交由他者承认。两者都让规则、意义或价值无法由一方独自保证。",
+  "sources": [
+    {
+      "book": "《作为隐喻的建筑》",
+      "author": "柄谷行人",
+      "chapter": "第14章、第19–21章",
+      "page": "PDF pp.125–133、162–180",
+      "location": "非对称教—学关系、价值形式、卖的危机、商人资本和信用"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "concept_self_referential_formal_system_karatani_2011_zh",
+  "type": "concept",
+  "name_zh": "自指形式体系",
+  "name_en": "self-referential formal system",
+  "aliases": [
+    "自我差异的差异体系",
+    "形式体系的自指性"
+  ],
+  "definition_scope": "柄谷行人《作为隐喻的建筑》跨数学、语言、货币与脑的理论比较；不把各领域说成同一种经验或数学结构。",
+  "summary": "形式系统可以组织对象与关系，却可能在自指、零、元层级及外部说明问题上暴露其无法完全封闭的边界。作者据此讨论结构何以既稳定又包含不可判定与剩余。",
+  "sources": [
+    {
+      "book": "《作为隐喻的建筑》",
+      "author": "柄谷行人",
+      "chapter": "第5–12章",
+      "page": "PDF pp.56–117",
+      "location": "结构与零、自然数、自然语言、货币、自然脑、分裂生成、存在及哲学形式化"
+    }
+  ]
+}
