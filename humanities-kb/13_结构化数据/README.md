@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-27朱朱《灰色的狂欢节》入库后累计1,435个实体、1,760条关系；其中1,639条为status=verified，覆盖本次全书阅读中实际定位的关键章节，不等于所有正文都已转成知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-27《表现主义论争》整本归档后累计1,444个实体、1,768条关系；其中1,647条为status=verified，覆盖本次全书阅读中实际定位的关键章节，不等于所有正文都已转成知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -426,3 +426,10 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 
 - 新增1本书、朱朱人物实体和2个来源限定概念实体；新增5条关系，涵盖作者归属、本书的“狂欢／双重他者”论述，以及与艺术市场和艺术自主性的跨书比较。
 - 直接书内主张标记为author_explicit；跨书联系标记为cross_book_interpretation。每条新关系均含source、evidence_type、confidence和status；原PDF及OCR Word未上传。
+
+### 2026-09-27：《表现主义论争》
+
+- 新增1本书、6位编者／论争参与者、1个来源限定概念和1个历史事件实体；新增8条有来源关系，记录编选归属、关键作者参与、论争主题及事件范围。
+- 人物与事件条目只登记本书可核实的角色、选文及时间框架；没有将选集的任何单一作者立场推广为全书结论。
+- 7条关系为目录或题名页可直接确认的信息（author_explicit）；1条书籍与多立场概念的综合关系标为textual_summary。新关系均含source、evidence_type、confidence和status。
+- 原始PDF和19份OCR Word保留在本地，只将整本阅读档案、页码台账及轻量结构化记录推送到仓库。

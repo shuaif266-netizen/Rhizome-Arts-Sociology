@@ -1,0 +1,28 @@
+{
+  "id": "person_zhang_li",
+  "type": "person",
+  "name_zh": "张黎",
+  "name": "",
+  "aliases": [],
+  "fields": [
+    "外国文学与文艺理论资料编选",
+    "文献整理"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "题名页",
+      "page": "PDF p.1",
+      "location": "编选署名"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎",
+      "chapter": "前言",
+      "page": "PDF pp.5–13",
+      "location": "选编缘起、范围与史料判断"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

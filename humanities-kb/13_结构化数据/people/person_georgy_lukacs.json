@@ -1,0 +1,36 @@
+{
+  "id": "person_georgy_lukacs",
+  "type": "person",
+  "name_zh": "格奥尔格·卢卡契",
+  "name": "Georg Lukács",
+  "aliases": [],
+  "fields": [
+    "哲学",
+    "马克思主义文艺理论",
+    "现实主义理论"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "格奥尔格·卢卡契",
+      "chapter": "《问题在于现实主义》",
+      "page": "PDF pp.167–197",
+      "location": "现实主义、典型性、社会中介与先锋文学批评"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "格奥尔格·卢卡契",
+      "chapter": "《资产阶级美学中关于和谐的人的理想》及与安娜·西格斯的通信",
+      "page": "PDF pp.249–297",
+      "location": "和谐理想、创作经验与现实主义方法"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "作者简介",
+      "page": "PDF pp.374–375",
+      "location": "本地版本所附作者简介"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

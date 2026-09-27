@@ -1,0 +1,58 @@
+{
+  "id": "book_expressionism_debate_zhang_li_1992",
+  "type": "book",
+  "name_zh": "表现主义论争",
+  "name_en": "",
+  "aliases": [
+    "《表现主义论争》"
+  ],
+  "editor_ids": [
+    "person_zhang_li"
+  ],
+  "publication_year": 1992,
+  "publisher": "华东师范大学出版社",
+  "edition": "1992年8月第1版",
+  "isbn": "7-5617-0839-4",
+  "page_count_pdf": 378,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\表现主义论争.pdf；原件本地只读，仅阅读档案上传",
+  "related_people": [
+    "person_zhang_li",
+    "person_bernhard_ziegler_alfred_kurella",
+    "person_ernst_bloch",
+    "person_georgy_lukacs",
+    "person_anna_seghers",
+    "person_bertolt_brecht"
+  ],
+  "related_concepts": [
+    "concept_expressionism_realism_peoplehood"
+  ],
+  "related_events": [
+    "event_das_wort_expressionism_debate_1937_1938"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.1–2",
+      "location": "书名、编选者、出版社、版次、ISBN"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎",
+      "chapter": "前言与目录",
+      "page": "PDF pp.5–16",
+      "location": "选编范围、1937–1938年论争、两部分文献与各篇起页"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "选文作者",
+      "chapter": "第一、二部分及书后作者简介",
+      "page": "PDF pp.19–377",
+      "location": "整本阅读；篇目级摘要与页码见Markdown整本档案"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

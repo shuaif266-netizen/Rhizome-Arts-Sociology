@@ -1,0 +1,35 @@
+{
+  "id": "person_ernst_bloch",
+  "type": "person",
+  "name_zh": "恩斯特·布洛赫",
+  "name": "Ernst Bloch",
+  "aliases": [],
+  "fields": [
+    "哲学",
+    "马克思主义文艺批评"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "恩斯特·布洛赫",
+      "chapter": "《关于表现主义的讨论》",
+      "page": "PDF pp.153–166",
+      "location": "对齐格勒、卢卡契及表现主义遗产的回应"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "恩斯特·布洛赫、汉斯·艾斯勒",
+      "chapter": "《先锋派艺术与人民阵线》《艺术的继承》",
+      "page": "PDF pp.227–239",
+      "location": "先锋艺术、政治联盟与文化继承"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "作者简介",
+      "page": "PDF p.374",
+      "location": "本地版本所附作者简介"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

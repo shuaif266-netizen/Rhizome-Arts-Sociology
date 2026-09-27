@@ -1,0 +1,30 @@
+{
+  "id": "person_bernhard_ziegler_alfred_kurella",
+  "type": "person",
+  "name_zh": "贝恩哈德·齐格勒（阿尔弗雷德·库莱拉）",
+  "name": "Bernhard Ziegler (Alfred Kurella)",
+  "aliases": [
+    "Alfred Kurella"
+  ],
+  "fields": [
+    "德国左翼文学批评",
+    "文艺理论资料编选"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "贝恩哈德·齐格勒",
+      "chapter": "《现在这份遗产终结了……》与结束语",
+      "page": "PDF pp.28–39, 198–223",
+      "location": "两篇论战文章；结尾回顾并检视早期措辞"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "作者简介",
+      "page": "PDF pp.368–369",
+      "location": "书内称其原名阿尔弗雷德·库莱拉，并提供生平线索"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

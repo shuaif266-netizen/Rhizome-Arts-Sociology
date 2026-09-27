@@ -1,0 +1,36 @@
+{
+  "id": "person_bertolt_brecht",
+  "type": "person",
+  "name_zh": "贝托尔特·布莱希特",
+  "name": "Bertolt Brecht",
+  "aliases": [],
+  "fields": [
+    "戏剧",
+    "诗歌",
+    "现实主义写作方法"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "贝托尔特·布莱希特",
+      "chapter": "关于表现主义、现实主义、人民性与写作方法的笔记和短文",
+      "page": "PDF pp.298–362",
+      "location": "讨论现实主义方法的多样性及其社会功能"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "贝托尔特·布莱希特",
+      "chapter": "《艺术的观察与观察的艺术》",
+      "page": "PDF pp.363–367",
+      "location": "肖像雕塑、劳动过程和观看"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "作者简介",
+      "page": "PDF pp.376–377",
+      "location": "本地版本所附作者简介"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

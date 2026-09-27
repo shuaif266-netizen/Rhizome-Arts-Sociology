@@ -1,0 +1,31 @@
+{
+  "id": "person_anna_seghers",
+  "type": "person",
+  "name_zh": "安娜·西格斯",
+  "name": "Anna Seghers",
+  "aliases": [
+    "Netty Radvanyi"
+  ],
+  "fields": [
+    "小说",
+    "反法西斯文学",
+    "文学论争"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义论争》",
+      "author": "安娜·西格斯、格奥尔格·卢卡契",
+      "chapter": "通信",
+      "page": "PDF pp.263–297",
+      "location": "创作经验、现实主义方法与批评判断"
+    },
+    {
+      "book": "《表现主义论争》",
+      "author": "张黎编选",
+      "chapter": "作者简介",
+      "page": "PDF p.376",
+      "location": "本地版本所附作者简介"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

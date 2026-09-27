@@ -1,0 +1,28 @@
+{
+  "id": "concept_expressionism_realism_peoplehood",
+  "type": "concept",
+  "name_zh": "表现主义论争中的形式、现实主义与人民性",
+  "name_en": "",
+  "aliases": [],
+  "source_book_id": "book_expressionism_debate_zhang_li_1992",
+  "source_pages_pdf": "19–367",
+  "definition_status": "source_limited_multi_author_debate",
+  "definitions": [
+    {
+      "author": "贝恩哈德·齐格勒",
+      "view": "强调表现主义思想来源中的非理性主义、神秘主义及其政治风险；结束语要求以具体历史材料检视早期判断。",
+      "source_pages_pdf": "28–39, 198–223"
+    },
+    {
+      "author": "格奥尔格·卢卡契",
+      "view": "以社会中介、典型关系和现实总体解释现实主义，反对把主观碎片直接等同客观现实。",
+      "source_pages_pdf": "167–197, 249–262"
+    },
+    {
+      "author": "恩斯特·布洛赫、贝托尔特·布莱希特、安娜·西格斯等",
+      "view": "强调表现形式、直接经验、观众与社会任务之间的不同关系；并未形成一个共同的现实主义公式。",
+      "source_pages_pdf": "153–166, 227–367"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}
