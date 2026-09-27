@@ -1,0 +1,33 @@
+{
+  "id": "book_wenyi_psychology_zhu_guangqian_1996_zh",
+  "type": "book",
+  "name_zh": "文艺心理学",
+  "name_en": "",
+  "aliases": ["朱光潜《文艺心理学》"],
+  "author_id": "person_zhu_guangqian",
+  "translator": "",
+  "publication_year": 1996,
+  "publisher": "安徽教育出版社",
+  "edition": "1996年9月第1版；1997年6月第2次印刷",
+  "isbn": "",
+  "page_count_pdf": 328,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\朱光潜《文艺心理学》.pdf；原件本地只读，未上传",
+  "sources": [
+    {
+      "book": "《文艺心理学》",
+      "author": "朱光潜",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.1–2",
+      "location": "确认书名、作者、出版社、版次与印次"
+    },
+    {
+      "book": "《文艺心理学》",
+      "author": "朱光潜",
+      "chapter": "全书及附录",
+      "page": "PDF pp.1–328",
+      "location": "逐页阅读台账与整本阅读档案"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}
