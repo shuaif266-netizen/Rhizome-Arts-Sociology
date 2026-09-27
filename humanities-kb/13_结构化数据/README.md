@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为 Markdown 知识库的机器可读补充。截至2026-09-27福柯《词与物》和努斯鲍姆《愤怒与宽恕》入库后累计1,431个实体、1,755条关系；其中1,634条为status=verified，覆盖本次全书阅读中实际定位的关键章节，不等于所有正文都已转成知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+本目录为 Markdown 知识库的机器可读补充。截至2026-09-27朱朱《灰色的狂欢节》入库后累计1,435个实体、1,760条关系；其中1,639条为status=verified，覆盖本次全书阅读中实际定位的关键章节，不等于所有正文都已转成知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；121条旧关系未标status，不自动视为verified。旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -421,3 +421,8 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新增13条关系：作者归属、书内概念定位、南非真相与和解委员会案例，以及一条明确标为cross_book_interpretation的并读关系。跨书对照区分福柯的知识考古学与努斯鲍姆的规范伦理/政治哲学，不写成两人直接对话。
 - 新关系均包含source、evidence_type、confidence、status；原始PDF、OCR Word及其全文没有进入仓库。
 - 新增关系端点、JSON/JSONL解析与重复三元组已校验；旧的121条缺status关系保持原样。
+
+### 2026-09-27：《灰色的狂欢节》
+
+- 新增1本书、朱朱人物实体和2个来源限定概念实体；新增5条关系，涵盖作者归属、本书的“狂欢／双重他者”论述，以及与艺术市场和艺术自主性的跨书比较。
+- 直接书内主张标记为author_explicit；跨书联系标记为cross_book_interpretation。每条新关系均含source、evidence_type、confidence和status；原PDF及OCR Word未上传。

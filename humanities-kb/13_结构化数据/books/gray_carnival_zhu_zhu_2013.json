@@ -1,0 +1,51 @@
+{
+  "id": "book_gray_carnival_zhu_zhu_2013",
+  "type": "book",
+  "name_zh": "灰色的狂欢节：2000年以来的中国当代艺术",
+  "name_en": "",
+  "aliases": [
+    "灰色的狂欢节",
+    "2000年以来的中国当代艺术"
+  ],
+  "author_id": "person_zhu_zhu",
+  "publisher": "广西师范大学出版社",
+  "publication_year": 2013,
+  "edition": "2013年11月第1版",
+  "isbn": "978-7-5495-4561-2",
+  "page_count_pdf": 410,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\灰色的狂欢节  2000年以来的中国当代艺术_13441686.pdf；原件本地只读，未上传",
+  "related_people": [
+    "person_zhu_zhu"
+  ],
+  "related_concepts": [
+    "concept_gray_carnival_marketized_art",
+    "concept_ink_double_other_and_tradition",
+    "concept_art_market_as_medium",
+    "concept_artistic_autonomy_and_integrated_spectacle"
+  ],
+  "sources": [
+    {
+      "book": "《灰色的狂欢节：2000年以来的中国当代艺术》",
+      "author": "朱朱",
+      "chapter": "题名页与CIP",
+      "page": "PDF pp.3–4",
+      "location": "书名、作者、出版社、版次、ISBN；版权页记12.75印张、125千字与277幅图片"
+    },
+    {
+      "book": "《灰色的狂欢节：2000年以来的中国当代艺术》",
+      "author": "朱朱",
+      "chapter": "目录",
+      "page": "PDF p.5",
+      "location": "六部分及书内起始页"
+    },
+    {
+      "book": "《灰色的狂欢节：2000年以来的中国当代艺术》",
+      "author": "朱朱",
+      "chapter": "六部分与余论",
+      "page": "PDF pp.19–409",
+      "location": "整本正文；章节页码地图见Markdown整本档案"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "person_zhu_zhu",
+  "type": "person",
+  "name_zh": "朱朱",
+  "name": "Zhu Zhu",
+  "aliases": [],
+  "fields": [
+    "中国当代艺术评论",
+    "艺术史研究"
+  ],
+  "sources": [
+    {
+      "book": "《灰色的狂欢节：2000年以来的中国当代艺术》",
+      "author": "朱朱",
+      "location": "题名页与CIP作者分类",
+      "page": "PDF pp.3–4",
+      "chapter": "出版信息"
+    }
+  ],
+  "last_updated": "2026-09-27"
+}
