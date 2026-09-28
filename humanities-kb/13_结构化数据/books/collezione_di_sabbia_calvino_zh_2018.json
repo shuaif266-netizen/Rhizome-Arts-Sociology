@@ -1,0 +1,63 @@
+{
+  "id": "book_collezione_di_sabbia_calvino_zh_2018",
+  "type": "book",
+  "name_zh": "《收藏沙子的旅人》",
+  "name": "Collezione di sabbia",
+  "aliases": [
+    "《收藏沙子的旅人》",
+    "Collezione di sabbia"
+  ],
+  "author": "伊塔洛·卡尔维诺",
+  "authors": [
+    "person_italo_calvino"
+  ],
+  "translator": "王建全",
+  "publisher": "译林出版社",
+  "publication_year": "",
+  "edition": "版权页标注简体中文版权©2018；未见印次页",
+  "isbn": "978-7-5447-7256-3",
+  "fields": [
+    "文学",
+    "视觉文化",
+    "物质文化",
+    "旅行书写"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 184,
+  "local_source_status": "项目PDF共184页，Word分卷5份，内部页标连续。PDF p.1封面OCR草稿已回查图像；p.2版权页确认原作、中文版权、出版社与ISBN。PDF pp.148–177为编者整理的作者生平，pp.178–184为译注。原PDF与Word未上传。",
+  "related_people": [
+    "person_italo_calvino",
+    "person_roland_barthes"
+  ],
+  "related_concepts": [
+    "concept_collection_classification_material_memory_calvino",
+    "concept_map_narrative_imaginary_geography_calvino",
+    "concept_vision_model_visual_history_calvino",
+    "concept_urban_writing_public_space_interpretive_freedom_calvino"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《收藏沙子的旅人》",
+      "author": "伊塔洛·卡尔维诺",
+      "chapter": "封面与版权页",
+      "page": "PDF pp.1–2",
+      "location": "中文书名、作者、译者、出版社、版权信息与ISBN"
+    },
+    {
+      "book": "《收藏沙子的旅人》",
+      "author": "前言（未署名）",
+      "chapter": "前言",
+      "page": "PDF p.5",
+      "location": "原版出版线索与本书文章来源说明"
+    },
+    {
+      "book": "《收藏沙子的旅人》",
+      "author": "伊塔洛·卡尔维诺；马里奥·巴伦吉、布鲁诺·法尔切托（作者生平编者）",
+      "chapter": "全书",
+      "page": "PDF pp.1–184",
+      "location": "封面、版权页、四部分文章、编者整理的作者生平及注释"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

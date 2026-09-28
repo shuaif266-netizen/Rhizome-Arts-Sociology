@@ -1,0 +1,17 @@
+{
+  "id": "person_italo_calvino",
+  "type": "person",
+  "name_zh": "伊塔洛·卡尔维诺",
+  "name_en": "Italo Calvino",
+  "aliases": [
+    "卡尔维诺"
+  ],
+  "sources": [
+    {
+      "book": "《收藏沙子的旅人》",
+      "chapter": "作者生平",
+      "page": "PDF pp.148–177",
+      "location": "编者据卡尔维诺书信、访谈和作品编排的生平材料"
+    }
+  ]
+}

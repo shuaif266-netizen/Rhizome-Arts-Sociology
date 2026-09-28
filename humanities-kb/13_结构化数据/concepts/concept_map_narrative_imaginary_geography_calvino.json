@@ -1,0 +1,18 @@
+{
+  "id": "concept_map_narrative_imaginary_geography_calvino",
+  "type": "concept",
+  "name_zh": "地图叙事与想象地理（卡尔维诺）",
+  "name_en": "maps as narrative and imaginary geography",
+  "aliases": [],
+  "source_book_id": "book_collezione_di_sabbia_calvino_zh_2018",
+  "source_pages_pdf": "16–21, 96–99",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "伊塔洛·卡尔维诺",
+      "view": "地图不仅定位空间，也编排行程、时间和可以想象的世界；将空间缩成可读表面时，地图同时选择了什么进入视野。",
+      "source_pages_pdf": "16–21, 96–99"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

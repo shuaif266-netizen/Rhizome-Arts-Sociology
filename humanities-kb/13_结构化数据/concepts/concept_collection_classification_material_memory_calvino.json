@@ -1,0 +1,18 @@
+{
+  "id": "concept_collection_classification_material_memory_calvino",
+  "type": "concept",
+  "name_zh": "收藏、分类与物的记忆（卡尔维诺）",
+  "name_en": "collection, classification, and material memory",
+  "aliases": [],
+  "source_book_id": "book_collezione_di_sabbia_calvino_zh_2018",
+  "source_pages_pdf": "6–9, 78–82, 100–103",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "伊塔洛·卡尔维诺",
+      "view": "收藏把旅行、生活经验和个人情绪转成可命名、排序和保存的物件档案；这一过程也可能使物件脱离原来的环境。",
+      "source_pages_pdf": "6–9, 78–82, 100–103"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

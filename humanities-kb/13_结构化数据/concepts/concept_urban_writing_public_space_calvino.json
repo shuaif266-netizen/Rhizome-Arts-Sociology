@@ -1,0 +1,18 @@
+{
+  "id": "concept_urban_writing_public_space_calvino",
+  "type": "concept",
+  "name_zh": "城市书写、公共空间与阐释自由（卡尔维诺）",
+  "name_en": "urban writing, public space, and interpretive freedom",
+  "aliases": [],
+  "source_book_id": "book_collezione_di_sabbia_calvino_zh_2018",
+  "source_pages_pdf": "69–73",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "伊塔洛·卡尔维诺（评议Armando Petrucci）",
+      "view": "城市文字保存公共记忆、组织空间，也可能变成强加给行人的单向宣告；涂鸦等文字则可能要求读者主动解释。",
+      "source_pages_pdf": "69–73"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

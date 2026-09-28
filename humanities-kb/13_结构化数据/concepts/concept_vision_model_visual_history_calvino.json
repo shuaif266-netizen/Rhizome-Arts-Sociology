@@ -1,0 +1,18 @@
+{
+  "id": "concept_vision_model_visual_history_calvino",
+  "type": "concept",
+  "name_zh": "观看模型与视觉史（卡尔维诺）",
+  "name_en": "models of vision and visual history",
+  "aliases": [],
+  "source_book_id": "book_collezione_di_sabbia_calvino_zh_2018",
+  "source_pages_pdf": "10–15, 83–87",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "伊塔洛·卡尔维诺（转述并评议Ruggero Pierantoni）",
+      "view": "人们理解眼睛、光线和影像的科学模型会改变可见性的观念，并影响艺术表现；模型本身既帮助认识，也可能限制认识。",
+      "source_pages_pdf": "10–15, 83–87"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}
