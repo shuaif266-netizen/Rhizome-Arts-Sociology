@@ -1,0 +1,18 @@
+{
+  "id": "concept_multiple_consciousness_modern_narrative",
+  "type": "concept",
+  "name_zh": "多重意识、内在时间与叙事现实主义",
+  "name_en": "multiple consciousness and narrative time",
+  "aliases": [],
+  "source_book_id": "book_mimesis_auerbach_zh",
+  "source_pages_pdf": "481–510",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "埃里希·奥尔巴赫",
+      "view": "现代叙事在多个意识、外部行动和记忆之间移动；一个短暂的日常行动可以牵引出不同人物的经验和多层次时间，叙述不再由单一稳定视点完整统摄。",
+      "source_pages_pdf": "481–510"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

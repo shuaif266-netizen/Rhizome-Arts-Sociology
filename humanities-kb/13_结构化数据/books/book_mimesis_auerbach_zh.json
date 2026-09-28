@@ -1,0 +1,56 @@
+{
+  "id": "book_mimesis_auerbach_zh",
+  "type": "book",
+  "name_zh": "《摹仿论——西方文学中现实的再现》",
+  "name": "Mimesis",
+  "aliases": [
+    "《摹仿论》"
+  ],
+  "author": "埃里希·奥尔巴赫",
+  "authors": [
+    "person_erich_auerbach"
+  ],
+  "translators": [
+    "吴麟绶",
+    "周新建",
+    "高艳婷"
+  ],
+  "publisher": "",
+  "publication_year": "",
+  "edition": "",
+  "isbn": "",
+  "fields": [
+    "文学史",
+    "比较文学",
+    "叙事理论"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 552,
+  "local_source_status": "项目内PDF共552页，Word转写14份、文件名页码与内部页标连续。题名页可见商务印书馆标识，但未见版权页，版次、出版年与ISBN未确认。Word pp.281–520 OCR疑点逐页回查PDF；附论pp.532–552逐页核图；索引pp.511–531依Word阅读，不引用错识拼写。原PDF和Word未上传。",
+  "related_people": [
+    "person_erich_auerbach"
+  ],
+  "related_concepts": [
+    "concept_style_mixture_and_realism_auerbach",
+    "concept_figural_interpretation_auerbach",
+    "concept_multiple_consciousness_modern_narrative"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《摹仿论——西方文学中现实的再现》",
+      "author": "埃里希·奥尔巴赫",
+      "chapter": "title and contents",
+      "page": "PDF pp.1–2",
+      "location": "title, subtitle, author and translator listing"
+    },
+    {
+      "book": "《摹仿论——西方文学中现实的再现》",
+      "author": "埃里希·奥尔巴赫",
+      "chapter": "complete volume",
+      "page": "PDF pp.1–552",
+      "location": "front matter, twenty chapters, conclusion, index, and author's postscript"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_style_mixture_and_realism_auerbach",
+  "type": "concept",
+  "name_zh": "文体混用与现实主义（奥尔巴赫）",
+  "name_en": "style mixture and realism",
+  "aliases": [
+    "文体分用与文体混用"
+  ],
+  "source_book_id": "book_mimesis_auerbach_zh",
+  "source_pages_pdf": "330–510, 536–542",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "埃里希·奥尔巴赫",
+      "view": "文体分用与文体混用用于追踪题材、人物社会位置和表达高度的历史关系；现实主义不只是增加日常细节，也涉及普通生活能否进入严肃表现。术语须在具体语境中理解，不是固定不变的普遍分类规则。",
+      "source_pages_pdf": "330–510, 536–542"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

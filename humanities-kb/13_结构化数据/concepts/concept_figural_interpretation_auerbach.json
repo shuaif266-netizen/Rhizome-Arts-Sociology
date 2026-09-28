@@ -1,0 +1,21 @@
+{
+  "id": "concept_figural_interpretation_auerbach",
+  "type": "concept",
+  "name_zh": "形象式解释（奥尔巴赫）",
+  "name_en": "figural interpretation",
+  "aliases": [
+    "figuralism",
+    "预表式解释"
+  ],
+  "source_book_id": "book_mimesis_auerbach_zh",
+  "source_pages_pdf": "131–160, 542–547",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "author": "埃里希·奥尔巴赫",
+      "view": "两个历史事件彼此关联：较早事件仍保有其现实性，同时预示较晚事件；后者实现前者的意义，却不把前者化约为抽象寓意。",
+      "source_pages_pdf": "131–160, 542–547"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}
