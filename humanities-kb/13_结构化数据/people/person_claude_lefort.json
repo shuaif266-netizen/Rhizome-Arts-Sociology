@@ -1,0 +1,16 @@
+{
+  "id": "person_claude_lefort",
+  "type": "person",
+  "name_zh": "克劳德·勒福",
+  "name_en": "Claude Lefort",
+  "aliases": ["勒福"],
+  "sources": [
+    {
+      "book": "《可见的与不可见的》",
+      "chapter": "编者《告读者》与跋",
+      "page": "PDF pp.3–8, 260–274",
+      "location": "说明遗稿范围、选编研究笔记并撰写跋文"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

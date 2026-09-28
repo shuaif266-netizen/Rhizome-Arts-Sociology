@@ -3,5 +3,14 @@
   "type": "person",
   "name_zh": "莫里斯·梅洛-庞蒂",
   "name_en": "Maurice Merleau-Ponty",
-  "aliases": []
+  "aliases": ["梅洛-庞蒂"],
+  "sources": [
+    {
+      "book": "《可见的与不可见的》",
+      "chapter": "现存扫描本",
+      "page": "PDF pp.1–295",
+      "location": "正文、未保留章节草稿、编者选录研究笔记及编辑文字；扫描本已读完，作者计划未完成"
+    }
+  ],
+  "last_updated": "2026-09-29"
 }

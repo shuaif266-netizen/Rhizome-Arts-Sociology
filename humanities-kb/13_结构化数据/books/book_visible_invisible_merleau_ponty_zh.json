@@ -1,0 +1,47 @@
+{
+  "id": "book_visible_invisible_merleau_ponty_zh",
+  "type": "book",
+  "name_zh": "《可见的与不可见的》",
+  "name": "",
+  "aliases": [
+    "《可见的与不可见的》",
+    "【中译】梅洛庞蒂-可见的与不可见的"
+  ],
+  "author": "莫里斯·梅洛-庞蒂",
+  "authors": ["person_maurice_merleau_ponty"],
+  "translator": "",
+  "publisher": "",
+  "publication_year": "",
+  "edition": "封面标有“汉译世界学术名著丛书”；扫描未见版权页，版本信息未确认",
+  "isbn": "",
+  "fields": ["哲学", "现象学", "美学", "语言哲学"],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 295,
+  "local_source_status": "项目PDF共295页，Word分卷8份，页标连续。已完整阅读扫描本pp.1–295；编者说明明确这是作者未完成计划的第一部分。PDF pp.141–147是勒福收入附录的未保留草稿（注43说明其已被《探究与直觉》取代）；pp.148–259为编者选录研究笔记，pp.260–274为勒福跋，pp.275–295为书后注释与译者注。p.259的OCR草稿页已直接核读PDF图像。原始PDF与Word未上传。",
+  "related_people": ["person_maurice_merleau_ponty", "person_claude_lefort"],
+  "related_concepts": [
+    "concept_perceptual_faith_preobjective_world_merleau_ponty",
+    "concept_flesh_reversibility_intercorporeality_merleau_ponty",
+    "concept_visible_invisible_depth_merleau_ponty",
+    "concept_silence_language_flesh_merleau_ponty",
+    "concept_inquiry_hyperdialectic_merleau_ponty"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《可见的与不可见的》",
+      "author": "莫里斯·梅洛-庞蒂",
+      "chapter": "封面与编者说明",
+      "page": "PDF pp.1, 3–8",
+      "location": "题名、作者署名、遗稿状态与编者说明"
+    },
+    {
+      "book": "《可见的与不可见的》",
+      "author": "莫里斯·梅洛-庞蒂；克劳德·勒福（编者）",
+      "chapter": "全扫描本",
+      "page": "PDF pp.1–295",
+      "location": "正文、附录、编者选录的研究笔记、编者跋与译者注"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}
