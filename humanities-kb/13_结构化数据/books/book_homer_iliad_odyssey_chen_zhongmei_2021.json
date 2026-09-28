@@ -1,0 +1,69 @@
+{
+  "id": "book_homer_iliad_odyssey_chen_zhongmei_2021",
+  "type": "book",
+  "name_zh": "《荷马史诗：伊利亚特·奥德赛（插图珍藏本）》",
+  "name": "The Iliad and the Odyssey (illustrated edition)",
+  "aliases": [
+    "荷马史诗",
+    "伊利亚特与奥德赛"
+  ],
+  "author": "Homer (traditional attribution)",
+  "authors": [
+    "person_homer"
+  ],
+  "translator": "陈中梅",
+  "illustrator": "John Flaxman",
+  "publisher": "上海译文出版社",
+  "publication_year": "2021",
+  "edition": "插图珍藏本；出版社电子书书目列2021年10月版",
+  "isbn": "978-7-5327-8794-4",
+  "fields": [
+    "古希腊文学",
+    "史诗",
+    "文学理论",
+    "古代社会想象"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 1477,
+  "related_people": [
+    "person_homer",
+    "person_chen_zhongmei",
+    "person_john_flaxman",
+    "person_odysseus",
+    "person_penelope",
+    "person_achilles",
+    "person_hector",
+    "person_telemachus"
+  ],
+  "related_concepts": [
+    "concept_homeric_oral_tradition_and_authorship",
+    "concept_homeric_heroic_honor_battle_prize_death",
+    "concept_homeric_guest_friendship_xenia",
+    "concept_homeric_nostos_recognition",
+    "concept_homeric_burial_lament_and_community"
+  ],
+  "sources": [
+    {
+      "book": "《荷马史诗：伊利亚特·奥德赛（插图珍藏本）》",
+      "author": "Homer (traditional attribution); Chen Zhongmei (translator)",
+      "location": "title and copyright pages; translator's preface",
+      "page": "PDF pp.1–4, 4–24",
+      "chapter": "edition credits and the Homeric question"
+    },
+    {
+      "book": "《荷马史诗：伊利亚特·奥德赛（插图珍藏本）》",
+      "author": "Homer (traditional attribution)",
+      "location": "complete reading coverage across 37 Word volumes; page labels checked against the PDF where transcription was uncertain",
+      "page": "PDF pp.1–1477",
+      "chapter": "Iliad, Odyssey, indexes, and appended ancient life of Homer"
+    },
+    {
+      "book": "Publisher Douban Read listing",
+      "author": "Shanghai Translation Publishing House (publisher listing)",
+      "location": "publisher's ebook bibliographic record",
+      "page": "n/a",
+      "chapter": "edition, ISBN and publication date"
+    }
+  ],
+  "last_updated": "2026-09-28"
+}

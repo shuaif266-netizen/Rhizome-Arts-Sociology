@@ -1,0 +1,10 @@
+{
+  "id": "person_homer",
+  "type": "person",
+  "name_zh": "荷马（传统作者署名）",
+  "name_en": "Homer",
+  "aliases": [
+    "Homeros",
+    "荷马"
+  ]
+}
