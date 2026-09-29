@@ -1,0 +1,23 @@
+{
+  "id": "concept_sound_visual_irrational_cut_deleuze",
+  "type": "concept",
+  "name_zh": "视听影像、自由间接话语与非理性分切（德勒兹）",
+  "name_en": "audio-visual image, free indirect discourse and irrational cut",
+  "aliases": [
+    "声音连续体",
+    "自主听觉影像",
+    "非理性分切",
+    "言语行为电影"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "365–425, 441–453",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "365–425, 441–453",
+      "view": "有声片中的言语、自然声、噪音和音乐不是视觉影像的简单附属。现代电影可令听觉影像与视觉影像分别取景，再以非理性分切和自由间接关系相连，使听觉与可见之间保留不对称而有结构的间隙。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

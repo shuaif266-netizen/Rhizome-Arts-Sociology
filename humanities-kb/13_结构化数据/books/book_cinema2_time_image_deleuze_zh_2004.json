@@ -1,0 +1,81 @@
+{
+  "id": "book_cinema2_time_image_deleuze_zh_2004",
+  "type": "book",
+  "name_zh": "《时间—影像》",
+  "name": "Cinéma 2: L’image-temps",
+  "aliases": [
+    "电影2：时间—影像",
+    "Cinema 2: The Time-Image",
+    "L’image-temps"
+  ],
+  "author": "吉尔·德勒兹",
+  "authors": [
+    "person_gilles_deleuze"
+  ],
+  "translator": "谢强、蔡若明、马月",
+  "publisher": "湖南美术出版社",
+  "publication_year": "2004",
+  "edition": "2004年8月第1版、第1次印刷；实验艺术丛书",
+  "isbn": "7-5356-2108-2",
+  "fields": [
+    "电影理论",
+    "哲学",
+    "美学",
+    "符号学",
+    "媒介研究"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 467,
+  "local_source_status": "项目PDF共467页；12份Word分卷内部页标连续覆盖1–467。正文先读Word OCR，章界、版本、重点术语、人名表与书后材料疑点回查PDF。原PDF与Word均保持本地只读，未上传。",
+  "related_people": [
+    "person_gilles_deleuze"
+  ],
+  "related_concepts": [
+    "concept_time_image_direct_time_deleuze",
+    "concept_crystal_image_actual_virtual_deleuze",
+    "concept_chronosigns_past_sheets_present_peaks_deleuze",
+    "concept_powers_of_false_fabulation_deleuze",
+    "concept_thought_world_belief_deleuze",
+    "concept_body_attitude_brain_cinema_deleuze",
+    "concept_sound_visual_irrational_cut_deleuze"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、题名页、版权页、CIP与封底；作者、译者、版本、ISBN和定价",
+      "page": "PDF pp.1–4、467",
+      "chapter": "书目信息",
+      "author": "吉尔·德勒兹；谢强、蔡若明、马月译",
+      "book": "《时间—影像》"
+    },
+    {
+      "location": "第一至第十章正文；章节页码以扫描PDF为准",
+      "page": "PDF pp.11–454",
+      "chapter": "全书正文",
+      "author": "吉尔·德勒兹",
+      "book": "《时间—影像》"
+    },
+    {
+      "location": "谢强译后记",
+      "page": "PDF p.463",
+      "chapter": "译后记",
+      "author": "谢强",
+      "book": "《时间—影像》"
+    },
+    {
+      "location": "陈侃编后记",
+      "page": "PDF pp.465–466",
+      "chapter": "编后记",
+      "author": "陈侃",
+      "book": "《时间—影像》"
+    },
+    {
+      "location": "人名对照表",
+      "page": "PDF pp.455–462",
+      "chapter": "书后材料",
+      "author": "编者",
+      "book": "《时间—影像》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "concept_powers_of_false_fabulation_deleuze",
+  "type": "concept",
+  "name_zh": "虚假的强力与晶体叙事（德勒兹）",
+  "name_en": "powers of the false and crystalline narration",
+  "aliases": [
+    "虚假的强力",
+    "晶体描述",
+    "虚构行为"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "209–255, 447–449",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "209–255, 447–449",
+      "view": "晶体描述和虚构叙事让人物、作者与世界在叙述中共同生成。真实与虚假的关系因此不只是裁决一条陈述真伪，而成为不同视角、力量和生成系列的关系。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "concept_chronosigns_past_sheets_present_peaks_deleuze",
+  "type": "concept",
+  "name_zh": "过去时面、现在尖点与时间符号（德勒兹）",
+  "name_en": "chronosigns: past sheets and present peaks",
+  "aliases": [
+    "过去时面",
+    "现在尖点",
+    "时间符号"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "163–208, 436–447",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "163–208, 436–447",
+      "view": "直接时间影像的时间符号可以表现过去时面的并存及其转换，也可表现现在尖点的共时、分叉与跃迁。时间不再被组织为一条单一、均质的现在序列。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

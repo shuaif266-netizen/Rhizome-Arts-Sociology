@@ -1,0 +1,22 @@
+{
+  "id": "concept_crystal_image_actual_virtual_deleuze",
+  "type": "concept",
+  "name_zh": "时间晶体与现实—潜在交换（德勒兹）",
+  "name_en": "crystal-image and actual-virtual exchange",
+  "aliases": [
+    "晶体影像",
+    "玻璃符号",
+    "现实影像—潜在影像"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "116–162",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "116–162",
+      "view": "晶体影像使现实影像与潜在影像构成最小的内在循环：二者能够区分，却不能被简单辨认为互不相干的两物。晶体状态呈现现在与过去、清晰与暗淡之间不断交换的时间关系。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

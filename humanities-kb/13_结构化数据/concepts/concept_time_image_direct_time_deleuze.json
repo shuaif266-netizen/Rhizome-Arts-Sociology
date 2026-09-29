@@ -1,0 +1,22 @@
+{
+  "id": "concept_time_image_direct_time_deleuze",
+  "type": "concept",
+  "name_zh": "时间—影像与时间的直接呈现（德勒兹）",
+  "name_en": "time-image and direct presentation of time",
+  "aliases": [
+    "时间—影像",
+    "direct time-image",
+    "纯视听情境"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "11–77, 426–454",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "11–77, 426–454",
+      "view": "时间—影像不是“没有运动”的电影，而是时间不再从属于运动、不再由动作链作为中介。感觉—运动关联断裂或松动后，纯视听情境、非理性分切和新的时间符号使时间直接显现。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

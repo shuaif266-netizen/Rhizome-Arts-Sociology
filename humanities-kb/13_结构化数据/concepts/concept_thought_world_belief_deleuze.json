@@ -1,0 +1,22 @@
+{
+  "id": "concept_thought_world_belief_deleuze",
+  "type": "concept",
+  "name_zh": "信仰、世界与电影思维（德勒兹）",
+  "name_en": "belief in the world and cinematic thought",
+  "aliases": [
+    "思维与电影",
+    "思维无力",
+    "电影的精神自动装置"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "256–308, 426–454",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "256–308, 426–454",
+      "view": "电影可以使思维发生，也可以暴露思维无法自行跨越的间隙。德勒兹所谓对世界的信仰，是在人与世界的连接受损时重新建立这种联系；电影思维既有思想的力量，也可能被政治和工业机制利用。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

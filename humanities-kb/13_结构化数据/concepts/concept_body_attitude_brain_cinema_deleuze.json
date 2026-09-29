@@ -1,0 +1,23 @@
+{
+  "id": "concept_body_attitude_brain_cinema_deleuze",
+  "type": "concept",
+  "name_zh": "躯体、姿态与脑电影（德勒兹）",
+  "name_en": "body, attitude and brain-cinema",
+  "aliases": [
+    "给我一个躯体",
+    "身体电影",
+    "脑电影",
+    "姿态"
+  ],
+  "source_book_id": "book_cinema2_time_image_deleuze_zh_2004",
+  "source_pages_pdf": "309–364, 447–449",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "309–364, 447–449",
+      "view": "躯体通过姿势、疲倦、等待、日常和仪式行动显现时间与思维。身体电影与脑电影不是心身二分的两个类别，而是电影组织躯体、思想和影像关系的不同路径；章节末尾把身体和姿态连到政治性的集体陈述。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}
