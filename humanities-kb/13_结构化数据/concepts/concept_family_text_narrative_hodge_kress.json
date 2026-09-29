@@ -1,0 +1,24 @@
+{
+  "id": "concept_family_text_narrative_hodge_kress",
+  "type": "concept",
+  "name_zh": "家庭文本与叙事社会意义",
+  "name_en": "family text and social meaning of narrative",
+  "aliases": [
+    "family text",
+    "家庭叙事"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_robert_hodge",
+        "person_gunther_kress"
+      ],
+      "book_id": "book_social_semiotics_hodge_kress_zh_2012",
+      "chapter": "第七章 爱与权力的转换；第八章 主体训练",
+      "page": "PDF pp.217–271",
+      "definition": "家庭文本指社会中关于亲缘、角色、责任、性别和权力的叙事与规则组织；它与实际家庭关系相互作用，但不能化约为生物亲缘或单一普遍结构。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

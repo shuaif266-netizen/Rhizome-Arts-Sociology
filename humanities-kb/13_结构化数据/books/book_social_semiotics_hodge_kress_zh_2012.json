@@ -1,0 +1,72 @@
+{
+  "id": "book_social_semiotics_hodge_kress_zh_2012",
+  "type": "book",
+  "name_zh": "《社会符号学》",
+  "name": "Social Semiotics",
+  "aliases": [
+    "Social Semiotics",
+    "Hodge and Kress, Social Semiotics"
+  ],
+  "authors": [
+    "person_robert_hodge",
+    "person_gunther_kress"
+  ],
+  "translators": [
+    "周劲松",
+    "张碧"
+  ],
+  "publisher": "四川教育出版社",
+  "publication_year": "2012",
+  "edition": "2012年6月第1版、第1次印刷；《当代符号学译丛》",
+  "original_publication_year": "1988",
+  "original_copyright_note": "Copyright © Robert Hodge and Gunther Kress 1988; Chinese edition published with Polity Press arrangement.",
+  "isbn": "978-7-5408-5973-2",
+  "fields": [
+    "社会符号学",
+    "社会学",
+    "语言学",
+    "媒介研究",
+    "文化研究"
+  ],
+  "page_count_pdf": 287,
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 287,
+  "local_source_status": "8份Word分卷内部页标连续覆盖PDF pp.1–287。正文优先读Word；PDF pp.1–10、143–160、244–250、272–287回看版本信息、漫画／图文页、概念附录、书目和封底。原PDF与Word分卷本地只读、未上传。",
+  "source_locator": "新鬼专栏课件\\当代艺术摄影与符号学\\符号学参考阅读\\【中译】社会符号学.pdf",
+  "related_people": [
+    "person_robert_hodge",
+    "person_gunther_kress"
+  ],
+  "related_concepts": [
+    "concept_semiology_semiotics",
+    "concept_ideological_complex_logonomic_system_hodge_kress",
+    "concept_social_semiotic_modality_hodge_kress",
+    "concept_style_accent_grammar_meta_sign_hodge_kress",
+    "concept_family_text_narrative_hodge_kress"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "题名页、版权/CIP、作者与译者信息",
+      "page": "PDF pp.1–3",
+      "chapter": "书目信息",
+      "author": "Robert Hodge、Gunther Kress；周劲松、张碧译",
+      "book": "《社会符号学》"
+    },
+    {
+      "location": "作者说明本书从《作为意识形态的语言》拓展到社会建构的多种符号体系",
+      "page": "PDF pp.7–9",
+      "chapter": "作者序言",
+      "author": "Robert Hodge、Gunther Kress",
+      "book": "《社会符号学》"
+    },
+    {
+      "location": "八章正文及附录关键概念",
+      "page": "PDF pp.13–278",
+      "chapter": "第一至第八章；附录",
+      "author": "Robert Hodge、Gunther Kress",
+      "book": "《社会符号学》"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

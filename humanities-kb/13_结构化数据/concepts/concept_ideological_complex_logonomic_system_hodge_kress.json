@@ -1,0 +1,24 @@
+{
+  "id": "concept_ideological_complex_logonomic_system_hodge_kress",
+  "type": "concept",
+  "name_zh": "意识形态综合体与思想控制体系",
+  "name_en": "ideological complex and logonomic system",
+  "aliases": [
+    "logonomic system",
+    "思想控制体系"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_robert_hodge",
+        "person_gunther_kress"
+      ],
+      "book_id": "book_social_semiotics_hodge_kress_zh_2012",
+      "chapter": "第一章 社会符号学；第三、第五章",
+      "page": "PDF pp.13–24、51–93、161–175",
+      "definition": "意识形态综合体是服务于社会集团利益、可能含有矛盾的意义模式集合；思想控制体系规定谁能在何种条件下生产、接受和解释什么意义。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

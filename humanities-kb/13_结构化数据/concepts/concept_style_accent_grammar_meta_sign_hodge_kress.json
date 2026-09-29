@@ -1,0 +1,24 @@
+{
+  "id": "concept_style_accent_grammar_meta_sign_hodge_kress",
+  "type": "concept",
+  "name_zh": "风格、腔调与语法作为元符号",
+  "name_en": "style, accent and grammar as metasigns",
+  "aliases": [
+    "群体身份标记",
+    "定式化腔调"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_robert_hodge",
+        "person_gunther_kress"
+      ],
+      "book_id": "book_social_semiotics_hodge_kress_zh_2012",
+      "chapter": "第四章 作为意识形态的风格",
+      "page": "PDF pp.94–134",
+      "definition": "风格、腔调、语法及图像和版面选择可作为关于符号活动的符号，标示群体身份、社会差异及意识形态关系；意义依赖群体间的使用与权力关系。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

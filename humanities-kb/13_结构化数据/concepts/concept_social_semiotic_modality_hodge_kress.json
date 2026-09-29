@@ -1,0 +1,24 @@
+{
+  "id": "concept_social_semiotic_modality_hodge_kress",
+  "type": "concept",
+  "name_zh": "社会符号学模态",
+  "name_en": "social semiotic modality",
+  "aliases": [
+    "modality",
+    "模态线索"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_robert_hodge",
+        "person_gunther_kress"
+      ],
+      "book_id": "book_social_semiotics_hodge_kress_zh_2012",
+      "chapter": "第五章 真实的社会定义",
+      "page": "PDF pp.135–175",
+      "definition": "模态描述符号参与者如何定位文本与其所建构现实之间的关系；语言和视觉线索会标记某种说法的确信、可能、虚构或争议性，并参与组织社会关系。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}
