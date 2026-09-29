@@ -1,0 +1,22 @@
+{
+  "id": "concept_double_death_impossible_death_blanchot",
+  "type": "concept",
+  "name_zh": "双重死亡与无可能的死亡（布朗肖）",
+  "name_en": "double death and impossible death",
+  "aliases": [
+    "双重死亡",
+    "可能的死亡",
+    "无可能的死亡"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "80–169, 266–285",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "80–169, 266–285",
+      "view": "主体可把死亡设想为自身可能性和行动，但另一种无个人性的死亡不能被意志占有或保证。作品与死亡相关，缘于二者都触及主体不能完全支配之物；作品不等同自杀。",
+      "author": "莫里斯·布朗肖"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

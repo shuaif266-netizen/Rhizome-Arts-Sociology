@@ -1,0 +1,65 @@
+{
+  "id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "type": "book",
+  "name_zh": "《文学空间》",
+  "name": "L'Espace littéraire",
+  "aliases": [
+    "《文学空间》",
+    "文学空间"
+  ],
+  "author": "莫里斯·布朗肖",
+  "authors": [
+    "person_maurice_blanchot"
+  ],
+  "translator": "顾嘉琛",
+  "publisher": "商务印书馆",
+  "publication_year": "2003",
+  "edition": "2003年11月第1版、第1次印刷；中文本据Gallimard 1955年版译出",
+  "isbn": "7-100-03607-0",
+  "fields": [
+    "文学",
+    "现代法国思想",
+    "美学",
+    "哲学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 297,
+  "local_source_status": "项目PDF共297页；纸本书内页数为287。PDF pp.1–8为前置材料，pp.9–295对应纸本pp.1–287；p.296为书目元数据，p.297为扫描组成标记。Word辅助件8份，内部页标连续覆盖1–297。已优先完整阅读Word，疑点按页回查PDF。原PDF与Word保持本地只读，未上传。",
+  "related_people": [
+    "person_maurice_blanchot"
+  ],
+  "related_concepts": [
+    "concept_root_solitude_world_solitude_blanchot",
+    "concept_work_requirement_errant_speech_blanchot",
+    "concept_double_death_impossible_death_blanchot",
+    "concept_world_internal_space_visible_invisible_blanchot",
+    "concept_inspiration_lack_orpheus_blanchot",
+    "concept_reading_communication_work_blanchot",
+    "concept_image_two_nights_blanchot"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "作者、译者、商务印书馆2003年版、ISBN及Gallimard 1955年原版信息",
+      "page": "PDF pp.3–5",
+      "chapter": "题名、版权与原版信息",
+      "author": "莫里斯·布朗肖；顾嘉琛译",
+      "book": "《文学空间》"
+    },
+    {
+      "location": "纸本正文与四篇附录，按纸本页码地图分层记录",
+      "page": "PDF pp.9–295",
+      "chapter": "全书七章与附录",
+      "author": "莫里斯·布朗肖",
+      "book": "《文学空间》"
+    },
+    {
+      "location": "原书页数、出版元数据与扫描内容栏目",
+      "page": "PDF pp.296–297",
+      "chapter": "附加页",
+      "author": "商务印书馆书目元数据/扫描标签",
+      "book": "《文学空间》"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

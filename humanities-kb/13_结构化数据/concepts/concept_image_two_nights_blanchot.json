@@ -1,0 +1,22 @@
+{
+  "id": "concept_image_two_nights_blanchot",
+  "type": "concept",
+  "name_zh": "想象物与两种夜（布朗肖）",
+  "name_en": "the image and the two nights",
+  "aliases": [
+    "形象",
+    "另一种夜",
+    "尸体的相似性"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "26–40, 170–179, 266–285",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "26–40, 170–179, 266–285",
+      "view": "形象既能呈现对象，也把观看者带向对象缺席时仍在场的相似、距离和中性。第一种夜与睡眠和白日秩序相连；另一种夜没有休息、终点或主体可进入的确定地点。",
+      "author": "莫里斯·布朗肖"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

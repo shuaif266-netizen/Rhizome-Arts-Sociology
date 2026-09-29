@@ -1,0 +1,22 @@
+{
+  "id": "concept_work_requirement_errant_speech_blanchot",
+  "type": "concept",
+  "name_zh": "作品要求与游移话语（布朗肖）",
+  "name_en": "the demand of the work and errant discourse",
+  "aliases": [
+    "游移话语",
+    "作品的要求",
+    "文学空间"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "41–79, 220–265",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "41–79, 220–265",
+      "view": "作品不等于书本物件或作者意图。文学语言脱离稳定指称和主体所有权，作品须以形式抵御、又不断承受这种非个人话语与源头要求。",
+      "author": "莫里斯·布朗肖"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

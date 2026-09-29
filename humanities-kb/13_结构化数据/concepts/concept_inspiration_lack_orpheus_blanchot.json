@@ -1,0 +1,21 @@
+{
+  "id": "concept_inspiration_lack_orpheus_blanchot",
+  "type": "concept",
+  "name_zh": "灵感、缺乏灵感与俄耳甫斯的目光（布朗肖）",
+  "name_en": "inspiration, lack of inspiration, and Orpheus gaze",
+  "aliases": [
+    "灵感与缺乏灵感",
+    "俄耳甫斯的目光"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "170–199, 241–260",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "170–199, 241–260",
+      "view": "灵感并非可支配的天赋，而是召唤与枯竭并存的非个人要求。俄耳甫斯回望欧律狄刻使作品失落，却显出作品接近源头所承担的牺牲风险。",
+      "author": "莫里斯·布朗肖"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

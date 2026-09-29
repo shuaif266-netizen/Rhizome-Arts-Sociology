@@ -1,0 +1,21 @@
+{
+  "id": "concept_reading_communication_work_blanchot",
+  "type": "concept",
+  "name_zh": "阅读、交流与作品的生成（布朗肖）",
+  "name_en": "reading, communication, and work becoming",
+  "aliases": [
+    "阅读使作品成为作品",
+    "文学交流"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "200–219",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "200–219",
+      "view": "阅读不是还原作者本意或传递既定信息，而在每次接纳中使作品重新出现。交流是写作与阅读之间不能化约的张力。",
+      "author": "莫里斯·布朗肖"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

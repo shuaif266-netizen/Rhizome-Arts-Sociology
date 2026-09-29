@@ -1,0 +1,21 @@
+{
+  "id": "concept_root_solitude_world_solitude_blanchot",
+  "type": "concept",
+  "name_zh": "根本的孤独与世上的孤独（布朗肖）",
+  "name_en": "essential solitude and worldly solitude",
+  "aliases": [
+    "根本的孤独",
+    "世上的孤独"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "9–25, 266–268",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "9–25, 266–268",
+      "view": "根本的孤独不是社会关系缺席造成的心理感受；作品使主体失去支配权，使写作进入非个人的文学空间。附录进一步追问主体的分离、劳动与存在。",
+      "author": "莫里斯·布朗肖"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

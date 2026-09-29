@@ -1,0 +1,18 @@
+{
+  "id": "person_maurice_blanchot",
+  "type": "person",
+  "name_zh": "莫里斯·布朗肖",
+  "name_en": "Maurice Blanchot",
+  "aliases": [
+    "布朗肖"
+  ],
+  "sources": [
+    {
+      "location": "作者署名、全书正文与附录；整本扫描本已读完",
+      "page": "PDF pp.3–5, 9–295",
+      "chapter": "全书",
+      "book": "《文学空间》"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

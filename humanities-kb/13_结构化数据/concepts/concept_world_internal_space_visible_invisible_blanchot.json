@@ -1,0 +1,21 @@
+{
+  "id": "concept_world_internal_space_visible_invisible_blanchot",
+  "type": "concept",
+  "name_zh": "世界内部空间与可见—不可见转换（布朗肖）",
+  "name_en": "world-internal space and visible-invisible transformation",
+  "aliases": [
+    "世界内部空间",
+    "可见与不可见的转换"
+  ],
+  "source_book_id": "book_l_espace_litteraire_blanchot_zh_2003",
+  "source_pages_pdf": "134–160",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "134–160",
+      "view": "可见之物转向不可见之物并非逃往彼世或收进主体内心，而是事物脱离纯粹用途和对象化、进入诗歌的世界内部空间。",
+      "author": "莫里斯·布朗肖（阐释里尔克）"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}
