@@ -1,0 +1,21 @@
+{
+  "id": "topic_fashion_signs_body_identity",
+  "type": "topic",
+  "name_zh": "时装符号、媒介叙述与身体身份",
+  "name_en": "fashion signs, media discourse, and embodied identity",
+  "aliases": ["时装符码与社会身份", "时尚媒介与身体规范"],
+  "summary": "从时装杂志的书写描述出发，追踪服饰符码如何形成类别、关系和修辞所指，再连接到消费、身份呈现与身体规范。巴特的论述限定于法国时装杂志的特定语料；与其他社会理论的联系属于知识库比较。",
+  "related_books": [
+    "book_systeme_mode_barthes_2016_zh",
+    "book_presentation_self_everyday_life_goffman_1988_zh",
+    "book_social_semiotics_hodge_kress_zh_2012",
+    "book_production_of_culture_crane_2001_zh"
+  ],
+  "related_concepts": [
+    "concept_written_clothing_tripartite_barthes_2016",
+    "concept_fashion_matrix_osv_barthes_2016",
+    "concept_fashion_signified_ab_systems_barthes_2016",
+    "concept_fashion_rhetoric_naturalization_barthes_2016"
+  ],
+  "last_updated": "2026-09-30"
+}

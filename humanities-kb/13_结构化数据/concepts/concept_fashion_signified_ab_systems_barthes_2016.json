@@ -1,0 +1,26 @@
+{
+  "id": "concept_fashion_signified_ab_systems_barthes_2016",
+  "type": "concept",
+  "name_zh": "A／B两组：世事所指与流行所指",
+  "name_en": "A/B groups: world signified and fashion signified",
+  "aliases": ["世事所指", "流行所指", "双重时装符号系统"],
+  "source_book_id": "book_systeme_mode_barthes_2016_zh",
+  "source_pages_pdf": "49–62, 222–231",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "49–62",
+      "chapter": "第三章：在物与词之间",
+      "authors": ["person_roland_barthes"],
+      "definition": "A组表述以较明确的世事为所指；B组表述的所指主要是流行系统自身。两组所指通过不同的文本关系进入时装符号分析。"
+    },
+    {
+      "source_pages_pdf": "222–231",
+      "chapter": "第十五章：服饰符号",
+      "authors": ["person_roland_barthes"],
+      "definition": "A/B区分指向所指呈现方式不同，不是实际衣物与虚假衣物的二分。A组通常保留世事、功能或文化情境；B组更直接依赖时装系统内部的年度代码与对比。"
+    }
+  ],
+  "related_concepts": ["concept_written_clothing_tripartite_barthes_2016", "concept_fashion_rhetoric_naturalization_barthes_2016"],
+  "last_updated": "2026-09-30"
+}

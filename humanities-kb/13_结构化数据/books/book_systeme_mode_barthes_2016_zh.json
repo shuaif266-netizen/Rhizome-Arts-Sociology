@@ -1,0 +1,95 @@
+{
+  "id": "book_systeme_mode_barthes_2016_zh",
+  "type": "book",
+  "name_zh": "《流行体系》",
+  "name_original": "Système de la Mode",
+  "aliases": [
+    "罗兰·巴特《流行体系》",
+    "The Fashion System"
+  ],
+  "author_id": "person_roland_barthes",
+  "translator": "敖军",
+  "publisher": "上海人民出版社",
+  "publication_year": 2016,
+  "edition": "2016年7月第3版、第1次印刷",
+  "isbn": "978-7-208-13905-3",
+  "price_rmb": 48,
+  "fields": [
+    "符号学",
+    "语言学",
+    "媒介研究",
+    "消费文化",
+    "性别与身体"
+  ],
+  "page_count_pdf": 310,
+  "printed_page_span": "1–286；书后中法术语对照表",
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 310,
+  "local_source_status": "PDF共310页，八份Word分卷的内部页标连续覆盖pp.1–310。正文优先读Word；版本、语料范围、公式、章界与OCR严重错识处回查PDF。原PDF和Word分卷本地只读、未上传。",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】罗兰·巴特《流行体系》-2016.pdf",
+  "related_people": [
+    "person_roland_barthes"
+  ],
+  "related_concepts": [
+    "concept_semiology_semiotics",
+    "concept_written_clothing_tripartite_barthes_2016",
+    "concept_fashion_matrix_osv_barthes_2016",
+    "concept_fashion_taxonomy_variants_barthes_2016",
+    "concept_fashion_signified_ab_systems_barthes_2016",
+    "concept_fashion_rhetoric_naturalization_barthes_2016",
+    "concept_fashion_economy_history_barthes_2016"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、题名页、CIP；核对作者、译者、版次、印次、ISBN与定价",
+      "page": "PDF pp.1–4",
+      "chapter": "书目信息",
+      "author": "罗兰·巴特；敖军译",
+      "book": "《流行体系》"
+    },
+    {
+      "location": "题作《前言》的材料介绍研究对象与方法；本档案不据无署名页推定作者归属",
+      "page": "PDF pp.14–17",
+      "chapter": "前言",
+      "author": "署名未核定",
+      "book": "《流行体系》"
+    },
+    {
+      "location": "说明书写服装、语料选择和杂志文本的分析范围",
+      "page": "PDF pp.31–35",
+      "chapter": "第一章：书写的服装",
+      "author": "罗兰·巴特",
+      "book": "《流行体系》"
+    },
+    {
+      "location": "区分意象服装、书写服装和真实服装，讨论转换关系",
+      "page": "PDF pp.27–41",
+      "chapter": "第一章：书写的服装",
+      "author": "罗兰·巴特",
+      "book": "《流行体系》"
+    },
+    {
+      "location": "意指母体、类项、变项、系统与语段分析",
+      "page": "PDF pp.79–221",
+      "chapter": "第二部分第五至第十四章",
+      "author": "罗兰·巴特",
+      "book": "《流行体系》"
+    },
+    {
+      "location": "服饰符号、修辞、世事所指、理性化及流行经济学",
+      "page": "PDF pp.222–302",
+      "chapter": "第十五至第二十章／结论",
+      "author": "罗兰·巴特",
+      "book": "《流行体系》"
+    },
+    {
+      "location": "中法术语对照表；核对全书术语范围与末页边界",
+      "page": "PDF pp.303–310",
+      "chapter": "名词对照表",
+      "author": "编译材料",
+      "book": "《流行体系》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

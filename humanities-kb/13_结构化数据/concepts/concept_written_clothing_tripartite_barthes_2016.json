@@ -1,0 +1,26 @@
+{
+  "id": "concept_written_clothing_tripartite_barthes_2016",
+  "type": "concept",
+  "name_zh": "意象服装、书写服装与真实服装",
+  "name_en": "image clothing, written clothing, and real clothing",
+  "aliases": ["三种服装", "书写服装"],
+  "source_book_id": "book_systeme_mode_barthes_2016_zh",
+  "source_pages_pdf": "27–41",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "27–30",
+      "chapter": "第一章：书写的服装",
+      "authors": ["person_roland_barthes"],
+      "definition": "意象服装由照片或绘图呈现；书写服装由时装杂志的语言描述构成；真实服装涉及制作和穿着中的物质与技术结构。三者可以指向同一件衣服，却具有不同的材料和关系结构。"
+    },
+    {
+      "source_pages_pdf": "31–41",
+      "chapter": "第一章：口述结构的选择",
+      "authors": ["person_roland_barthes"],
+      "definition": "本书将杂志的书写描述作为主要分析对象，因为它形成一个可比较的文本系统；文字会选择并组织服饰特征，不是对实物的透明复写。"
+    }
+  ],
+  "related_concepts": ["concept_semiology_semiotics", "concept_signifier_signified"],
+  "last_updated": "2026-09-30"
+}

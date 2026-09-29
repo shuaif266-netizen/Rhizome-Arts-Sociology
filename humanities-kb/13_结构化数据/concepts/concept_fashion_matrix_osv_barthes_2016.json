@@ -1,0 +1,26 @@
+{
+  "id": "concept_fashion_matrix_osv_barthes_2016",
+  "type": "concept",
+  "name_zh": "服饰意指母体：对象物、支撑物与变项",
+  "name_en": "fashion signifying matrix: object, support, and variant",
+  "aliases": ["意指母体", "O/S/V母体"],
+  "source_book_id": "book_systeme_mode_barthes_2016_zh",
+  "source_pages_pdf": "79–104",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "81–89",
+      "chapter": "第五章：意指单元",
+      "authors": ["person_roland_barthes"],
+      "definition": "书写服装的意指母体由对象物（O）、支撑物（S）和变项（V）组成。对象物是意指所指向的衣物或部分；支撑物承载意义；变项引入有意义的差异。三者相互依赖，实际身份可能随表述转换。"
+    },
+    {
+      "source_pages_pdf": "90–104",
+      "chapter": "第六章：混淆和扩展",
+      "authors": ["person_roland_barthes"],
+      "definition": "母体可以转形、扩展或发生要素混淆；分析单位是用于说明具体表述如何组织意义的工具，不是衣物的固定本体分类。"
+    }
+  ],
+  "related_concepts": ["concept_semiology_semiotics", "concept_signifier_signified"],
+  "last_updated": "2026-09-30"
+}

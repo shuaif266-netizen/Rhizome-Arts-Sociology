@@ -1,0 +1,26 @@
+{
+  "id": "concept_fashion_taxonomy_variants_barthes_2016",
+  "type": "concept",
+  "name_zh": "服饰类项与变项",
+  "name_en": "fashion classes and variants",
+  "aliases": ["类项的肯定", "服饰变项"],
+  "source_book_id": "book_systeme_mode_barthes_2016_zh",
+  "source_pages_pdf": "105–174",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "105–127",
+      "chapter": "第七至第八章：类项的肯定；类项的清单",
+      "authors": ["person_roland_barthes"],
+      "definition": "类项和属项的边界由书写服装系统中的差异、可组合性和排斥关系组织，不是自然物种目录的简单照搬。类项的肯定体现一种被文化代码约束的选择。"
+    },
+    {
+      "source_pages_pdf": "128–174",
+      "chapter": "第九至第十章：存在变项；关系变项",
+      "authors": ["person_roland_barthes"],
+      "definition": "存在变项包括材质、形态、合身、运动、重量、色彩、透明和尺寸等；关系变项将服饰要素放入身体空间、位置、分布、联结和组合关系中。具体变项须按文本语境识别。"
+    }
+  ],
+  "related_concepts": ["concept_fashion_matrix_osv_barthes_2016", "concept_signifier_signified"],
+  "last_updated": "2026-09-30"
+}

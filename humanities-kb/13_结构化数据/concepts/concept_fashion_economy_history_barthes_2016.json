@@ -1,0 +1,26 @@
+{
+  "id": "concept_fashion_economy_history_barthes_2016",
+  "type": "concept",
+  "name_zh": "流行体系的双重经济与历史时间",
+  "name_en": "the double economy and historical time of fashion",
+  "aliases": ["流行体系的经济学", "A/B双重系统"],
+  "source_book_id": "book_systeme_mode_barthes_2016_zh",
+  "source_pages_pdf": "175–221, 279–302",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "175–221",
+      "chapter": "第十一至第十四章：系统、语段、语义单元、组合与中性化",
+      "authors": ["person_roland_barthes"],
+      "definition": "流行符号的组合既受系统对立约束，也受衣物的材料条件、社会规范和可穿着性限制。语段关系的可能与不可能构成分析系统的重要证据。"
+    },
+    {
+      "source_pages_pdf": "279–302",
+      "chapter": "第二十章：流行体系的经济学",
+      "authors": ["person_roland_barthes"],
+      "definition": "A组开放地连接世事，B组更集中于时装代码自身；两者构成不同而相互作用的意义经济。年度更替、系统记忆与历史周期不能合并为单一时间尺度。"
+    }
+  ],
+  "related_concepts": ["concept_fashion_signified_ab_systems_barthes_2016", "concept_fashion_taxonomy_variants_barthes_2016"],
+  "last_updated": "2026-09-30"
+}

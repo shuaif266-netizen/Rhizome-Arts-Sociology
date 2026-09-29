@@ -1,0 +1,26 @@
+{
+  "id": "concept_fashion_rhetoric_naturalization_barthes_2016",
+  "type": "concept",
+  "name_zh": "时装修辞、自然化与身体脚本",
+  "name_en": "fashion rhetoric, naturalization, and embodied scripts",
+  "aliases": ["流行修辞", "时装符号的自然化"],
+  "source_book_id": "book_systeme_mode_barthes_2016_zh",
+  "source_pages_pdf": "232–278, 250–265",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "232–249",
+      "chapter": "第十六至第十七章：修辞系统；服装诗学",
+      "authors": ["person_roland_barthes"],
+      "definition": "时装描述在服饰符码上再组织修辞能指，使衣物进入文化、情感和审美联想。修辞层并非简单附加在衣物上的装饰，而是文本意义构成的一部分。"
+    },
+    {
+      "source_pages_pdf": "250–278",
+      "chapter": "第十八至第十九章：所指与符号的修辞",
+      "authors": ["person_roland_barthes"],
+      "definition": "时装描述把工作、休闲、季节、地点、性别和身体组织为一种可读的社会图景，并可能把历史形成的规则呈现为自然、理性或必然。此分析受本书法国杂志语料和时代范围限制。"
+    }
+  ],
+  "related_concepts": ["concept_fashion_signified_ab_systems_barthes_2016", "concept_social_semiotic_modality_hodge_kress"],
+  "last_updated": "2026-09-30"
+}
