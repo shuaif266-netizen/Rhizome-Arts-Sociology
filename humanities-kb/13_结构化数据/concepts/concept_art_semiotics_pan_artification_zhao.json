@@ -1,0 +1,22 @@
+{
+  "id": "concept_art_semiotics_pan_artification_zhao",
+  "type": "concept",
+  "name_zh": "艺术符号学与泛艺术化",
+  "name_en": "semiotics of art and pan-artification",
+  "aliases": [
+    "泛艺术化",
+    "艺术符号的非实用性"
+  ],
+  "definitions": [
+    {
+      "author_id": "person_zhao_yiheng",
+      "author": "赵毅衡",
+      "book_id": "book_semiotics_principles_problems_zhao_2016_zh",
+      "chapter": "第十四章 艺术符号学",
+      "page": "PDF pp.299–322",
+      "definition": "作者比较功能、表现、形式及制度—历史等艺术定义，并以非自然、非实用、非外延和标出性等维度分析艺术边界；泛艺术化提示日常生活艺术化可能削弱艺术与生活的区分。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

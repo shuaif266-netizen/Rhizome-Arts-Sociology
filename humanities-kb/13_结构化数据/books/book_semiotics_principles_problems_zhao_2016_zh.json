@@ -1,0 +1,62 @@
+{
+  "id": "book_semiotics_principles_problems_zhao_2016_zh",
+  "type": "book",
+  "name_zh": "《符号学：原理与推演（修订本）》",
+  "name": "Semiotics: Principles & Problems",
+  "aliases": [
+    "《符号学原理与推演》",
+    "《符号学》",
+    "Semiotics: Principles and Problems"
+  ],
+  "author": "赵毅衡",
+  "authors": [
+    "person_zhao_yiheng"
+  ],
+  "publisher": "南京大学出版社",
+  "publication_year": "2016",
+  "edition": "2016年1月第2版、第1次印刷；书内题名《符号学：原理与推演（修订本）》",
+  "isbn": "978-7-305-16051-6",
+  "fields": [
+    "符号学",
+    "语言学",
+    "艺术理论",
+    "叙事学",
+    "社会理论",
+    "现代思想史"
+  ],
+  "page_count_pdf": 426,
+  "page_count_printed": 416,
+  "page_count_note": "PDF含封面、题名页、版权页、目录、正文、术语表、英文目录、三篇后记和封底；正文书内页码至416。",
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 426,
+  "local_source_status": "11份Word分卷内部页标连续覆盖PDF pp.1–426。正文优先读Word，PDF pp.401–413术语表OCR疑点及末段出版页回看原页。原PDF与Word分卷本地只读、未上传。",
+  "source_locator": "新鬼专栏课件\\当代艺术摄影与符号学\\符号学参考阅读\\【中文】赵毅衡 - 符号学原理与推演-南京大学出版社 (2011).pdf",
+  "related_people": [
+    "person_zhao_yiheng"
+  ],
+  "related_concepts": [
+    "concept_semiology_semiotics",
+    "concept_textual_identity_implied_author_zhao",
+    "concept_interpretive_vortex_evaluative_vortex_zhao",
+    "concept_art_semiotics_pan_artification_zhao",
+    "concept_late_modern_semiotic_crisis_zhao"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "题名页、版权页与CIP",
+      "page": "PDF pp.2–3",
+      "chapter": "书目信息",
+      "author": "赵毅衡",
+      "book": "《符号学：原理与推演（修订本）》"
+    },
+    {
+      "location": "目录、正文、附录与后记",
+      "page": "PDF pp.4–425",
+      "chapter": "全书",
+      "author": "赵毅衡；后记与修订后记分别署名",
+      "book": "《符号学：原理与推演（修订本）》"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

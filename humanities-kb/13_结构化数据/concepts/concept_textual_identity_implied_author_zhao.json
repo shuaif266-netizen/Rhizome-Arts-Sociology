@@ -1,0 +1,22 @@
+{
+  "id": "concept_textual_identity_implied_author_zhao",
+  "type": "concept",
+  "name_zh": "文本身份与普遍隐含作者",
+  "name_en": "textual identity and universal implied author",
+  "aliases": [
+    "符号自我",
+    "拟主体"
+  ],
+  "definitions": [
+    {
+      "author_id": "person_zhao_yiheng",
+      "author": "赵毅衡",
+      "book_id": "book_semiotics_principles_problems_zhao_2016_zh",
+      "chapter": "第十六章 身份与文本身份，自我与符号自我",
+      "page": "PDF pp.362–369",
+      "definition": "文本身份是文本在体裁、文化、制度、历史、版本等关系中的社会定位，影响解释但不等于发送者身份；文本身份集合可使接收者构造拟主体或隐含作者。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

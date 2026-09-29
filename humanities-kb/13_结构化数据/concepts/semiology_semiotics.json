@@ -3,5 +3,22 @@
   "type": "concept",
   "name_zh": "符号学",
   "name_en": "semiology / semiotics",
-  "aliases": []
+  "aliases": [],
+  "sources": [
+    {
+      "location": "全书关于符号载体、表意、媒介、文本、解释与社会文化活动的理论框架",
+      "page": "PDF pp.10–399",
+      "chapter": "引论；上编《原理》；下编《推演》",
+      "author": "赵毅衡",
+      "book": "《符号学：原理与推演（修订本）》"
+    },
+    {
+      "location": "以Saussure符号系统与Peirce符号关系作词汇表提示，不能互换",
+      "page": "book p.864 / PDF p.868",
+      "chapter": "Glossary",
+      "author": "Art Since 1900 authors",
+      "book": "Art Since 1900, third edition"
+    }
+  ],
+  "last_updated": "2026-09-29"
 }

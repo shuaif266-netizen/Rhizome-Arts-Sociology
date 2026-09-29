@@ -1,0 +1,21 @@
+{
+  "id": "concept_interpretive_vortex_evaluative_vortex_zhao",
+  "type": "concept",
+  "name_zh": "解释漩涡与评价漩涡",
+  "name_en": "vortex of interpretations and vortex of evaluations",
+  "aliases": [
+    "元语言冲突"
+  ],
+  "definitions": [
+    {
+      "author_id": "person_zhao_yiheng",
+      "author": "赵毅衡",
+      "book_id": "book_semiotics_principles_problems_zhao_2016_zh",
+      "chapter": "第十章 符码与元语言；第十八章 现代性与评价漩涡",
+      "page": "PDF pp.228–247、390–399",
+      "definition": "不同元语言可能围绕同一文本或事件形成冲突；当分歧进入价值判断尺度时，作者称为评价漩涡。该术语是本书的分析模型。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

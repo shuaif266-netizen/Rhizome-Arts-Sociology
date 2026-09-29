@@ -1,0 +1,22 @@
+{
+  "id": "concept_late_modern_semiotic_crisis_zhao",
+  "type": "concept",
+  "name_zh": "符号消费与后期现代性危机",
+  "name_en": "semiotic consumption and late-modern crisis",
+  "aliases": [
+    "异化符号消费",
+    "替代选择"
+  ],
+  "definitions": [
+    {
+      "author_id": "person_zhao_yiheng",
+      "author": "赵毅衡",
+      "book_id": "book_semiotics_principles_problems_zhao_2016_zh",
+      "chapter": "第十七章 当代社会的符号危机",
+      "page": "PDF pp.370–389",
+      "definition": "作者以品牌、广告、娱乐、媒介时空和选择困境讨论符号价值扩张，并提出异化符号消费及名人连接、专家依赖等替代选择。属于作者对后期现代社会的理论诊断。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}
