@@ -1,0 +1,71 @@
+{
+  "id": "book_presentation_self_everyday_life_goffman_1988_zh",
+  "type": "book",
+  "name_zh": "《日常生活中的自我表演》",
+  "name": "The Presentation of Self in Everyday Life",
+  "aliases": [
+    "The Presentation of Self in Everyday Life",
+    "日常生活中的自我表演"
+  ],
+  "authors": [
+    "person_erving_goffman"
+  ],
+  "translator": "徐江敏",
+  "proofreader": "李姚军",
+  "publisher": "云南人民出版社",
+  "publication_year": 1988,
+  "edition": "1988年11月第1版、第1次印刷",
+  "isbn": "7-222-00246-4",
+  "fields": [
+    "社会学",
+    "互动秩序",
+    "表演研究",
+    "社会心理学",
+    "艺术与摄影"
+  ],
+  "page_count_pdf": 253,
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 253,
+  "local_source_status": "Word辅助件13卷、文件名页段连续覆盖PDF pp.1–253；每页为扫描图像、无OCR文字层，共253页图像。已逐页阅读Word内嵌页图；画面可辨，本次未需回查PDF。原PDF与Word留在项目目录只读，未上传。",
+  "source_locator": "新鬼专栏课件\\第一季：当作艺术摄影作品解读课件\\Sophie Calle\\参考阅读\\欧文·戈夫曼-日常生活中的自我表演.pdf",
+  "related_people": [
+    "person_erving_goffman"
+  ],
+  "related_concepts": [
+    "concept_dramaturgical_performance_impression_goffman",
+    "concept_front_back_regions_goffman",
+    "concept_dramaturgical_team_working_consensus_goffman",
+    "concept_discrepant_roles_collusion_goffman"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《日常生活中的自我表演》",
+      "author": "Erving Goffman；徐江敏译、李姚军校",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.2–3",
+      "location": "题名、作者、译校、云南人民出版社、1988年版和ISBN"
+    },
+    {
+      "book": "《日常生活中的自我表演》",
+      "author": "译者前言",
+      "chapter": "译者前言",
+      "page": "PDF pp.4–6",
+      "location": "译者对戈夫曼学术位置及戏剧分析框架的介绍；与作者正文区分"
+    },
+    {
+      "book": "《日常生活中的自我表演》",
+      "author": "Erving Goffman",
+      "chapter": "导言",
+      "page": "PDF pp.10–24",
+      "location": "互动信息、情境定义及研究方法"
+    },
+    {
+      "book": "《日常生活中的自我表演》",
+      "author": "Erving Goffman",
+      "chapter": "第一章 表演；第二章 剧班；第三章 区域和区域行为；第四章 差异角色；第五章 角色外的交往；第六章 印象管理的艺术；第七章 结论",
+      "page": "PDF pp.26–253",
+      "location": "七章正文及全书结论；各章精确页码见单书档案"
+    }
+  ]
+}

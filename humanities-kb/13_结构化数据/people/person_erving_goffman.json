@@ -1,0 +1,27 @@
+{
+  "id": "person_erving_goffman",
+  "type": "person",
+  "name_zh": "欧文·戈夫曼",
+  "name_en": "Erving Goffman",
+  "aliases": [
+    "Erving Goffman",
+    "欧文戈夫曼"
+  ],
+  "sources": [
+    {
+      "location": "题名页署名为作者",
+      "page": "PDF p.2",
+      "chapter": "书目信息",
+      "author": "Erving Goffman",
+      "book": "《日常生活中的自我表演》"
+    },
+    {
+      "location": "译者对作者研究兴趣和学术经历的介绍；按译者前言归属，不视为作者自述或独立核验的传记事实",
+      "page": "PDF pp.4–6",
+      "chapter": "译者前言",
+      "author": "徐江敏、李姚军",
+      "book": "《日常生活中的自我表演》"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

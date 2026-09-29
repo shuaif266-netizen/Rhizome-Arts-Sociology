@@ -1,0 +1,23 @@
+{
+  "id": "concept_dramaturgical_performance_impression_goffman",
+  "type": "concept",
+  "name_zh": "表演与印象管理",
+  "name_en": "performance and impression management",
+  "aliases": [
+    "日常表演",
+    "impression management"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_erving_goffman"
+      ],
+      "book_id": "book_presentation_self_everyday_life_goffman_1988_zh",
+      "chapter": "导言；第一章 表演；第六章 印象管理的艺术",
+      "page": "PDF pp.10–24、26–84、209–236",
+      "definition": "表演是个体在特定观察者面前持续出现并影响情境定义的一组活动。表演者借助场景、外表、举止和话语维持印象；表达既包括有意传递的信息，也包括较难完全控制的流露。该概念不等于蓄意欺骗。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

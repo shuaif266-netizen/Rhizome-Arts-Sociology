@@ -1,0 +1,23 @@
+{
+  "id": "concept_dramaturgical_team_working_consensus_goffman",
+  "type": "concept",
+  "name_zh": "剧班与工作共识",
+  "name_en": "performance team and working consensus",
+  "aliases": [
+    "剧班",
+    "team performance"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_erving_goffman"
+      ],
+      "book_id": "book_presentation_self_everyday_life_goffman_1988_zh",
+      "chapter": "导言；第二章 剧班",
+      "page": "PDF pp.17–24、85–111",
+      "definition": "剧班是为维持特定情境定义而合作的一组参与者；工作共识是互动各方暂时接受、足以让交往继续的共同定义。合作不表示成员地位相同或对事实和动机完全一致。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

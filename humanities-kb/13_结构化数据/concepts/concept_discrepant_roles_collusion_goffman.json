@@ -1,0 +1,23 @@
+{
+  "id": "concept_discrepant_roles_collusion_goffman",
+  "type": "concept",
+  "name_zh": "差异角色与共谋提示",
+  "name_en": "discrepant roles and collusive communication",
+  "aliases": [
+    "共谋提示",
+    "dramaturgical collusion"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_erving_goffman"
+      ],
+      "book_id": "book_presentation_self_everyday_life_goffman_1988_zh",
+      "chapter": "第四章 差异角色；第五章 角色外的交往",
+      "page": "PDF pp.145–208",
+      "definition": "处于常规表演关系边缘、能够掌握或传递特殊信息的人构成差异角色；剧班成员也会用暗号、提示、隐语及其他共谋性交往调整互动。其作用取决于具体的信息边界和组织关系。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}

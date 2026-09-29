@@ -1,0 +1,23 @@
+{
+  "id": "concept_front_back_regions_goffman",
+  "type": "concept",
+  "name_zh": "前台、后台与局外区域",
+  "name_en": "front region, back region, and outside region",
+  "aliases": [
+    "前台／后台",
+    "frontstage/backstage"
+  ],
+  "definitions": [
+    {
+      "authors": [
+        "person_erving_goffman"
+      ],
+      "book_id": "book_presentation_self_everyday_life_goffman_1988_zh",
+      "chapter": "第三章 区域和区域行为",
+      "page": "PDF pp.112–144",
+      "definition": "相对于某一具体表演关系，前台区域承载公开表演，后台区域容纳准备、调整及不希望该观众看到的活动，局外区域位于该关系之外。区域可以随观众、活动和时间改变，不只指固定房间。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-29"
+}
