@@ -1,0 +1,23 @@
+{
+  "id": "concept_subjectile_body_surface_zhang_feng_2018",
+  "type": "concept",
+  "name_zh": "主体画面（subjectile）与残酷戏剧",
+  "name_en": "subjectile, body and the material support of the image",
+  "aliases": [
+    "subjectile",
+    "画面",
+    "支撑物",
+    "残酷戏剧"
+  ],
+  "source_book_id": "book_art_and_deconstruction_zh_2018",
+  "source_pages_pdf": "153–173",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "153–173",
+      "view": "第三章借阿尔托与德里达讨论subjectile：它可指承载绘画、书写或图像的材料界面，但并非被作品完全支配的中性底板。身体、笔迹、纸张、阻力与发声使“画面”成为力量和再现发生冲突的地方。",
+      "author": "张振东、冯俊（对德里达的研究性阐释）"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

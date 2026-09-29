@@ -1,0 +1,81 @@
+{
+  "id": "book_art_and_deconstruction_zh_2018",
+  "type": "book",
+  "name_zh": "《艺术与解构——德里达中期艺术哲学批判疏论》",
+  "name": "Art and Deconstruction: Derrida’s Critical Thought on the Traditional Philosophy of Art in His Medium-Term",
+  "aliases": [
+    "《艺术与解构》",
+    "Art and Deconstruction"
+  ],
+  "authors": [
+    "person_zhang_zhendong",
+    "person_feng_jun"
+  ],
+  "author": "张振东、冯俊",
+  "publisher": "同济大学出版社",
+  "publication_year": 2018,
+  "edition": "2018年12月第1版、第1次印刷；同济博士论丛",
+  "isbn": "978-7-5608-6965-0",
+  "fields": [
+    "哲学",
+    "美学",
+    "艺术史",
+    "语言学",
+    "解构主义研究"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 230,
+  "local_source_status": "项目PDF共230页；六份Word分卷页标连续覆盖1–230。正文优先读Word OCR；版本、目录、术语、章界、参考文献姓名和后记疑点回查PDF。原PDF与Word未上传。",
+  "related_people": [
+    "person_zhang_zhendong",
+    "person_feng_jun",
+    "person_jacques_derrida"
+  ],
+  "related_concepts": [
+    "concept_deconstruction_art_philosophy_zhang_feng_2018",
+    "concept_archi_writing_trace_supplement_zhang_feng_2018",
+    "concept_parergon_frame_inside_outside_zhang_feng_2018",
+    "concept_free_adherent_beauty_deconstruction_zhang_feng_2018",
+    "concept_subjectile_body_surface_zhang_feng_2018",
+    "concept_blind_memory_touch_selfportrait_zhang_feng_2018"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、题名页、CIP和版权信息；书名、作者、出版社、版次、ISBN与定价",
+      "page": "PDF pp.1–4",
+      "chapter": "书目信息",
+      "author": "张振东、冯俊",
+      "book": "《艺术与解构》"
+    },
+    {
+      "location": "作者前言和导论提出研究范围、三部德里达作品及本书的组织框架",
+      "page": "PDF pp.12–28",
+      "chapter": "前言、导论",
+      "author": "张振东、冯俊",
+      "book": "《艺术与解构》"
+    },
+    {
+      "location": "五章正文",
+      "page": "PDF pp.29–223",
+      "chapter": "第一至第五章",
+      "author": "张振东、冯俊",
+      "book": "《艺术与解构》"
+    },
+    {
+      "location": "法文、英文／德文与中文参考文献",
+      "page": "PDF pp.224–229",
+      "chapter": "参考文献",
+      "author": "张振东、冯俊",
+      "book": "《艺术与解构》"
+    },
+    {
+      "location": "后记",
+      "page": "PDF p.230",
+      "chapter": "后记",
+      "author": "张振东",
+      "book": "《艺术与解构》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

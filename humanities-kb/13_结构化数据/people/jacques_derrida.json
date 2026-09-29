@@ -3,5 +3,15 @@
   "type": "person",
   "name_zh": "雅克·德里达",
   "name_en": "Jacques Derrida",
-  "aliases": []
+  "aliases": [],
+  "sources": [
+    {
+      "location": "张振东、冯俊对语言起源、绘画框架、阿尔托与盲者记忆的研究性阐释；并非德里达原著",
+      "page": "PDF pp.12–223",
+      "chapter": "导论及第一至第五章",
+      "author": "张振东、冯俊（研究德里达）",
+      "book": "《艺术与解构》"
+    }
+  ],
+  "last_updated": "2026-09-30"
 }

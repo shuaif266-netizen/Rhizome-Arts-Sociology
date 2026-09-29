@@ -1,0 +1,21 @@
+{
+  "id": "concept_deconstruction_art_philosophy_zhang_feng_2018",
+  "type": "concept",
+  "name_zh": "艺术解构与中期思想路径（张振东、冯俊）",
+  "name_en": "deconstruction and Derrida’s middle-period art philosophy",
+  "aliases": [
+    "艺术与解构",
+    "德里达中期艺术哲学"
+  ],
+  "source_book_id": "book_art_and_deconstruction_zh_2018",
+  "source_pages_pdf": "17–28, 213–223",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "17–28, 213–223",
+      "view": "本书作者以1978–1990年为研究窗口，将语言起源与文字学、传统艺术哲学批判、宗教与政治思想作为相互衔接的研究线索。解构在艺术讨论中不是一套外置方法或固定定义，而是重新检查作品、框架、再现、作者和意义秩序如何形成。",
+      "author": "张振东、冯俊（对德里达的研究性阐释）"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "concept_parergon_frame_inside_outside_zhang_feng_2018",
+  "type": "concept",
+  "name_zh": "副框架与作品边界（parergon）",
+  "name_en": "parergon and the frame of the artwork",
+  "aliases": [
+    "parergon",
+    "副框架",
+    "附属物",
+    "画框与画面"
+  ],
+  "source_book_id": "book_art_and_deconstruction_zh_2018",
+  "source_pages_pdf": "58–136",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "58–136",
+      "view": "第二章把画框、边缘、脚注、附录和装饰当作可能介入作品内部／外部划分的附属物。parergon既似乎处于作品之外，又参与作品如何被识别、判断与赋值；边界不是纯粹外在的线。",
+      "author": "张振东、冯俊（对德里达的研究性阐释）"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

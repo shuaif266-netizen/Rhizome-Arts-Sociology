@@ -1,0 +1,23 @@
+{
+  "id": "concept_free_adherent_beauty_deconstruction_zhang_feng_2018",
+  "type": "concept",
+  "name_zh": "自由美、依附美与审美判断的解构问题",
+  "name_en": "free and adherent beauty in aesthetic judgment",
+  "aliases": [
+    "自由美",
+    "依附美",
+    "共通感",
+    "合目的性"
+  ],
+  "source_book_id": "book_art_and_deconstruction_zh_2018",
+  "source_pages_pdf": "67–152",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "67–152",
+      "view": "本书借康德的判断力框架讨论无利害愉悦、共通感、合目的性、自由美、依附美及崇高，并追问艺术作品的框架、目的和范畴表如何规定审美判断。",
+      "author": "张振东、冯俊（对德里达的研究性阐释）"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

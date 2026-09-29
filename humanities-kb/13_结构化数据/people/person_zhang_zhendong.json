@@ -1,0 +1,17 @@
+{
+  "id": "person_zhang_zhendong",
+  "type": "person",
+  "name_zh": "张振东",
+  "name_en": "Zhang Zhendong",
+  "aliases": [],
+  "sources": [
+    {
+      "location": "封面、题名页与CIP确认作者署名",
+      "page": "PDF pp.1–4",
+      "chapter": "书目信息",
+      "author": "张振东、冯俊",
+      "book": "《艺术与解构》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}
