@@ -1,0 +1,22 @@
+{
+  "id": "concept_perception_action_affection_images_deleuze",
+  "type": "concept",
+  "name_zh": "知觉—动作—情感的影像变型（德勒兹）",
+  "name_en": "perception-image, action-image, affection-image",
+  "aliases": [
+    "知觉—影像",
+    "动作—影像",
+    "情感—影像"
+  ],
+  "source_book_id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "source_pages_pdf": "95–168",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "95–119",
+      "view": "当特殊影像形成不确定性中心时，运动—影像分化为知觉、动作与情感变型：知觉筛选和框定，动作把刺激与迟延反应联系起来，情感占据知觉与动作之间的间隔。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

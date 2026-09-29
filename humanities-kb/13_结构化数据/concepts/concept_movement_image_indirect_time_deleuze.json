@@ -1,0 +1,22 @@
+{
+  "id": "concept_movement_image_indirect_time_deleuze",
+  "type": "concept",
+  "name_zh": "运动—影像与时间的间接呈现（德勒兹）",
+  "name_en": "movement-image and indirect time-image",
+  "aliases": [
+    "movement-image",
+    "动态分切",
+    "绵延的动态分切"
+  ],
+  "source_book_id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "source_pages_pdf": "8–24, 36–53, 54–94",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "8–24, 36–53, 54–94",
+      "view": "运动—影像不是静态位置加上外在运动，而是运动本身的动态分切；它既改变局部集合中元素的位置，也表现绵延或整体的质变。镜头和剪辑从运动—影像的关系中构成时间的间接影像。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

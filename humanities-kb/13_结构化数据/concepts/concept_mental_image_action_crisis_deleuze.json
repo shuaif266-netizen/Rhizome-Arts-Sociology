@@ -1,0 +1,23 @@
+{
+  "id": "concept_mental_image_action_crisis_deleuze",
+  "type": "concept",
+  "name_zh": "精神影像与动作—影像的危机（德勒兹）",
+  "name_en": "mental-image and crisis of the action-image",
+  "aliases": [
+    "第三性",
+    "关系影像",
+    "思想影像",
+    "感觉—运动关联"
+  ],
+  "source_book_id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "source_pages_pdf": "313–341",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "313–341",
+      "view": "精神影像把关系、解释和思想作为影像对象；战后电影中分散情境、脆弱联系、游荡与匿名视听底片，使经典感觉—运动链受到质疑。德勒兹把这种危机看作新影像形式出现的条件之一，而非电影的终结。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

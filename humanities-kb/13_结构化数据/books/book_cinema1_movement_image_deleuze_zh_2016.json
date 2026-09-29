@@ -1,0 +1,65 @@
+{
+  "id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "type": "book",
+  "name_zh": "《运动—影像》",
+  "name": "Cinéma 1: L’image-mouvement",
+  "aliases": [
+    "电影1：运动—影像",
+    "Cinema 1: The Movement-Image",
+    "L'image-mouvement"
+  ],
+  "author": "吉尔·德勒兹",
+  "authors": [
+    "person_gilles_deleuze"
+  ],
+  "translator": "谢强、马月",
+  "publisher": "湖南美术出版社",
+  "publication_year": "2016",
+  "edition": "2016年3月第1版、4月第1次印刷；实验艺术丛书；据法文版授权翻译",
+  "isbn": "978-7-5356-7166-0",
+  "fields": [
+    "电影理论",
+    "哲学",
+    "美学",
+    "符号学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 349,
+  "local_source_status": "项目PDF共349页；9份Word分卷内部页标连续覆盖1–349。正文先读Word OCR文本，版本、术语、公式、示意图和末卷疑点回查PDF。原PDF与Word保持本地只读、未上传。",
+  "related_people": [
+    "person_gilles_deleuze"
+  ],
+  "related_concepts": [
+    "concept_movement_image_indirect_time_deleuze",
+    "concept_perception_action_affection_images_deleuze",
+    "concept_affection_image_any_space_deleuze",
+    "concept_impulse_image_naturalism_deleuze",
+    "concept_large_small_action_image_deleuze",
+    "concept_mental_image_action_crisis_deleuze"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、题名页、版权页与CIP确认中译本书名、作者、译者、出版信息和ISBN",
+      "page": "PDF pp.1–4",
+      "chapter": "书目信息",
+      "author": "吉尔·德勒兹；谢强、马月译",
+      "book": "《运动—影像》"
+    },
+    {
+      "location": "正文第一至第十二章",
+      "page": "PDF pp.8–341",
+      "chapter": "全书正文",
+      "author": "吉尔·德勒兹",
+      "book": "《运动—影像》"
+    },
+    {
+      "location": "译者说明两卷翻译出版经过与术语统一计划",
+      "page": "PDF pp.342–343",
+      "chapter": "译后记",
+      "author": "谢强、马月",
+      "book": "《运动—影像》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

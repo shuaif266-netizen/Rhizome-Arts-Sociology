@@ -1,0 +1,23 @@
+{
+  "id": "concept_affection_image_any_space_deleuze",
+  "type": "concept",
+  "name_zh": "情感—影像、面孔与任意空间（德勒兹）",
+  "name_en": "affection-image and any-space-whatever",
+  "aliases": [
+    "面孔—特写",
+    "质—力量",
+    "任意空间",
+    "性态符号"
+  ],
+  "source_book_id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "source_pages_pdf": "145–201",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "145–201",
+      "view": "情感—影像通过面孔或面孔化对象表现质与力量，既可形成反射面与共同质，也可形成微运动和张力系统。任意空间让质—力量脱离既定地点坐标；PDF p.182将面孔表现的类象符号与其空间呈现的性态符号区分开。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

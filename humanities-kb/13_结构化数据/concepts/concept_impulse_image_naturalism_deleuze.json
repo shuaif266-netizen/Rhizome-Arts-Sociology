@@ -1,0 +1,23 @@
+{
+  "id": "concept_impulse_image_naturalism_deleuze",
+  "type": "concept",
+  "name_zh": "冲动—影像与自然主义（德勒兹）",
+  "name_en": "impulse-image and naturalism",
+  "aliases": [
+    "原初世界",
+    "派生环境",
+    "冲动—行为",
+    "碎片"
+  ],
+  "source_book_id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "source_pages_pdf": "202–229",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "202–229",
+      "view": "冲动—影像连接原初世界与派生环境、冲动与行为；冲动从环境中攫取碎片，影片借此表现衰退、重复和可能的逃离。这是德勒兹对部分电影作品的哲学分类，不是临床诊断。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

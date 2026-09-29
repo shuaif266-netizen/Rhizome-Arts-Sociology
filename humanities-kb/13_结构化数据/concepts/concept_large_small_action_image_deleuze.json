@@ -1,0 +1,23 @@
+{
+  "id": "concept_large_small_action_image_deleuze",
+  "type": "concept",
+  "name_zh": "动作—影像的大形式与小形式（德勒兹）",
+  "name_en": "large and small forms of the action-image",
+  "aliases": [
+    "S–A–S′",
+    "A–S–A′",
+    "综合符号",
+    "线索"
+  ],
+  "source_book_id": "book_cinema1_movement_image_deleuze_zh_2016",
+  "source_pages_pdf": "230–312",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "230–312",
+      "view": "大形式S–A–S′从情境经行动转为新情境；小形式A–S–A′从动作线索揭示情境，再引出新动作。二者是组织情境、行动和推断的形式，不代表画面大小或影片预算。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}
