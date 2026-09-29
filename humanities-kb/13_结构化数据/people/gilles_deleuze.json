@@ -3,5 +3,24 @@
   "type": "person",
   "name_zh": "吉尔·德勒兹",
   "name_en": "Gilles Deleuze",
-  "aliases": []
+  "aliases": [
+    "德勒兹"
+  ],
+  "sources": [
+    {
+      "location": "封面、题名页与版权页；作者身份及中译版本",
+      "page": "PDF pp.1, 4–5",
+      "chapter": "书目信息",
+      "author": "吉尔·德勒兹",
+      "book": "《普鲁斯特与符号》"
+    },
+    {
+      "location": "“1980: The simulacral image”条目转述德勒兹关于观者与拟像的论点",
+      "page": "书内p.691 / PDF p.695",
+      "chapter": "1980: The simulacral image",
+      "author": "Hal Foster（转述德勒兹）",
+      "book": "Art Since 1900, third edition"
+    }
+  ],
+  "last_updated": "2026-09-29"
 }

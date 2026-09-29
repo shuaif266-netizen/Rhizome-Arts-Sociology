@@ -1,0 +1,22 @@
+{
+  "id": "concept_literary_machine_truth_production_deleuze",
+  "type": "concept",
+  "name_zh": "文学机器与真理的生产（德勒兹）",
+  "name_en": "literary machine and the production of truth",
+  "aliases": [
+    "部分客体机器",
+    "共振机器",
+    "受迫运动机器"
+  ],
+  "source_book_id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "source_pages_pdf": "139–169",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "139–169",
+      "view": "《追忆》作为文学机器，通过部分客体的碎片化、共振和受迫运动生产不同的时间与真理效应；作品整体不是预先存在的有机统一。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

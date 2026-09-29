@@ -1,0 +1,24 @@
+{
+  "id": "concept_sign_worlds_forced_learning_deleuze",
+  "type": "concept",
+  "name_zh": "符号世界与被迫学习（德勒兹）",
+  "name_en": "sign worlds and learning",
+  "aliases": [
+    "社交符号",
+    "爱情符号",
+    "感官符号",
+    "艺术符号",
+    "被迫思考"
+  ],
+  "source_book_id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "source_pages_pdf": "12–48, 93–109",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "12–48, 93–109",
+      "view": "不同符号世界要求不同的解释方式；符号的遭遇使既有理解失效并迫使思想学习。此处学习不是一般教育学模型，符号分类也不作为跨文化普遍经验分类。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

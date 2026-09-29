@@ -1,0 +1,23 @@
+{
+  "id": "concept_involuntary_memory_temporal_resonance_deleuze",
+  "type": "concept",
+  "name_zh": "不自觉记忆与时间共振（德勒兹）",
+  "name_en": "involuntary memory and temporal resonance",
+  "aliases": [
+    "感官符号",
+    "重现的时间",
+    "非自觉记忆",
+    "非自愿记忆"
+  ],
+  "source_book_id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "source_pages_pdf": "49–75, 93–109, 161–169",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "49–75, 93–109, 161–169",
+      "view": "感官印象能够触发不自觉记忆，使过去与当下共振；记忆并未穷尽符号意义。艺术通过共振及其他机器生产时间效应。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

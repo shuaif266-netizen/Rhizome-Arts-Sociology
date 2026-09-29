@@ -1,0 +1,21 @@
+{
+  "id": "concept_anti_logos_thought_image_deleuze",
+  "type": "concept",
+  "name_zh": "反逻各斯与思想意象（德勒兹）",
+  "name_en": "anti-logos and image of thought",
+  "aliases": [
+    "反逻各斯",
+    "符号迫思"
+  ],
+  "source_book_id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "source_pages_pdf": "102–122",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "102–122",
+      "view": "德勒兹反对把思想设定为善良意志、自然趋真和预设方法的活动，强调偶遇符号迫使思想开始解释；“反逻各斯”是其理论对照，不是对某种文化的普遍概括。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

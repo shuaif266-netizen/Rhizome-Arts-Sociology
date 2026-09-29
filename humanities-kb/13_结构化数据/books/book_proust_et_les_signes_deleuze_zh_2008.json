@@ -1,0 +1,65 @@
+{
+  "id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "type": "book",
+  "name_zh": "《普鲁斯特与符号》",
+  "name": "Proust et les signes",
+  "aliases": [
+    "《普鲁斯特与符号》",
+    "Proust et les signes"
+  ],
+  "author": "吉尔·德勒兹",
+  "authors": [
+    "person_gilles_deleuze"
+  ],
+  "translator": "姜宇辉",
+  "publisher": "上海译文出版社",
+  "publication_year": "2008",
+  "edition": "2008年4月第1版、第1次印刷；《法国思想家译丛》",
+  "isbn": "978-7-5327-4450-3",
+  "fields": [
+    "文学理论",
+    "哲学",
+    "美学",
+    "符号学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 194,
+  "local_source_status": "项目PDF共194页，五份Word分卷内部页标连续覆盖1–194；正文以Word为主，前置材料及OCR疑页回查PDF。原PDF与Word保持本地只读、未上传。",
+  "related_people": [
+    "person_gilles_deleuze",
+    "person_marcel_proust"
+  ],
+  "related_concepts": [
+    "concept_sign_worlds_forced_learning_deleuze",
+    "concept_involuntary_memory_temporal_resonance_deleuze",
+    "concept_literary_machine_truth_production_deleuze",
+    "concept_anti_logos_thought_image_deleuze",
+    "concept_style_transversality_plural_worlds_deleuze",
+    "concept_spider_narrator_sign_response_deleuze"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、题名页、版权页与CIP",
+      "page": "PDF pp.1, 4–5",
+      "chapter": "书目信息",
+      "author": "吉尔·德勒兹；姜宇辉译",
+      "book": "《普鲁斯特与符号》"
+    },
+    {
+      "location": "第一部分《符号》与第二部分《文学机器》正文",
+      "page": "PDF pp.12–192",
+      "chapter": "全书正文",
+      "author": "吉尔·德勒兹",
+      "book": "《普鲁斯特与符号》"
+    },
+    {
+      "location": "译者关于翻译经验及 vérité 译名的说明",
+      "page": "PDF pp.193–194",
+      "chapter": "译后记",
+      "author": "姜宇辉",
+      "book": "《普鲁斯特与符号》"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

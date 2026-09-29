@@ -1,0 +1,21 @@
+{
+  "id": "concept_spider_narrator_sign_response_deleuze",
+  "type": "concept",
+  "name_zh": "蜘蛛叙述者与符号响应（德勒兹）",
+  "name_en": "spider narrator and response to signs",
+  "aliases": [
+    "蛛网",
+    "无器官的身体"
+  ],
+  "source_book_id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "source_pages_pdf": "180–192",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "180–192",
+      "view": "结论以蜘蛛回应蛛网震动比喻叙述者被符号驱动的方式；它说明文学叙事功能，不是对普鲁斯特本人的临床诊断。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}

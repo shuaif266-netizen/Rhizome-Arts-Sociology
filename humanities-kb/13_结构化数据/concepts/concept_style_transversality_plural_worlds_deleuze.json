@@ -1,0 +1,23 @@
+{
+  "id": "concept_style_transversality_plural_worlds_deleuze",
+  "type": "concept",
+  "name_zh": "风格、横向贯穿性与多重世界（德勒兹）",
+  "name_en": "style, transversality, and plural worlds",
+  "aliases": [
+    "风格",
+    "视点",
+    "贯穿性",
+    "多重世界"
+  ],
+  "source_book_id": "book_proust_et_les_signes_deleuze_zh_2008",
+  "source_pages_pdf": "170–179",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "170–179",
+      "view": "风格在异质对象与独特视点之间建立关系；横向贯穿性使彼此封闭的世界得以关联而不被统一为同一个世界。作品统一性是形式产生的效果。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-09-29"
+}
