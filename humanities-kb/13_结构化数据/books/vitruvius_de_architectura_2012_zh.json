@@ -1,0 +1,21 @@
+{
+  "id": "book_vitruvius_de_architectura_2012_zh",
+  "type": "book",
+  "name_zh": "建筑十书",
+  "name_original": "De architectura / Ten Books on Architecture",
+  "aliases": [
+    "《建筑十书》",
+    "On Architecture"
+  ],
+  "author_id": "person_vitruvius",
+  "translator": "陈平",
+  "publisher": "北京大学出版社",
+  "publication_year": 2012,
+  "edition": "2012年9月第1版、第1次印刷；据译者说明以Cambridge 1999年版为底本",
+  "isbn": "978-7-301-19787-5",
+  "page_count_pdf": 434,
+  "last_read_pdf_page": 434,
+  "last_content_page_pdf": 433,
+  "reading_status": "fully_read",
+  "source_locator": "2012年中文扫描本；22份Word页图；正文PDF pp.64–185，评注pp.186–402，索引pp.404–433，封底p.434。"
+}
