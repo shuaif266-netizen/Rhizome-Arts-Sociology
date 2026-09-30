@@ -1,0 +1,75 @@
+{
+  "id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "type": "book",
+  "name_zh": "《索绪尔第三次普通语言学教程》",
+  "name_original": "",
+  "aliases": [
+    "《第三次普通语言学教程》",
+    "索绪尔第三次课程讲义"
+  ],
+  "author_id": "person_ferdinand_de_saussure",
+  "translator": "屠友祥",
+  "publisher": "上海人民出版社",
+  "publication_year": 2007,
+  "edition": "2007年3月第1版、第1次印刷",
+  "isbn": "978-7-208-06773-8",
+  "price_rmb": 22,
+  "fields": [
+    "普通语言学",
+    "语言学史",
+    "符号学",
+    "社会理论"
+  ],
+  "page_count_pdf": 213,
+  "printed_page_span": "正文pp.1–166；法汉概念对照pp.167–173",
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 213,
+  "local_source_status": "项目PDF共213页；六份Word分卷页标连续覆盖pp.1–213。Word正文优先，术语、符号、页界与OCR错识回查PDF。PDF与Word原件留在本地只读，未上传。",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】索绪尔第三次普通语言学教程 by [瑞士]弗迪南·德·索绪尔 屠友祥(译) (z-lib.org).pdf",
+  "related_people": [
+    "person_ferdinand_de_saussure"
+  ],
+  "related_concepts": [
+    "concept_langue_langage_parole_saussure_2007",
+    "concept_sign_arbitrariness_relative_motivation_saussure_2007",
+    "concept_synchrony_diachrony_saussure_2007",
+    "concept_syntagmatic_associative_saussure_2007",
+    "concept_language_value_difference_saussure_2007",
+    "concept_language_wave_geography_saussure_2007",
+    "concept_writing_speech_relation_saussure_2007",
+    "concept_semiology_semiotics",
+    "concept_signifier_signified"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "题名页、版权页与CIP；核对作者、译者、版次、印次、ISBN和定价",
+      "page": "PDF pp.1–5",
+      "chapter": "书目信息",
+      "author": "费尔迪南·德·索绪尔；屠友祥译",
+      "book": "《索绪尔第三次普通语言学教程》"
+    },
+    {
+      "location": "课程笔记来源、编辑脉络与语言学史；作为译者绪言单独归属",
+      "page": "PDF pp.9–36",
+      "chapter": "中译本绪言",
+      "author": "屠友祥",
+      "book": "《索绪尔第三次普通语言学教程》"
+    },
+    {
+      "location": "语言系统、符号、共时与历时、组合与联想、价值与差异",
+      "page": "PDF pp.39–204",
+      "chapter": "课程讲义正文",
+      "author": "费尔迪南·德·索绪尔课程记录；学生笔记及后续整理传统",
+      "book": "《索绪尔第三次普通语言学教程》"
+    },
+    {
+      "location": "法汉概念对照；逐页回查Word外文术语识别",
+      "page": "PDF pp.205–211",
+      "chapter": "法汉概念对照",
+      "author": "编译材料",
+      "book": "《索绪尔第三次普通语言学教程》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

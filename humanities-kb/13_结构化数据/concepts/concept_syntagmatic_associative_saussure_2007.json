@@ -1,0 +1,24 @@
+{
+  "id": "concept_syntagmatic_associative_saussure_2007",
+  "type": "concept",
+  "name_zh": "横组合关系与联想关系",
+  "name_en": "syntagmatic and associative relations",
+  "aliases": [
+    "在场组合与缺席替换"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "191–200",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "191–200",
+      "chapter": "第三部分有关语言系统的补充意见",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "横组合关系来自实际话语链中彼此相接的单位；联想关系来自记忆中未在当前链条出现、但因相似、差异或可替换性而相关的单位。一个词的价值同时受两类关系制约。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

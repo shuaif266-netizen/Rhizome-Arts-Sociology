@@ -1,0 +1,27 @@
+{
+  "id": "concept_langue_langage_parole_saussure_2007",
+  "type": "concept",
+  "name_zh": "整体语言、群体语言与个体语言",
+  "name_en": "langue, langage, and parole",
+  "aliases": [
+    "langue／langage／parole",
+    "社会语言系统与个人言说"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "113–125；161起",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "113–125",
+      "chapter": "第二部分第一章：整体语言与群体语言的区分",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "按屠友祥译本用语，整体语言（langue）是共同体共享的社会性符号系统；群体语言（langage）是广义语言能力及语言现象；个体语言（parole）是个人在具体情境中的言说行为。三者相关但不可互换。"
+    }
+  ],
+  "related_concepts": [
+    "concept_signifier_signified"
+  ],
+  "last_updated": "2026-09-30"
+}

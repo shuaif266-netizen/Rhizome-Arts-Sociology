@@ -1,0 +1,24 @@
+{
+  "id": "concept_synchrony_diachrony_saussure_2007",
+  "type": "concept",
+  "name_zh": "共时系统与历时变化",
+  "name_en": "synchronic system and diachronic change",
+  "aliases": [
+    "共时／历时双轴"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "161–190",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "161–190",
+      "chapter": "第三部分第四章：静态语言学和历史语言学",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "共时分析考察某一语言状态中同时存在的关系，历时分析考察单位沿时间发生的变化。二者对象与分析轴不同，但历史变化进入共同体使用后会改变新的共时关系。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

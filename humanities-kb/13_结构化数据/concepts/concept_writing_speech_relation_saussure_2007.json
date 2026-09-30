@@ -1,0 +1,25 @@
+{
+  "id": "concept_writing_speech_relation_saussure_2007",
+  "type": "concept",
+  "name_zh": "文字、声音与言说语言",
+  "name_en": "writing, sound, and spoken language",
+  "aliases": [
+    "书写对语言研究的遮蔽",
+    "正字法与声音"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "84–110",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "84–110",
+      "chapter": "第一部分第四章：文字表现整体语言",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "文字能够记录、固定和传播语言，但拼写与声音变化可能不同步，字母形式也会诱使研究者把文字误认作语言本身。语言分析应考察听觉单位及其系统对立，而不能仅凭字母或发音器官推断。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

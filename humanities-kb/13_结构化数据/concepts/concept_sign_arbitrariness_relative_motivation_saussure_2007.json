@@ -1,0 +1,27 @@
+{
+  "id": "concept_sign_arbitrariness_relative_motivation_saussure_2007",
+  "type": "concept",
+  "name_zh": "符号任意性与相对理据",
+  "name_en": "arbitrariness and relative motivation of the sign",
+  "aliases": [
+    "绝对任意性",
+    "相对任意性"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "126–160",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "126–160",
+      "chapter": "第二部分第二至五章：符号本质与绝对／相对任意性",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "能指与所指之间没有天然必然的联系，符号的任意性须由共同体惯例维持；语言内部的组合和联想关系又会限制任意性，使某些形式呈现相对理据。任意不等于个体可以随意更改。"
+    }
+  ],
+  "related_concepts": [
+    "concept_signifier_signified"
+  ],
+  "last_updated": "2026-09-30"
+}

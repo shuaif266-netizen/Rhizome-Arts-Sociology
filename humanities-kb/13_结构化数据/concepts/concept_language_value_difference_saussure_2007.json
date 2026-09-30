@@ -1,0 +1,27 @@
+{
+  "id": "concept_language_value_difference_saussure_2007",
+  "type": "concept",
+  "name_zh": "语言价值与差异系统",
+  "name_en": "linguistic value and differential system",
+  "aliases": [
+    "只有差异",
+    "语言单位的关系价值"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "201–204",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "201–204",
+      "chapter": "第三部分第五、六章：要素的价值和词语的意义；结语",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "语言单位的功能和价值依靠与系统内其他单位的差异、对立和关系，不是预先规定的孤立实体。零标记、时态和词形例子显示，类别也由系统中的区别建立；绝对任意性经由相互关系受到限制。"
+    }
+  ],
+  "related_concepts": [
+    "concept_signifier_difference"
+  ],
+  "last_updated": "2026-09-30"
+}

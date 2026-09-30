@@ -1,0 +1,25 @@
+{
+  "id": "concept_language_wave_geography_saussure_2007",
+  "type": "concept",
+  "name_zh": "语言波浪与地理连续性",
+  "name_en": "linguistic waves and geographical continuity",
+  "aliases": [
+    "语言地理差异",
+    "创新扩散"
+  ],
+  "source_book_id": "book_third_course_general_linguistics_saussure_2007_zh",
+  "source_pages_pdf": "39–83",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "39–83",
+      "chapter": "第一部分：种种具体的整体语言",
+      "authors": [
+        "person_ferdinand_de_saussure"
+      ],
+      "definition": "语言差异沿时间在地理连续区域中逐渐形成；创新可由社会接触向外传播，如波浪扩散，但地方共同体会选择、阻滞和改造它，因此方言边界往往不是绝对清楚的线。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}
