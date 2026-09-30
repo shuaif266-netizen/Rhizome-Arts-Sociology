@@ -1,0 +1,30 @@
+{
+  "id": "book_mises_theory_money_credit_2018_zh",
+  "type": "book",
+  "name_zh": "货币与信用理论",
+  "name_en": "The Theory of Money and Credit",
+  "aliases": [
+    "米塞斯《货币与信用理论》",
+    "The Theory of Money and Credit"
+  ],
+  "author_id": "person_ludwig_von_mises",
+  "translator_id": "person_kong_danfeng",
+  "publication_year": 2018,
+  "publisher": "上海人民出版社",
+  "edition": "2018年9月第1版、第1次印刷",
+  "isbn": "978-7-208-15109-3",
+  "pdf_page_count": 351,
+  "english_copyright_year": 1953,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "新鬼专栏课件/探究加密货币、区块链、NFT与当代艺术/参考阅读/【中文】米塞斯 - 货币与信用理论(2018).pdf；仅上传阅读档案和索引，不上传原始PDF或Word",
+  "sources": [
+    {
+      "location": "题名、译者、出版者、版次、印次、ISBN与版权",
+      "chapter": "题名页、CIP与印制信息",
+      "author": "Ludwig von Mises",
+      "book": "《货币与信用理论》",
+      "page": "项目PDF pp.1,349–350"
+    }
+  ]
+}

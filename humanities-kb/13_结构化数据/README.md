@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为Markdown知识库的机器可读补充。截至2026-09-30，累计1,670个实体、2,037条关系，其中1,916条为status=verified，121条旧关系未标status，不自动视为verified。最近完成的《20世纪西方艺术批评文选》新增1个书目实体、2位编者实体、1个来源限定概念实体和17条有来源关系。实体关系只覆盖整本阅读中选出的关键概念与跨书连接，不等于全书已经转换为完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+本目录为Markdown知识库的机器可读补充。截至2026-09-30，累计1,678个实体、2,045条关系，其中1,924条为status=verified，121条旧关系未标status，不自动视为verified。最近完成的《货币与信用理论》新增1个书目实体、2个人物实体、5个来源限定概念实体和8条有来源关系。实体关系只覆盖整本阅读中选出的关键概念与跨书连接，不等于全书已经转换为完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
 ## 目录
 
 - books / people / concepts / events / movements / artworks / topics：独立 JSON 实体。
@@ -15,7 +15,7 @@
 - confidence 描述当前项目材料对关系的支持程度，不是真实性评分。
 - concepts.definitions 分作者记录，不把不同思想家的概念压成统一定义。
 - movements 中的“纽约摄影学派”“西海岸组装艺术”按章节中的批评分类记录；若来源未证明其为正式组织，不推断其有成员制度或共同宣言。
-- relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、edited_by、reprints_text_from、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
+- relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、edited_by、translated_by、reprints_text_from、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
 - 来源优先包含书名、章节作者、章节标题、书内页码、PDF页码和可定位段落/图注。
 - Markdown档案仍是主要的人类可读记录；结构化实体与关系不得替代、覆盖或削弱原笔记。
 
@@ -594,6 +594,12 @@ relations.jsonl 的每行均独立校验为 JSON；新增关系需避免重复�
 - 新增17条verified关系，记录编者署名、选文归属、关键概念及与阿多诺另一选集的跨书互读；每条关系均含来源、证据类型、置信度与状态。
 - 选集的作者立场仍按篇归属；跨篇阅读链单独保存在Markdown，不作为任何一位作者的统一理论。
 - 项目PDF pp.1–554全读；原始PDF与28份Word分卷未上传。
+
+### 2026-09-30：《货币与信用理论》整本阅读
+
+- 新增1个书籍实体、2位人物实体和5个来源限定概念实体；新增8条verified关系，涵盖作者、译者、货币价值、信用媒介、利率与信贷周期，并与艺术市场概念建立明确标注的跨领域互读问题。
+- 译者的术语说明与译后记按译者本人归属；货币与艺术市场的连接标为`cross_book_interpretation`，不称为米塞斯的艺术理论。
+- PDF pp.1–351及附录、译后记、CIP／版权信息均已读；9份Word分卷页标连续。原始PDF、Word及页图不入库。
 ### 2026-09-30：德勒兹《运动—影像》整本阅读
 
 - 新增1个书籍实体和6个来源限定概念实体；复用吉尔·德勒兹人物实体。新增8条verified关系，记录作者归属、六个正文概念入口及与《普鲁斯特与符号》的跨书比较。
