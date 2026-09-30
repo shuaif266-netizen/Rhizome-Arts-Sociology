@@ -1,0 +1,21 @@
+{
+  "id": "concept_hsia_dual_self_revolution_literary_subjectivity",
+  "type": "concept",
+  "name_zh": "革命要求与文学主体性（夏济安）",
+  "name_en": "revolutionary obligation and literary subjectivity",
+  "aliases": [
+    "瞿秋白的双重要求",
+    "多愁善感的共产主义者"
+  ],
+  "source_book_id": "book_the_gate_of_darkness_hsia_1968",
+  "source_pages_pdf": "28–79",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "28–79",
+      "view": "夏济安以瞿秋白为例，讨论革命组织身份如何与私人情感、审美经验、家庭责任并存；“多愁善感的共产主义者”是作者的传记—文学解释。",
+      "author": "夏济安"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

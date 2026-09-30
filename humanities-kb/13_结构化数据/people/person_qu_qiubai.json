@@ -1,0 +1,19 @@
+{
+  "id": "person_qu_qiubai",
+  "type": "person",
+  "name_zh": "瞿秋白",
+  "name_en": "Ch'ü Ch'iu-po",
+  "aliases": [
+    "Ch'ü Chiu-po"
+  ],
+  "sources": [
+    {
+      "book": "《黑暗的闸门：中国左翼文学运动研究》",
+      "author": "夏济安",
+      "chapter": "Ch’ü Ch’iu-po: The Making and Destruction of a Tenderhearted Communist",
+      "page": "PDF pp.28–79",
+      "location": "传记、作品与《多余的话》的文学和政治解读"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

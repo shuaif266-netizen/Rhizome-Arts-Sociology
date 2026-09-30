@@ -1,0 +1,19 @@
+{
+  "id": "person_chiang_kuang_tzu",
+  "type": "person",
+  "name_zh": "蒋光慈",
+  "name_en": "Chiang Kuang-tz'u",
+  "aliases": [
+    "Chiang Kuang-ch'ih"
+  ],
+  "sources": [
+    {
+      "book": "《黑暗的闸门：中国左翼文学运动研究》",
+      "author": "夏济安",
+      "chapter": "The Phenomenon of Chiang Kuang-tz’u",
+      "page": "PDF pp.80–125",
+      "location": "生平、小说、诗歌、党内/后世评价"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "concept_hsia_darkness_tradition_ghosts",
+  "type": "concept",
+  "name_zh": "黑暗之门、传统记忆与幽灵修辞（夏济安）",
+  "name_en": "the gate of darkness, cultural memory and ghosts",
+  "aliases": [
+    "鲁迅作品中的黑暗之力",
+    "鲁迅与传统幽灵"
+  ],
+  "source_book_id": "book_the_gate_of_darkness_hsia_1968",
+  "source_pages_pdf": "171–187",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "171–187",
+      "view": "夏济安以“举起黑暗之门”的典故讨论鲁迅反传统姿态与古典语言、民间鬼魅、梦境和死亡意识之间的张力；“幽灵修辞”为本知识库概括。",
+      "author": "夏济安"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

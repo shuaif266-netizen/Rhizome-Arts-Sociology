@@ -1,0 +1,21 @@
+{
+  "id": "concept_hsia_revolutionary_passion_literary_formula",
+  "type": "concept",
+  "name_zh": "革命激情、群众行动与文学公式（夏济安）",
+  "name_en": "revolutionary passion, mass action and literary formula",
+  "aliases": [
+    "革命文学公式化",
+    "抒情走向革命"
+  ],
+  "source_book_id": "book_the_gate_of_darkness_hsia_1968",
+  "source_pages_pdf": "80–125,188–258",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "80–125,188–258",
+      "view": "夏济安比较口号、群众行动与人物经验，批评部分作品以革命激情和抽象概念替代叙事细节；他同时区分不同作家及作品，不把此批评推广到全部左翼文学。",
+      "author": "夏济安"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

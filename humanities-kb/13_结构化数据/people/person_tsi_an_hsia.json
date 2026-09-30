@@ -1,0 +1,19 @@
+{
+  "id": "person_tsi_an_hsia",
+  "type": "person",
+  "name_zh": "夏济安",
+  "name_en": "Tsi-an Hsia",
+  "aliases": [
+    "Hsia Tsi-an"
+  ],
+  "sources": [
+    {
+      "book": "《黑暗的闸门：中国左翼文学运动研究》",
+      "author": "夏济安",
+      "chapter": "题名页与全书正文",
+      "page": "PDF pp.3–4,28–287",
+      "location": "作者署名及六篇论文"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

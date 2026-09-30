@@ -1,0 +1,34 @@
+{
+  "id": "event_longhua_executions_1931",
+  "type": "event",
+  "name_zh": "1931年龙华处决案与左联五烈士",
+  "name_en": "Longhua executions and the Five Martyrs of the League of Leftist Writers",
+  "date_text": "1931-01-17 arrest meeting; 1931-02-07 executions",
+  "location": "上海龙华；被捕会议据多种来源称在上海公共租界内",
+  "participants": [
+    "胡也频",
+    "柔石",
+    "冯铿",
+    "殷夫",
+    "李伟森",
+    "何孟雄"
+  ],
+  "sources": [
+    {
+      "book": "《黑暗的闸门：中国左翼文学运动研究》",
+      "author": "夏济安",
+      "chapter": "Enigma of the Five Martyrs",
+      "page": "PDF pp.188–258",
+      "location": "会议、被捕、处决及党内派系背景；人数与告密说法有异"
+    },
+    {
+      "book": "上海市政府地方史介绍",
+      "author": "上海市政府",
+      "chapter": "龙华二十四烈士纪念介绍",
+      "page": "网页",
+      "location": "使用“龙华二十四烈士”及五位左联作家名单",
+      "url": "https://www.shhk.gov.cn/xwzx/002003/20210506/7e86c9a8-eb14-4df2-96a5-2fd17f607577.html"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

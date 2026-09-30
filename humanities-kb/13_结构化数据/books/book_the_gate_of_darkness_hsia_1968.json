@@ -1,0 +1,67 @@
+{
+  "id": "book_the_gate_of_darkness_hsia_1968",
+  "type": "book",
+  "name_zh": "《黑暗的闸门：中国左翼文学运动研究》",
+  "name": "The Gate of Darkness: Studies on the Leftist Literary Movement in China",
+  "aliases": [
+    "《黑暗的闸门》",
+    "The Gate of Darkness"
+  ],
+  "author": "夏济安（Tsi-an Hsia）",
+  "authors": [
+    "person_tsi_an_hsia"
+  ],
+  "publisher": "University of Washington Press",
+  "publication_year": "1968",
+  "edition": "题名页署 University of Washington Press / Seattle and London；Far Eastern and Russian Institute Publications on Asia 第17种",
+  "fields": [
+    "中国现代文学史",
+    "中国近现代史",
+    "文学批评",
+    "政治文化"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 293,
+  "local_source_status": "项目PDF共293页，8份Word辅助分卷内部页标连续覆盖pp.1–293；全本已读。原PDF与Word保持本地只读，未上传。",
+  "related_people": [
+    "person_tsi_an_hsia",
+    "person_qu_qiubai",
+    "person_chiang_kuang_tzu",
+    "person_lu_xun",
+    "person_ding_ling"
+  ],
+  "related_concepts": [
+    "concept_hsia_dual_self_revolution_literary_subjectivity",
+    "concept_hsia_revolutionary_passion_literary_formula",
+    "concept_hsia_left_league_united_front_writer_autonomy",
+    "concept_hsia_darkness_tradition_ghosts",
+    "concept_hsia_yenan_talks_autonomy_formularization"
+  ],
+  "related_events": [
+    "event_longhua_executions_1931"
+  ],
+  "sources": [
+    {
+      "location": "题名页、版权页及丛书目录",
+      "page": "PDF pp.3–4,292–293",
+      "chapter": "书目信息",
+      "author": "Tsi-an Hsia",
+      "book": "The Gate of Darkness: Studies on the Leftist Literary Movement in China"
+    },
+    {
+      "location": "Franz Michael序与C. T. Hsia导论",
+      "page": "PDF pp.5–26",
+      "chapter": "序言、导论",
+      "author": "Franz Michael；C. T. Hsia",
+      "book": "The Gate of Darkness"
+    },
+    {
+      "location": "六篇论文及书后索引",
+      "page": "PDF pp.28–291",
+      "chapter": "全书正文、索引",
+      "author": "Tsi-an Hsia",
+      "book": "The Gate of Darkness"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

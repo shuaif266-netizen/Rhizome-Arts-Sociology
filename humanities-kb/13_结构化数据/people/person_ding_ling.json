@@ -1,0 +1,19 @@
+{
+  "id": "person_ding_ling",
+  "type": "person",
+  "name_zh": "丁玲",
+  "name_en": "Ting Ling",
+  "aliases": [
+    "蒋伟"
+  ],
+  "sources": [
+    {
+      "book": "《黑暗的闸门：中国左翼文学运动研究》",
+      "author": "夏济安",
+      "chapter": "The Phenomenon of Chiang Kuang-tz’u；Enigma of the Five Martyrs；Twenty Years after the Yenan Forum",
+      "page": "PDF pp.80–287",
+      "location": "《上海，春天1930》、延安写作与组织内文艺争论"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

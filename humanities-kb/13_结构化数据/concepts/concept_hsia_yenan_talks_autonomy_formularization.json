@@ -1,0 +1,21 @@
+{
+  "id": "concept_hsia_yenan_talks_autonomy_formularization",
+  "type": "concept",
+  "name_zh": "延安文艺座谈会、创作自主与公式化（夏济安）",
+  "name_en": "the Yenan Forum, creative autonomy and formularization",
+  "aliases": [
+    "工农兵文艺方向",
+    "现实主义与政治控制"
+  ],
+  "source_book_id": "book_the_gate_of_darkness_hsia_1968",
+  "source_pages_pdf": "259–287",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "259–287",
+      "view": "夏济安回顾《延安文艺座谈会讲话》及后续文学政策，讨论政治组织、现实主义、民族形式、个人表达和公式化写作之间的矛盾；本条不把他的批评等同为延安文艺史的完整结论。",
+      "author": "夏济安"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

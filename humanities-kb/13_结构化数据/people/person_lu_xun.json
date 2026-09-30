@@ -1,0 +1,19 @@
+{
+  "id": "person_lu_xun",
+  "type": "person",
+  "name_zh": "鲁迅",
+  "name_en": "Lu Hsün",
+  "aliases": [
+    "周树人"
+  ],
+  "sources": [
+    {
+      "book": "《黑暗的闸门：中国左翼文学运动研究》",
+      "author": "夏济安",
+      "chapter": "Lu Hsiin and the Dissolution of the League of Leftist Writers；Aspects of the Power of Darkness in Lu Hsiin",
+      "page": "PDF pp.126–187",
+      "location": "左联组织关系、1936年文艺争论与传统鬼魅意象"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}

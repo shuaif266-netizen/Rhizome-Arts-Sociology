@@ -1,0 +1,20 @@
+{
+  "id": "concept_hsia_left_league_united_front_writer_autonomy",
+  "type": "concept",
+  "name_zh": "左联、统一战线与作家自主（夏济安）",
+  "name_en": "the Leftist League, united front and writers’ autonomy",
+  "aliases": [
+    "国防文学与民族革命战争的大众文学"
+  ],
+  "source_book_id": "book_the_gate_of_darkness_hsia_1968",
+  "source_pages_pdf": "126–170",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "126–170",
+      "view": "夏济安把1936年两条文艺口号之争放在抗日统一战线和左翼组织结构中考察，讨论团结、纪律、左翼立场与创作自主之间的冲突。",
+      "author": "夏济安"
+    }
+  ],
+  "last_updated": "2026-10-01"
+}
