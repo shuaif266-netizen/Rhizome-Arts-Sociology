@@ -1,0 +1,17 @@
+{
+  "id": "person_david_graeber",
+  "type": "person",
+  "name_zh": "大卫·格雷伯",
+  "name_en": "David Graeber",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Graeber; David Wengrow",
+      "chapter": "title page and Wengrow's foreword",
+      "page": "title page; foreword pp.ix–x",
+      "location": "co-authorship and Wengrow's account of their collaboration"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

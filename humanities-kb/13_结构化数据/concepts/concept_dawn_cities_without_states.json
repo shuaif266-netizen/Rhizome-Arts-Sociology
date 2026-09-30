@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_cities_without_states",
+  "type": "concept",
+  "name_zh": "城市规模与国家形成的非必然关系",
+  "name_en": "cities without inevitable state formation",
+  "aliases": ["城市不等于国家", "城市自治"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "276–358",
+  "source_locator": "第8–9章",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "276–358",
+      "chapter": "Imaginary Cities; Hiding in Plain Sight",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "作者以不同城市和大型聚落讨论：人口规模、城市建设与集中行政或世袭王权之间不存在自动的一一对应；具体治理仍须逐地核查。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

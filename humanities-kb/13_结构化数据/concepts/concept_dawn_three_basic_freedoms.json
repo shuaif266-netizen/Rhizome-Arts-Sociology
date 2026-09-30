@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_three_basic_freedoms",
+  "type": "concept",
+  "name_zh": "自由的三种实践：离开、不服从与重组",
+  "name_en": "three basic freedoms",
+  "aliases": ["三种基本自由", "freedom to leave, disobey, and reconfigure social relations"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "493–526",
+  "source_locator": "第12章结论",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "493–526",
+      "chapter": "Conclusion",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "作者把离开某一共同体或关系、不服从命令、建立或重组社会关系视为历史上可实践的自由能力；这些能力受资源、亲属、照料、奴役与暴力等条件制约。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

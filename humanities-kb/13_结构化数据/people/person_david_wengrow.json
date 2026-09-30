@@ -1,0 +1,17 @@
+{
+  "id": "person_david_wengrow",
+  "type": "person",
+  "name_zh": "戴维·温格罗",
+  "name_en": "David Wengrow",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Wengrow",
+      "chapter": "title page and foreword",
+      "page": "title page; foreword pp.ix–x",
+      "location": "co-authorship; foreword is by Wengrow"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_seasonal_political_forms",
+  "type": "concept",
+  "name_zh": "季节性政治形式与制度转换",
+  "name_en": "seasonal political forms and institutional reversibility",
+  "aliases": ["季节性组织", "可转换的政治形式"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "78–163; 493–526",
+  "source_locator": "第3–4章与结论",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "78–163; 493–526",
+      "chapter": "Chapters 3–4; Conclusion",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "作者用季节性聚散、仪式和不同公共组织方式思考：一个群体的政治安排可能发生变化，并非始终固定在同一组织形态。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

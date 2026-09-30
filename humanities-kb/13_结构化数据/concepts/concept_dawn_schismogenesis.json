@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_schismogenesis",
+  "type": "concept",
+  "name_zh": "文化之间的互相塑造与分化",
+  "name_en": "schismogenesis",
+  "aliases": ["分裂式生成", "互相分化"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "164–209",
+  "source_locator": "第5章",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "164–209",
+      "chapter": "Many Seasons Ago",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "本书用该术语解释相互接触的社会如何在互动中形成彼此对照的价值和组织形式；它是对特定区域历史的解释，不是任何文化差异的通用原因。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

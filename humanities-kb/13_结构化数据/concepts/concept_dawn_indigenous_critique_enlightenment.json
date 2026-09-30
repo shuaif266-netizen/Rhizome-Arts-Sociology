@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_indigenous_critique_enlightenment",
+  "type": "concept",
+  "name_zh": "原住民批评与欧洲启蒙论辩",
+  "name_en": "Indigenous critique and Enlightenment debates",
+  "aliases": ["原住民对欧洲社会秩序的批评"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "27–77; 441–492",
+  "source_locator": "第2章与第11章",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "27–77; 441–492",
+      "chapter": "Chapters 2 and 11",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "作者认为原住民对财富差异、强制劳动、服从与惩罚的批评进入了欧洲关于自然法和社会发展的论辩；传播路径需与殖民记录及欧洲文本中介分开核查。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

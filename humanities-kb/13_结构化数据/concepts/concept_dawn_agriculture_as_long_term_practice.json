@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_agriculture_as_long_term_practice",
+  "type": "concept",
+  "name_zh": "农业作为长期实践而非单一革命",
+  "name_en": "agriculture as a long-term and reversible practice",
+  "aliases": ["玩耍式耕作", "混合生计与驯化"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "210–275",
+  "source_locator": "第6–7章",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "210–275",
+      "chapter": "Gardens of Adonis; The Ecology of Freedom",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "作者将采集、栽培、驯化和定居视为可能分离、长期发展且可调整的过程，反对把农业起源概括为一次事件或必然通向国家的阶段。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

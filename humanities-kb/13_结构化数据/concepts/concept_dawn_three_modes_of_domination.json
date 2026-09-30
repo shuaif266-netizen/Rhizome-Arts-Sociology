@@ -1,0 +1,20 @@
+{
+  "id": "concept_dawn_three_modes_of_domination",
+  "type": "concept",
+  "name_zh": "三种支配原则与国家组合",
+  "name_en": "three modes of domination and state formation",
+  "aliases": ["国家没有单一的起源", "暴力、行政知识与魅力政治"],
+  "source_book_id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "source_pages_printed": "359–440",
+  "source_locator": "第10章",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_printed": "359–440",
+      "chapter": "Why the State Has No Origin",
+      "authors": ["person_david_graeber", "person_david_wengrow"],
+      "definition": "作者以暴力与主权、知识与行政、个人魅力与竞争性政治等支配原则比较不同政体的组合，并反对一个普遍适用的单线国家起源模型。"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

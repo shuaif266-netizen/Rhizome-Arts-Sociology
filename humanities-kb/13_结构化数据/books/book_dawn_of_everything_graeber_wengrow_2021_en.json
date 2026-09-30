@@ -1,0 +1,61 @@
+{
+  "id": "book_dawn_of_everything_graeber_wengrow_2021_en",
+  "type": "book",
+  "name_zh": "《万物的黎明：人类新史》（项目工作名）",
+  "name_original": "The Dawn of Everything: A New History of Humanity",
+  "aliases": ["The Dawn of Everything", "2021万物的黎明"],
+  "authors": ["person_david_graeber", "person_david_wengrow"],
+  "author": "David Graeber; David Wengrow",
+  "publisher": "Signal / McClelland & Stewart",
+  "publication_year": 2021,
+  "publication_date": "2021-10-19",
+  "isbn_print": "9780771049828",
+  "isbn_ebook": "9780771049835",
+  "fields": ["考古学", "人类学", "历史学", "政治思想", "社会理论", "生态史"],
+  "read_status": "read_in_full",
+  "last_read_print_page": 673,
+  "printed_page_span": "正文pp.1–526；Notes pp.527–610；Bibliography pp.611–673；前置页i–xii",
+  "local_source_status": "项目中仅有英文EPUB，无对应Word或PDF。按EPUB spine顺序读完前置材料、12章正文、Notes与Bibliography，并以内嵌印刷页标定位。原件本地只读，未上传。",
+  "source_locator": "新鬼专栏课件/第二季：当作艺术摄影作品解读课件/2021万物的黎明.epub",
+  "related_people": ["person_david_graeber", "person_david_wengrow"],
+  "related_concepts": [
+    "concept_dawn_three_basic_freedoms",
+    "concept_dawn_seasonal_political_forms",
+    "concept_dawn_indigenous_critique_enlightenment",
+    "concept_dawn_schismogenesis",
+    "concept_dawn_agriculture_as_long_term_practice",
+    "concept_dawn_cities_without_states",
+    "concept_dawn_three_modes_of_domination"
+  ],
+  "sources": [
+    {
+      "book": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Graeber; David Wengrow",
+      "chapter": "title and copyright pages",
+      "page": "EPUB front matter; printed pages not numbered",
+      "location": "title, authors, imprint, date and ISBN"
+    },
+    {
+      "book": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Graeber; David Wengrow",
+      "chapter": "Chapters 1–12",
+      "page": "printed pp.1–526",
+      "location": "main text read in full"
+    },
+    {
+      "book": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Graeber; David Wengrow",
+      "chapter": "Notes",
+      "page": "printed pp.527–610",
+      "location": "notes read in full"
+    },
+    {
+      "book": "The Dawn of Everything: A New History of Humanity",
+      "author": "David Graeber; David Wengrow",
+      "chapter": "Bibliography",
+      "page": "printed pp.611–673",
+      "location": "alphabetical bibliography read in full through final Z entry"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}
