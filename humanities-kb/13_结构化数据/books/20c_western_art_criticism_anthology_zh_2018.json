@@ -1,0 +1,32 @@
+{
+  "id": "book_20c_western_art_criticism_anthology_2018",
+  "type": "book",
+  "name_zh": "20世纪西方艺术批评文选",
+  "name_en": "Selected Readings in 20th-Century Western Art Criticism",
+  "aliases": [
+    "《20世纪西方艺术批评文选》",
+    "20世纪西方艺术批评文选（沈语冰、张晓剑主编）"
+  ],
+  "editor_ids": [
+    "person_shen_yubing",
+    "person_zhang_xiaojian"
+  ],
+  "publication_year": 2018,
+  "publisher": "河北美术出版社",
+  "edition": "2018年2月第1版、第1次印刷",
+  "isbn": "978-7-5310-6201-1",
+  "page_count_printed": 546,
+  "pdf_page_count": 554,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/【中译】20世纪西方艺术批评文选.pdf；仅上传阅读档案和索引，不上传原始PDF与Word",
+  "sources": [
+    {
+      "author": "沈语冰、张晓剑",
+      "book": "《20世纪西方艺术批评文选》",
+      "page": "项目PDF p.3",
+      "chapter": "版权页与CIP",
+      "location": "出版者、印次、ISBN与页数"
+    }
+  ]
+}
