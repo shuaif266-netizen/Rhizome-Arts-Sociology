@@ -1,0 +1,17 @@
+{
+  "id": "concept_kristeva_signifying_group",
+  "type": "concept",
+  "name_zh": "克里斯蒂娃的表意组",
+  "name_en": "groupe sémiotique",
+  "aliases": [],
+  "sources": [
+    {
+      "location": "区分文本的表意组与交际语言的命题句，分析其间断、并置和未完成结构",
+      "page": "PDF pp.237–249",
+      "chapter": "《公式的产生（节译）》第三节",
+      "author": "朱莉娅·克里斯蒂娃",
+      "book": "《符号学：符义分析探索集》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

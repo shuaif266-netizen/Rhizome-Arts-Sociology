@@ -1,0 +1,17 @@
+{
+  "id": "concept_kristeva_genotext_phenotext",
+  "type": "concept",
+  "name_zh": "克里斯蒂娃的基因文本与现象文本",
+  "name_en": "géno-texte / phéno-texte",
+  "aliases": [],
+  "sources": [
+    {
+      "location": "区分表意生产活动与可观察的语言文本，并明确不同于乔姆斯基的深层／表层结构",
+      "page": "PDF pp.209–216",
+      "chapter": "《公式的产生（节译）》第一节",
+      "author": "朱莉娅·克里斯蒂娃",
+      "book": "《符号学：符义分析探索集》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

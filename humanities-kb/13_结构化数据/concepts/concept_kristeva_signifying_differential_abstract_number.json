@@ -1,0 +1,17 @@
+{
+  "id": "concept_kristeva_signifying_differential_abstract_number",
+  "type": "concept",
+  "name_zh": "克里斯蒂娃的表意微分与抽象数",
+  "name_en": "signifying differential / abstract number",
+  "aliases": [],
+  "sources": [
+    {
+      "location": "借数字、微分和无限性模型说明能指关系及文本生成",
+      "page": "PDF pp.217–236",
+      "chapter": "《公式的产生（节译）》第二节",
+      "author": "朱莉娅·克里斯蒂娃",
+      "book": "《符号学：符义分析探索集》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

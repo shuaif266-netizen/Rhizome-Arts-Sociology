@@ -1,0 +1,65 @@
+{
+  "id": "book_kristeva_semeiotic_semanalysis_zh",
+  "type": "book",
+  "name_zh": "《符号学：符义分析探索集》",
+  "name_original": "Sèméiotikè: Recherches pour une sémanalyse",
+  "aliases": [],
+  "author_id": "person_julia_kristeva",
+  "translator": "史忠义等",
+  "publisher": "复旦大学出版社",
+  "series": "克里斯蒂娃学术精粹选译",
+  "series_editor": "祝克懿",
+  "publication_year": "",
+  "edition": "项目文件名标注2015；扫描页未核实完整版次",
+  "isbn": "",
+  "fields": ["符号学", "语言学", "文学理论", "精神分析", "文本理论", "艺术与视觉文化"],
+  "page_count_pdf": 263,
+  "printed_page_span": "未核明纸本页码；引用使用项目PDF页码",
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 263,
+  "local_source_status": "七份准确前缀Word页标连续覆盖PDF pp.1–263；PDF pp.3–4、261–262为广告，p.263为重复目录；p.5、p.252另有嵌入式电子书宣传。正文与前置文字范围、OCR疑点和图表均已记录。原PDF与Word留本地只读，未上传。",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】 2015 克里斯蒂娃 符号学_符义分析探索集.pdf",
+  "related_people": ["person_julia_kristeva"],
+  "related_concepts": [
+    "concept_kristeva_signifiance_semanalysis",
+    "concept_kristeva_bodily_gesture_practice",
+    "concept_kristeva_intertextuality_paragram",
+    "concept_kristeva_textual_productivity",
+    "concept_kristeva_poetic_negativity",
+    "concept_kristeva_genotext_phenotext",
+    "concept_kristeva_signifying_differential_abstract_number",
+    "concept_kristeva_signifying_group"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、题名与责任者；扫描件未提供完整版本著录",
+      "page": "PDF p.1",
+      "chapter": "封面",
+      "author": "朱莉娅·克里斯蒂娃；史忠义等译",
+      "book": "《符号学：符义分析探索集》"
+    },
+    {
+      "location": "丛书编者对选译缘起、克里斯蒂娃学术范围与项目背景的介绍",
+      "page": "PDF pp.5–11",
+      "chapter": "“克里斯蒂娃学术精粹选译”总序",
+      "author": "祝克懿",
+      "book": "《符号学：符义分析探索集》"
+    },
+    {
+      "location": "译者对符号学术语与研究史的回顾；其中关于索绪尔与“复量”的论述是译者判断",
+      "page": "PDF pp.12–19",
+      "chapter": "译者序《符号学的得与失》",
+      "author": "史忠义",
+      "book": "《符号学：符义分析探索集》"
+    },
+    {
+      "location": "八篇选文及其正文、篇内注释；总论与章节地图见单书档案",
+      "page": "PDF pp.23–260",
+      "chapter": "克里斯蒂娃选文",
+      "author": "朱莉娅·克里斯蒂娃",
+      "book": "《符号学：符义分析探索集》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

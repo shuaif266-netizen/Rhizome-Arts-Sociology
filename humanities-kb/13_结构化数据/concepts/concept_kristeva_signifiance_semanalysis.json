@@ -1,0 +1,17 @@
+{
+  "id": "concept_kristeva_signifiance_semanalysis",
+  "type": "concept",
+  "name_zh": "克里斯蒂娃的符义分析与成义过程",
+  "name_en": "sémanalyse / signifiance",
+  "aliases": [],
+  "sources": [
+    {
+      "location": "文本作为表意实践与意义生成过程；符义分析对现象文本和生成活动的区分",
+      "page": "PDF pp.23–38、209–216",
+      "chapter": "《文本与文本科学》；《公式的产生（节译）》",
+      "author": "朱莉娅·克里斯蒂娃",
+      "book": "《符号学：符义分析探索集》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

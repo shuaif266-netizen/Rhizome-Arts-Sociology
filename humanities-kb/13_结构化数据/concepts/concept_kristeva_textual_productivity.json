@@ -1,0 +1,17 @@
+{
+  "id": "concept_kristeva_textual_productivity",
+  "type": "concept",
+  "name_zh": "克里斯蒂娃的文本生产力与似真性",
+  "name_en": "textual productivity / vraisemblance",
+  "aliases": [],
+  "sources": [
+    {
+      "location": "以雷蒙·鲁塞尔文本区分语义、句法似真性与文本生产",
+      "page": "PDF pp.145–177",
+      "chapter": "《文本即生产力》",
+      "author": "朱莉娅·克里斯蒂娃",
+      "book": "《符号学：符义分析探索集》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}
