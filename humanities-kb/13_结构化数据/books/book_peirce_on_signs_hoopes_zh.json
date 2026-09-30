@@ -1,0 +1,74 @@
+{
+  "id": "book_peirce_on_signs_hoopes_zh",
+  "type": "book",
+  "name_zh": "《皮尔士论符号》",
+  "name_original": "Peirce on Signs",
+  "aliases": ["Peirce on Signs: Writings on Semiotic"],
+  "author_id": "person_charles_sanders_peirce",
+  "editor_id": "person_james_hoopes",
+  "editor": "詹姆斯·胡普斯",
+  "translator": "徐鹏",
+  "publisher": "上海译文出版社",
+  "publication_year": "",
+  "original_edition_year": 1991,
+  "edition": "项目文件名标注2016；扫描前置页未见中文版完整版次信息",
+  "isbn": "",
+  "price_rmb": "",
+  "fields": ["符号学", "逻辑学", "认识论", "科学哲学", "实用主义", "形而上学", "社会理论"],
+  "page_count_pdf": 297,
+  "printed_page_span": "书内纸本页码未核明；引用使用项目PDF页码",
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 297,
+  "local_source_status": "PDF共297页；八份Word分卷内页标连续覆盖pp.1–297。正文优先读Word；封面、版权信息、目录及符号术语疑点回查PDF。PDF与Word原件留在项目文件夹只读，未上传。",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】皮尔士论符号-上海译文出版社 (2016).pdf",
+  "related_people": ["person_charles_sanders_peirce", "person_james_hoopes"],
+  "related_concepts": [
+    "concept_peirce_sign_object_interpretant",
+    "concept_peirce_firstness_secondness_thirdness",
+    "concept_peirce_icon_index_symbol",
+    "concept_peirce_deduction_induction_abduction",
+    "concept_peirce_pragmatic_maxim",
+    "concept_peirce_reality_inquiry_community",
+    "concept_peirce_chance_habit_mind_matter",
+    "concept_peirce_musement_neglected_argument"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "封面、版权信息、丛书标识与选文目录；核对作者、编者、译者及扫描本边界",
+      "page": "PDF pp.1–5",
+      "chapter": "书目信息与目录",
+      "author": "查尔斯·桑德斯·皮尔士；詹姆斯·胡普斯编；徐鹏译",
+      "book": "《皮尔士论符号》"
+    },
+    {
+      "location": "编者介绍作者生平、选集范围与其符号实在论框架；不归作皮尔士原文",
+      "page": "PDF pp.6–19",
+      "chapter": "编者导言",
+      "author": "詹姆斯·胡普斯",
+      "book": "《皮尔士论符号》"
+    },
+    {
+      "location": "21篇不同时期的短论与手稿节选；每篇的正文、来源说明与注释分层阅读",
+      "page": "PDF pp.20–285",
+      "chapter": "皮尔士选文",
+      "author": "查尔斯·桑德斯·皮尔士",
+      "book": "《皮尔士论符号》"
+    },
+    {
+      "location": "编者列出皮尔士作品与相关符号学研究的延伸书目",
+      "page": "PDF pp.286–288",
+      "chapter": "参考文献",
+      "author": "詹姆斯·胡普斯编",
+      "book": "《皮尔士论符号》"
+    },
+    {
+      "location": "译者说明选编史、术语、皮尔士符号学的早晚期及与其他传统的关系；另指出英文选集于1991年出版",
+      "page": "PDF pp.289–297",
+      "chapter": "译后记：皮尔士的符号学设想与文本",
+      "author": "徐鹏",
+      "book": "《皮尔士论符号》"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

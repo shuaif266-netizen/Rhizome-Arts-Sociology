@@ -1,0 +1,27 @@
+{
+  "id": "concept_peirce_sign_object_interpretant",
+  "type": "concept",
+  "name_zh": "符号—对象—解释元",
+  "name_en": "sign, object, and interpretant",
+  "aliases": [
+    "三元符号关系",
+    "解释元链条"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "144–146、245–246",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "144–146、245–246",
+      "chapter": "论符号特性；符号",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "符号代表对象，并在解释元中得到理解；解释元可继续成为符号。对象约束解释，解释不是符号使用者任意赋予的一次性心理动作。"
+    }
+  ],
+  "related_concepts": [
+    "concept_semiology_semiotics"
+  ],
+  "last_updated": "2026-09-30"
+}

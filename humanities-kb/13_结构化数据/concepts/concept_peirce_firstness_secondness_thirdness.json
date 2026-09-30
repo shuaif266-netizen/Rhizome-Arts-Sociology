@@ -1,0 +1,24 @@
+{
+  "id": "concept_peirce_firstness_secondness_thirdness",
+  "type": "concept",
+  "name_zh": "第一性、第二性与第三性",
+  "name_en": "firstness, secondness, and thirdness",
+  "aliases": [
+    "皮尔士三范畴"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "186–208",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "186–208",
+      "chapter": "一、二、三：思维与自然的基本范畴；试猜这个谜",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "第一性涉及可能性与质感，第二性涉及遭遇、抵抗和事实，第三性涉及中介、表征、一般性与规律。三者不能还原为彼此无关的标签，第三性也不能化约为二元关系的堆叠。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

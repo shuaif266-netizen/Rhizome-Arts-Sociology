@@ -1,0 +1,25 @@
+{
+  "id": "concept_peirce_reality_inquiry_community",
+  "type": "concept",
+  "name_zh": "实在、探究与意见共同体",
+  "name_en": "reality, inquiry, and community",
+  "aliases": [
+    "最终意见",
+    "共同探究"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "82–84、147–162、181–185、247–251",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "82–84、147–162、181–185、247–251",
+      "chapter": "四种机能缺失之结论；确立信念；实用主义演讲",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "实在不由任何个人的当下意见决定；对象的抵抗、公共证据与持续探究使判断能够修正，并趋向更充分的共同认识。共同体不是多数表决，而是一种可公开检验的探究条件。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "concept_peirce_musement_neglected_argument",
+  "type": "concept",
+  "name_zh": "玄思与被忽略的论证",
+  "name_en": "musement and the neglected argument",
+  "aliases": [
+    "关于上帝实在性的溯因论证"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "266–285",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "266–285",
+      "chapter": "上帝实在性的一个被忽略的论证",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "玄思是自由而不急于求解的观察与想象活动；皮尔士认为它可能引出关于上帝的溯因性假说，再由经验、逻辑和实践后果加以考察。这不是从前提必然推出结论的演绎证明。"
+    }
+  ],
+  "related_concepts": [
+    "concept_peirce_deduction_induction_abduction"
+  ],
+  "last_updated": "2026-09-30"
+}

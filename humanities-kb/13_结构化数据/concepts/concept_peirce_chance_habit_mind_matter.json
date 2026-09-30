@@ -1,0 +1,25 @@
+{
+  "id": "concept_peirce_chance_habit_mind_matter",
+  "type": "concept",
+  "name_zh": "机遇、习惯与心物连续性",
+  "name_en": "chance, habit, and continuity of mind and matter",
+  "aliases": [
+    "偶然论",
+    "习惯的宇宙"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "218–236",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "218–236",
+      "chapter": "人的脆弱本质",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "机遇使变化得以发生，习惯使关系趋于稳定并被传承；规律可在这种演化中逐渐形成。皮尔士据此设想心灵与物质具有连续性。此为十九世纪自然哲学论述，不作为现行生物学或神经科学定论。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

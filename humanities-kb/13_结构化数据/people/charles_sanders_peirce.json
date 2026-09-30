@@ -1,0 +1,16 @@
+{
+  "id": "person_charles_sanders_peirce",
+  "type": "person",
+  "name_zh": "查尔斯·桑德斯·皮尔士",
+  "name_en": "Charles Sanders Peirce",
+  "aliases": ["查尔斯·S·皮尔士", "Charles S. Peirce", "皮尔士"],
+  "sources": [
+    {
+      "book": "《皮尔士论符号》",
+      "author": "查尔斯·桑德斯·皮尔士",
+      "chapter": "21篇选文",
+      "page": "PDF pp.20–285",
+      "location": "早期认识论、三范畴、符号三元关系、推理方法、实用主义、科学共同体与后期心物连续论述"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "person_james_hoopes",
+  "type": "person",
+  "name_zh": "詹姆斯·胡普斯",
+  "name_en": "James Hoopes",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《皮尔士论符号》",
+      "author": "詹姆斯·胡普斯",
+      "chapter": "编者导言",
+      "page": "PDF pp.6–19",
+      "location": "选集编者；介绍皮尔士的思想背景、文献与符号实在论框架"
+    }
+  ]
+}

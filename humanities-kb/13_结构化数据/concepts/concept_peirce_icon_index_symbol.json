@@ -1,0 +1,27 @@
+{
+  "id": "concept_peirce_icon_index_symbol",
+  "type": "concept",
+  "name_zh": "图像、标指与记号",
+  "name_en": "icon, index, and symbol",
+  "aliases": [
+    "肖像、标指与符号",
+    "符号三分"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "34–35、144–146、245–246",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "34–35、144–146、245–246",
+      "chapter": "论一个新范畴表；论符号特性；符号",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "图像凭相似性或共同性质表征对象；标指依靠与对象的事实联系；记号凭习惯、约定或一般规则起作用。不同篇目译词与分类表达有历史变化，具体符号可能兼具不同关系。"
+    }
+  ],
+  "related_concepts": [
+    "concept_peirce_sign_object_interpretant"
+  ],
+  "last_updated": "2026-09-30"
+}

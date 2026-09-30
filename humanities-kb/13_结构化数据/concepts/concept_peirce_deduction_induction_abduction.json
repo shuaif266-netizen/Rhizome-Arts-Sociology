@@ -1,0 +1,25 @@
+{
+  "id": "concept_peirce_deduction_induction_abduction",
+  "type": "concept",
+  "name_zh": "演绎、归纳与溯因",
+  "name_en": "deduction, induction, and abduction",
+  "aliases": [
+    "假说推理",
+    "科学探究三步"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "61–67、88–118、274–285",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "61–67、88–118",
+      "chapter": "四种机能缺失之结论；逻辑规律有效性的基础",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "溯因提出可能解释，演绎从假说推出可检验后果，归纳再据经验检验并修正判断。三者分工不同，共同构成探究；早期文章中的假说推理与后来的abduction概念有联系，引用时保留文本年代。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-09-30"
+}

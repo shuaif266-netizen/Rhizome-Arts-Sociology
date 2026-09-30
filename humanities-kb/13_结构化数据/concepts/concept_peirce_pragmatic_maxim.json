@@ -1,0 +1,27 @@
+{
+  "id": "concept_peirce_pragmatic_maxim",
+  "type": "concept",
+  "name_zh": "实用准则与可设想的实践效果",
+  "name_en": "pragmatic maxim and conceivable practical effects",
+  "aliases": [
+    "实用主义准则",
+    "实效主义准则"
+  ],
+  "source_book_id": "book_peirce_on_signs_hoopes_zh",
+  "source_pages_pdf": "163–185、252–254",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "163–185、252–254",
+      "chapter": "如何澄清观念；实用主义定义",
+      "authors": [
+        "person_charles_sanders_peirce"
+      ],
+      "definition": "概念的意义须通过对象在可设想情形下将引发的实践后果澄清。该准则是逻辑分析方法，并非把个人当前的有用感直接等同于真理。后期pragmaticism命名用于区分皮尔士自己的逻辑主张。"
+    }
+  ],
+  "related_concepts": [
+    "concept_peirce_sign_object_interpretant"
+  ],
+  "last_updated": "2026-09-30"
+}
