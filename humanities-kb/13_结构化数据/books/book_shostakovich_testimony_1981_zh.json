@@ -1,0 +1,30 @@
+{
+  "id": "book_shostakovich_testimony_1981_zh",
+  "type": "book",
+  "name_zh": "《见证：肖斯塔科维奇回忆录》",
+  "name_en": "Testimony: The Memoirs of Dmitri Shostakovich, as related to and edited by Solomon Volkov",
+  "aliases": [
+    "《肖斯塔科维奇回忆录》",
+    "Testimony"
+  ],
+  "subject_ids": [
+    "person_dmitri_shostakovich"
+  ],
+  "editor_ids": [
+    "person_solomon_volkov"
+  ],
+  "translator": "叶琼芳；卢珉文校",
+  "publication_year": 1981,
+  "publication_place": "北京（题名页所载）",
+  "pdf_page_count": 373,
+  "reading_status": "source_limited_scan_read",
+  "source_limit": "本地扫描PDF pp.1–373及10份Word分卷均已读；PDF p.4目录列书内p.370《伏尔科夫简介》，扫描止于书内p.369，附录缺失。",
+  "sources": [
+    {
+      "book": "《见证：肖斯塔科维奇回忆录》",
+      "page": "PDF pp.2–4",
+      "location": "中英文题名页、目录及扫描末页页脚"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}

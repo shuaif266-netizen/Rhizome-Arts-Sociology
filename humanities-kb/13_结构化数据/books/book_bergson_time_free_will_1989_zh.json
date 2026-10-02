@@ -1,0 +1,57 @@
+{
+  "id": "book_bergson_time_free_will_1989_zh",
+  "type": "book",
+  "name_zh": "《时间与自由意志》",
+  "name": "时间与自由意志",
+  "aliases": ["《论意识的直接材料》（英译者序中用名）"],
+  "author": "亨利·柏格森",
+  "authors": ["person_henri_bergson"],
+  "translator": "吴士栋",
+  "publisher": "商务印书馆",
+  "publication_year": "1989",
+  "edition": "1958年8月第1版；1989年7月第4次印刷；汉译世界学术名著丛书",
+  "isbn": "7-100-00517-5/B.60",
+  "fields": ["哲学", "心理学", "时间哲学", "行动理论"],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 175,
+  "local_source_status": "项目PDF共175页；5份Word分卷内部页标连续覆盖pp.1–175。全文Word优先阅读；PDF pp.1–10、p.11、p.60、p.106、p.162、p.175回看核版本、章界与末页。OCR草稿字形误识仍可能存在，未宣称每页均已视觉复核；原PDF和Word保持本地只读。",
+  "related_people": ["person_henri_bergson"],
+  "related_concepts": [
+    "concept_duration",
+    "concept_psychic_intensity_bergson",
+    "concept_qualitative_multiplicity_bergson",
+    "concept_free_action_whole_self_bergson"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "location": "题名页、版权页",
+      "page": "PDF pp.2–3",
+      "chapter": "书目信息",
+      "author": "柏格森；吴士栋译",
+      "book": "《时间与自由意志》"
+    },
+    {
+      "location": "第一章：心理状态的强度",
+      "page": "PDF pp.11–59",
+      "chapter": "第一章",
+      "author": "亨利·柏格森",
+      "book": "《时间与自由意志》"
+    },
+    {
+      "location": "第二章：意识状态的众多性——关于绵延的观念",
+      "page": "PDF pp.60–105",
+      "chapter": "第二章",
+      "author": "亨利·柏格森",
+      "book": "《时间与自由意志》"
+    },
+    {
+      "location": "第三章及结论：自由意志、绵延与自我",
+      "page": "PDF pp.106–175",
+      "chapter": "第三章、结论",
+      "author": "亨利·柏格森",
+      "book": "《时间与自由意志》"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}
