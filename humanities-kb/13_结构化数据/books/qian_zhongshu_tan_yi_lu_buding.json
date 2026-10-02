@@ -1,0 +1,31 @@
+{
+  "id": "book_qian_zhongshu_tan_yi_lu_buding",
+  "type": "book",
+  "name_zh": "谈艺录（补订本）",
+  "name_en": "",
+  "aliases": [
+    "《谈艺录》",
+    "钱钟书《谈艺录（补订本）》"
+  ],
+  "author_ids": [
+    "person_qian_zhongshu"
+  ],
+  "publication_year": "",
+  "publisher": "",
+  "edition": "题名页题《谈艺录（补订本）》；PDF p.3称扫描据中华书局1993年3月版制作；完整版权页信息未核",
+  "isbn": "",
+  "page_count_printed": 651,
+  "pdf_page_count": 662,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书/钱钟书：谈艺录.pdf；PDF转Word/全量输出/对应34份Word分卷",
+  "sources": [
+    {
+      "book": "《谈艺录》（补订本）",
+      "location": "题名页署名；扫描说明称据中华书局1993年3月版制作",
+      "page": "项目PDF pp.2–3",
+      "chapter": "题名页与扫描来源说明",
+      "author": "钱钟书"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_qian_poetry_chan_analogy_boundary",
+  "type": "concept",
+  "name_zh": "诗与禅的类比边界（钱钟书）",
+  "name_en": "",
+  "aliases": [
+    "诗禅关系"
+  ],
+  "source_book_id": "book_qian_zhongshu_tan_yi_lu_buding",
+  "source_pages_pdf": "269–300, 586–593, 631–633",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "269–300, 586–593, 631–633",
+      "view": "诗与禅可在专注、顿悟等经验层面互相说明，但诗歌仍以语言、声韵和篇章形式成篇；禅门譬喻不能替代作品分析。",
+      "author": "钱钟书"
+    }
+  ],
+  "last_updated": "2026-10-03"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_qian_poetry_whitespace_reader_completion",
+  "type": "concept",
+  "name_zh": "诗歌留白与读者补足（钱钟书）",
+  "name_en": "",
+  "aliases": [
+    "言外之意与读者阐释"
+  ],
+  "source_book_id": "book_qian_zhongshu_tan_yi_lu_buding",
+  "source_pages_pdf": "424–430, 601–623",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "424–430, 601–623",
+      "view": "诗的言外意味依托字句、声调、篇章位置与省略关系；读者可以补足未直说的意味，但文本证据限制解释。此名称是知识库归纳标题。",
+      "author": "钱钟书"
+    }
+  ],
+  "last_updated": "2026-10-03"
+}

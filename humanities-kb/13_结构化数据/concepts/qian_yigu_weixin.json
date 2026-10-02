@@ -1,0 +1,21 @@
+{
+  "id": "concept_qian_yigu_weixin",
+  "type": "concept",
+  "name_zh": "以故为新与旧材料化用（钱钟书）",
+  "name_en": "",
+  "aliases": [
+    "以故为新",
+    "以俗为雅"
+  ],
+  "source_book_id": "book_qian_zhongshu_tan_yi_lu_buding",
+  "source_pages_pdf": "324–340",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "324–340",
+      "view": "旧语句、典故或表达经语境、位置、组合和声律变化，可以在新作品中产生新的效果；判断须比对具体文本。与陌生化的联系只作知识库比较。",
+      "author": "钱钟书"
+    }
+  ],
+  "last_updated": "2026-10-03"
+}
