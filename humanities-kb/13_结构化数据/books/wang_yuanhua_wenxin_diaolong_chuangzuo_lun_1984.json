@@ -1,0 +1,31 @@
+{
+  "id": "book_wang_yuanhua_wenxin_diaolong_chuangzuo_lun_1984",
+  "type": "book",
+  "name_zh": "文心雕龙创作论",
+  "name_en": "",
+  "aliases": [
+    "《文心雕龙创作论》",
+    "王元化《文心雕龙创作论》"
+  ],
+  "author_ids": [
+    "person_wang_yuanhua"
+  ],
+  "publication_year": 1984,
+  "publisher": "上海古籍出版社",
+  "edition": "1984年2月第2版、第1次印刷；题名页注明1979年10月第1版",
+  "isbn": "",
+  "page_count_printed": 318,
+  "pdf_page_count": 326,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书/文心凋龙创作论（王元化；上海古籍出版社1984）(2).pdf；PDF转Word/全量输出/书/对应17份分卷",
+  "sources": [
+    {
+      "author": "王元化",
+      "book": "《文心雕龙创作论》",
+      "page": "项目PDF pp.3–4",
+      "chapter": "题名页、版权页与重版说明",
+      "location": "著者、出版社、版本与二版修订说明"
+    }
+  ]
+}
