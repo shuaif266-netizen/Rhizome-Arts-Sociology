@@ -1,0 +1,25 @@
+{
+  "id": "concept_yoshikawa_historical_record_fiction",
+  "type": "concept",
+  "name_zh": "史传书写与小说虚构：以文运事与因文生事",
+  "name_en": "",
+  "aliases": [
+    "以文运事",
+    "因文生事"
+  ],
+  "source_book_id": "book_yoshikawa_chinese_literary_history_1987",
+  "source_pages_pdf": "225–228, 239–240",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "239–240",
+      "chapter": "第八章《近世文学（下）》明代小说部分",
+      "authors": [
+        "person_yoshikawa_kojiro"
+      ],
+      "definition": "吉川用“以文运事”与“因文生事”对照史传和小说：前者以已发生的事迹为叙述材料，后者由叙事构造事件、人物和虚构情节。他以此讨论小说成为独立文体的过程。此区分属于本书的解释，不应把历史文本等同透明事实，也不宜将历史书写与小说绝对二分。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-02"
+}

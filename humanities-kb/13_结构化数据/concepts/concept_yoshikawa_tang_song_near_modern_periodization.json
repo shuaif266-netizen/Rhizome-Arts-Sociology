@@ -1,0 +1,24 @@
+{
+  "id": "concept_yoshikawa_tang_song_near_modern_periodization",
+  "type": "concept",
+  "name_zh": "唐宋之变与文学史的“近世”分期",
+  "name_en": "",
+  "aliases": [
+    "唐宋转型（吉川幸次郎的文学史分期）"
+  ],
+  "source_book_id": "book_yoshikawa_chinese_literary_history_1987",
+  "source_pages_pdf": "41–45, 136–140",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "41–45",
+      "chapter": "第二章《中国文学史的时代划分》",
+      "authors": [
+        "person_yoshikawa_kojiro"
+      ],
+      "definition": "吉川以唐宋转变作为中国文学从“中世”进入“近世”的重要分界，同时提醒中西文学史分期不能直接等同。宋代章节继续用这一框架解释诗文、词体、士人生活和政治伦理的变化。该分期是作者的分析方案，并非唯一或无争议的历史尺度。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-02"
+}

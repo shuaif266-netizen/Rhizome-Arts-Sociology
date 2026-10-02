@@ -1,0 +1,51 @@
+{
+  "id": "book_yoshikawa_chinese_literary_history_1987",
+  "type": "book",
+  "name_zh": "中国文学史",
+  "name_en": "",
+  "aliases": [
+    "吉川幸次郎《中国文学史》",
+    "《中国文学史》（黑川洋一编订）"
+  ],
+  "author_ids": [
+    "person_yoshikawa_kojiro"
+  ],
+  "editor_ids": [
+    "person_kurokawa_yoichi"
+  ],
+  "translator_ids": [],
+  "publication_year": 1987,
+  "publisher": "四川人民出版社",
+  "edition": "1987年9月第1版；译后记称日文底本为岩波书店1974年第1版",
+  "isbn": "",
+  "page_count": 251,
+  "local_pdf_page_count": 265,
+  "local_word_chunks": 7,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书/中国文学史 [日]吉川幸次郎(3).pdf；PDF pp.1–265全覆盖，Word七分卷页标连续；原件只读、未上传",
+  "sources": [
+    {
+      "book": "《中国文学史》",
+      "author": "吉川幸次郎",
+      "chapter": "题名页",
+      "page": "PDF p.1",
+      "location": "题名与作者"
+    },
+    {
+      "book": "《中国文学史》",
+      "author": "译者后记",
+      "chapter": "译后记",
+      "page": "PDF pp.261–262",
+      "location": "日文底本、翻译时间及译者署名"
+    },
+    {
+      "book": "《中国文学史》",
+      "author": "扫描附加书目信息",
+      "chapter": "附加图书信息",
+      "page": "PDF p.263",
+      "location": "中文出版者、版次和书目页数"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}

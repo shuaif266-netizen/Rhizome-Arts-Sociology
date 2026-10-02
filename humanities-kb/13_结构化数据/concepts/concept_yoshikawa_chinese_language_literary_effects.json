@@ -1,0 +1,24 @@
+{
+  "id": "concept_yoshikawa_chinese_language_literary_effects",
+  "type": "concept",
+  "name_zh": "汉语的字形、声音与文学效果",
+  "name_en": "",
+  "aliases": [
+    "关于汉语的性质"
+  ],
+  "source_book_id": "book_yoshikawa_chinese_literary_history_1987",
+  "source_pages_pdf": "251–260",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "251–260",
+      "chapter": "附录《关于汉语的性质》",
+      "authors": [
+        "person_yoshikawa_kojiro"
+      ],
+      "definition": "吉川讨论汉字形体、单音节、声调、语词多义和句间断续，认为这些性质参与诗文的音律、修辞与表达效果。这里记录的是作者的语言—文学理论；汉语起源、音系和跨语言概括不等同当代语言学共识。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-02"
+}

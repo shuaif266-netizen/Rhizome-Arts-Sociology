@@ -1,0 +1,25 @@
+{
+  "id": "concept_yoshikawa_yuan_drama_sanqu",
+  "type": "concept",
+  "name_zh": "元杂剧与散曲：曲调、口语与表演结构",
+  "name_en": "",
+  "aliases": [
+    "元曲",
+    "小令与套数"
+  ],
+  "source_book_id": "book_yoshikawa_chinese_literary_history_1987",
+  "source_pages_pdf": "186–208",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "186–208",
+      "chapter": "第七章《近世文学（中）》元杂剧与元的散曲",
+      "authors": [
+        "person_yoshikawa_kojiro"
+      ],
+      "definition": "吉川概述元杂剧的四折、楔子、角色分工与主唱安排，并讨论曲牌、韵脚、四声通押和衬字；继而区分单调小令与组合曲调的套数，强调戏曲歌唱、口语道白与散曲表达的关系。其剧种源流和中日表演比较属于作者论证，仍需戏曲史材料核验。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-02"
+}

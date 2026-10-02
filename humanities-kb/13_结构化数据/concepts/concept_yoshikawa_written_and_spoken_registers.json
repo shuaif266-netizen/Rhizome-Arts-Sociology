@@ -1,0 +1,25 @@
+{
+  "id": "concept_yoshikawa_written_and_spoken_registers",
+  "type": "concept",
+  "name_zh": "口语与文语：文学形式及其传播",
+  "name_en": "",
+  "aliases": [
+    "文语与口语",
+    "口语文的产生"
+  ],
+  "source_book_id": "book_yoshikawa_chinese_literary_history_1987",
+  "source_pages_pdf": "163–168, 186–208, 201–203, 231–240",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "163–168, 201–203, 231–240",
+      "chapter": "第五至第八章相关小节",
+      "authors": [
+        "person_yoshikawa_kojiro"
+      ],
+      "definition": "吉川把凝炼、规范的书面文语与保留会话助字、语气和日常表达的口语文相区分，并将语录、戏曲道白、说书与话本等形式放入文体变化史中。他把印刷、城市传播和读者扩展作为解释背景。文献语言不等于未经整理的口述记录，具体传播史需另行互证。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-02"
+}
