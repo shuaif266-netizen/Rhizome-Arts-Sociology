@@ -1,0 +1,37 @@
+{
+  "id": "book_xiao_gongquan_chinese_political_thought_history_1998_zh",
+  "type": "book",
+  "name_zh": "中国政治思想史",
+  "name_en": "",
+  "aliases": [
+    "萧公权《中国政治思想史》"
+  ],
+  "author_ids": [
+    "person_xiao_gongquan"
+  ],
+  "publication_year": 1998,
+  "publisher": "辽宁教育出版社",
+  "edition": "1998年3月第1版；2001年8月第2次印刷；原书三册",
+  "isbn": "7-5382-5049-2",
+  "page_count_printed": "",
+  "pdf_page_count": 922,
+  "local_source_status": "read_only_verified",
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/中国政治思想史(萧公权).pdf；PDF转Word/全量输出/对应24份Word分卷",
+  "sources": [
+    {
+      "author": "CIP与版权页",
+      "book": "《中国政治思想史》",
+      "chapter": "书目信息",
+      "page": "项目PDF p.10",
+      "location": "作者、出版社、印次、ISBN与三册说明"
+    },
+    {
+      "author": "萧公权",
+      "book": "《中国政治思想史》",
+      "chapter": "《凡例》",
+      "page": "项目PDF p.23",
+      "location": "第五编原稿沦陷、目录仍存"
+    }
+  ]
+}
