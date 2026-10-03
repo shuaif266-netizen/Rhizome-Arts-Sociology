@@ -1,0 +1,30 @@
+{
+  "id": "person_edward_lucie_smith",
+  "type": "person",
+  "name_zh": "爱德华·露西-史密斯",
+  "name_en": "Edward Lucie-Smith",
+  "aliases": [],
+  "roles": [
+    "诗人",
+    "小说家",
+    "传记作者",
+    "艺术批评家",
+    "电台艺术节目主持人"
+  ],
+  "education": [
+    {
+      "institution": "牛津大学默顿学院",
+      "field": "历史"
+    }
+  ],
+  "birthplace": "牙买加",
+  "sources": [
+    {
+      "book": "《1945年以来的艺术运动》",
+      "author": "Edward Lucie-Smith",
+      "chapter": "作者简介",
+      "page": "PDF p.6",
+      "location": "中文版作者简介；未补写未确认的生卒年"
+    }
+  ]
+}

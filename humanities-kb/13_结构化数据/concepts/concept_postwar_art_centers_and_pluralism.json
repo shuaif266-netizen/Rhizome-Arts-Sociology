@@ -1,0 +1,24 @@
+{
+  "id": "concept_postwar_art_centers_and_pluralism",
+  "type": "concept",
+  "name_zh": "战后艺术中心迁移与多中心化",
+  "name_en": "postwar art centers and pluralism",
+  "aliases": [],
+  "definitions": [
+    {
+      "author": "Edward Lucie-Smith",
+      "type": "textual_summary",
+      "text": "本书前言将巴黎、纽约之后的晚20世纪艺术描述为多地区传播、地方语境并存的局面；全球交流并不等于风格同质化。",
+      "source": {
+        "book": "《1945年以来的艺术运动》",
+        "chapter": "前言与第九章",
+        "page": "PDF pp.17–20、234–264",
+        "location": "全球中心、地方艺术和政治语境"
+      }
+    }
+  ],
+  "aliases_from_text": [
+    "全球艺术中心",
+    "地方语境"
+  ]
+}

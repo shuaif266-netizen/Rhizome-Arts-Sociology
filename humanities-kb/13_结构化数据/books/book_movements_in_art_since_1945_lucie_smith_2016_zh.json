@@ -1,0 +1,54 @@
+{
+  "id": "book_movements_in_art_since_1945_lucie_smith_2016_zh",
+  "type": "book",
+  "name_zh": "1945年以来的艺术运动",
+  "name": "Movements in Art Since 1945",
+  "aliases": [
+    "《1945年以来的艺术运动》",
+    "Movements in Art Since 1945"
+  ],
+  "author": "Edward Lucie-Smith",
+  "authors": [
+    "person_edward_lucie_smith"
+  ],
+  "publisher": "浙江摄影出版社",
+  "publication_year": "2016",
+  "edition": "中文第1版；前言称英文原书至2001年为第5版",
+  "isbn": "978-7-5514-1424-1",
+  "fields": [
+    "战后艺术史",
+    "现代与当代艺术",
+    "艺术批评",
+    "媒介与艺术制度"
+  ],
+  "read_status": "read_in_full",
+  "related_people": [
+    "person_edward_lucie_smith"
+  ],
+  "related_concepts": [
+    "concept_postwar_art_centers_and_pluralism",
+    "concept_political_pop",
+    "concept_postminimalism",
+    "concept_art_concept_vs_conceptual_art",
+    "concept_video_mediation_immediacy",
+    "concept_photographic_truth_claims",
+    "concept_politicized_identity_art"
+  ],
+  "sources": [
+    {
+      "book": "《1945年以来的艺术运动》",
+      "author": "Edward Lucie-Smith",
+      "location": "题名页、版权页与作者简介",
+      "page": "PDF pp.1–6",
+      "chapter": "出版信息与作者资料"
+    },
+    {
+      "book": "《1945年以来的艺术运动》",
+      "author": "Edward Lucie-Smith",
+      "location": "目录、前言、13章正文及书后材料",
+      "page": "PDF pp.1–334",
+      "chapter": "全书"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
