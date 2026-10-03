@@ -1,0 +1,30 @@
+{
+  "id": "person_terry_smith",
+  "type": "person",
+  "name_zh": "Terry Smith",
+  "name_en": "Terry Smith",
+  "aliases": [],
+  "roles": [
+    "艺术家",
+    "艺术批评家",
+    "策展人",
+    "艺术史作者",
+    "Art & Language参与者"
+  ],
+  "sources": [
+    {
+      "book": "One and Five Ideas",
+      "author": "Robert Bailey",
+      "chapter": "A Theory of Conceptualism",
+      "page": "PDF pp.19–23",
+      "location": "Smith's early art criticism, Harkness Fellowship, and Art & Language participation"
+    },
+    {
+      "book": "One and Five Ideas",
+      "author": "Terry Smith",
+      "chapter": "five collected texts",
+      "page": "PDF pp.54–169",
+      "location": "authorial essays and coauthored conversation"
+    }
+  ]
+}

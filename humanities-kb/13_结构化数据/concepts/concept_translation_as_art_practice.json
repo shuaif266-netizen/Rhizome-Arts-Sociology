@@ -1,0 +1,22 @@
+{
+  "id": "concept_translation_as_art_practice",
+  "type": "concept",
+  "name_zh": "翻译作为艺术实践与中心—边缘协商",
+  "name_en": "translation as artistic practice and center-periphery negotiation",
+  "aliases": [
+    "translation as transformation"
+  ],
+  "definitions": [
+    {
+      "author": "Terry Smith",
+      "type": "author_explicit",
+      "text": "翻译不只是将意义完整传送到另一语言，而是在语言、制度、地方语境和不平等关系之间进行的转化；艺术家和观众可共同参与这种转化。",
+      "source": {
+        "book": "One and Five Ideas",
+        "chapter": "The Tasks of Translation: Art & Language in Australia and New Zealand 1975–76",
+        "page": "PDF pp.82–108",
+        "location": "Benjamin/Derrida discussion; Australian and New Zealand exhibitions"
+      }
+    }
+  ]
+}

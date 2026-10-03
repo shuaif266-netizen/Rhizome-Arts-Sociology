@@ -1,0 +1,63 @@
+{
+  "id": "book_terry_smith_one_and_five_ideas_2017",
+  "type": "book",
+  "name_zh": "One and Five Ideas（暂译）",
+  "name": "One and Five Ideas: On Conceptual Art and Conceptualism",
+  "aliases": [
+    "One and Five Ideas",
+    "On Conceptual Art and Conceptualism"
+  ],
+  "author": "Terry Smith",
+  "authors": [
+    "person_terry_smith"
+  ],
+  "editor": "Robert Bailey",
+  "editors": [
+    "person_robert_bailey"
+  ],
+  "publisher": "Duke University Press",
+  "publication_year": "2017",
+  "edition": "PDF题名页标2017、版权页©2017；CIP出版描述列2016。以本地扫描页码为阅读口径。",
+  "isbn": [
+    "9780822361121",
+    "9780822361312",
+    "9780822374329"
+  ],
+  "language": "English",
+  "fields": [
+    "观念艺术",
+    "概念主义",
+    "当代艺术史",
+    "艺术哲学",
+    "艺术与翻译"
+  ],
+  "read_status": "read_in_full",
+  "related_people": [
+    "person_terry_smith",
+    "person_robert_bailey"
+  ],
+  "related_concepts": [
+    "concept_reconceiving_conceptions_of_art",
+    "concept_translation_as_art_practice",
+    "concept_global_conceptualism_and_local_inflection",
+    "concept_art_concept_vs_conceptual_art",
+    "concept_politicized_identity_art"
+  ],
+  "sources": [
+    {
+      "book": "One and Five Ideas",
+      "author": "Terry Smith; edited and introduced by Robert Bailey",
+      "chapter": "title page and copyright page",
+      "page": "PDF pp.4–5",
+      "location": "author, editor, publication dates, ISBN"
+    },
+    {
+      "book": "One and Five Ideas",
+      "author": "Terry Smith",
+      "chapter": "five reprinted texts; Robert Bailey introduction",
+      "page": "PDF pp.18–177",
+      "location": "full-volume reading"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

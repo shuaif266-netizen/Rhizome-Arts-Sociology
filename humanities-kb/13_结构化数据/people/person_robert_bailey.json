@@ -1,0 +1,20 @@
+{
+  "id": "person_robert_bailey",
+  "type": "person",
+  "name_zh": "Robert Bailey",
+  "name_en": "Robert Bailey",
+  "aliases": [],
+  "roles": [
+    "编者",
+    "导论作者"
+  ],
+  "sources": [
+    {
+      "book": "One and Five Ideas",
+      "author": "Robert Bailey",
+      "chapter": "A Theory of Conceptualism",
+      "page": "PDF pp.18–53",
+      "location": "editorial introduction; not attributed to Terry Smith"
+    }
+  ]
+}

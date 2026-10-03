@@ -1,0 +1,27 @@
+{
+  "id": "concept_reconceiving_conceptions_of_art",
+  "type": "concept",
+  "name_zh": "观念化与重新观念化",
+  "name_en": "conception and reconceiving",
+  "aliases": [
+    "conceptualism before, during, and after Conceptual Art"
+  ],
+  "definitions": [
+    {
+      "author": "Terry Smith",
+      "type": "author_explicit",
+      "text": "概念主义的实践会探究感知主体和对象何以成为艺术的条件，并可继续探究这些条件怎样由社会、语言、文化、政治及交往实践构成；Smith把这些作为可在不同地区与时刻交错出现的三项命题。",
+      "source": {
+        "book": "One and Five Ideas",
+        "chapter": "One and Three Ideas: Conceptualism Before, During, and After Conceptual Art",
+        "page": "PDF pp.142–166",
+        "location": "three propositions and contemporaneity"
+      }
+    }
+  ],
+  "aliases_in_text": [
+    "before/during/after",
+    "conception",
+    "reconceiving"
+  ]
+}
