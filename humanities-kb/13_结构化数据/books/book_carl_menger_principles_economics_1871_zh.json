@@ -1,0 +1,36 @@
+{
+  "id": "book_carl_menger_principles_economics_1871_zh",
+  "type": "book",
+  "name_zh": "国民经济学原理",
+  "name_en": "Principles of Economics",
+  "aliases": [
+    "卡尔·门格尔《国民经济学原理》",
+    "Grundsätze der Volkswirthslehre"
+  ],
+  "author_id": "person_carl_menger",
+  "translator_id": "person_liu_xuao",
+  "publication_year": "",
+  "publisher": "上海世纪出版集团（题名页所列）",
+  "edition": "",
+  "isbn": "",
+  "pdf_page_count": 288,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "新鬼专栏课件/探究加密货币、区块链、NFT与当代艺术/参考阅读/【中文】门格尔-国民经济学原理 .pdf；仅上传阅读档案和索引，不上传原始PDF或Word",
+  "sources": [
+    {
+      "book": "《国民经济学原理》",
+      "author": "卡尔·门格尔",
+      "chapter": "题名页",
+      "page": "项目PDF p.1",
+      "location": "作者、译者与题名信息"
+    },
+    {
+      "book": "Grundsätze der Volkswirthslehre",
+      "author": "Carl Menger",
+      "chapter": "原版书目记录",
+      "page": "1871年版",
+      "location": "维也纳：Braumüller；德国数字图书馆书目记录"
+    }
+  ]
+}
