@@ -1,0 +1,13 @@
+{
+  "id": "person_rob_myers",
+  "type": "person",
+  "name_zh": "Rob Myers",
+  "name_en": "Rob Myers",
+  "aliases": [],
+  "role_in_source": "共同署名虚构文本作者；Theory部分文章作者",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "Bad Shibe；Blockchain Poetics",
+    "page": "PDF pp.188–199；pp.240–251"
+  }
+}

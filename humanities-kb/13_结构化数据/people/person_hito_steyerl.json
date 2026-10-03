@@ -1,0 +1,13 @@
+{
+  "id": "person_hito_steyerl",
+  "type": "person",
+  "name_zh": "Hito Steyerl",
+  "name_en": "Hito Steyerl",
+  "aliases": [],
+  "role_in_source": "Theory部分文章作者",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "If You Don’t Have Bread, Eat Art!: Contemporary Art and Derivative Fascisms",
+    "page": "PDF pp.224–233"
+  }
+}

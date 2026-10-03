@@ -1,0 +1,13 @@
+{
+  "id": "person_primavera_de_filippi",
+  "type": "person",
+  "name_zh": "Primavera De Filippi",
+  "name_en": "Primavera De Filippi",
+  "aliases": [],
+  "role_in_source": "Documents部分项目文章作者",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "Plantoid – The Birth of a Blockchain-Based Lifeform",
+    "page": "PDF pp.52–63"
+  }
+}

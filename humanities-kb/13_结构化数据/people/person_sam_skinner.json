@@ -1,0 +1,13 @@
+{
+  "id": "person_sam_skinner",
+  "type": "person",
+  "name_zh": "Sam Skinner",
+  "name_en": "Sam Skinner",
+  "aliases": [],
+  "role_in_source": "共同编辑；与Nathan Jones共同撰写前言并采访Simon Denny",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "题名页；编者前言；访谈",
+    "page": "PDF p.4；pp.10–21；pp.142–157"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "person_marc_garrett",
+  "type": "person",
+  "name_zh": "Marc Garrett",
+  "name_en": "Marc Garrett",
+  "aliases": [],
+  "role_in_source": "共同编辑；采访Holly Herndon与Mat Dryhurst",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "题名页；访谈",
+    "page": "PDF p.4；pp.320–327"
+  }
+}

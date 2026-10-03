@@ -1,0 +1,13 @@
+{
+  "id": "person_rachel_odwyer",
+  "type": "person",
+  "name_zh": "Rachel O’Dwyer",
+  "name_en": "Rachel O’Dwyer",
+  "aliases": [],
+  "role_in_source": "Theory部分文章作者",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "Does Digital Culture Want to be Free? How Blockchains are Transforming the Economy of Cultural Goods",
+    "page": "PDF pp.298–309"
+  }
+}

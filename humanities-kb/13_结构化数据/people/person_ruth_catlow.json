@@ -1,0 +1,13 @@
+{
+  "id": "person_ruth_catlow",
+  "type": "person",
+  "name_zh": "Ruth Catlow",
+  "name_en": "Ruth Catlow",
+  "aliases": [],
+  "role_in_source": "共同编辑；撰写导论并与Ben Vickers共同编写DAO工作手册",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "题名页；导论；DAO工作手册",
+    "page": "PDF p.4；pp.22–39；pp.108–129"
+  }
+}

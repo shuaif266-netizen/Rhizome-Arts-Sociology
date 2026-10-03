@@ -42,8 +42,8 @@
 
 ## 下一步
 
-新一轮候读十本第02本已完成；第03本卡尔·门格尔《国民经济学原理》现已整本读完并归档（PDF pp.1–288）。下一项为第04本 *Artists Re:Thinking the Blockchain*。
+新一轮候读十本第02–04本已完成；第04本 *Artists Re:Thinking the Blockchain* 的整本档案与知识关联已归档。下一本为第05本《伊甸园之门：六十年代的美国文化》。
 
 ### 本轮阅读进度（2026-10-04）
 
-项目PDF pp.1–177已整本核读；9份Word分卷内部页标连续覆盖全卷。Robert Bailey导论、Terry Smith五篇文本、插图页、注释、参考文献和索引均已阅读。后续第03本门格尔《国民经济学原理》亦已读完、完成整本档案和知识库关联；当前路线转入第04本 *Artists Re:Thinking the Blockchain*。
+项目PDF pp.1–177已整本核读；

@@ -1,0 +1,13 @@
+{
+  "id": "person_simon_denny",
+  "type": "person",
+  "name_zh": "Simon Denny",
+  "name_en": "Simon Denny",
+  "aliases": [],
+  "role_in_source": "Blockchain Future States访谈受访者",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "Blockchain Future States",
+    "page": "PDF pp.142–157"
+  }
+}

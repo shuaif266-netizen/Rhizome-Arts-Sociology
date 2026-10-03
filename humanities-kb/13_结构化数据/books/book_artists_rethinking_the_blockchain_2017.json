@@ -1,0 +1,48 @@
+{
+  "id": "book_artists_rethinking_the_blockchain_2017",
+  "type": "book",
+  "name_zh": "艺术家重新思考区块链",
+  "name_en": "Artists Re:Thinking the Blockchain",
+  "aliases": [
+    "*Artists Re:Thinking the Blockchain*"
+  ],
+  "editor_ids": [
+    "person_ruth_catlow",
+    "person_marc_garrett",
+    "person_nathan_jones",
+    "person_sam_skinner"
+  ],
+  "publication_year": 2017,
+  "publisher": "Torque Editions / Furtherfield",
+  "edition": "",
+  "isbn": "",
+  "isbn_note": "项目PDF封面p.1与colophon p.343印有不同ISBN；发行方记录与colophon相符的号码。关系未据此推断。",
+  "pdf_page_count": 345,
+  "print_page_count": 344,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "新鬼专栏课件/探究加密货币、区块链、NFT与当代艺术/参考阅读/【英文】2017艺术家重新思考区块链.pdf；原PDF与Word保持只读，不上传。",
+  "sources": [
+    {
+      "book": "*Artists Re:Thinking the Blockchain*",
+      "author": "Ruth Catlow、Marc Garrett、Nathan Jones、Sam Skinner",
+      "chapter": "题名页",
+      "page": "项目PDF p.4",
+      "location": "共同编辑署名"
+    },
+    {
+      "book": "*Artists Re:Thinking the Blockchain*",
+      "author": "Torque Editions / Furtherfield",
+      "chapter": "Colophon",
+      "page": "项目PDF p.343",
+      "location": "2017年初版、纸本ISBN及版权信息"
+    },
+    {
+      "book": "*Artists Re:Thinking the Blockchain*",
+      "author": "扫描文件",
+      "chapter": "封面与附页",
+      "page": "项目PDF pp.1–345",
+      "location": "封面ISBN及本地扫描页数边界"
+    }
+  ]
+}

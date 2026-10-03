@@ -1,0 +1,13 @@
+{
+  "id": "person_nathan_jones",
+  "type": "person",
+  "name_zh": "Nathan Jones",
+  "name_en": "Nathan Jones",
+  "aliases": [],
+  "role_in_source": "共同编辑；与Sam Skinner共同撰写前言",
+  "source": {
+    "book": "*Artists Re:Thinking the Blockchain*",
+    "chapter": "题名页；编者前言",
+    "page": "PDF p.4；pp.10–21"
+  }
+}
