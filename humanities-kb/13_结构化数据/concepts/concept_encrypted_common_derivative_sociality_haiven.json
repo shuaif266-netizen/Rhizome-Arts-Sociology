@@ -1,0 +1,21 @@
+{
+  "id": "concept_encrypted_common_derivative_sociality_haiven",
+  "type": "concept",
+  "name_zh": "加密共同体与衍生品社会性",
+  "name_en": "the encrypted common and derivative sociality",
+  "fields": [
+    "社会理论",
+    "金融化批判",
+    "当代艺术"
+  ],
+  "sources": [
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "Max Haiven",
+      "chapter": "第三、四章及结论",
+      "page": "PDF pp.126–242",
+      "location": "参与式金融化、crypt隐喻、衍生品社会性和废除主义地平线"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "book_max_haiven_art_after_money_2018",
+  "type": "book",
+  "name_zh": "《金钱之后的艺术，艺术之后的金钱》",
+  "name_en": "Art After Money, Money After Art: Creative Strategies Against Financialization",
+  "authors": [
+    "person_max_haiven"
+  ],
+  "publisher": "Pluto Press",
+  "canadian_publisher": "Between the Lines",
+  "publication_year": "2018",
+  "isbns": [
+    "978-0-7453-3825-5",
+    "978-0-7453-3824-8",
+    "978-1-7868-0318-4",
+    "978-1-7868-0320-7",
+    "978-1-7868-0319-1",
+    "978-1-77113-398-2",
+    "978-1-77113-400-2",
+    "978-1-77113-399-9"
+  ],
+  "fields": [
+    "艺术理论",
+    "政治经济学",
+    "当代艺术",
+    "金融化批判"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 305,
+  "local_source_status": "项目英文PDF pp.1–305；16份Word内部页标唯一连续。Word优先阅读；版权、目录、图版、章节边界、OCR未识别页及末尾索引回查PDF。",
+  "sources": [
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "题名页、版权页",
+      "chapter": "出版信息",
+      "page": "PDF pp.4–5",
+      "location": "作者、完整版书名、2018年Pluto Press版及Between the Lines加拿大版"
+    },
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "Max Haiven",
+      "chapter": "正文与书后材料",
+      "page": "PDF pp.16–293",
+      "location": "引言、四章、结论、注释和两种索引"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

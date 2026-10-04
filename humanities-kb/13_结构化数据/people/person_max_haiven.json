@@ -1,0 +1,27 @@
+{
+  "id": "person_max_haiven",
+  "type": "person",
+  "name": "Max Haiven",
+  "fields": [
+    "艺术理论",
+    "文化研究",
+    "政治经济学"
+  ],
+  "sources": [
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "题名页、版权页",
+      "chapter": "作者信息",
+      "page": "PDF pp.4–5",
+      "location": "题名页署名及版权信息"
+    },
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "Max Haiven",
+      "chapter": "引言与致谢",
+      "page": "PDF pp.14–15、37–38",
+      "location": "写作缘起、教学经历、自我定位和研究范围说明"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

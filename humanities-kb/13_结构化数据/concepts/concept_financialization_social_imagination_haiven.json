@@ -1,0 +1,21 @@
+{
+  "id": "concept_financialization_social_imagination_haiven",
+  "type": "concept",
+  "name_zh": "金融化、社会想象与共同体",
+  "name_en": "financialization, social imagination and the common",
+  "fields": [
+    "政治经济学",
+    "社会理论",
+    "文化研究"
+  ],
+  "sources": [
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "Max Haiven",
+      "chapter": "引言、第二章及第四章",
+      "page": "PDF pp.16–43、79–125、169–227",
+      "location": "金融化如何将市场逻辑带入制度、劳动、社会关系与主体想象"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

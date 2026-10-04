@@ -1,0 +1,21 @@
+{
+  "id": "concept_money_art_strategies_haiven",
+  "type": "concept",
+  "name_zh": "Money-art的3.5种策略",
+  "name_en": "three-and-a-half strategies of money-art",
+  "fields": [
+    "当代艺术",
+    "艺术制度",
+    "政治经济学"
+  ],
+  "sources": [
+    {
+      "book": "*Art After Money, Money After Art*",
+      "author": "Max Haiven",
+      "chapter": "第一章“3.5种艺术策略：想象金钱的中介作用”",
+      "page": "PDF pp.44–78",
+      "location": "半策略的金钱装饰／商品化，以及揭示、反思、劳动可见化三种策略"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
