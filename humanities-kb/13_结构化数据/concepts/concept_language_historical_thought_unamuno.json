@@ -1,0 +1,20 @@
+{
+  "id": "concept_language_historical_thought_unamuno",
+  "type": "concept",
+  "name_zh": "语言作为历史共同体的思维条件",
+  "name": "language as a social and historical condition of thought",
+  "fields": [
+    "语言哲学",
+    "思想史"
+  ],
+  "sources": [
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "乌纳穆诺",
+      "chapter": "第十二章“唐吉诃德与近代欧洲的悲喜剧”",
+      "page": "PDF pp.405–410",
+      "location": "语言、社会对话、思想传承与表达"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

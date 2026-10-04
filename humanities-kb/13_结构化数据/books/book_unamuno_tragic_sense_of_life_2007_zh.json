@@ -1,0 +1,39 @@
+{
+  "id": "book_unamuno_tragic_sense_of_life_2007_zh",
+  "type": "book",
+  "name_zh": "《生命的悲剧意识》",
+  "name": "Del sentimiento trágico de la vida",
+  "authors": [
+    "person_miguel_de_unamuno"
+  ],
+  "translator": "段继承",
+  "publisher": "花城出版社",
+  "publication_year": "2007",
+  "isbn": "978-7-5360-4967-3",
+  "fields": [
+    "哲学",
+    "宗教哲学",
+    "文学研究",
+    "语言与思想史"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 439,
+  "local_source_status": "项目扫描PDF pp.1–439；11份Word内部页标唯一连续覆盖全卷。Word优先阅读；题名、CIP、目录、章界、图版、OCR疑点及末页回查PDF。",
+  "sources": [
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "题名页、版权页",
+      "chapter": "版本信息",
+      "page": "PDF pp.3–4",
+      "location": "作者、译者、花城出版社2007年版及ISBN"
+    },
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "乌纳穆诺",
+      "chapter": "第十二章“唐吉诃德与近代欧洲的悲喜剧”",
+      "page": "PDF pp.390–431",
+      "location": "结尾章、插图页与正文收束"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

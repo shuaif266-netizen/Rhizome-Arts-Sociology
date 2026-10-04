@@ -1,0 +1,21 @@
+{
+  "id": "concept_quixotism_unamuno",
+  "type": "concept",
+  "name_zh": "吉诃德主义",
+  "name": "Quixotism",
+  "fields": [
+    "文学阐释",
+    "伦理学",
+    "宗教哲学"
+  ],
+  "sources": [
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "乌纳穆诺",
+      "chapter": "第十二章“唐吉诃德与近代欧洲的悲喜剧”",
+      "page": "PDF pp.390–431",
+      "location": "唐吉诃德作为荒谬行动、悲剧希望与西班牙文化象征"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

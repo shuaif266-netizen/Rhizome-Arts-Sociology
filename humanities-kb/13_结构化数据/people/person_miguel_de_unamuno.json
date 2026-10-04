@@ -1,0 +1,28 @@
+{
+  "id": "person_miguel_de_unamuno",
+  "type": "person",
+  "name_zh": "米格尔·德·乌纳穆诺",
+  "name": "Miguel de Unamuno",
+  "fields": [
+    "哲学",
+    "文学",
+    "宗教哲学"
+  ],
+  "sources": [
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "题名页、版权页",
+      "chapter": "作者信息",
+      "page": "PDF pp.3–4",
+      "location": "题名页署作者名，CIP记录西班牙作家乌纳穆诺"
+    },
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "乌纳穆诺",
+      "chapter": "第一章、第五至第六章、第十二章",
+      "page": "PDF pp.47–74、151–208、390–431",
+      "location": "具体个人、理性与信仰、吉诃德主义和语言思想"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

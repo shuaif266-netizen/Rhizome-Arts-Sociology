@@ -1,0 +1,20 @@
+{
+  "id": "concept_tragic_sense_of_life_unamuno",
+  "type": "concept",
+  "name_zh": "生命的悲剧意识",
+  "name": "tragic sense of life",
+  "fields": [
+    "生命哲学",
+    "宗教哲学"
+  ],
+  "sources": [
+    {
+      "book": "《生命的悲剧意识》",
+      "author": "乌纳穆诺",
+      "chapter": "第一、三、五、六、九章",
+      "page": "PDF pp.47–74、99–124、151–208、272–307",
+      "location": "具体个人、不朽渴望、理性限度及信仰与希望"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
