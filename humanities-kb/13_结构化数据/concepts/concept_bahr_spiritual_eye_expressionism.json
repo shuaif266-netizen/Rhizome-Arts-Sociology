@@ -1,0 +1,20 @@
+{
+  "id": "concept_bahr_spiritual_eye_expressionism",
+  "type": "concept",
+  "name_zh": "精神之眼与内在观看",
+  "name": "spiritual eye / inner vision",
+  "fields": [
+    "视觉美学",
+    "表现主义"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义》",
+      "author": "赫尔曼·巴尔",
+      "chapter": "第八、十至十三节",
+      "page": "PDF pp.86–99、106–139",
+      "location": "观看的主动性、心像、印象主义与表现主义"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

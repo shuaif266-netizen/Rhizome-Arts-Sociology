@@ -1,0 +1,42 @@
+{
+  "id": "book_hermann_bahr_expressionism_1918_1989_zh",
+  "type": "book",
+  "name_zh": "《表现主义》",
+  "name": "Expressionismus",
+  "authors": [
+    "person_hermann_bahr"
+  ],
+  "translator": "徐菲",
+  "publisher": "生活·读书·新知三联书店",
+  "series": "新知文库第69种",
+  "publication_year": "1989",
+  "original_publication_year": "1918",
+  "original_publisher": "Delphin-Verlag, München",
+  "isbn": "7-108-00144-6/J·12",
+  "fields": [
+    "艺术理论",
+    "美学",
+    "现代艺术",
+    "表现主义"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 193,
+  "local_source_status": "项目扫描PDF pp.1–193；5份Word内部页标唯一连续覆盖全卷。Word优先阅读；题名、版次、目录、图版、附录边界、OCR疑点和扫描附页回查PDF。",
+  "sources": [
+    {
+      "book": "《表现主义》",
+      "author": "题名页、版权页",
+      "chapter": "版本信息",
+      "page": "PDF pp.2–3",
+      "location": "赫尔曼·巴尔著、徐菲译；原作Expressionismus；1918年原版线索；三联书店1989年版与ISBN"
+    },
+    {
+      "book": "《表现主义》",
+      "author": "赫尔曼·巴尔",
+      "chapter": "第八至第十四节",
+      "page": "PDF pp.86–158",
+      "location": "观看、里格尔、精神之眼、表现主义及歌德"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

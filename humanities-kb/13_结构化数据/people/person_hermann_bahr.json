@@ -1,0 +1,28 @@
+{
+  "id": "person_hermann_bahr",
+  "type": "person",
+  "name_zh": "赫尔曼·巴尔",
+  "name": "Hermann Bahr",
+  "fields": [
+    "艺术评论",
+    "文学",
+    "美学"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义》",
+      "author": "题名页、版权页",
+      "chapter": "作者信息",
+      "page": "PDF pp.2–3",
+      "location": "题名页署名及原作版本资料"
+    },
+    {
+      "book": "《表现主义》",
+      "author": "中译本序",
+      "chapter": "《灵魂的艺术》",
+      "page": "PDF pp.32–33",
+      "location": "译者对巴尔生平与艺术评论活动的介绍；作为中译本序信息记录"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

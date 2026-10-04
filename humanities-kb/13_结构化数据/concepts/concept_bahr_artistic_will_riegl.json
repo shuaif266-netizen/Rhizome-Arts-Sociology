@@ -1,0 +1,20 @@
+{
+  "id": "concept_bahr_artistic_will_riegl",
+  "type": "concept",
+  "name_zh": "艺术意愿与历史形式（巴尔对里格尔的阐释）",
+  "name": "Kunstwollen as presented by Hermann Bahr",
+  "fields": [
+    "艺术史方法",
+    "形式理论"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义》",
+      "author": "赫尔曼·巴尔",
+      "chapter": "第九节“谁是里格尔”",
+      "page": "PDF pp.100–105",
+      "location": "巴尔介绍里格尔对材料决定论与艺术衰败叙事的批评"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

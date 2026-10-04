@@ -1,0 +1,20 @@
+{
+  "id": "concept_bahr_aesthetic_taste_memory",
+  "type": "concept",
+  "name_zh": "鉴赏力、记忆与现代艺术接受",
+  "name": "taste, memory and modern art reception",
+  "fields": [
+    "审美判断",
+    "艺术接受"
+  ],
+  "sources": [
+    {
+      "book": "《表现主义》",
+      "author": "赫尔曼·巴尔",
+      "chapter": "第二节“鉴赏力”",
+      "page": "PDF pp.56–61",
+      "location": "艺术教育、记忆范例和观众面对新形式的畏惧"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
