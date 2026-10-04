@@ -1,0 +1,33 @@
+{
+  "id": "book_kundera_art_of_novel_1986_2004_zh",
+  "type": "book",
+  "name_zh": "《小说的艺术》",
+  "name": "L’art du roman",
+  "authors": [
+    "person_milan_kundera"
+  ],
+  "translator": "董强",
+  "publisher": "上海译文出版社",
+  "publication_year": "2004",
+  "original_copyright_year": "1986",
+  "translation_source": "伽里玛出版社2002年法文版",
+  "isbn": "7-5327-3516-8",
+  "fields": [
+    "文学理论",
+    "小说理论",
+    "欧洲文化"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 217,
+  "local_source_status": "项目扫描PDF pp.1–217；6份Word内部页标连续覆盖全卷。Word优先阅读；版权CIP、目录、章节界线、Word未识别页和末页回查PDF。",
+  "sources": [
+    {
+      "book": "《小说的艺术》",
+      "author": "题名页、版权页",
+      "chapter": "版本信息",
+      "page": "PDF pp.3–4",
+      "location": "米兰·昆德拉著、董强译；2004年中文版本；据2002年法文版译出"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
