@@ -1,0 +1,23 @@
+{
+  "id": "concept_ritornello_territory_music",
+  "type": "concept",
+  "name_zh": "迭奏曲、领地与音乐生成",
+  "name_en": "ritornello, territory and musical becoming",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "475–535",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "音乐",
+    "美学",
+    "生态与空间"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "475–535",
+      "view": "迭奏曲从环境节奏建立领地，也可被音乐接管而进入解域。节奏、动机、对位和声音配置使异质材料获得暂时容贯性。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

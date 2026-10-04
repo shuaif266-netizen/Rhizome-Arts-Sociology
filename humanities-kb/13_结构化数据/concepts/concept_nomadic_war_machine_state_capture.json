@@ -1,0 +1,23 @@
+{
+  "id": "concept_nomadic_war_machine_state_capture",
+  "type": "concept",
+  "name_zh": "游牧战争机器与国家捕获",
+  "name_en": "nomadic war machine and state capture",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "536–716",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "政治理论",
+    "军事史",
+    "经济思想"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "536–716",
+      "view": "战争机器外在于国家，但会被国家收编；其目的不必是战争。捕获装置通过土地、劳动、货币、地租、利润和税收组织解域之流。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "concept_rhizome_multiplicity_deleuze_guattari",
+  "type": "concept",
+  "name_zh": "根茎、多元体与绘图式知识",
+  "name_en": "rhizome, multiplicity and mapping",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "35–68",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "知识组织",
+    "艺术理论"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "35–68",
+      "view": "根茎将思考引向异质连接、断裂、多入口和绘图。多元体不依赖单一中心才成立；“地图”追踪关系如何生成，也要注意根茎自身可能重新长出等级和中心。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

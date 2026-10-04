@@ -1,0 +1,23 @@
+{
+  "id": "concept_becoming_animal_pack_anomal",
+  "type": "concept",
+  "name_zh": "生成—动物、集群与异常者",
+  "name_en": "becoming-animal, pack and anomalous",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "360–474",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "生态与生命",
+    "文学理论"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "360–474",
+      "view": "生成—动物不是模仿或物种身份转换，而是异质项进入配置后形成的邻近关系、强度与速度。集群和异常者帮助分析多元体及生成的方向与风险。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

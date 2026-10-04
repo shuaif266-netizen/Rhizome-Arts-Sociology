@@ -1,0 +1,23 @@
+{
+  "id": "concept_segmentarity_lines_micropolitics",
+  "type": "concept",
+  "name_zh": "节段性、三类线与微观政治",
+  "name_en": "segmentarity, lines and micropolitics",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "301–359",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "政治理论",
+    "社会学",
+    "文学理论"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "301–359",
+      "view": "刚性节段线、柔性分子线与逃逸线交织于生活和社会配置。微观政治不只是宏观政治的缩小版，也有自身的连接方式和法西斯化风险。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

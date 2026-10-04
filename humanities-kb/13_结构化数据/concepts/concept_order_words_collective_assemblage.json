@@ -1,0 +1,23 @@
+{
+  "id": "concept_order_words_collective_assemblage",
+  "type": "concept",
+  "name_zh": "口令、集体配置与语言政治",
+  "name_en": "order-words, collective assemblage and language politics",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "134–185",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "语言学",
+    "政治哲学",
+    "社会理论"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "134–185",
+      "view": "语言不只传递信息；口令、言语行为及其集体配置会组织社会行动和规范。连续流变、强势／弱势语言与生成—弱势把语言的语用变化放入政治关系中讨论。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

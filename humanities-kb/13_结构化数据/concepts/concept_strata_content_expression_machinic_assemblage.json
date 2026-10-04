@@ -1,0 +1,23 @@
+{
+  "id": "concept_strata_content_expression_machinic_assemblage",
+  "type": "concept",
+  "name_zh": "层化、内容—表达与机器性配置",
+  "name_en": "strata, content-expression and machinic assemblage",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "87–133; 229–239; 757–772",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "语言与社会理论",
+    "跨学科方法"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "87–133; 229–239; 757–772",
+      "view": "层以形式和实体组织内容与表达；二者互为前提而不构成词／物的一一对应。抽象机器与机器性配置说明内容、表达、层间联系及容贯平面如何被组织。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

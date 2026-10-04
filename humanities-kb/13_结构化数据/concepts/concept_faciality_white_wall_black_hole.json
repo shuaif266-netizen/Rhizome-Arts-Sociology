@@ -1,0 +1,23 @@
+{
+  "id": "concept_faciality_white_wall_black_hole",
+  "type": "concept",
+  "name_zh": "颜貌机器、白墙—黑洞与风景",
+  "name_en": "faciality, white wall-black hole and landscape",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "265–300",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "艺术理论",
+    "政治哲学",
+    "视觉文化"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "265–300",
+      "view": "颜貌由白墙—黑洞机器生产，并组织符号、主体化和面孔—风景关系。作者以此分析社会标准、种族化筛选及艺术如何释放新的线。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

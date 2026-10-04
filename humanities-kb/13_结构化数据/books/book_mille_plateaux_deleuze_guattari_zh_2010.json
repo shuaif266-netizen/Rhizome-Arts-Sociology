@@ -1,0 +1,81 @@
+{
+  "id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "type": "book",
+  "name_zh": "《资本主义与精神分裂（卷2）：千高原》",
+  "name": "Capitalisme et Schizophrénie 2: Mille Plateaux",
+  "aliases": [
+    "《千高原》",
+    "Mille Plateaux",
+    "A Thousand Plateaus",
+    "《资本主义与精神分裂（卷2）：千高原》"
+  ],
+  "author": "吉尔·德勒兹、费利克斯·加塔利",
+  "authors": [
+    "person_gilles_deleuze",
+    "person_felix_guattari"
+  ],
+  "translator": "姜宇辉",
+  "publisher": "上海书店出版社",
+  "publication_year": "2010",
+  "edition": "2010年12月第1版、2011年12月第2次印刷",
+  "isbn": "978-7-5458-0315-0",
+  "fields": [
+    "哲学",
+    "艺术理论",
+    "语言学",
+    "政治理论",
+    "社会理论",
+    "空间与科学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 776,
+  "local_source_status": "项目扫描PDF共776页；20份主书Word分卷内部页标唯一连续覆盖pp.1–776。另有6份《导读德勒兹与加塔利〈千高原〉》Word，属于不同文本，不计入页标或正文。原件只读保留在本地，不上传。",
+  "related_people": [
+    "person_gilles_deleuze",
+    "person_felix_guattari"
+  ],
+  "related_concepts": [
+    "concept_rhizome_multiplicity_deleuze_guattari",
+    "concept_strata_content_expression_machinic_assemblage",
+    "concept_order_words_collective_assemblage",
+    "concept_body_without_organs_intensity_plane",
+    "concept_faciality_white_wall_black_hole",
+    "concept_segmentarity_lines_micropolitics",
+    "concept_becoming_animal_pack_anomal",
+    "concept_ritornello_territory_music",
+    "concept_nomadic_war_machine_state_capture",
+    "concept_smooth_striated_space_nomad_science"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《千高原》",
+      "author": "吉尔·德勒兹、费利克斯·加塔利",
+      "chapter": "题名页、CIP与版权页",
+      "page": "PDF pp.3–4",
+      "location": "作者、译者、出版社、版次、ISBN及原作版权©1980"
+    },
+    {
+      "book": "《千高原》",
+      "author": "布莱恩·玛斯素美（Brian Massumi）",
+      "chapter": "代序“概念何为？”",
+      "page": "PDF pp.10–27",
+      "location": "译者／代序文本与作者正文分层记录"
+    },
+    {
+      "book": "《千高原》",
+      "author": "吉尔·德勒兹、费利克斯·加塔利",
+      "chapter": "全书正文",
+      "page": "PDF pp.35–772",
+      "location": "14个带日期的高原及结论"
+    },
+    {
+      "book": "《千高原》",
+      "author": "姜宇辉",
+      "chapter": "译后记",
+      "page": "PDF pp.773–776",
+      "location": "译者说明，未并入作者正文"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

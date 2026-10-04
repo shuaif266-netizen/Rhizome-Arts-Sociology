@@ -1,0 +1,23 @@
+{
+  "id": "concept_body_without_organs_intensity_plane",
+  "type": "concept",
+  "name_zh": "无器官身体与强度平面",
+  "name_en": "body without organs and plane of intensity",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "240–264",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "身体理论",
+    "精神分析批判"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "240–264",
+      "view": "无器官身体是需要谨慎构成的强度平面，而非生理器官的简单缺席。强度的流通可被层化，也可能变为空洞、阻塞或癌变式配置。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}

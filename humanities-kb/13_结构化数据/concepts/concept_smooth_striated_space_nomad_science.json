@@ -1,0 +1,23 @@
+{
+  "id": "concept_smooth_striated_space_nomad_science",
+  "type": "concept",
+  "name_zh": "平滑空间、纹理化空间与游牧科学",
+  "name_en": "smooth and striated space; nomad science",
+  "aliases": [],
+  "source_book_id": "book_mille_plateaux_deleuze_guattari_zh_2010",
+  "source_pages_pdf": "552–570; 717–756",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "空间理论",
+    "数学与科学史",
+    "建筑与艺术"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "552–570; 717–756",
+      "view": "平滑／纹理化空间是相互转化的组织方式；游牧科学从流、倾斜、涡旋与问题出发，国家科学则倾向于度量、定理和层化。两者差异不等于善／恶。",
+      "author": "吉尔·德勒兹、费利克斯·加塔利"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
