@@ -1,0 +1,47 @@
+{
+  "id": "book_lukacs_theory_of_novel_1916_2018_zh",
+  "type": "book",
+  "name_zh": "《小说理论：试从历史哲学论伟大史诗的诸形式》",
+  "name": "Die Theorie des Romans",
+  "authors": [
+    "person_georgy_lukacs"
+  ],
+  "translator": "燕宏远、李怀涛",
+  "publisher": "商务印书馆",
+  "publication_year": "2018",
+  "original_publication": "1916年初刊；1920年单行本（作者1962年序言及译后记）",
+  "isbn": "978-7-100-16357-6",
+  "fields": [
+    "文学理论",
+    "哲学",
+    "美学",
+    "小说理论"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 170,
+  "local_source_status": "项目扫描PDF共170页；5份Word内部页标唯一且连续覆盖pp.1–170。正文Word优先阅读；题名、版权、目录、关键章界、PDF p.82、p.106、p.131及书后页图已选点回查。PDF pp.36、38、106为空白／分隔页；p.170为附加元数据。",
+  "sources": [
+    {
+      "book": "《小说理论：试从历史哲学论伟大史诗的诸形式》",
+      "author": "题名页、版权页",
+      "chapter": "书目信息",
+      "page": "PDF pp.2–4",
+      "location": "作者、译者、商务印书馆版本及ISBN"
+    },
+    {
+      "book": "《小说理论》",
+      "author": "格奥尔格·卢卡奇",
+      "chapter": "作者前言（1962）",
+      "page": "PDF pp.21–23",
+      "location": "写作时间与初刊、单行本出版信息"
+    },
+    {
+      "book": "《小说理论》",
+      "author": "格奥尔格·卢卡奇",
+      "chapter": "第一、二部分正文",
+      "page": "PDF pp.39–161",
+      "location": "史诗、小说及小说类型学"
+    }
+  ],
+  "last_updated": "2026-10-04"
+}
