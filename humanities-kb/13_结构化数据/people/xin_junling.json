@@ -1,0 +1,22 @@
+{
+  "id": "person_xin_junling",
+  "type": "person",
+  "name_zh": "辛俊玲",
+  "name_en": "",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《盛世危言》",
+      "chapter": "题名页与出版信息",
+      "page": "PDF pp.1、3–4",
+      "location": "评注者署名"
+    },
+    {
+      "book": "《盛世危言》",
+      "chapter": "《盛世危言》评介；《郑观应评传》",
+      "page": "PDF pp.29–38、640–649",
+      "location": "本版后出的评介和评传；不归为郑观应原文"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

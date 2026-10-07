@@ -1,6 +1,12 @@
 # 结构化数据层
 
-本目录为Markdown知识库的机器可读补充。截至2026-10-08，累计1,826个实体、2,220条关系，其中2,099条为status=verified，121条旧关系仍未标status，不自动视为verified；近期新增多尔迈《主体性的黄昏》与黑格尔《逻辑学》实体及有来源关系。实体关系只覆盖实际阅读中选出的关键概念与跨书连接，不等于完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+本目录为Markdown知识库的机器可读补充。截至2026-10-08，累计1,834个实体、2,227条关系，其中2,106条为status=verified，121条旧关系仍未标status，不自动视为verified；近期新增多尔迈《主体性的黄昏》、黑格尔《逻辑学》与郑观应《盛世危言》实体及有来源关系。实体关系只覆盖实际阅读中选出的关键概念与跨书连接，不等于完整知识图谱。历史JSON可能含与Markdown重复的长说明和related字段；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+### 2026-10-08：郑观应《盛世危言》
+
+- 新增8个轻量实体：书籍1、人物2、来源限定概念5；新增7条带source、evidence_type、confidence和status的关系，覆盖作者署名、评注者署名及五个主题入口。
+- 评注者与作者分开记录；译文、附录与评传仍各按原署名归属。项目扫描PDF pp.1–649已完整阅读，原PDF与Word未上传。
+- 更新后累计1,834个唯一实体、2,227条关系；2,106条verified，121条历史关系仍缺status。
+
 ### 2026-10-08：多尔迈《主体性的黄昏》
 
 - 新增8个轻量实体：书籍1、人物3、来源限定概念4；新增18条带source、evidence_type、confidence和status的关系，包含作者归属、书中论点、人物讨论及两条明确标为cross_book_interpretation的互读关系。
@@ -77,7 +83,7 @@
 - confidence 描述当前项目材料对关系的支持程度，不是真实性评分。
 - concepts.definitions 分作者记录，不把不同思想家的概念压成统一定义。
 - movements 中的“纽约摄影学派”“西海岸组装艺术”按章节中的批评分类记录；若来源未证明其为正式组织，不推断其有成员制度或共同宣言。
-- relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、edited_by、translated_by、reprints_text_from、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
+- relations 中关系类型优先使用规范词表：influenced_by、influenced、criticizes、responds_to、develops、inherits、opposes、contemporary_of、related_to、derived_from、contrasts_with、extends、redefines、historically_related_to、causes、contributes_to、emerges_from、accelerates、transforms、influences_art_movement、influences_artist、responds_to_event、uses_concept、challenges、associated_with、supports、compares_with。必要时可使用少量明确的新词，如 created_by、collaborated_with、studied_under、co_founded_with、interprets、represented_in、discusses、author_of、edited_by、annotated_by、translated_by、reprints_text_from、draws_on、commissioned、features、supported_by、signed、joined、names、articulates、marks_formation_of、marks_institutional_acceptance_of。
 - 来源优先包含书名、章节作者、章节标题、书内页码、PDF页码和可定位段落/图注。
 - Markdown档案仍是主要的人类可读记录；结构化实体与关系不得替代、覆盖或削弱原笔记。
 

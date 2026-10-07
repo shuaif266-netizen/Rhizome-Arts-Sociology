@@ -1,0 +1,57 @@
+{
+  "id": "book_zheng_guanying_shengshi_weiyan_2002_zh",
+  "type": "book",
+  "name_zh": "《盛世危言》",
+  "name_en": "",
+  "aliases": [
+    "郑观应《盛世危言》",
+    "盛世危言（辛俊玲评注本）"
+  ],
+  "authors": [
+    "person_zheng_guanying"
+  ],
+  "annotator_ids": [
+    "person_xin_junling"
+  ],
+  "publication_year": 2002,
+  "publisher": "华夏出版社",
+  "series": "影响中国近代史的名著",
+  "edition": "2002年10月第1版、第1次印刷；ISBN 7-5080-2758-2。",
+  "page_count_pdf": 649,
+  "reading_status": "read_in_full",
+  "read_progress_by_pdf_pages": {
+    "total": 649,
+    "completed": 649
+  },
+  "local_source_status": "项目扫描PDF pp.1–649与17份Word分卷已完整阅读；图版、地图及OCR疑页按页回查。原始PDF与Word留在项目文件夹只读，GitHub仅收录知识库档案。",
+  "source_locator": "书/《盛世危言》（清）郑观应着；辛俊玲评注2002.pdf",
+  "related_people": [
+    "person_zheng_guanying",
+    "person_xin_junling"
+  ],
+  "related_concepts": [
+    "concept_zheng_guanying_dao_qi_and_practical_learning",
+    "concept_zheng_guanying_parliament_public_representation",
+    "concept_zheng_guanying_commercial_warfare",
+    "concept_zheng_guanying_technical_education_manufacturing",
+    "concept_zheng_guanying_infrastructure_public_works"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《盛世危言》",
+      "author": "郑观应；辛俊玲评注",
+      "chapter": "题名页、CIP与版权信息",
+      "page": "PDF pp.1、3–4",
+      "location": "题名、作者、评注者、出版社、版次、印次与ISBN"
+    },
+    {
+      "book": "《盛世危言》",
+      "author": "郑观应；辛俊玲评注",
+      "chapter": "全书八卷与书后材料",
+      "page": "PDF pp.1–649",
+      "location": "项目扫描本全部页面均已覆盖；PDF p.596图页及p.649评传末页已回看"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

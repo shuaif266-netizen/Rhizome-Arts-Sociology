@@ -1,0 +1,26 @@
+{
+  "id": "person_zheng_guanying",
+  "type": "person",
+  "name_zh": "郑观应",
+  "name_en": "",
+  "aliases": [
+    "官应",
+    "正翔",
+    "陶斋"
+  ],
+  "sources": [
+    {
+      "book": "《盛世危言》",
+      "chapter": "题名页与郑观应自序",
+      "page": "PDF pp.1–2、56–58",
+      "location": "作者署名；自序所述的写作背景和改革关切"
+    },
+    {
+      "book": "《盛世危言》",
+      "chapter": "辛俊玲《郑观应评传》",
+      "page": "PDF pp.640–649",
+      "location": "本版编者对其商业实践、维新主张与政治局限的回顾；属于后出评传"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}
