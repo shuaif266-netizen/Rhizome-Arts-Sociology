@@ -1,0 +1,60 @@
+{
+  "id": "book_hegel_science_logic_yang_zh_1982",
+  "type": "book",
+  "name": "Wissenschaft der Logik",
+  "name_zh": "《逻辑学》（上下卷）",
+  "aliases": [
+    "黑格尔《逻辑学》",
+    "大逻辑",
+    "Science of Logic"
+  ],
+  "author": "G. W. F. 黑格尔",
+  "authors": [
+    "person_georg_wilhelm_friedrich_hegel"
+  ],
+  "translator": "杨一之",
+  "publisher": "商务印书馆",
+  "series": "汉译世界学术名著丛书",
+  "edition": "上卷1966年2月第1版、1982年9月第5次印刷；下卷1976年12月第1版、1982年9月第3次印刷。题名页称据1922年迈纳版《黑格尔全集》第四、五卷译出，译文以拉松本为主并参考格罗克纳本。统一书号分别为2017·155与2017·182，非ISBN。",
+  "fields": [
+    "哲学",
+    "逻辑学",
+    "辩证法",
+    "认识论",
+    "德国古典哲学"
+  ],
+  "read_status": "read_in_full",
+  "read_progress_by_volume": {
+    "upper_pdf_pages": 438,
+    "lower_pdf_pages": 584,
+    "total_pdf_pages": 1022
+  },
+  "local_source_status": "上下卷项目PDF与Word分卷均逐页读完；上卷22份、下卷30份，页标分别唯一连续覆盖全卷。下卷重复扫描与重复Word逐件SHA-256一致，只计一套。原PDF与Word留在项目文件夹只读，未上传。",
+  "related_people": [
+    "person_georg_wilhelm_friedrich_hegel"
+  ],
+  "related_concepts": [
+    "concept_hegel_reflection_determinations",
+    "concept_hegel_measure_quality_quantity",
+    "concept_hegel_concept_universal_particular_individual",
+    "concept_hegel_absolute_idea_method"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《逻辑学》（上、下卷）",
+      "author": "G. W. F. 黑格尔；杨一之译",
+      "chapter": "题名页与版权页",
+      "page": "上卷PDF pp.1–4；下卷PDF pp.1–4",
+      "location": "作者、译者、出版社、版次、印次、统一书号及原版依据"
+    },
+    {
+      "book": "《逻辑学》（上、下卷）",
+      "author": "G. W. F. 黑格尔",
+      "chapter": "全书正文及书后材料",
+      "page": "上卷PDF pp.1–438；下卷PDF pp.1–584",
+      "location": "正文、译后记与页码对照表均已阅读；p.566核为空白页"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

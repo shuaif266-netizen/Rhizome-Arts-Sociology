@@ -1,0 +1,26 @@
+{
+  "id": "person_georg_wilhelm_friedrich_hegel",
+  "type": "person",
+  "name_zh": "格奥尔格·威廉·弗里德里希·黑格尔",
+  "name_en": "Georg Wilhelm Friedrich Hegel",
+  "aliases": [
+    "G. W. F. 黑格尔",
+    "黑格尔",
+    "Hegel"
+  ],
+  "sources": [
+    {
+      "book": "《逻辑学》（上、下卷）",
+      "chapter": "题名页",
+      "page": "上卷PDF pp.1–2；下卷PDF pp.1–2",
+      "location": "作者署名"
+    },
+    {
+      "book": "《逻辑学》（下卷）",
+      "chapter": "杨一之译后记",
+      "page": "PDF pp.567–568",
+      "location": "译者关于作者修订《逻辑学》与1831年逝世的说明；作为译后记内容记录"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}
