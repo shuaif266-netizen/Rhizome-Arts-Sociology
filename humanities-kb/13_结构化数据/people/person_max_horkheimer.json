@@ -1,0 +1,20 @@
+{
+  "id": "person_max_horkheimer",
+  "type": "person",
+  "name_zh": "马克斯·霍克海默",
+  "name_en": "Max Horkheimer",
+  "aliases": [
+    "Horkheimer",
+    "霍克海姆"
+  ],
+  "sources": [
+    {
+      "book": "《主体性的黄昏》",
+      "author": "弗莱德·R·多尔迈",
+      "chapter": "第二章批判马克思主义；第四章“自然史”",
+      "page": "PDF pp.208–217, 329–341",
+      "location": "Dallmayr对批判理论、传统／批判理论区分与《启蒙辩证法》的介绍"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "concept_nature_history_nonidentity_dallmayr",
+  "type": "concept",
+  "name_zh": "自然史、非同一性与非支配关系",
+  "name_en": "natural history, nonidentity and non-domination",
+  "aliases": [
+    "自然与历史的缠绕",
+    "非同一性与自然"
+  ],
+  "source_book_id": "book_twilight_subjectivity_dallmayr_1992_zh",
+  "source_pages_pdf": "235–341",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "自然哲学",
+    "批判理论",
+    "社会理论"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "235–274; 329–341",
+      "view": "人与自然、自然与文化并非两个可彻底分开的自足领域。身体、劳作和知觉体现彼此嵌入；自然史则显示社会历史中仍有非意向、受制约和不可完全掌控的维度。承认非同一性要求理性反思自身的支配倾向，而不是放弃理性或回到未经反思的自然。",
+      "author": "弗莱德·R·多尔迈（对Adorno等人的阐释）"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

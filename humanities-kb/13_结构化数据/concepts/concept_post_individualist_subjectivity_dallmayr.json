@@ -1,0 +1,27 @@
+{
+  "id": "concept_post_individualist_subjectivity_dallmayr",
+  "type": "concept",
+  "name_zh": "后个体主义与交互主体性",
+  "name_en": "post-individualist politics and intersubjectivity",
+  "aliases": [
+    "主体性的黄昏",
+    "非占有性主体性",
+    "后个体主义政治理论"
+  ],
+  "source_book_id": "book_twilight_subjectivity_dallmayr_1992_zh",
+  "source_pages_pdf": "18–234",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "政治哲学",
+    "现象学",
+    "社会理论"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "18–67; 68–234",
+      "view": "后个体主义不取消自由与责任，而是拒绝把孤立、占有自身的主体当作社会和政治关系的唯一基础。主体性形成于身体、语言、生活世界和与他人的共在关系中；共同性既不能化为自我的扩张，也不能化为总体化集体。",
+      "author": "弗莱德·R·多尔迈"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

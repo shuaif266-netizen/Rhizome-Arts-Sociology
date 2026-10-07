@@ -1,0 +1,26 @@
+{
+  "id": "concept_communication_memory_ethics_dallmayr",
+  "type": "concept",
+  "name_zh": "交往规范与回忆伦理学",
+  "name_en": "communicative norms and recollective ethics",
+  "aliases": [
+    "事实／价值问题",
+    "回忆伦理学"
+  ],
+  "source_book_id": "book_twilight_subjectivity_dallmayr_1992_zh",
+  "source_pages_pdf": "342–385",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "伦理学",
+    "语言哲学",
+    "政治哲学"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "342–385",
+      "view": "伦理规范既不能仅由经验事实推出，也不能仅靠形式演绎免除循环与内容问题。语言实践和交往条件是规范论证的重要背景，但理想程序仍须解释其与具体历史经验的关系。Dallmayr以“回忆”补充纯推论，指向对身体感受、历史苦难和前反思实践的解释。",
+      "author": "弗莱德·R·多尔迈"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

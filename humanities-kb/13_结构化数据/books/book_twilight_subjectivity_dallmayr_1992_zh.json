@@ -1,0 +1,66 @@
+{
+  "id": "book_twilight_subjectivity_dallmayr_1992_zh",
+  "type": "book",
+  "name": "Twilight of Subjectivity: Contributions to a Post-Individualist Theory of Politics",
+  "name_zh": "《主体性的黄昏》",
+  "aliases": [
+    "Twilight of Subjectivity",
+    "主体性的黄昏"
+  ],
+  "author": "弗莱德·R·多尔迈",
+  "authors": [
+    "person_fred_r_dallmayr"
+  ],
+  "translator": "万俊人、朱国钧、吴海针",
+  "publisher": "上海人民出版社",
+  "publication_year": "1992",
+  "edition": "1992年11月第1版、第1次印刷；据美国马萨诸塞大学出版社1981年英文版译出",
+  "isbn": "7-208-01391-8/B·177",
+  "fields": [
+    "哲学",
+    "政治哲学",
+    "社会理论",
+    "现象学",
+    "伦理学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 454,
+  "local_source_status": "项目扫描PDF 454页；12份Word分卷的“原PDF第X页”页标唯一连续覆盖pp.1–454。原PDF与Word分卷留在项目文件夹，只上传阅读档案与知识库关联。",
+  "related_people": [
+    "person_fred_r_dallmayr",
+    "person_edmund_husserl",
+    "person_martin_heidegger",
+    "person_jean_paul_sartre",
+    "person_maurice_merleau_ponty",
+    "person_jacques_derrida",
+    "person_georgy_lukacs",
+    "person_max_horkheimer",
+    "person_theodor_adorno",
+    "person_jurgen_habermas",
+    "person_paul_ricoeur"
+  ],
+  "related_concepts": [
+    "concept_post_individualist_subjectivity_dallmayr",
+    "concept_sociality_typology_dallmayr",
+    "concept_nature_history_nonidentity_dallmayr",
+    "concept_communication_memory_ethics_dallmayr"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《主体性的黄昏》",
+      "author": "弗莱德·R·多尔迈",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.3–4",
+      "location": "原书题名、作者、译者、上海人民出版社1992年版、英文原版依据及ISBN"
+    },
+    {
+      "book": "《主体性的黄昏》",
+      "author": "弗莱德·R·多尔迈",
+      "chapter": "全书阅读范围",
+      "page": "PDF pp.1–454",
+      "location": "12份Word分卷页标连续覆盖；包括五章、三篇附录和索引"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

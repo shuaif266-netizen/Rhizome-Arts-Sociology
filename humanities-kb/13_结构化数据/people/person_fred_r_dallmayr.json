@@ -1,0 +1,19 @@
+{
+  "id": "person_fred_r_dallmayr",
+  "type": "person",
+  "name_zh": "弗莱德·R·多尔迈",
+  "name_en": "Fred R. Dallmayr",
+  "aliases": [
+    "Fred Dallmayr",
+    "多尔迈"
+  ],
+  "sources": [
+    {
+      "book": "《主体性的黄昏》",
+      "chapter": "题名页、导论与全书",
+      "page": "PDF pp.3–4, 18–428",
+      "location": "作者署名及其后个体主义政治理论、交互主体性与社会理论的论述"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

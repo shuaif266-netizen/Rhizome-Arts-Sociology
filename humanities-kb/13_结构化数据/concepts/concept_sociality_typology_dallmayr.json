@@ -1,0 +1,24 @@
+{
+  "id": "concept_sociality_typology_dallmayr",
+  "type": "concept",
+  "name_zh": "社会共在的四种样式",
+  "name_en": "four modes of sociality",
+  "aliases": [
+    "公共主义、联合、运动与共同体"
+  ],
+  "source_book_id": "book_twilight_subjectivity_dallmayr_1992_zh",
+  "source_pages_pdf": "225–234",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "社会理论",
+    "政治哲学"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "225–234",
+      "view": "Dallmayr提出公共主义、联合、运动、共同体四种尝试性社会共在样式。前几种分别凸显习俗纽带、个体化联合或共同事业，也各有自然化、工具化、同质化和排斥风险；共同体则指向保存差异、相互关心的预期性实践，不是既成社会事实。",
+      "author": "弗莱德·R·多尔迈"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

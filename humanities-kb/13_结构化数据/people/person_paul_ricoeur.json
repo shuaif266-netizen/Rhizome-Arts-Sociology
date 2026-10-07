@@ -1,0 +1,19 @@
+{
+  "id": "person_paul_ricoeur",
+  "type": "person",
+  "name_zh": "保罗·利科",
+  "name_en": "Paul Ricoeur",
+  "aliases": [
+    "Ricoeur"
+  ],
+  "sources": [
+    {
+      "book": "《主体性的黄昏》",
+      "author": "弗莱德·R·多尔迈",
+      "chapter": "第三章“人与自然”及附录二",
+      "page": "PDF pp.240–246, 266–274, 394–400",
+      "location": "Dallmayr对利科关于自然与自由、政治制度及自由社会主义的介绍"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}
