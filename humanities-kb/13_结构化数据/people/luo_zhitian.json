@@ -1,0 +1,18 @@
+{
+  "id": "person_luo_zhitian",
+  "type": "person",
+  "name_zh": "罗志田",
+  "name_en": "",
+  "aliases": [
+    "罗厚立"
+  ],
+  "sources": [
+    {
+      "book": "《东风与西风》",
+      "chapter": "题名页、CIP与原序",
+      "page": "PDF pp.3–4、7–18",
+      "location": "合著署名；原序说明作者、文章来源和编集方式"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

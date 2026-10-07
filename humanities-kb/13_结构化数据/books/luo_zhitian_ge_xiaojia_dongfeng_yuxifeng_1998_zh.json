@@ -1,0 +1,57 @@
+{
+  "id": "book_luo_zhitian_ge_xiaojia_dongfeng_yuxifeng_1998_zh",
+  "type": "book",
+  "name_zh": "《东风与西风》",
+  "name_en": "",
+  "aliases": [
+    "东风与西风",
+    "《东风与西风》（1998年版）"
+  ],
+  "authors": [
+    "person_luo_zhitian",
+    "person_ge_xiaojia"
+  ],
+  "publication_year": 1998,
+  "publisher": "生活·读书·新知三联书店",
+  "series": "读书文丛",
+  "edition": "1998年11月第1版、第1次印刷；ISBN 7-108-01219-7。",
+  "page_count_pdf": 291,
+  "page_count_printed_reported": 315,
+  "reading_status": "source_limited_scan_read",
+  "read_progress_by_pdf_pages": {
+    "total": 291,
+    "completed": 291
+  },
+  "local_source_status": "现存项目扫描PDF pp.1–291及8份Word分卷均已读完；扫描页码连续，但原书页码有缺口。北京大学历史学系书目记录315页，目录末篇始于书内p.304，末页页脚为p.315；至少p.27、p.220、p.314缺页。项目中未找到补页或第二份完整扫描，不计整本完成。",
+  "source_locator": "书/东风与西风（罗志田）(1).pdf",
+  "related_people": [
+    "person_luo_zhitian",
+    "person_ge_xiaojia"
+  ],
+  "related_concepts": [],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《东风与西风》",
+      "author": "罗志田、葛小佳",
+      "chapter": "题名页与CIP出版数据",
+      "page": "PDF pp.3–4",
+      "location": "合著署名、出版社、版次、印次和ISBN"
+    },
+    {
+      "book": "《东风与西风》",
+      "author": "罗志田、葛小佳",
+      "chapter": "全书扫描与页码核对",
+      "page": "PDF pp.1–291；扫描书内页至少p.27、p.220、p.314缺失",
+      "location": "现存PDF全部页面已阅读；p.289页脚为书内p.315，pp.290–291为附加信息"
+    },
+    {
+      "book": "北京大学历史学系罗志田著作目录",
+      "author": "北京大学历史学系",
+      "chapter": "著作列表",
+      "page": "网页",
+      "location": "1998年《东风与西风》著录为315页"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

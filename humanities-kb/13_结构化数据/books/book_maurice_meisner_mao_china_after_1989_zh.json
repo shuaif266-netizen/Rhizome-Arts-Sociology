@@ -1,0 +1,38 @@
+{
+  "id": "book_maurice_meisner_mao_china_after_1989_zh",
+  "type": "book",
+  "name_zh": "毛泽东的中国及后毛泽东的中国",
+  "name_en": "Mao's China and After: A History of the People's Republic",
+  "aliases": [
+    "《毛泽东的中国及后毛泽东的中国》",
+    "Mao's China and After"
+  ],
+  "author_id": "person_maurice_meisner",
+  "translator": "杜蒲、李玲洋",
+  "publication_year": 1989,
+  "publisher": "四川人民出版社",
+  "edition": "1989年2月第1版、第1次印刷；译自Free Press 1986年修订版",
+  "isbn": "7-220-00628-4/K·85",
+  "page_count_pdf": 622,
+  "page_count_printed_catalog": 600,
+  "page_count_note": "末页为项目PDF p.622，对应书内印刷页码p.600；前置材料和分部页另计入PDF页数。",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\毛泽东的中国及后毛泽东的中国(1).pdf；对应32份Word分卷仅用于本地阅读；原件只读、不上传",
+  "sources": [
+    {
+      "book": "《毛泽东的中国及后毛泽东的中国》",
+      "author": "莫里斯·迈斯纳；杜蒲、李玲洋译",
+      "chapter": "题名页与版权页",
+      "page": "PDF p.3",
+      "location": "题名、作者署名、译者、出版社、版次、印次与ISBN"
+    },
+    {
+      "book": "《毛泽东的中国及后毛泽东的中国》",
+      "author": "莫里斯·迈斯纳",
+      "chapter": "全书末章",
+      "page": "PDF pp.621–622",
+      "location": "全书结论及最后印刷页码"
+    }
+  ]
+}

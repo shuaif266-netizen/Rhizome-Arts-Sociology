@@ -1,0 +1,9 @@
+{
+  "id": "person_mao_zedong",
+  "type": "person",
+  "name_zh": "毛泽东",
+  "name_en": "Mao Zedong",
+  "aliases": [
+    "毛主席"
+  ]
+}
