@@ -1,0 +1,26 @@
+{
+  "id": "concept_poetry_thinking_nearness_heidegger",
+  "type": "concept",
+  "name_zh": "诗与思的近邻关系",
+  "name_en": "nearness of poetry and thinking",
+  "aliases": [
+    "诗与思",
+    "近邻（Nähe）"
+  ],
+  "source_book_id": "book_heidegger_way_to_language_zh_2004rev",
+  "source_pages_pdf": "168–189; 241; 273–276",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "诗学",
+    "思想史"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "168–189; 241; 273–276",
+      "view": "诗与思是不同的道说方式，却由道说这一要素相邻。近邻不是内容相似或单纯影响关系，而是使两者保持差异并彼此照面的切近。",
+      "author": "马丁·海德格尔"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}

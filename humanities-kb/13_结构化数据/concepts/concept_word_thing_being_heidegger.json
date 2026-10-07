@@ -1,0 +1,26 @@
+{
+  "id": "concept_word_thing_being_heidegger",
+  "type": "concept",
+  "name_zh": "词语、物与存在的造化关系",
+  "name_en": "word, thing, being and Bedingnis",
+  "aliases": [
+    "词语破碎处，无物可存在",
+    "造化（Bedingnis）"
+  ],
+  "source_book_id": "book_heidegger_way_to_language_zh_2004rev",
+  "source_pages_pdf": "155–168; 219–241",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "语言哲学",
+    "诗学"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "155–168; 219–241",
+      "view": "海德格尔借格奥尔格《词语》反对把词语仅当作贴在既成对象上的标签。词语让物作为物显现并在其存在中得到保持；“造化”（Bedingnis）指这种让物成其为物的关系，不是因果条件。",
+      "author": "马丁·海德格尔"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}

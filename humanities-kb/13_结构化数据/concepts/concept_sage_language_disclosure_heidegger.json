@@ -1,0 +1,27 @@
+{
+  "id": "concept_sage_language_disclosure_heidegger",
+  "type": "concept",
+  "name_zh": "道说、语言本己与世界显现",
+  "name_en": "Sage, language essence and disclosure",
+  "aliases": [
+    "道说",
+    "语言说话",
+    "语言本己"
+  ],
+  "source_book_id": "book_heidegger_way_to_language_zh_2004rev",
+  "source_pages_pdf": "6–33; 151–218; 242–276",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "语言哲学",
+    "现象学"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "6–33; 151–218; 242–276",
+      "view": "道说（Sage）不是普通发言或传闻，而是显示、让显现并同时保持遮蔽的语言运作。人的说话被解释为倾听并应答语言之道说；“本质”有时作为动词来思，指语言如何持续、逗留并显露。",
+      "author": "马丁·海德格尔"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}

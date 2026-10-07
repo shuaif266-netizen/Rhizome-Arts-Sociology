@@ -1,0 +1,56 @@
+{
+  "id": "book_heidegger_way_to_language_zh_2004rev",
+  "type": "book",
+  "name_zh": "《在通向语言的途中》（修订译本）",
+  "name": "在通向语言的途中",
+  "aliases": [
+    "《在通向语言的途中》",
+    "在通向语言的途中（修订译本）"
+  ],
+  "author": "马丁·海德格尔",
+  "authors": [
+    "person_martin_heidegger"
+  ],
+  "translator": "孙周兴",
+  "publisher": "商务印书馆",
+  "publication_year": "2004",
+  "edition": "1997年初版；2004年9月修订译本；项目扫描印本为2005年5月第4次印刷",
+  "isbn": "7-100-04106-6",
+  "fields": [
+    "哲学",
+    "语言哲学",
+    "现象学",
+    "诗学",
+    "诠释学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 290,
+  "local_source_status": "项目扫描PDF共290页；八份Word分卷内部页标唯一、连续覆盖pp.1–290；原始PDF与Word只读保留在项目文件夹。",
+  "related_people": [
+    "person_martin_heidegger"
+  ],
+  "related_concepts": [
+    "concept_sage_language_disclosure_heidegger",
+    "concept_word_thing_being_heidegger",
+    "concept_poetry_thinking_nearness_heidegger",
+    "concept_cross_language_dialogue_iki_heidegger"
+  ],
+  "related_events": [],
+  "sources": [
+    {
+      "book": "《在通向语言的途中》",
+      "author": "马丁·海德格尔；孙周兴译",
+      "chapter": "题名页、CIP与版权页",
+      "page": "PDF pp.2–3",
+      "location": "作者、译者、修订译本、印次、出版社与ISBN"
+    },
+    {
+      "book": "《在通向语言的途中》",
+      "author": "马丁·海德格尔",
+      "chapter": "六篇正文及书后材料",
+      "page": "PDF pp.6–290",
+      "location": "八份Word分卷覆盖全卷；关键文本与篇章边界回看PDF"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}

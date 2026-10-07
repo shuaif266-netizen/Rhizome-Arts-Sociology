@@ -1,0 +1,43 @@
+{
+  "id": "person_martin_heidegger",
+  "type": "person",
+  "name_zh": "马丁·海德格尔",
+  "name_en": "Martin Heidegger",
+  "aliases": [
+    "海德格尔",
+    "Heidegger"
+  ],
+  "sources": [
+    {
+      "book": "《在通向语言的途中》",
+      "author": "马丁·海德格尔；孙周兴译",
+      "chapter": "题名页、CIP与版权页",
+      "page": "PDF pp.2–3",
+      "location": "确认作者、译者和修订译本信息"
+    },
+    {
+      "book": "《在通向语言的途中》",
+      "author": "马丁·海德格尔",
+      "chapter": "六篇正文",
+      "page": "PDF pp.6–276",
+      "location": "整本阅读：语言、诗歌、跨语言对话、词语、道说与道路"
+    },
+    {
+      "book": "Art Since 1900: Modernism, Antimodernism, Postmodernism, 3rd ed.",
+      "author": "Hal Foster",
+      "chapter": "1949b: Cobra and the New Brutalists",
+      "page": "book p.418",
+      "location": "二手转述海德格尔对人文主义及动物性问题的论述；观点归属Hal Foster的章节组织"
+    }
+  ],
+  "related_books": [
+    "book_heidegger_way_to_language_zh_2004rev"
+  ],
+  "related_concepts": [
+    "concept_sage_language_disclosure_heidegger",
+    "concept_word_thing_being_heidegger",
+    "concept_poetry_thinking_nearness_heidegger",
+    "concept_cross_language_dialogue_iki_heidegger"
+  ],
+  "last_updated": "2026-10-07"
+}

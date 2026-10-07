@@ -1,0 +1,27 @@
+{
+  "id": "concept_cross_language_dialogue_iki_heidegger",
+  "type": "concept",
+  "name_zh": "跨语言对话、“粹”与翻译边界",
+  "name_en": "cross-language dialogue, iki and translation",
+  "aliases": [
+    "粹（iki）",
+    "言叶（koto-ba）",
+    "色（iro）与空（ku）"
+  ],
+  "source_book_id": "book_heidegger_way_to_language_zh_2004rev",
+  "source_pages_pdf": "91–150; 277",
+  "definition_status": "source_limited_single_book",
+  "fields": [
+    "哲学",
+    "诠释学",
+    "跨文化思想"
+  ],
+  "definitions": [
+    {
+      "source_pages_pdf": "91–150; 277",
+      "view": "对话篇以手冢富雄教授与探问者的交谈呈现跨语言理解的困难，显示欧洲概念可能预先改造所要解释的经验。关于“粹”“色”“空”“言叶”的解释属于书中构造的对话内容；《说明》记此篇写于1953至1954年且此前未付印，不是逐字访谈记录。",
+      "author": "马丁·海德格尔（对话文本）；日方角色观点依文本归属"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}
