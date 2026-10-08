@@ -17,12 +17,14 @@
   "edition": "1998年11月第1版、第1次印刷；ISBN 7-108-01219-7。",
   "page_count_pdf": 291,
   "page_count_printed_reported": 315,
-  "reading_status": "source_limited_scan_read",
+  "reading_status": "completed_entire_local_scan",
+  "completion_basis": "2026-10-08 user instruction accepts reading all currently available scan pages as completion for the eight-book project goal.",
+  "source_completeness": "Original printed pages 27, 220, and 314 are absent from the 1998 scan and remain unread; this status does not claim those pages were read.",
   "read_progress_by_pdf_pages": {
     "total": 291,
     "completed": 291
   },
-  "local_source_status": "现存项目扫描PDF pp.1–291及8份Word分卷均已读完；扫描页码连续，但原书页码有缺口。北京大学历史学系书目记录315页，目录末篇始于书内p.304，末页页脚为p.315；至少p.27、p.220、p.314缺页。项目中未找到补页或第二份完整扫描，不计整本完成。",
+  "local_source_status": "现存项目扫描PDF pp.1–291及8份Word分卷均已读完；扫描页码连续，但原书印刷页p.27、p.220、p.314缺失且未读。北京大学历史学系书目记录315页，目录末篇始于书内p.304，末页页脚为p.315。用户明确指示将现存扫描本阅读计入八本项目目标完成数；该接受口径不等于缺页已补读。",
   "source_locator": "书/东风与西风（罗志田）(1).pdf",
   "related_people": [
     "person_luo_zhitian",
