@@ -1,0 +1,37 @@
+{
+  "id": "book_zhang_chengzhi_heart_history_revised",
+  "type": "book",
+  "name_zh": "心灵史（改定版）",
+  "name_en": "",
+  "aliases": ["《心灵史》", "心灵史改定版"],
+  "author_ids": ["person_zhang_chengzhi"],
+  "editor_ids": [],
+  "publication_year": "",
+  "publisher": "",
+  "edition": "题名页标“改定版”；作者称改定稿于2011年初冬完成",
+  "isbn": "",
+  "pdf_page_count": 292,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书\\心灵史（改定版）.pdf；配套15份Word分卷；仅上传阅读成果，不上传原件",
+  "sources": [
+    {
+      "author": "张承志",
+      "book": "《心灵史》（改定版）",
+      "page": "项目PDF p.3",
+      "chapter": "题名页",
+      "location": "题名、版本标注与作者署名"
+    },
+    {
+      "author": "张承志及卷末附记",
+      "book": "《心灵史》（改定版）",
+      "page": "项目PDF pp.1–292",
+      "chapter": "全卷",
+      "location": "15份Word页标连续覆盖；门页、关键图像页与卷末边界回看PDF"
+    }
+  ],
+  "notes": [
+    "项目扫描PDF未见出版社、ISBN或明确发行年；p.284记改定稿于2011年初冬，p.290–291为2012年平装本印后记。",
+    "PDF p.292为空白扫描；出版信息未据常识补全。"
+  ]
+}
