@@ -1,0 +1,43 @@
+{
+  "id": "book_chinese_modern_academic_classics_liang_shuming_1996",
+  "type": "book",
+  "name_zh": "中国现代学术经典·梁漱溟卷",
+  "name_en": "",
+  "aliases": [
+    "梁漱溟卷",
+    "中国现代学术经典-梁漱溟卷"
+  ],
+  "author_ids": [
+    "person_liang_shuming"
+  ],
+  "editor_ids": [],
+  "series_editor": "刘梦溪",
+  "volume_editors": [
+    "梁培宽",
+    "王宗昱"
+  ],
+  "publication_year": 1996,
+  "publisher": "河北教育出版社",
+  "edition": "1996年8月第1版、第1次印刷",
+  "isbn": "7-5434-2840-7/G·2258",
+  "pdf_page_count": 951,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书\\中国现代学术经典-梁漱溟卷.pdf；配套24份Word分卷；仅上传阅读成果，不上传原件",
+  "sources": [
+    {
+      "author": "刘梦溪主编；梁培宽、王宗昱卷编校",
+      "book": "《中国现代学术经典·梁漱溟卷》",
+      "page": "项目PDF p.3",
+      "chapter": "题名页与版权页",
+      "location": "作者、编者、出版社、版次、印次与ISBN"
+    },
+    {
+      "author": "梁漱溟",
+      "book": "《中国现代学术经典·梁漱溟卷》",
+      "page": "项目PDF pp.1–951",
+      "chapter": "全卷",
+      "location": "24份Word页标连续覆盖；PDF末页p.951视觉核验"
+    }
+  ]
+}
