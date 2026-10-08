@@ -1,0 +1,55 @@
+{
+  "id": "book_how_to_read_and_why_bloom_2000_zh_2011",
+  "type": "book",
+  "name": "How to Read and Why",
+  "name_zh": "《如何读，为什么读》",
+  "aliases": [
+    "How to Read and Why",
+    "哈罗德·布鲁姆《如何读，为什么读》"
+  ],
+  "authors": [
+    "person_harold_bloom"
+  ],
+  "translator": "黄灿然",
+  "publisher": "译林出版社",
+  "publication_year": "2011",
+  "edition": "2011年1月第1版、2011年5月第2次印刷；原作Scribner 2000",
+  "isbn": "978-7-5447-0822-7",
+  "fields": [
+    "literature",
+    "literary_criticism",
+    "reading"
+  ],
+  "related_art": [],
+  "related_events": [],
+  "related_people": [
+    "person_harold_bloom"
+  ],
+  "related_concepts": [
+    "concept_aesthetic_reading_personal_self_bloom",
+    "concept_close_reading_repetition_poetic_memory_bloom",
+    "concept_literary_canon_aesthetic_judgment_bloom",
+    "concept_negative_sublime_american_novel_bloom",
+    "concept_literature_institutional_definition_value_judgment"
+  ],
+  "sources": [
+    {
+      "author": "Harold Bloom",
+      "book": "《如何读，为什么读》",
+      "location": "版权页",
+      "page": "PDF p.5",
+      "chapter": "译者、出版信息、原作出版信息、版次、印次与ISBN"
+    },
+    {
+      "author": "Harold Bloom",
+      "book": "《如何读，为什么读》",
+      "location": "序曲及全书",
+      "page": "PDF pp.19–27、pp.28–214、pp.215–219",
+      "chapter": "阅读理由、作品细读与尾声"
+    }
+  ],
+  "local_source_status": "项目扫描PDF共220页；六份Word内部页标连续覆盖pp.1–220。PDF p.220页图确认译后记末页。底本SHA-256：7165ADE3E68AFFD368CB100A68C4C32A459820715E33E4069A4B1305B76E5639。原始PDF与Word分卷留在项目文件夹，只读保存，未加入知识库仓库。",
+  "reading_status": "complete",
+  "last_read_pdf_page": "220",
+  "last_updated": "2026-10-08"
+}
