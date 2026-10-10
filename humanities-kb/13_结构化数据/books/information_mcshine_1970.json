@@ -1,0 +1,60 @@
+{
+  "id": "book_information_mcshine_1970",
+  "type": "book",
+  "name_zh": "《Information》（1970年MoMA展览目录）",
+  "name_en": "Information",
+  "aliases": [
+    "Information",
+    "Information（Kynaston L. McShine编）",
+    "1970-MOMA-Infomation"
+  ],
+  "editor_id": "person_kynaston_mcshine",
+  "publication_year": 1970,
+  "publisher": "The Museum of Modern Art, New York",
+  "edition": "MoMA 1970年展览目录；展期1970-07-02至1970-09-20",
+  "page_count_pdf": 215,
+  "reading_status": "completed_entire_local_scan",
+  "read_progress_by_pdf_pages": {
+    "total": 215,
+    "completed": 215
+  },
+  "local_source_status": "项目PDF pp.1–215及11份Word分卷均已读完；PDF p.1为MoMA数字记录，p.2–4为前置图像，艺术家与目录、McShine短文、影片、推荐书目、来源页和卷末边界均已核对。",
+  "source_locator": "新鬼专栏课件/观念艺术与摄影/参考阅读/1970-MOMA-Infomation.pdf",
+  "related_people": [
+    "person_kynaston_mcshine",
+    "person_joseph_kosuth",
+    "person_lucy_r_lippard",
+    "person_hans_haacke",
+    "person_yoko_ono",
+    "person_lawrence_weiner"
+  ],
+  "related_concepts": [
+    "concept_exhibition_as_information_system",
+    "concept_artist_statement_document_boundary_information",
+    "concept_audience_participation_feedback_information"
+  ],
+  "sources": [
+    {
+      "book": "Information",
+      "author": "Kynaston L. McShine编",
+      "chapter": "题名、版权、致谢与目录",
+      "page": "项目PDF pp.6–10",
+      "location": "编者、机构、展期、展览目标与目录页段"
+    },
+    {
+      "book": "Information",
+      "author": "Kynaston L. McShine编",
+      "chapter": "艺术家条目与项目声明",
+      "page": "项目PDF pp.12–142",
+      "location": "命题、指令、地点、文件、观众和媒介实践"
+    },
+    {
+      "book": "Information",
+      "author": "Kynaston L. McShine",
+      "chapter": "Essay",
+      "page": "项目PDF pp.145–148",
+      "location": "艺术分类、传播媒介、公共性、收藏与博物馆"
+    }
+  ],
+  "last_updated": "2026-10-10"
+}
