@@ -1,0 +1,24 @@
+{
+  "id": "book_deleuze_reframed_sutton_martin_jones_2016_zh",
+  "type": "book",
+  "name_zh": "《德勒兹眼中的艺术》",
+  "name_en": "Deleuze Reframed: Interpreting Key Thinkers for the Arts",
+  "aliases": ["德勒兹眼中的艺术", "Deleuze Reframed"],
+  "author_ids": ["person_damian_sutton", "person_david_martin_jones"],
+  "translator": "林何",
+  "publication_year": 2016,
+  "publisher": "重庆大学出版社",
+  "edition": "思想家眼中的艺术丛书；项目扫描203页，书目记录纸本194页",
+  "page_count_pdf": 203,
+  "reading_status": "completed_entire_local_scan",
+  "read_progress_by_pdf_pages": {"total":203,"completed":203},
+  "local_source_status": "项目PDF pp.1–203及6份Word分卷均已读完；作者导读、德勒兹／瓜塔里概念、案例分析、术语表和版权页分层记录。",
+  "source_locator": "新鬼专栏课件/德勒兹与摄影哲学参考阅读与讲义/参考阅读/【中译】德勒兹眼中的艺术 .pdf",
+  "related_people": ["person_damian_sutton","person_david_martin_jones","person_gilles_deleuze"],
+  "related_concepts": ["concept_rhizome_deterritorialization_art","concept_becoming_minority_film","concept_percepts_affects_art_material"],
+  "sources": [
+    {"book":"《德勒兹眼中的艺术》","author":"Damian Sutton、David Martin-Jones","chapter":"前言与导言","page":"项目PDF pp.8–33","location":"块茎、生成、绵延与导读结构"},
+    {"book":"《德勒兹眼中的艺术》","author":"Damian Sutton、David Martin-Jones","chapter":"三部分六章与结论","page":"项目PDF pp.34–185","location":"电子游戏、互联网、少数电影、生成艺术、电影和电视时间"}
+  ],
+  "last_updated":"2026-10-10"
+}
