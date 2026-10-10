@@ -1,0 +1,28 @@
+{
+  "id": "book_mythologies_barthes_1957_zh_2016",
+  "type": "book",
+  "name_zh": "《神话修辞术》",
+  "name_en": "Mythologies",
+  "aliases": ["神话修辞术", "神话学"],
+  "author_id": "person_roland_barthes",
+  "translator": "屠友祥",
+  "publication_year": 2016,
+  "publisher": "上海人民出版社",
+  "edition": "2016年7月第1版；ISBN 978-7-208-13994-7",
+  "page_count_pdf": 232,
+  "reading_status": "completed_entire_local_scan",
+  "read_progress_by_pdf_pages": {"total": 232, "completed": 232},
+  "local_source_status": "项目PDF pp.1–232及6份Word分卷均已读完；译者导言与巴特原文分层记录。",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】神话修辞术.pdf",
+  "related_people": ["person_roland_barthes"],
+  "related_concepts": [
+    "concept_myth_as_second_order_signification",
+    "concept_historical_naturalization_bourgeois_ideology",
+    "concept_semiotic_decoding_mass_culture"
+  ],
+  "sources": [
+    {"book":"《神话修辞术》","author":"罗兰·巴特","chapter":"初版序言","page":"项目PDF pp.29–32","location":"大众文化、自然与历史、意识形态批评"},
+    {"book":"《神话修辞术》","author":"罗兰·巴特","chapter":"第二部分：今日之神话","page":"项目PDF pp.178–231","location":"二级符号系统、神话读解、资产阶级与左右翼神话"}
+  ],
+  "last_updated": "2026-10-10"
+}
