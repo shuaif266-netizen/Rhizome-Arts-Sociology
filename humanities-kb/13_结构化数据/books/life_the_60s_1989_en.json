@@ -1,0 +1,24 @@
+{
+  "id":"book_life_the_60s_1989_en",
+  "type":"book",
+  "name_zh":"《生活杂志六十年代图像选编》",
+  "name_en":"Life—The '60s",
+  "aliases":["Life--the '60s","The 60s"],
+  "editor":"Doris C. O’Neil",
+  "contributors":["Tom Brokaw","John Neary Grove"],
+  "publication_year":1989,
+  "publisher":"Little, Brown and Company / Bulfinch Press",
+  "page_count_pdf":264,
+  "page_count_printed_catalog":236,
+  "reading_status":"completed_entire_local_scan",
+  "read_progress_by_pdf_pages":{"total":264,"completed":264},
+  "local_source_status":"项目PDF pp.1–264及14份Word分卷已读完；图像主导页按原页图、图注、摄影署名和目录核对。",
+  "source_locator":"新鬼专栏课件/观念艺术与摄影/参考阅读/六十年代背景资料/生活杂志1960 年代：一切都改变的十年.pdf",
+  "related_concepts":["concept_photography_public_memory_life_60s","concept_visual_politics_social_movements_life_60s","concept_magazine_caption_historical_narrative_life_60s"],
+  "sources":[
+    {"book":"Life—The ’60s","author":"Doris C. O’Neil编","chapter":"目录与序言","page":"项目PDF pp.11–21","location":"主题结构、编选范围和导言"},
+    {"book":"Life—The ’60s","author":"Doris C. O’Neil编","chapter":"主题图像与图注","page":"项目PDF pp.22–248","location":"民权、肯尼迪、音乐、抗议、时尚、太空、1968与越南"},
+    {"book":"Life—The ’60s","author":"Doris C. O’Neil编","chapter":"年代表与索引","page":"项目PDF pp.249–261","location":"1960–1969年表与摄影师索引"}
+  ],
+  "last_updated":"2026-10-10"
+}
