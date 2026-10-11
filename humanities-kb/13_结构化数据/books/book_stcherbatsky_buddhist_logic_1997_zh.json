@@ -1,0 +1,42 @@
+{
+  "id": "book_stcherbatsky_buddhist_logic_1997_zh",
+  "type": "book",
+  "name_zh": "佛教逻辑",
+  "name_en": "Buddhist Logic",
+  "aliases": ["舍尔巴茨基《佛教逻辑》", "Buddhist Logic (Chinese translation)"],
+  "author_id": "person_fedor_ippolitovich_stcherbatsky",
+  "translators": ["宋立道", "舒晓炜"],
+  "publication_year": "1997",
+  "publisher": "商务印书馆",
+  "series": "汉译世界学术名著丛书",
+  "isbn": "7-100-01908-7",
+  "pdf_page_count": 669,
+  "print_page_count": 656,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书/A0712佛教逻辑.pdf；辅助Word共17份，页标连续覆盖PDF pp.1–669；原件与Word分卷只读留在本地，未上传",
+  "page_mapping_note": "中文正文页码约为PDF页码减13（PDF pp.18–669对应书内pp.5–656）；前置材料及章节扉页可能保留原著分页，引用时以项目PDF页码为主。",
+  "sources": [
+    {
+      "book": "《佛教逻辑》",
+      "author": "舍尔巴茨基",
+      "chapter": "题名页与CIP/版权信息",
+      "page": "项目PDF pp.2–4",
+      "location": "题名、作者、译者、出版社、出版年与ISBN"
+    },
+    {
+      "book": "《佛教逻辑》",
+      "author": "舍尔巴茨基",
+      "chapter": "译者说明",
+      "page": "项目PDF pp.5–9",
+      "location": "译者对英文原著、作者生平与术语处理的说明"
+    },
+    {
+      "book": "《佛教逻辑》",
+      "author": "舍尔巴茨基",
+      "chapter": "全书",
+      "page": "项目PDF pp.1–669",
+      "location": "整本阅读范围；17份Word页标连续覆盖"
+    }
+  ]
+}
