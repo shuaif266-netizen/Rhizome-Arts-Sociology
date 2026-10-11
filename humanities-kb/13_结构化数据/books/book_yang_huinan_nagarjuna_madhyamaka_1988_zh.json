@@ -1,0 +1,33 @@
+{
+  "id": "book_yang_huinan_nagarjuna_madhyamaka_1988_zh",
+  "type": "book",
+  "name_zh": "龙树与中观哲学",
+  "name_en": "",
+  "aliases": ["龍樹與中觀哲學", "杨惠南《龙树与中观哲学》"],
+  "author_id": "person_yang_huinan",
+  "publication_year": "1988",
+  "publisher": "台湾东大图书公司",
+  "edition": "初版；民国77年10月",
+  "isbn": "",
+  "pdf_page_count": 282,
+  "print_page_count": 270,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书/《龙树与中观哲学》杨惠南着1988.pdf；辅助Word共8份，页标覆盖PDF pp.1–282；原件只读，未上传",
+  "sources": [
+    {
+      "book": "《龙树与中观哲学》",
+      "author": "杨惠南",
+      "chapter": "题名页与版权页",
+      "page": "项目PDF pp.3–4",
+      "location": "作者署名、台湾东大图书公司初版、民国77年版次"
+    },
+    {
+      "book": "《龙树与中观哲学》",
+      "author": "杨惠南",
+      "chapter": "全书七篇论文",
+      "page": "项目PDF pp.13–282；书内pp.1–270",
+      "location": "整本阅读范围及PDF页码／书内页码映射"
+    }
+  ]
+}
