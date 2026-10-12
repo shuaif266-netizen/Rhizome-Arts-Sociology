@@ -1,0 +1,24 @@
+{
+  "id": "book_tang_yongtong_modern_academic_classics_1996_zh",
+  "type": "book",
+  "name_zh": "中国现代学术经典·汤用彤卷",
+  "author_id": "person_tang_yongtong",
+  "compiler": "孙尚扬",
+  "series_editor": "刘梦溪",
+  "publication_year": "1996",
+  "publisher": "河北教育出版社",
+  "isbn": "7-5434-2839-3/G·2257",
+  "pdf_page_count": 888,
+  "reading_status": "completed_with_cross_edition_gap_reading",
+  "source_locator": "书/中国现代学术经典 汤用彤卷.pdf；45份Word页标覆盖pp.1–888",
+  "source_note": "书内pp.276、416缺于本地扫描，1938年本对应内容补读；p.742空白，p.888末项译作年份遮盖未核。原件只读留在本地。",
+  "sources": [
+    {
+      "book": "中国现代学术经典·汤用彤卷",
+      "author": "汤用彤；孙尚扬编校",
+      "chapter": "题名与版权页；全卷",
+      "page": "项目PDF pp.2–3、1–888",
+      "location": "出版信息及实际核读范围"
+    }
+  ]
+}
