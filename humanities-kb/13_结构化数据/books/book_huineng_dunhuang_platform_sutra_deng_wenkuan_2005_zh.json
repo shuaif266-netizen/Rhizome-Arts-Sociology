@@ -1,0 +1,42 @@
+{
+  "id": "book_huineng_dunhuang_platform_sutra_deng_wenkuan_2005_zh",
+  "type": "book",
+  "name_zh": "六祖坛经：敦煌《坛经》读本",
+  "aliases": ["《六祖坛经：敦煌〈坛经〉读本》", "敦煌本《坛经》读本"],
+  "author_id": "person_huineng",
+  "author_attribution_note": "封面署“唐·惠能原著”；开篇题名署“弘法弟子法海集记”。演讲讨论现存文本层累，不将传统归名等同于惠能亲笔写定。",
+  "annotator_id": "person_deng_wenkuan",
+  "publication_year": "2005",
+  "publisher": "辽宁教育出版社",
+  "isbn": "7-5382-7197-X",
+  "pdf_page_count": 186,
+  "print_page_count": 173,
+  "edition_note": "CIP栏标2004.11；版权页印2005年1月第1版、第1次印刷，出版年依版权页记录。",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_scan",
+  "source_locator": "书/六祖坛经：敦煌《坛经》读本.pdf；辅助Word共10份，页标连续覆盖项目PDF pp.1–186；原件留在本地只读，未上传。",
+  "page_mapping_note": "目录列前言书内p.1、校注p.11、整理研究演讲p.127、后记p.169、新版后记p.171。PDF pp.23、138–139、181为空白扫描页；阅读定位以PDF页码为主。",
+  "sources": [
+    {
+      "book": "《六祖坛经：敦煌〈坛经〉读本》",
+      "author": "惠能（传统归属）；邓文宽校注",
+      "chapter": "封面与题名页",
+      "page": "项目PDF pp.1–2",
+      "location": "题名、传统作者归属、校注者、CIP与版权页"
+    },
+    {
+      "book": "《六祖坛经：敦煌〈坛经〉读本》",
+      "author": "邓文宽",
+      "chapter": "前言与整理研究演讲",
+      "page": "项目PDF pp.14–22、140–180",
+      "location": "底本、写本谱系、校勘方法、方音和文本层次讨论"
+    },
+    {
+      "book": "《六祖坛经：敦煌〈坛经〉读本》",
+      "author": "惠能（传统归属）；邓文宽校注",
+      "chapter": "全书",
+      "page": "项目PDF pp.1–186",
+      "location": "整本阅读范围；10份Word页标连续覆盖"
+    }
+  ]
+}
