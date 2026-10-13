@@ -1,0 +1,24 @@
+{
+  "id": "book_zhang_junmai_modern_academic_classics_1996_zh",
+  "type": "book",
+  "name_zh": "中国现代学术经典·张君劢卷",
+  "author_id": "person_zhang_junmai",
+  "compiler": "黄克剑、王涛",
+  "series_editor": "刘梦溪",
+  "publication_year": "1996",
+  "publisher": "河北教育出版社",
+  "isbn": "7-5434-2842-3/G·2260",
+  "pdf_page_count": 843,
+  "reading_status": "completed",
+  "source_locator": "书/中国现代学术经典 张君励卷.pdf；43份Word页标连续覆盖项目PDF pp.1–843",
+  "source_note": "原PDF封面与版权页题名为“张君劢卷”，本地文件名“张君励卷”保留；全卷Word优先连续阅读，疑点回查PDF。扫描PDF原件与Word辅助分卷只读留在本地，不入库。",
+  "sources": [
+    {
+      "book": "中国现代学术经典·张君劢卷",
+      "author": "张君劢；黄克剑、王涛编校",
+      "chapter": "题名页、版权页",
+      "page": "项目PDF pp.2–3",
+      "location": "题名、作者、编校、出版年月与ISBN"
+    }
+  ]
+}
