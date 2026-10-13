@@ -1,0 +1,21 @@
+{
+  "id": "book_bian_brecht_impressions_1979_zh",
+  "type": "book",
+  "name_zh": "《布莱希特戏剧印象记》",
+  "author_id": "person_bian_zhi_lin",
+  "publication_year": "1979",
+  "publisher": "中国戏剧出版社",
+  "pdf_page_count": 137,
+  "reading_status": "completed",
+  "source_locator": "书/卞之琳 布莱希特戏剧印象记(1).pdf；7份Word页标连续覆盖项目PDF pp.1–137",
+  "source_note": "题名、作者、出版社与作者前言据项目PDF pp.1–5核对；版权页年份和印次存在OCR不确定性，保留为1979年初版的初核记录。原PDF和Word分卷只读留在项目文件夹，不入库。",
+  "sources": [
+    {
+      "book": "《布莱希特戏剧印象记》",
+      "author": "卞之琳",
+      "chapter": "题名页、版权页、作者前言",
+      "page": "项目PDF pp.1–5",
+      "location": "题名、作者、出版社、写作与修订经过"
+    }
+  ]
+}
