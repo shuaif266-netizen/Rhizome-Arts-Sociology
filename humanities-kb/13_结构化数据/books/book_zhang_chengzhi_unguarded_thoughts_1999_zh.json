@@ -1,0 +1,23 @@
+{
+  "id": "book_zhang_chengzhi_unguarded_thoughts_1999_zh",
+  "type": "book",
+  "name_zh": "《无援的思想——思想随笔卷》",
+  "author_id": "person_zhang_chengzhi",
+  "publication_year": "1999",
+  "publisher": "湖南文艺出版社",
+  "edition": "1999年12月第1版第1次印刷",
+  "isbn": "7-5404-2218-1",
+  "pdf_page_count": 263,
+  "reading_status": "completed",
+  "source_locator": "书/张承志文集：无援的思想----思想随笔卷（张承志）.pdf；14份Word页标连续覆盖项目PDF pp.1–263",
+  "source_note": "题名、作者、版权页与ISBN据项目PDF pp.1–3核对。全卷Word优先连续阅读，目录、专名和OCR疑点回查PDF；p.262为General Information元数据页，p.263为书末资料式页面。原PDF与Word分卷只读留在项目文件夹，不入库。",
+  "sources": [
+    {
+      "book": "《无援的思想——思想随笔卷》",
+      "author": "张承志",
+      "chapter": "题名页、版权页、目录",
+      "page": "项目PDF pp.1–6",
+      "location": "书名、作者、出版社、版次、ISBN、篇目与页码入口"
+    }
+  ]
+}
