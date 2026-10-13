@@ -1,0 +1,24 @@
+{
+  "id": "book_hayman_fassbinder_world_2003_zh",
+  "type": "book",
+  "name_zh": "《法斯宾德的世界》",
+  "name_en": "Fassbinder: Film Maker",
+  "author_id": "person_ronald_hayman",
+  "translators": ["彭倩文"],
+  "publication_year": "2003",
+  "publisher": "广西师范大学出版社",
+  "series": "贝贝特艺术广场·电影馆系列",
+  "pdf_page_count": 234,
+  "reading_status": "completed",
+  "source_locator": "书/法斯宾德的世界.pdf；12份Word页标连续覆盖项目PDF pp.1–234",
+  "source_note": "题名、原作者、译者、出版社、授权和版次据项目PDF pp.1–4初核；戴锦华总序、蔡康永导论、海曼正文、年表和作品表分层记录。原PDF和Word分卷只读留在项目文件夹，不入库。",
+  "sources": [
+    {
+      "book": "《法斯宾德的世界》",
+      "author": "罗纳德·海曼；彭倩文译",
+      "chapter": "题名页、版权页、CIP",
+      "page": "项目PDF pp.1–4",
+      "location": "题名、作者、译者、出版社与版本信息"
+    }
+  ]
+}
