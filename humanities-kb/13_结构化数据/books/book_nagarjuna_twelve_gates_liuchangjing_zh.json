@@ -1,0 +1,34 @@
+{
+  "id": "book_nagarjuna_twelve_gates_liuchangjing_zh",
+  "type": "book",
+  "name_zh": "《十二门论释义》",
+  "name_en": "Treatise on the Twelve Gates (commentarial edition)",
+  "aliases": ["龙树《十二门论》刘常净释义本"],
+  "author_id": "person_nagarjuna",
+  "translator_id": "person_kumarajiva",
+  "commentator_id": "person_liu_changjing",
+  "publisher": "中国佛学院教务部（题名页署名及扫描元数据页所列出版单位）",
+  "publication_year": null,
+  "print_page_count": 189,
+  "pdf_page_count": 206,
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书/《十二门论释义》龙树菩萨原着；刘常净释义.pdf；辅助Word六份连续覆盖项目PDF pp.1–205，p.206元数据页已回看",
+  "source_note": "题名页署龙树菩萨原著、姚秦鸠摩罗什翻译、刘常净释义；扫描末页元数据列正文189页、出版单位中国佛学院教务部，出版日期为null。扫描正文结束于PDF p.205，p.206为附带元数据页。原PDF与Word只读留在本地，不上传。",
+  "sources": [
+    {
+      "book": "《十二门论释义》",
+      "author": "题名页责任者署名",
+      "chapter": "题名页",
+      "page": "项目PDF p.2",
+      "location": "原著者、译者、释义者及中国佛学院教务部署名"
+    },
+    {
+      "book": "《十二门论释义》",
+      "author": "扫描元数据",
+      "chapter": "General Information",
+      "page": "项目PDF p.206",
+      "location": "扫描所列正文页数、出版单位与出版日期字段"
+    }
+  ]
+}
