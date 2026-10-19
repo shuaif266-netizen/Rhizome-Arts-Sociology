@@ -1,0 +1,10 @@
+{
+  "id": "topic_genet_studio_portrait_solitude_tightrope_2012_zh",
+  "type": "topic",
+  "name_zh": "工作室、肖像、孤独与走钢丝",
+  "aliases": ["热内的艺术经验阅读路径", "贾科梅蒂与阿布达拉"],
+  "description": "依据热内四篇文章及程小牧代序整理的阅读路径：从工作室中的观看和雕塑肖像，转向伦勃朗绘画中的贫贱与奢华，再到走钢丝表演中的身体纪律、危险和观众。此组织次序是知识库整理，不是作者给出的理论体系。",
+  "source_book_ids": ["book_genet_latelier_giacometti_zh_2012"],
+  "markdown_path": "humanities-kb/06_跨学科知识链/工作室—肖像—孤独—走钢丝：热内的艺术经验.md",
+  "last_updated": "2026-10-20"
+}

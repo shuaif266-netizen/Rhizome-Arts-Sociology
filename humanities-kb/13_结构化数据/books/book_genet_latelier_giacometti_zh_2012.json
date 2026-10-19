@@ -1,0 +1,64 @@
+{
+  "id": "book_genet_latelier_giacometti_zh_2012",
+  "type": "book",
+  "name_zh": "《贾科梅蒂的画室：热内论艺术》",
+  "name_original": "L'Atelier d'Alberto Giacometti; Le secret de Rembrandt; Le funambule",
+  "aliases": ["让·热内《贾科梅蒂的画室》", "贾科梅蒂的画室"],
+  "author_id": "person_jean_genet",
+  "translator": "程小牧",
+  "translator_preface_author": "程小牧",
+  "publisher": "吉林出版集团有限责任公司",
+  "publication_year": 2012,
+  "edition_and_printing": "2012年9月第1版、第1次印刷",
+  "isbn": "978-7-5534-0106-5",
+  "pdf_page_count": 152,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/第二季：当作艺术摄影作品解读课件/Mat Collishaw/【中译】让·热内-贾科梅蒂的画室：热内论艺术.pdf；8份Word页标连续覆盖项目PDF pp.1–152",
+  "source_note": "中文版收程小牧代序《爱的残痕——热内论艺术》及四篇热内文字。版权页列Gallimard 1979年法文原版信息。项目PDF p.152为书内p.146正文末页。原始PDF与Word分卷留在本地只读，GitHub仅保存阅读档案与知识库整合材料。",
+  "related_people": ["person_jean_genet", "person_alberto_giacometti", "person_abdallah_bentaga"],
+  "related_concepts": [
+    "concept_genet_solitude_singularity_equality_2012_zh",
+    "concept_genet_portrait_viewing_distance_2012_zh",
+    "concept_genet_rembrandt_luxury_transformation_2012_zh",
+    "concept_genet_tightrope_art_risk_discipline_2012_zh"
+  ],
+  "related_topics": ["topic_genet_studio_portrait_solitude_tightrope_2012_zh"],
+  "sources": [
+    {
+      "location": "作者、译者、版次、印次、ISBN与法文原版版权信息",
+      "page": "项目PDF pp.1–5",
+      "chapter": "封面、书名页、CIP与版权页",
+      "author": "让·热内；程小牧译",
+      "book": "《贾科梅蒂的画室：热内论艺术》"
+    },
+    {
+      "location": "中文本篇目与篇章页码",
+      "page": "项目PDF pp.6–7",
+      "chapter": "目录与代序起页",
+      "author": "程小牧编译材料；让·热内正文",
+      "book": "《贾科梅蒂的画室：热内论艺术》"
+    },
+    {
+      "location": "热内关于贾科梅蒂的画室、雕塑、肖像和观看经验",
+      "page": "项目PDF pp.35–96",
+      "chapter": "《贾科梅蒂的画室》",
+      "author": "让·热内",
+      "book": "《贾科梅蒂的画室：热内论艺术》"
+    },
+    {
+      "location": "热内关于伦勃朗的两篇文字",
+      "page": "项目PDF pp.97–124",
+      "chapter": "《伦勃朗的秘密》《一本撕碎的伦勃朗之书的残余》",
+      "author": "让·热内",
+      "book": "《贾科梅蒂的画室：热内论艺术》"
+    },
+    {
+      "location": "致阿布达拉的诗性劝告；书内脚注说明题赠对象",
+      "page": "项目PDF pp.125–152",
+      "chapter": "《走钢丝的人》",
+      "author": "让·热内",
+      "book": "《贾科梅蒂的画室：热内论艺术》"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

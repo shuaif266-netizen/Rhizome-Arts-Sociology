@@ -1,0 +1,20 @@
+{
+  "id": "concept_genet_tightrope_art_risk_discipline_2012_zh",
+  "type": "concept",
+  "name_zh": "走钢丝的艺术：危险、纪律与形象",
+  "name_en": "tightrope art, risk, discipline, and image",
+  "aliases": ["身体训练与艺术表演", "献给阿布达拉的劝告"],
+  "source_book_id": "book_genet_latelier_giacometti_zh_2012",
+  "source_pages_pdf": "125–152",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "125–152",
+      "chapter": "《走钢丝的人》",
+      "authors": ["person_jean_genet"],
+      "definition": "热内以第二人称写给阿布达拉，把钢丝表演描写为身体训练、材料关系、危险、孤独、观众与自我形象共同形成的艺术实践。文本是诗性劝告，不是实际训练手册。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-20"
+}

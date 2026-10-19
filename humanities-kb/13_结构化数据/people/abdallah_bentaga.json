@@ -1,0 +1,19 @@
+{
+  "id": "person_abdallah_bentaga",
+  "type": "person",
+  "name": "Abdallah Bentaga",
+  "name_zh": "阿布达拉·邦塔加",
+  "aliases": ["阿布达拉", "Abdallah"],
+  "fields": ["马戏", "走钢丝表演"],
+  "related_people": ["person_jean_genet"],
+  "related_books": ["book_genet_latelier_giacometti_zh_2012"],
+  "sources": [
+    {
+      "book": "《贾科梅蒂的画室：热内论艺术》",
+      "page": "项目PDF p.125脚注；pp.7–34代序",
+      "location": "《走钢丝的人》题赠说明与译者代序",
+      "note": "仅据本书所载信息建立来源限定人物入口；传记细节未作独立核验。"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

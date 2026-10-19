@@ -1,0 +1,20 @@
+{
+  "id": "concept_genet_portrait_viewing_distance_2012_zh",
+  "type": "concept",
+  "name_zh": "肖像、观看与距离",
+  "name_en": "portrait, viewing, and distance",
+  "aliases": ["靠近与退远", "视觉与触觉经验"],
+  "source_book_id": "book_genet_latelier_giacometti_zh_2012",
+  "source_pages_pdf": "35–96",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "35–96",
+      "chapter": "《贾科梅蒂的画室》",
+      "authors": ["person_jean_genet"],
+      "definition": "热内把观看贾科梅蒂雕塑和肖像写成靠近与退远的摆动；图像既可感又不可被观者完全占有，触摸、线条、材料和空白共同参与作品经验。"
+    }
+  ],
+  "related_concepts": ["concept_genet_solitude_singularity_equality_2012_zh"],
+  "last_updated": "2026-10-20"
+}

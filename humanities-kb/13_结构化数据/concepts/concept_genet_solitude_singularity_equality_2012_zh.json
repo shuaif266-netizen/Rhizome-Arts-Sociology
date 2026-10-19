@@ -1,0 +1,20 @@
+{
+  "id": "concept_genet_solitude_singularity_equality_2012_zh",
+  "type": "concept",
+  "name_zh": "孤独、独特性与价值平等",
+  "name_en": "solitude, singularity, and equal value",
+  "aliases": ["存在者的不可替代性", "孤独经验与等同"],
+  "source_book_id": "book_genet_latelier_giacometti_zh_2012",
+  "source_pages_pdf": "35–96, 113–124",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "35–96, 113–124",
+      "chapter": "《贾科梅蒂的画室》《一本撕碎的伦勃朗之书的残余》",
+      "authors": ["person_jean_genet"],
+      "definition": "热内把孤独写成存在者不可替代的独特性，并由此提出每个人与物的价值相等；这一诗性主张同时受到欲望、身体差异和个体身份问题的牵扯。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-20"
+}

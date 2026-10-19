@@ -1,0 +1,19 @@
+{
+  "id": "person_jean_genet",
+  "type": "person",
+  "name": "Jean Genet",
+  "name_zh": "让·热内",
+  "aliases": ["热内"],
+  "fields": ["文学", "戏剧", "艺术写作"],
+  "related_people": ["person_alberto_giacometti", "person_abdallah_bentaga"],
+  "related_books": ["book_genet_latelier_giacometti_zh_2012"],
+  "sources": [
+    {
+      "book": "《贾科梅蒂的画室：热内论艺术》",
+      "page": "项目PDF pp.4–5",
+      "location": "书名页与作者／译者署名",
+      "note": "本条人物入口仅记录本书相关信息，不代替完整传记。"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

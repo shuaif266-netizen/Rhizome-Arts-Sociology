@@ -1,0 +1,20 @@
+{
+  "id": "concept_genet_rembrandt_luxury_transformation_2012_zh",
+  "type": "concept",
+  "name_zh": "奢华、贫贱与绘画转化",
+  "name_en": "luxury, poverty, and pictorial transformation",
+  "aliases": ["伦勃朗绘画中的物质与面孔", "热内论伦勃朗"],
+  "source_book_id": "book_genet_latelier_giacometti_zh_2012",
+  "source_pages_pdf": "97–124",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "97–124",
+      "chapter": "《伦勃朗的秘密》《一本撕碎的伦勃朗之书的残余》",
+      "authors": ["person_jean_genet"],
+      "definition": "热内把伦勃朗笔下的华丽衣饰、面孔、衰老和贫困联系起来，将绘画描述为把奢华表面转化为对脆弱生命和普通物的凝视。该历史解释属于热内的艺术阅读。"
+    }
+  ],
+  "related_concepts": ["concept_genet_solitude_singularity_equality_2012_zh"],
+  "last_updated": "2026-10-20"
+}

@@ -9,6 +9,13 @@
       "location": "Sartre/Giacometti discussion; Cold War insert; figures 1–4",
       "page": "book pp.483–487; PDF pp.487–491",
       "chapter": "1959c: Postwar figuration"
+    },
+    {
+      "author": "让·热内",
+      "book": "《贾科梅蒂的画室：热内论艺术》",
+      "location": "热内对画室、雕塑、肖像和观看距离的第一人称阐释；不作为贾科梅蒂自述",
+      "page": "项目PDF pp.35–96",
+      "chapter": "《贾科梅蒂的画室》"
     }
   ],
   "related_art": [],
@@ -20,9 +27,10 @@
   "type": "person",
   "name_zh": "",
   "related_events": [],
-  "related_people": [],
+  "related_people": ["person_jean_genet"],
   "related_books": [
-    "book_art_since_1900_3e_2016"
+    "book_art_since_1900_3e_2016",
+    "book_genet_latelier_giacometti_zh_2012"
   ],
   "aliases": [],
   "name": "Alberto Giacometti",
