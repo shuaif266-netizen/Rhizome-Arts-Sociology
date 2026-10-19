@@ -1,0 +1,40 @@
+{
+  "id": "book_xu_fuguan_china_intellectual_spirit_2003_zh",
+  "type": "book",
+  "name_zh": "中国知识分子精神",
+  "name_en": "",
+  "aliases": [],
+  "author_id": "person_xu_fuguan",
+  "compiler_id": "person_chen_kejian",
+  "publication_year": 2003,
+  "publisher": "华东师范大学出版社",
+  "edition": "CIP记2003年12月出版；版权页记2004年2月第1版、第1次印刷",
+  "isbn": "7-5617-3565-0",
+  "page_count_pdf": 265,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\中国知识分子精神_0.pdf；两份PDF哈希相同；14份Word为两套重复的7卷，使用不带(1)的一套",
+  "sources": [
+    {
+      "book": "《中国知识分子精神》",
+      "author": "徐复观；陈克艰编",
+      "chapter": "题名页与CIP/版权页",
+      "page": "项目PDF pp.3–4",
+      "location": "书名、作者、编者、出版社、出版年月与ISBN"
+    },
+    {
+      "book": "《中国知识分子精神》",
+      "author": "陈克艰",
+      "chapter": "编者前言与目录",
+      "page": "项目PDF pp.5–12",
+      "location": "编者前言、61篇文章与七组编排"
+    },
+    {
+      "book": "《中国知识分子精神》",
+      "author": "徐复观",
+      "chapter": "七组文章及附页",
+      "page": "项目PDF pp.15–265",
+      "location": "所收文章正文、分组页与扫描末页"
+    }
+  ],
+  "last_updated": "2026-10-19"
+}

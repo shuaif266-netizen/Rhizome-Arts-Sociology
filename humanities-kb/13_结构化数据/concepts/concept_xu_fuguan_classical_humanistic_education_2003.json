@@ -1,0 +1,19 @@
+{
+  "id": "concept_xu_fuguan_classical_humanistic_education_2003",
+  "type": "concept",
+  "name_zh": "读书、古典教育与人文教养",
+  "name_en": "",
+  "aliases": [],
+  "source_book_id": "book_xu_fuguan_china_intellectual_spirit_2003_zh",
+  "source_pages_pdf": "PDF pp.185–190、209–215、237–264",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "author": "徐复观",
+      "view": "作者强调问题意识、古典阅读、语言逻辑与课程基础对人文教养的作用，并讨论大学专门化与社会需要之间的张力。教育评论属于特定年代的论说。",
+      "source_pages_pdf": "PDF pp.185–190、209–215、237–264",
+      "source_chapter": "《欧洲人的人文教养》《应当如何读书》及教育评论"
+    }
+  ],
+  "last_updated": "2026-10-19"
+}
