@@ -1,0 +1,23 @@
+{
+  "id": "book_seneca_on_happy_life_and_essays_yilin_zh",
+  "type": "book",
+  "name_zh": "《论幸福生活》及所收论说",
+  "cover_title_en": "De Vita Beata",
+  "author_id": "person_lucius_annaeus_seneca",
+  "translator": "覃学岚",
+  "publisher": "译林出版社",
+  "isbn": "9787544754378",
+  "pdf_page_count": 307,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/想象的游荡：当代艺术与文学/参考阅读/关于愤怒/【中译】论幸福生活 (译林人文精选) (塞涅卡) (z-lib.org).pdf；8份Word页标唯一连续覆盖项目PDF pp.1–307",
+  "source_note": "封面和版权页确认作者、译者、出版社、ISBN；版权页未见出版年份。此PDF收录九篇塞涅卡作品及译者导读、译注和出版联络页；封面拉丁题名De Vita Beata对应第四篇《论幸福生活》，不代表其余八篇不在阅读范围内。PDF p.307为出版社联络信息。",
+  "sources": [
+    {
+      "book": "《论幸福生活》及所收论说",
+      "author": "塞涅卡；译者覃学岚",
+      "chapter": "封面、版权页、目录",
+      "page": "项目PDF pp.1–4",
+      "location": "署名、译者、ISBN及本册篇目范围"
+    }
+  ]
+}
