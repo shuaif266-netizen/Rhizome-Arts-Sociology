@@ -1,0 +1,20 @@
+{
+  "id": "concept_rothbard_money_origin_free_exchange_zh_2008",
+  "type": "concept",
+  "name_zh": "货币作为市场交换的产物",
+  "name_en": "money as an outcome of market exchange",
+  "aliases": ["商品货币起源", "间接交换"],
+  "source_book_id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "source_pages_pdf": "48–60, 83–85",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "50–60",
+      "chapter": "第1章《自由社会中的货币》",
+      "authors": ["person_murray_rothbard"],
+      "definition": "罗斯巴德从直接交换的限制出发，将货币解释为交换者逐渐选用、具有较高市场性的商品媒介，而不是由政府公告创造的抽象记账单位。"
+    }
+  ],
+  "related_concepts": ["concept_menger_money_market_origin_price_scale"],
+  "last_updated": "2026-10-20"
+}

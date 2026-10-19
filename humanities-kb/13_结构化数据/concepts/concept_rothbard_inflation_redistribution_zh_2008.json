@@ -1,0 +1,20 @@
+{
+  "id": "concept_rothbard_inflation_redistribution_zh_2008",
+  "type": "concept",
+  "name_zh": "通货膨胀的先后效应与财富转移",
+  "name_en": "sequence effects and redistribution of inflation",
+  "aliases": ["新钱先到者", "通胀再分配"],
+  "source_book_id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "source_pages_pdf": "88–100, 122–141",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "89–93",
+      "chapter": "第2章《插手管钱的政府》",
+      "authors": ["person_murray_rothbard"],
+      "definition": "罗斯巴德以新增货币先到达不同群体的先后顺序解释购买力再分配：较早取得者可先按旧价格购买，较晚取得者面对已经调整的价格。"
+    }
+  ],
+  "related_concepts": ["concept_state_intervention_money_calculation_rothbard"],
+  "last_updated": "2026-10-20"
+}

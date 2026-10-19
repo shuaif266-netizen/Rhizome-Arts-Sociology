@@ -1,0 +1,20 @@
+{
+  "id": "concept_rothbard_fractional_reserve_gold_dollar_zh_2008",
+  "type": "concept",
+  "name_zh": "部分准备金批判与100%准备金金元",
+  "name_en": "fractional-reserve critique and 100-percent-reserve gold dollar",
+  "aliases": ["银行仓单", "足额黄金准备", "金元方案"],
+  "source_book_id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "source_pages_pdf": "75–85, 101–119, 143–191",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "75–85, 143–191",
+      "chapter": "第1章与附录《一个100%准备金的金元案例》",
+      "authors": ["person_murray_rothbard"],
+      "definition": "罗斯巴德把可随时兑付的银行券和存款比作仓单，认为当可兑付凭证超过实有黄金时属于欺诈性货币扩张，并主张以足额准备金金元替代部分准备金体系。"
+    }
+  ],
+  "related_concepts": ["concept_mises_sound_money"],
+  "last_updated": "2026-10-20"
+}

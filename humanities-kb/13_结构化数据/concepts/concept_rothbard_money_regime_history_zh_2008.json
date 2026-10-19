@@ -1,0 +1,20 @@
+{
+  "id": "concept_rothbard_money_regime_history_zh_2008",
+  "type": "concept",
+  "name_zh": "金本位、法定货币与西方货币制度史",
+  "name_en": "gold standard, fiat money and history of Western monetary regimes",
+  "aliases": ["货币制度九阶段", "布雷顿森林体系"],
+  "source_book_id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "source_pages_pdf": "122–141",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "122–141",
+      "chapter": "第3章《西方货币制度的崩溃》",
+      "authors": ["person_murray_rothbard"],
+      "definition": "作者将1914年以来的国际货币制度分成九个阶段，追踪古典金本位、战争、金汇本位、布雷顿森林体系及浮动法定货币的变迁。"
+    }
+  ],
+  "related_concepts": ["concept_mises_sound_money"],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "topic_rothbard_money_property_government_inflation_zh_2008",
+  "type": "topic",
+  "name_zh": "货币、财产权、银行信用与政府权力",
+  "aliases": ["罗斯巴德货币论的跨学科阅读路径"],
+  "description": "知识库依据全书整理的阅读路径：从自愿交换和商品货币，追踪银行仓单与信用扩张，再进入铸币垄断、法定货币、通胀再分配和国际货币制度，最后考察100%准备金金元提案。此路径是读者整理，不是作者原文中的章节公式。",
+  "source_book_ids": ["book_rothbard_what_has_government_done_to_our_money_chen_he_2008"],
+  "markdown_path": "humanities-kb/06_跨学科知识链/货币—财产权—银行信用—政府权力：罗斯巴德《为什么我们的钱变薄了》.md",
+  "last_updated": "2026-10-20"
+}

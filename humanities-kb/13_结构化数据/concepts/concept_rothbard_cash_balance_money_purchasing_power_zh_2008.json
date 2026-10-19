@@ -1,0 +1,20 @@
+{
+  "id": "concept_rothbard_cash_balance_money_purchasing_power_zh_2008",
+  "type": "concept",
+  "name_zh": "现金余额、货币供给与购买力",
+  "name_en": "cash balances, money supply and purchasing power",
+  "aliases": ["现金需求", "货币价格"],
+  "source_book_id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "source_pages_pdf": "63–73",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "63–73",
+      "chapter": "第1章《自由社会中的货币》",
+      "authors": ["person_murray_rothbard"],
+      "definition": "作者将货币购买力联系到货币供给与持有需求，并把现金余额视为个人在不确定环境中选择持有的购买力储备。"
+    }
+  ],
+  "related_concepts": ["concept_mises_money_value_historical_continuity"],
+  "last_updated": "2026-10-20"
+}

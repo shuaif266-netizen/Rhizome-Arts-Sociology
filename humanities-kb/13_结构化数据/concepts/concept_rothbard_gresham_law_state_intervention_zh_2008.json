@@ -1,0 +1,20 @@
+{
+  "id": "concept_rothbard_gresham_law_state_intervention_zh_2008",
+  "type": "concept",
+  "name_zh": "格雷欣法则与政府货币干预",
+  "name_en": "Gresham's law and government monetary intervention",
+  "aliases": ["固定比价", "法定货币与金银本位"],
+  "source_book_id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "source_pages_pdf": "96–100, 112–118",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "96–100",
+      "chapter": "第2章《插手管钱的政府》",
+      "authors": ["person_murray_rothbard"],
+      "definition": "罗斯巴德把格雷欣法则的适用条件放在政府设定的固定兑换比率和法定支付要求上，认为自由浮动兑换时并不存在同一机制。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_legal_tender_gresham_zh"],
+  "last_updated": "2026-10-20"
+}

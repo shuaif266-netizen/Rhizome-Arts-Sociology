@@ -1,0 +1,58 @@
+{
+  "id": "book_rothbard_what_has_government_done_to_our_money_chen_he_2008",
+  "type": "book",
+  "name_zh": "《为什么我们的钱变薄了：通货膨胀真相》",
+  "name_original": "What Has Government Done to Our Money?",
+  "aliases": ["《为什么我们的钱变薄了》", "What Has Government Done to Our Money?"],
+  "author_id": "person_murray_rothbard",
+  "translator": "陈正芬、何正云",
+  "publisher": "中信出版社",
+  "publication_year": 2008,
+  "edition_and_printing": "2008年10月第1版、第1次印刷；英文版据版权页为Ludwig von Mises Institute 2005年第5版，原作版权列1963、1985、1990",
+  "isbn": "978-7-5086-1282-9",
+  "pdf_page_count": 197,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/探究加密货币、区块链、NFT与当代艺术/参考阅读/【中文】罗斯巴德-为什么为什么我们的钱变薄了  通货膨胀真相 .pdf；5份Word页标连续覆盖项目PDF pp.1–197",
+  "source_note": "整本阅读包括封面、推荐序、第五版序、前言、三章正文、郑润祥章前导读、附录《一个100%准备金的金元案例》、广告页、作者简介与封底。附录序言为罗斯巴德1991年9月署名，论文原刊于1962年论文集。原始PDF与Word留在项目文件夹只读；GitHub仅保存阅读档案与知识库整合材料。",
+  "related_people": ["person_murray_rothbard"],
+  "related_concepts": [
+    "concept_rothbard_money_origin_free_exchange_zh_2008",
+    "concept_rothbard_cash_balance_money_purchasing_power_zh_2008",
+    "concept_rothbard_inflation_redistribution_zh_2008",
+    "concept_rothbard_gresham_law_state_intervention_zh_2008",
+    "concept_rothbard_money_regime_history_zh_2008",
+    "concept_rothbard_fractional_reserve_gold_dollar_zh_2008"
+  ],
+  "related_topics": ["topic_rothbard_money_property_government_inflation_zh_2008"],
+  "sources": [
+    {
+      "location": "中文题名、作者、译者、出版信息与ISBN",
+      "page": "项目PDF pp.1、4–5",
+      "chapter": "封面、题名页、CIP／版权页",
+      "author": "穆瑞·N.·罗斯巴德；陈正芬、何正云译",
+      "book": "《为什么我们的钱变薄了：通货膨胀真相》"
+    },
+    {
+      "location": "正文三章、章前要点页与郑润祥专家导读",
+      "page": "项目PDF pp.48–141",
+      "chapter": "第1–3章",
+      "author": "罗斯巴德；郑润祥撰章前导读",
+      "book": "《为什么我们的钱变薄了：通货膨胀真相》"
+    },
+    {
+      "location": "《一个100%准备金的金元案例》附录序言与论文正文",
+      "page": "项目PDF pp.142–191",
+      "chapter": "附录及罗斯巴德1991年序言",
+      "author": "穆瑞·N.·罗斯巴德",
+      "book": "《为什么我们的钱变薄了：通货膨胀真相》"
+    },
+    {
+      "location": "附表《纸币的溃败：1950—1975年》及来源说明",
+      "page": "项目PDF pp.209–212",
+      "chapter": "附表",
+      "author": "罗斯巴德；表下注明资料源自Franz Pick货币年鉴",
+      "book": "《为什么我们的钱变薄了：通货膨胀真相》"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
