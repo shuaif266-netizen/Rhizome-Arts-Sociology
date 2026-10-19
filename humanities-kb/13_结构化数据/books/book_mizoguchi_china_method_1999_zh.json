@@ -1,0 +1,42 @@
+{
+  "id": "book_mizoguchi_china_method_1999_zh",
+  "type": "book",
+  "name_zh": "做为“方法”的中国",
+  "name_en": "China as Method",
+  "aliases": [
+    "做為「方法」的中國"
+  ],
+  "author_id": "person_mizoguchi_yuzo",
+  "translator": "林右崇",
+  "publication_year": 1999,
+  "publisher": "国立编译馆",
+  "edition": "1999年译本；中文版凡例称据东京大学出版会1990年1月25日第1版第2刷翻译",
+  "isbn": "957-02-3360-5",
+  "page_count_pdf": 288,
+  "reading_status": "completed_entire_local_scan",
+  "source_locator": "书\\[日]_沟口雄三：《做为“方法”的中国》.pdf；8份Word分卷；PDF pp.1–288/288已读完，原件留本地只读",
+  "sources": [
+    {
+      "book": "《做为“方法”的中国》",
+      "author": "沟口雄三；林右崇译",
+      "chapter": "题名页与版权页",
+      "page": "项目PDF pp.3–4",
+      "location": "作者、译者、出版机构、年份与ISBN"
+    },
+    {
+      "book": "《做为“方法”的中国》",
+      "author": "沟口雄三",
+      "chapter": "目录与各章正文",
+      "page": "项目PDF pp.5–263",
+      "location": "十篇论文、后记及正文结构"
+    },
+    {
+      "book": "《做为“方法”的中国》",
+      "author": "沟口雄三",
+      "chapter": "全书与书后材料",
+      "page": "项目PDF pp.1–288",
+      "location": "8份Word内部页标唯一连续覆盖288页；全文及书后材料核读"
+    }
+  ],
+  "last_updated": "2026-10-19"
+}

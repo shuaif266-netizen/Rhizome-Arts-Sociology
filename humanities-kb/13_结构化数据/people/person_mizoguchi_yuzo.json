@@ -10,5 +10,16 @@
   "source_chapter": "题名页作者；序言和后语介绍其研究取径。",
   "source_pages": "PDF pp.2,4–8,16–17,339–342",
   "source_limited_summary": "以中国思想内部的概念变化与社会关系为研究主轴，反对将欧洲近代分期直接普遍化。",
-  "last_updated": "2026-09-27"
+  "last_updated": "2026-10-19",
+  "source_book_ids": [
+    "book_china_premodern_thought_evolution_mizoguchi_1997_zh",
+    "book_mizoguchi_china_method_1999_zh"
+  ],
+  "additional_source_books": [
+    {
+      "book_id": "book_mizoguchi_china_method_1999_zh",
+      "source_pages": "PDF pp.1–288",
+      "source_limited_summary": "十篇论文、后记与附录中，反思欧洲中心分期、中国历史基体、概念转换及研究者位置。"
+    }
+  ]
 }

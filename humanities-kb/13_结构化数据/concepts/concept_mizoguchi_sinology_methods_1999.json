@@ -1,0 +1,19 @@
+{
+  "id": "concept_mizoguchi_sinology_methods_1999",
+  "type": "concept",
+  "name_zh": "津田支那学、日本汉学与法国支那学",
+  "name_en": "",
+  "aliases": [],
+  "source_book_id": "book_mizoguchi_china_method_1999_zh",
+  "source_pages_pdf": "PDF pp.123–150",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "author": "沟口雄三",
+      "view": "作者比较不同学术传统如何界定中国为研究对象或思想资源，并强调将哲学文本放回社会制度与历史语境，也要反观研究者自身的位置。",
+      "source_pages_pdf": "PDF pp.123–150",
+      "source_chapter": "第6、7章"
+    }
+  ],
+  "last_updated": "2026-10-19"
+}
