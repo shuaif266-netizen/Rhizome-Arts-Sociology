@@ -1,0 +1,20 @@
+{
+  "id": "concept_huysmans_artificial_environment_aesthetic_retreat_zh",
+  "type": "concept",
+  "name_zh": "人工环境与审美退隐",
+  "name_en": "artificial environment and aesthetic retreat",
+  "aliases": ["德塞森特的退隐空间", "人工自然"],
+  "source_book_id": "book_huysmans_a_rebours_yu_zh",
+  "source_pages_pdf": "38–57, 68–79, 106–134, 166–175, 207–213",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "38–57, 68–79, 106–134, 166–175, 207–213",
+      "chapter": "《逆流》小说正文",
+      "authors": ["person_joris_karl_huysmans"],
+      "definition": "小说主人公以室内布置、收藏、灯光、植物和香气构筑私人审美环境，试图避开公共生活；身体疾病和医疗干预最终显示此退隐计划有其限度。"
+    }
+  ],
+  "related_concepts": ["concept_huysmans_sensory_synesthesia_aesthetic_design_zh"],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_huysmans_retreat_disease_bodily_limit_zh",
+  "type": "concept",
+  "name_zh": "退隐、疾病与身体限度",
+  "name_en": "withdrawal, illness, and bodily limits",
+  "aliases": ["审美避难所的限度", "德塞森特的身体危机"],
+  "source_book_id": "book_huysmans_a_rebours_yu_zh",
+  "source_pages_pdf": "166–175, 201–213",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "166–175, 201–213",
+      "chapter": "《逆流》第十三章、第十六章",
+      "authors": ["person_joris_karl_huysmans"],
+      "definition": "主人公的神经症、胃病、嗅觉幻觉和身体衰弱逐步侵入其退隐空间；医生要求其离开丰特奈返回巴黎，使小说以被迫重返公共生活而非审美自治的胜利收束。"
+    }
+  ],
+  "related_concepts": ["concept_huysmans_artificial_environment_aesthetic_retreat_zh"],
+  "last_updated": "2026-10-20"
+}

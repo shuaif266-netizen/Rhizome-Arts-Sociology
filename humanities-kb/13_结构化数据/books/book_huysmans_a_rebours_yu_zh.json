@@ -1,0 +1,63 @@
+{
+  "id": "book_huysmans_a_rebours_yu_zh",
+  "type": "book",
+  "name_zh": "《逆流》",
+  "name_original": "À rebours",
+  "aliases": ["A Rebours", "于斯曼《逆流》"],
+  "author_id": "person_joris_karl_huysmans",
+  "translator": "余中先",
+  "publisher": "上海译文出版社",
+  "publication_year": null,
+  "edition_and_printing": "ISBN 978-7-5327-7126-4；项目扫描版权信息页未见出版年月与版次",
+  "isbn": "978-7-5327-7126-4",
+  "pdf_page_count": 226,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/第二季：当作艺术摄影作品解读课件/Mat Collishaw/【中译】于斯曼-逆流 .pdf；12份Word页标连续覆盖项目PDF pp.1–226",
+  "source_note": "中文本含余中先译者序言、于斯曼作者序言、16章小说正文及《逆流》同时代作家评论选录。版权信息未列出版年，保留未知。原始PDF与Word分卷留在项目文件夹只读；GitHub仅保存阅读档案和知识库整合材料。",
+  "related_people": ["person_joris_karl_huysmans"],
+  "related_concepts": [
+    "concept_huysmans_artificial_environment_aesthetic_retreat_zh",
+    "concept_huysmans_sensory_synesthesia_aesthetic_design_zh",
+    "concept_huysmans_decadence_naturalism_novel_form_zh",
+    "concept_huysmans_retreat_disease_bodily_limit_zh"
+  ],
+  "related_topics": ["topic_huysmans_nature_artifice_senses_body_zh"],
+  "sources": [
+    {
+      "location": "中文书名、作者、译者、ISBN和法文版本参校信息",
+      "page": "项目PDF pp.1–4",
+      "chapter": "封面、版权信息、译者版本说明",
+      "author": "若利斯-卡尔·于斯曼；余中先译",
+      "book": "《逆流》"
+    },
+    {
+      "location": "作者生平概述、译名解释、自然主义与颓废美学的译者定位",
+      "page": "项目PDF pp.5–18",
+      "chapter": "余中先《中译本序言》",
+      "author": "余中先",
+      "book": "《逆流》"
+    },
+    {
+      "location": "于斯曼多年后回看《逆流》、自然主义和后续宗教写作",
+      "page": "项目PDF pp.20–35",
+      "chapter": "作者序言《写于小说发表二十年后》及注释",
+      "author": "若利斯-卡尔·于斯曼",
+      "book": "《逆流》"
+    },
+    {
+      "location": "德塞森特的16章生活、审美、艺术、文学、感官与疾病经验",
+      "page": "项目PDF pp.38–213",
+      "chapter": "小说正文",
+      "author": "若利斯-卡尔·于斯曼",
+      "book": "《逆流》"
+    },
+    {
+      "location": "当时作家对《逆流》的赞誉和批评；评论者观点与小说正文分开",
+      "page": "项目PDF pp.214–226",
+      "chapter": "《逆流》在同时代作家中引起的反响和评价",
+      "author": "龚古尔、马拉美、左拉、多尔维利、莫泊桑、巴雷斯、勒迈特、瓦雷里、路易斯、王尔德等",
+      "book": "《逆流》"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

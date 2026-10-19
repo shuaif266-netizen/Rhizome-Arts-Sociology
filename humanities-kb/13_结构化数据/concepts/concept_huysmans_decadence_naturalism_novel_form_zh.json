@@ -1,0 +1,20 @@
+{
+  "id": "concept_huysmans_decadence_naturalism_novel_form_zh",
+  "type": "concept",
+  "name_zh": "颓废美学、自然主义转向与小说结构",
+  "name_en": "decadent aesthetics, departure from naturalism, and novel form",
+  "aliases": ["主题章节式小说", "自然主义之后的小说形式"],
+  "source_book_id": "book_huysmans_a_rebours_yu_zh",
+  "source_pages_pdf": "5–18, 20–35, 38–213",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "5–18, 20–35, 38–213",
+      "chapter": "余中先译者序言、于斯曼作者序言与《逆流》正文",
+      "authors": ["person_joris_karl_huysmans"],
+      "definition": "译者将本书定位为于斯曼远离自然主义小说常规的一次形式转向；16章以主题、感官经验和文化议论组织，弱化连续情节。此处必须区分译者的文学史定位、作者晚年回顾与小说正文。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-20"
+}

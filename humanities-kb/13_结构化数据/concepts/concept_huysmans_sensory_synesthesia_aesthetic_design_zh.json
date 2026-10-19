@@ -1,0 +1,20 @@
+{
+  "id": "concept_huysmans_sensory_synesthesia_aesthetic_design_zh",
+  "type": "concept",
+  "name_zh": "感官综合与审美设计",
+  "name_en": "sensory synthesis and aesthetic design",
+  "aliases": ["感官编排", "香味与音乐的互译"],
+  "source_book_id": "book_huysmans_a_rebours_yu_zh",
+  "source_pages_pdf": "48–57, 74–79, 106–134",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "48–57, 74–79, 106–134",
+      "chapter": "《逆流》小说正文",
+      "authors": ["person_joris_karl_huysmans"],
+      "definition": "小说把颜色、光线、气味、味觉、触觉和音乐互相转换，呈现主人公如何将室内环境设计成一套人工的感官经验。"
+    }
+  ],
+  "related_concepts": ["concept_huysmans_artificial_environment_aesthetic_retreat_zh"],
+  "last_updated": "2026-10-20"
+}

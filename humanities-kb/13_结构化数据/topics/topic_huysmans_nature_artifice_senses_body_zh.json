@@ -1,0 +1,10 @@
+{
+  "id": "topic_huysmans_nature_artifice_senses_body_zh",
+  "type": "topic",
+  "name_zh": "自然、人工、感官与身体",
+  "aliases": ["《逆流》的审美退隐阅读路径", "德塞森特的人工环境"],
+  "description": "根据《逆流》的译者序言、作者序言、16章小说和评论附录整理的跨学科阅读路径：由德塞森特的退隐计划，追踪室内设计、书籍、绘画、气味和音乐如何构成人工感官环境，再观察疾病如何使身体限度重新显现。此路径是知识库整理，不是于斯曼提出的理论纲要。",
+  "source_book_ids": ["book_huysmans_a_rebours_yu_zh"],
+  "markdown_path": "humanities-kb/06_跨学科知识链/自然—人工—感官—身体：于斯曼《逆流》的审美退隐.md",
+  "last_updated": "2026-10-20"
+}

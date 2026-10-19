@@ -1,0 +1,20 @@
+{
+  "id": "person_joris_karl_huysmans",
+  "type": "person",
+  "name": "Joris-Karl Huysmans",
+  "name_zh": "若利斯-卡尔·于斯曼",
+  "aliases": ["于斯曼", "Joris-Karl Huysmans (1848–1907)"],
+  "fields": ["小说", "文学评论", "自然主义与颓废文学"],
+  "related_people": [],
+  "related_books": ["book_huysmans_a_rebours_yu_zh"],
+  "sources": [
+    {
+      "book": "《逆流》",
+      "author": "余中先；若利斯-卡尔·于斯曼",
+      "page": "项目PDF pp.5–7、20–35",
+      "chapter": "中译本序言；作者序言",
+      "location": "作者生平概述、自然主义写作及作者对作品的回顾"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
