@@ -1,0 +1,19 @@
+{
+  "id": "book_zhang_chengzhi_fengtu_yu_shanhe_zh",
+  "type": "book",
+  "name_zh": "《风土与山河：张承志散文集》",
+  "author_id": "person_zhang_chengzhi",
+  "pdf_page_count": 143,
+  "reading_status": "completed",
+  "source_locator": "书/[风土与山河：张承志散文集].pdf；4份Word页标连续覆盖项目PDF pp.1–143",
+  "source_note": "题名、作者与篇目据项目PDF pp.1–7核对。PDF p.143《新编后小记》称本集以《绿风土》《一册山河》为基础并增入新作。出版社、发行年和ISBN未从本地扫描核明。PDF p.92蒙古语拉丁转写有缺框，中文直译可读。",
+  "sources": [
+    {
+      "book": "《风土与山河：张承志散文集》",
+      "author": "张承志",
+      "chapter": "封面、目录与新编后小记",
+      "page": "项目PDF pp.1–7、p.143",
+      "location": "题名、作者、篇目范围及编集说明"
+    }
+  ]
+}
