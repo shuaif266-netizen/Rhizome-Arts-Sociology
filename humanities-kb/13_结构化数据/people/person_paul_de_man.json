@@ -1,0 +1,17 @@
+{
+  "id": "person_paul_de_man",
+  "type": "person",
+  "name_zh": "保罗·德曼",
+  "name_en": "Paul de Man",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《多义的记忆：为保罗·德曼而作》",
+      "author": "雅克·德里达",
+      "chapter": "致读者及下篇",
+      "page": "项目PDF pp.5–7、169–271",
+      "location": "悼念对象、友人及早期文章争论的中心人物；本条仅反映德里达本书的叙述"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "event_de_man_wartime_articles_controversy_1987_1988",
+  "type": "event",
+  "name_zh": "保罗·德曼战时文章争议与1987—1988年学术论战",
+  "date": "1987–1988",
+  "aliases": ["德曼事件", "战时文章争议"],
+  "sources": [
+    {
+      "book": "《多义的记忆：为保罗·德曼而作》",
+      "author": "雅克·德里达",
+      "chapter": "下篇《犹如贝壳深处的海涛声——保罗·德曼之战》及书后注释",
+      "page": "项目PDF pp.169–271",
+      "location": "档案来源说明、1941年文章分析、公开讨论及媒体论争"
+    }
+  ],
+  "source_limited": true,
+  "last_updated": "2026-10-20"
+}

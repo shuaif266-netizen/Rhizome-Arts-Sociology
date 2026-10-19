@@ -1,0 +1,18 @@
+{
+  "id": "concept_derrida_history_rupture_non_totalization",
+  "type": "concept",
+  "name_zh": "历史断裂、继承与非总体化阅读（德里达）",
+  "name_en": "historical rupture, inheritance, and non-totalizing reading",
+  "aliases": [],
+  "source_book_id": "book_derrida_memoirs_for_paul_de_man_zh_1999",
+  "source_pages_pdf": "169–271",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "169–271",
+      "view": "德里达要求同时正视德曼早期文章的政治伤害及其后期作品中的变化，反对用早期文本总体化其一生，也反对以决裂抹去历史责任；应保留材料边界、语境差异和持续解释的必要。此为论争性主张，不构成独立历史裁决。",
+      "author": "雅克·德里达"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

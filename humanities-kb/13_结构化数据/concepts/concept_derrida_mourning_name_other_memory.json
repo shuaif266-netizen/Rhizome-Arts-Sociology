@@ -1,0 +1,18 @@
+{
+  "id": "concept_derrida_mourning_name_other_memory",
+  "type": "concept",
+  "name_zh": "悼念、专名与他者不可内化（德里达）",
+  "name_en": "mourning, proper names, and the other's irreducibility",
+  "aliases": [],
+  "source_book_id": "book_derrida_memoirs_for_paul_de_man_zh_1999",
+  "source_pages_pdf": "11–63",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "11–63",
+      "view": "悼念让生者继续称呼和记忆死者，但不能把他者完整占有为自身记忆；名字在所指者缺席后继续流通，既保存痕迹，也显示记忆无法还原为原初在场。",
+      "author": "雅克·德里达"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

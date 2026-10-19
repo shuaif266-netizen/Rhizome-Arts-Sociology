@@ -1,0 +1,18 @@
+{
+  "id": "concept_derrida_memory_inscription",
+  "type": "concept",
+  "name_zh": "外在铭刻与记忆艺术（德里达）",
+  "name_en": "external inscription and the art of memory",
+  "aliases": ["铭刻与记忆", "记忆技术"],
+  "source_book_id": "book_derrida_memoirs_for_paul_de_man_zh_1999",
+  "source_pages_pdf": "64–106",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "64–106",
+      "view": "书写、记录、重复与签名并非内在记忆完成后才附加的中性工具，而参与记忆如何形成、保存和传递；机械记忆与内在回忆不能被简单分成互不相干的两端。",
+      "author": "雅克·德里达（对黑格尔及德曼文本的阅读）"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

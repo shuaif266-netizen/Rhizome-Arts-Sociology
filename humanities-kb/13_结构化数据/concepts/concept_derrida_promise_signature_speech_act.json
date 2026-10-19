@@ -1,0 +1,18 @@
+{
+  "id": "concept_derrida_promise_signature_speech_act",
+  "type": "concept",
+  "name_zh": "许诺、签名与言语行为（德里达）",
+  "name_en": "promise, signature, and speech act",
+  "aliases": [],
+  "source_book_id": "book_derrida_memoirs_for_paul_de_man_zh_1999",
+  "source_pages_pdf": "107–166",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "107–166",
+      "view": "许诺面向未来，却不能预先保证兑现；它仍使言说与关系进入责任结构。签名和可重复语言既支持承诺的传递，也使意义无法被原初意图完全控制。",
+      "author": "雅克·德里达"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
