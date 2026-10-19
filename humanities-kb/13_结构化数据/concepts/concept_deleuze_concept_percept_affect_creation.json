@@ -1,0 +1,18 @@
+{
+  "id": "concept_deleuze_concept_percept_affect_creation",
+  "type": "concept",
+  "name_zh": "概念、感知与情感：哲学创造的三种维度（德勒兹）",
+  "name_en": "concept, percept, affect, and philosophical creation",
+  "aliases": ["哲学创造概念", "概念—感知—情感"],
+  "source_book_id": "book_deleuze_pourparlers_zh_2000",
+  "source_pages_pdf": "161–184",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "161–184",
+      "view": "哲学创造概念，艺术创造可感集合，科学创造功能；概念、感知和情感相互牵连，却不能互相替代。哲学既需要概念理解，也需要由感知和情感进入的非哲学理解。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

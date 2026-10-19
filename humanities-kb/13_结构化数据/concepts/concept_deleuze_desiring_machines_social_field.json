@@ -1,0 +1,18 @@
+{
+  "id": "concept_deleuze_desiring_machines_social_field",
+  "type": "concept",
+  "name_zh": "欲望机器与社会场（德勒兹／加塔里）",
+  "name_en": "desiring-machines and the social field",
+  "aliases": ["欲望机器", "分裂分析"],
+  "source_book_id": "book_deleuze_pourparlers_zh_2000",
+  "source_pages_pdf": "22–35",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "22–35",
+      "view": "欲望被理解为生产性的机器联结，并在社会场、政治经济与制度中投资；精神分析将欲望简化为家庭剧和俄狄浦斯结构，是两位作者批评的对象。访谈同时区分精神分裂过程与临床患者。",
+      "author": "吉尔·德勒兹与费利克斯·加塔里"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "concept_deleuze_minority_becoming_political_creation",
+  "type": "concept",
+  "name_zh": "少数者生成、事件与政治创造（德勒兹）",
+  "name_en": "minoritarian becoming, event, and political creation",
+  "aliases": ["少数者生成", "革命生成"],
+  "source_book_id": "book_deleuze_pourparlers_zh_2000",
+  "source_pages_pdf": "200–208",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "200–208",
+      "view": "生成指向尚未固定的事件和创造过程；少数并非数量意义上的少数，而是偏离多数既定类型的过程。它不自动保证解放，须分析其被捕获、组织和转化的条件。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "concept_deleuze_control_society_modulation",
+  "type": "concept",
+  "name_zh": "控制的社会与持续调制（德勒兹）",
+  "name_en": "societies of control and continuous modulation",
+  "aliases": ["控制社会", "持续调制"],
+  "source_book_id": "book_deleuze_pourparlers_zh_2000",
+  "source_pages_pdf": "200–215",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "200–215",
+      "view": "德勒兹区分依靠封闭机构的惩戒社会与通过持续调制、信息和代码运作的控制社会，并讨论企业、培训、测评和电子身份识别等趋势。该文写于1990年前后，应用于当代时需另补经验材料。",
+      "author": "吉尔·德勒兹"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

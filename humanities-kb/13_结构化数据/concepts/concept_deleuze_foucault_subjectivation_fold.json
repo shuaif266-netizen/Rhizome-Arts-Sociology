@@ -1,0 +1,18 @@
+{
+  "id": "concept_deleuze_foucault_subjectivation_fold",
+  "type": "concept",
+  "name_zh": "知识、权力与主观化（德勒兹读福柯）",
+  "name_en": "knowledge, power, and subjectivation in Deleuze's reading of Foucault",
+  "aliases": ["力量的褶皱", "生命风格"],
+  "source_book_id": "book_deleuze_pourparlers_zh_2000",
+  "source_pages_pdf": "104–141",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "104–141",
+      "view": "德勒兹将福柯的工作概括为知识、权力和主观化三个维度：知识组织可见与可说形式，权力是力量关系，主观化是力量作用于自身并创造历史性生存方式的过程。此为德勒兹的解释，不替代福柯原著。",
+      "author": "吉尔·德勒兹（对福柯的阅读）"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

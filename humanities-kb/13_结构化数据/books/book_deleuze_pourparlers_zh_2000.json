@@ -1,0 +1,27 @@
+{
+  "id": "book_deleuze_pourparlers_zh_2000",
+  "type": "book",
+  "name_zh": "《哲学与权力的谈判：德勒兹访谈录》",
+  "title_fr": "Pourparlers",
+  "author_id": "person_gilles_deleuze",
+  "translator": "刘汉全",
+  "publisher": "商务印书馆",
+  "publication_date": "2000-07",
+  "edition": "第1版第1次印刷",
+  "isbn": "7-100-03032-3",
+  "original_publication": "Les Éditions de Minuit, 1990",
+  "pdf_page_count": 221,
+  "printed_page_count": 214,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/德勒兹与摄影哲学参考阅读与讲义/参考阅读/【中译】哲学与权力的谈判：德勒兹访谈录.pdf；6份Word页标唯一连续覆盖项目PDF pp.1–221",
+  "source_note": "题名页、CIP与版权页据PDF pp.2–4核验；目录pp.6–7。全书收录16项访谈、信件和短文，另附《后记：关于控制的社会》、德勒兹作品书目及汉法人名对照表。PDF p.221印至书内p.214。原PDF与Word为本地只读来源，未上传。",
+  "sources": [
+    {
+      "book": "《哲学与权力的谈判：德勒兹访谈录》",
+      "author": "吉尔·德勒兹；译者刘汉全",
+      "chapter": "题名页、CIP、版权页及法文原版说明",
+      "page": "项目PDF pp.2–4",
+      "location": "作者、译者、商务印书馆、版次、印次、ISBN及原版信息"
+    }
+  ]
+}
