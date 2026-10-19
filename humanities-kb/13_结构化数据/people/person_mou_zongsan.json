@@ -1,0 +1,9 @@
+{
+  "id": "person_mou_zongsan",
+  "type": "person",
+  "name_zh": "牟宗三",
+  "name_en": "Mou Zongsan",
+  "fields": ["chinese_philosophy", "confucianism", "comparative_philosophy", "ethics", "metaphysics"],
+  "source": "《原始的范畴》第二部份《周易》大义（一）扫描说明署牟宗三讲；本项目尚未以其他来源补充其生平信息。",
+  "related_books": ["book_mou_zongsan_zhouyi_dayi_lecture_zh_1980"]
+}

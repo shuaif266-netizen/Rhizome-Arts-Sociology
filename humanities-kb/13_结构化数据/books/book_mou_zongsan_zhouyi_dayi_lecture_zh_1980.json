@@ -1,0 +1,38 @@
+{
+  "id": "book_mou_zongsan_zhouyi_dayi_lecture_zh_1980",
+  "type": "book",
+  "name": "《原始的范畴》第二部份《周易》大义（一）",
+  "name_zh": "《原始的范畴》第二部份《周易》大义（一）",
+  "aliases": ["《周易》大义", "《周易》大义（一）"],
+  "lecturers": ["person_mou_zongsan"],
+  "compiler": "卢雪昆",
+  "reviewer": "杨祖汉",
+  "fields": ["chinese_philosophy", "confucianism", "comparative_philosophy", "ethics", "metaphysics"],
+  "lecture_period": "1980–1981（据扫描说明）",
+  "source_pdf": "书\\《周易》大义（牟宗三）.pdf",
+  "source_pdf_pages": "22; 本地扫描件完整核读。讲录标题显示其属于更大篇章的一部分；页图印刷页码有回跳，以项目PDF页码定位。",
+  "word_chunks": 1,
+  "related_concepts": [
+    "concept_mou_zongsan_tao_body_creative_reality_zh",
+    "concept_mou_zongsan_moral_creativity_zh"
+  ],
+  "related_topics": ["topic_mou_zongsan_tao_body_moral_practice_zhouyi_zh"],
+  "sources": [
+    {
+      "book": "《原始的范畴》第二部份《周易》大义（一）",
+      "author": "牟宗三讲；卢雪昆整理；杨祖汉校订",
+      "chapter": "题名与讲录说明",
+      "page": "项目PDF p.1",
+      "location": "讲者、篇名及课程来源说明"
+    },
+    {
+      "book": "《原始的范畴》第二部份《周易》大义（一）",
+      "author": "牟宗三讲",
+      "chapter": "第一讲及末段论述",
+      "page": "项目PDF pp.17–22",
+      "location": "创造性、道体、生生、实践理性与诚"
+    }
+  ],
+  "reading_status": "completed_entire_local_scan",
+  "last_updated": "2026-10-19"
+}
