@@ -1,0 +1,25 @@
+{
+  "id": "book_perry_anderson_contemporary_western_marxism_1989_zh",
+  "type": "book",
+  "name_zh": "《当代西方马克思主义》",
+  "name_en": "In the Tracks of Historical Materialism",
+  "author_id": "person_perry_anderson",
+  "translator": "余文烈",
+  "publication_year": "1989",
+  "publisher": "东方出版社",
+  "edition": "1989年10月第1版、第1次印刷",
+  "isbn": "7-5060-0090-3/G.4",
+  "pdf_page_count": 160,
+  "reading_status": "completed",
+  "source_locator": "书/佩里·安德森：当代西方马克思主义.pdf；8份Word页标唯一连续覆盖项目PDF pp.1–160",
+  "source_note": "题名页、版权页据PDF pp.2–3图像核验。项目PDF pp.1–8为前置材料，正文和后记至PDF p.158/书内p.150；PDF pp.159–160为平台附加元数据。文件名“(1)”副本及两套8份Word与未编号版本SHA-256相同。",
+  "sources": [
+    {
+      "book": "《当代西方马克思主义》",
+      "author": "佩里·安德森；译者余文烈",
+      "chapter": "题名页、版权页、目录",
+      "page": "项目PDF pp.2–3、p.8",
+      "location": "作者、译者、出版社、版次、ISBN、原作题名及篇章结构"
+    }
+  ]
+}
