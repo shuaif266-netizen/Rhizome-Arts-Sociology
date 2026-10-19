@@ -1,0 +1,20 @@
+{
+  "id": "concept_foucault_statement_scarcity_discursive_formation_1998_zh",
+  "type": "concept",
+  "name_zh": "陈述的稀有性与话语形成",
+  "name_en": "statement, scarcity, and discursive formation",
+  "aliases": ["陈述分析", "档案与话语形成"],
+  "source_book_id": "book_foucault_anthology_1998_zh",
+  "source_pages_pdf": "155–170",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "155–170",
+      "chapter": "《知识考古学》引言",
+      "authors": ["person_michel_foucault"],
+      "definition": "陈述不是句子或命题的同义词，而是在具体话语形成中出现并占据关系位置的历史功能。考古学描述陈述形成及其规则，不把言说还原成隐藏意义或连续进步史。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-20"
+}

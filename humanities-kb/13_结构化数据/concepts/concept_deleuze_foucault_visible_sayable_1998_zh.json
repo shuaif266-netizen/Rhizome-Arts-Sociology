@@ -1,0 +1,20 @@
+{
+  "id": "concept_deleuze_foucault_visible_sayable_1998_zh",
+  "type": "concept",
+  "name_zh": "可见物与可陈述物的异质关系",
+  "name_en": "the heterogeneous relation of the visible and the sayable",
+  "aliases": ["可见性与陈述", "沉淀与历史形成"],
+  "source_book_id": "book_foucault_anthology_1998_zh",
+  "source_pages_pdf": "569–605",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "569–605",
+      "chapter": "德勒兹附录：《一位新型档案员》《沉淀，或历史的形成》",
+      "authors": ["person_gilles_deleuze"],
+      "definition": "德勒兹将可见物与可陈述物解释为历史知识形成中的两种异质形式。二者不能相互还原，却在具体制度、实践和媒介中交错；这是德勒兹对福柯的阐释，不是福柯原文的替代定义。"
+    }
+  ],
+  "related_concepts": ["concept_foucault_statement_scarcity_discursive_formation_1998_zh"],
+  "last_updated": "2026-10-20"
+}

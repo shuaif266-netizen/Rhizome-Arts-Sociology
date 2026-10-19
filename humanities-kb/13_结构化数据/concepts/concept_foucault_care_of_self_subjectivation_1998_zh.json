@@ -1,0 +1,20 @@
+{
+  "id": "concept_foucault_care_of_self_subjectivation_1998_zh",
+  "type": "concept",
+  "name_zh": "关注自我与主体化",
+  "name_en": "care of the self and subjectivation",
+  "aliases": ["自我实践", "自我技术与伦理风格"],
+  "source_book_id": "book_foucault_anthology_1998_zh",
+  "source_pages_pdf": "496–508, 539–552",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "496–508, 539–552",
+      "chapter": "《主体解释学》《道德的复归》",
+      "authors": ["person_michel_foucault"],
+      "definition": "古代关注自我由长期伦理实践构成，包括聆听、书写、记忆和自我训练；主体化指主体在历史实践中形成的过程，而非固定主体重新发现内在本质。"
+    }
+  ],
+  "related_concepts": ["concept_foucault_power_discipline_biopolitics_1998_zh"],
+  "last_updated": "2026-10-20"
+}

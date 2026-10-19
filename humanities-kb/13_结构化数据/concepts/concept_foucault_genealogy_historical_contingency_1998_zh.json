@@ -1,0 +1,20 @@
+{
+  "id": "concept_foucault_genealogy_historical_contingency_1998_zh",
+  "type": "concept",
+  "name_zh": "谱系学与历史偶然性",
+  "name_en": "genealogy and historical contingency",
+  "aliases": ["谱系学历史分析", "来源、出现与历史断裂"],
+  "source_book_id": "book_foucault_anthology_1998_zh",
+  "source_pages_pdf": "171–190",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "171–190",
+      "chapter": "《尼采、谱系学、历史》",
+      "authors": ["person_michel_foucault"],
+      "definition": "谱系学追踪价值、实践和概念在具体历史关系、偶然事件、冲突和身体经验中如何出现，不以寻找脱离历史的纯粹起源为目标。"
+    }
+  ],
+  "related_concepts": ["concept_foucault_statement_scarcity_discursive_formation_1998_zh"],
+  "last_updated": "2026-10-20"
+}

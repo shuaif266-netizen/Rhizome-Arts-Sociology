@@ -1,0 +1,57 @@
+{
+  "id": "book_foucault_anthology_1998_zh",
+  "type": "book",
+  "name_zh": "《福柯集》",
+  "name_original": "Selected writings from Dits et Écrits",
+  "aliases": ["杜小真编《福柯集》", "Michel Foucault selected writings, 1998 Chinese edition"],
+  "editor": "杜小真",
+  "publisher": "上海远东出版社",
+  "publication_year": 1998,
+  "edition_and_printing": "1998年12月第1版、第1次印刷",
+  "isbn": "7-80613-801-3 / C·33",
+  "pdf_page_count": 606,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/什么是批判-参考读物/福柯集.pdf；16份主书Word页标连续覆盖项目PDF pp.1–606",
+  "source_note": "杜小真编选；版权页注明原文来源Dits et Écrits (Gallimard, 1994)，编选前言称大部分选篇译自该版。正文含访谈、文章和著作节选；附录收德勒兹论福柯两篇文章。编者材料、对谈者观点及德勒兹阐释分层记录。PDF p.606为封底图像。原PDF与Word分卷留在本地只读，GitHub只保存阅读档案与知识库整合材料。",
+  "related_people": ["person_michel_foucault", "person_gilles_deleuze"],
+  "related_concepts": [
+    "concept_foucault_statement_scarcity_discursive_formation_1998_zh",
+    "concept_foucault_genealogy_historical_contingency_1998_zh",
+    "concept_foucault_power_discipline_biopolitics_1998_zh",
+    "concept_foucault_care_of_self_subjectivation_1998_zh",
+    "concept_foucault_enlightenment_modernity_1984_zh",
+    "concept_deleuze_foucault_visible_sayable_1998_zh"
+  ],
+  "related_topics": ["topic_foucault_archive_visibility_power_subjectivation_zh"],
+  "sources": [
+    {
+      "location": "版次、编选者、ISBN与版权来源",
+      "page": "项目PDF pp.1–7",
+      "chapter": "封面、版权与印制页、编选前言",
+      "author": "杜小真编；米歇尔·福柯主要选文",
+      "book": "《福柯集》"
+    },
+    {
+      "location": "篇目、印刷页码和篇章边界",
+      "page": "项目PDF pp.22–24",
+      "chapter": "目录",
+      "author": "编选材料",
+      "book": "《福柯集》"
+    },
+    {
+      "location": "福柯文章、访谈与著作节选",
+      "page": "项目PDF pp.26–568",
+      "chapter": "正文所收各篇；目录与单篇页码见整本阅读档案",
+      "author": "米歇尔·福柯及各篇访谈参与者",
+      "book": "《福柯集》"
+    },
+    {
+      "location": "德勒兹对福柯的两篇阐释；不作为福柯自述",
+      "page": "项目PDF pp.569–605",
+      "chapter": "附录：《一位新型档案员》；《沉淀，或历史的形成》",
+      "author": "吉尔·德勒兹",
+      "book": "《福柯集》"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

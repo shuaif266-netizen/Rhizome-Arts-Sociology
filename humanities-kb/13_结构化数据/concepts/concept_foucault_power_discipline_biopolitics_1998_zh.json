@@ -1,0 +1,20 @@
+{
+  "id": "concept_foucault_power_discipline_biopolitics_1998_zh",
+  "type": "concept",
+  "name_zh": "权力关系、规训与生命政治",
+  "name_en": "power relations, discipline, and biopolitics",
+  "aliases": ["权力／知识关系", "治理生命的权力"],
+  "source_book_id": "book_foucault_anthology_1998_zh",
+  "source_pages_pdf": "229–238, 314–414, 420–472",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "229–238, 314–414, 420–472",
+      "chapter": "《知识分子与权力》《求知之志》《囚禁、精神病学、监狱》《米歇尔·福柯访谈录》",
+      "authors": ["person_michel_foucault"],
+      "definition": "权力在具体关系和制度实践中运作，既限制也生产知识、分类和主体位置。生命政治分析个体身体规训与人口调节等治理机制；权力与知识相互关联，但不是同一概念。"
+    }
+  ],
+  "related_concepts": [],
+  "last_updated": "2026-10-20"
+}

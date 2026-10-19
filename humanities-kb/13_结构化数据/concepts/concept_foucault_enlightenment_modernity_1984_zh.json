@@ -1,0 +1,20 @@
+{
+  "id": "concept_foucault_enlightenment_modernity_1984_zh",
+  "type": "concept",
+  "name_zh": "启蒙、现代性态度与历史本体论",
+  "name_en": "Enlightenment, modernity as ethos, and historical ontology",
+  "aliases": ["历史批判的现代性态度", "对自身界限的批判"],
+  "source_book_id": "book_foucault_anthology_1998_zh",
+  "source_pages_pdf": "553–568",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "553–568",
+      "chapter": "《何为启蒙》",
+      "authors": ["person_michel_foucault"],
+      "definition": "福柯把现代性理解为与当下建立关系的批判态度，并以考古学和谱系学检验主体与制度受到历史规定的界限及其可改变之处。"
+    }
+  ],
+  "related_concepts": ["concept_foucault_genealogy_historical_contingency_1998_zh"],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "topic_foucault_archive_visibility_power_subjectivation_zh",
+  "type": "topic",
+  "name_zh": "档案、可见性、权力关系与主体化",
+  "aliases": ["福柯集跨学科阅读路径", "知识形成与艺术观看"],
+  "description": "依据《福柯集》各篇和德勒兹附录整理的跨学科阅读路线：由档案和话语形成，转向图像／文字的可见与可说、制度权力、主体化实践及对当下的批判。此路线是知识库整理，不是作者提出的统一线性体系。",
+  "source_book_ids": ["book_foucault_anthology_1998_zh"],
+  "markdown_path": "humanities-kb/06_跨学科知识链/档案—可见性—权力关系—主体化：福柯集的跨学科阅读.md",
+  "last_updated": "2026-10-20"
+}
