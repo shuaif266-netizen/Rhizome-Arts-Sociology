@@ -1,0 +1,11 @@
+{
+  "id": "person_chen_yuan",
+  "type": "person",
+  "name_zh": "陈垣",
+  "name_en": "Chen Yuan",
+  "aliases": ["陈援庵", "援庵"],
+  "life_dates": "1880–1971",
+  "fields": ["chinese_history", "historiography", "philology", "religious_history", "archival_studies"],
+  "source": "《中国现代学术经典·陈垣卷》题名页署作者；生卒与学术经历据编者年表，项目PDF pp.993–999。年表为编者材料，不作陈垣自述。",
+  "related_books": ["book_chen_yuan_modern_academic_classics_zh_1996"]
+}

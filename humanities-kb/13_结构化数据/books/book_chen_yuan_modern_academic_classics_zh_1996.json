@@ -1,0 +1,39 @@
+{
+  "id": "book_chen_yuan_modern_academic_classics_zh_1996",
+  "type": "book",
+  "name": "中国现代学术经典·陈垣卷",
+  "name_zh": "中国现代学术经典·陈垣卷",
+  "aliases": ["陈垣卷"],
+  "publication_year": "1996",
+  "edition": "河北教育出版社，1996年8月第1版、第1次印刷",
+  "authors": ["person_chen_yuan"],
+  "fields": ["chinese_history", "historiography", "philology", "religious_history", "archival_studies"],
+  "source_pdf": "书\\中国现代学术经典-陈垣卷.pdf",
+  "source_pdf_pages": "1009 (book contents and bibliography through PDF p.1007; electronic metadata pp.1008–1009)",
+  "word_chunks": 26,
+  "related_concepts": [
+    "concept_chen_yuan_taboo_variants_zh",
+    "concept_chen_yuan_source_layers_zh",
+    "concept_chen_yuan_archival_methods_zh",
+    "concept_chen_yuan_calendar_crosswalk_zh",
+    "concept_chen_yuan_ethnicity_religion_cultural_practice_zh"
+  ],
+  "related_topics": ["topic_chen_yuan_sources_to_history_and_art_archives_zh"],
+  "sources": [
+    {
+      "book": "《中国现代学术经典·陈垣卷》",
+      "author": "陈垣；丛书主编刘梦溪；卷编校者刘乃和",
+      "chapter": "题名页与版权页",
+      "page": "PDF pp.1–3",
+      "location": "题名、责任者、出版社、版次、ISBN"
+    },
+    {
+      "book": "《中国现代学术经典·陈垣卷》",
+      "author": "编者",
+      "chapter": "电子书附加信息",
+      "page": "PDF pp.1008–1009",
+      "location": "页数字段与栏目占位页；不计入著述正文"
+    }
+  ],
+  "last_updated": "2026-10-19"
+}

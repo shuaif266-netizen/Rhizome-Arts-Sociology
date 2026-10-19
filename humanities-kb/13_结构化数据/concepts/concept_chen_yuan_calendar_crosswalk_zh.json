@@ -1,0 +1,9 @@
+{
+  "id": "concept_chen_yuan_calendar_crosswalk_zh",
+  "type": "concept",
+  "name_zh": "中西回史日历互校",
+  "source_book_id": "book_chen_yuan_modern_academic_classics_zh_1996",
+  "source_pages": "项目PDF pp.928–933",
+  "source_note": "陈垣以中历朔闰、西历历法和回历月首制作对照表，指出仅按年份换算会在历法交接处造成日期错位。转换工具不能替代对原始纪年方式的辨析。",
+  "markdown": "../../04_核心概念/中西回史日历互校：历法转换与历史日期（陈垣）.md"
+}
