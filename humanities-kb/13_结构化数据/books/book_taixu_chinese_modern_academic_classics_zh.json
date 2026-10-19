@@ -1,0 +1,40 @@
+{
+  "id": "book_taixu_chinese_modern_academic_classics_zh",
+  "type": "book",
+  "name_zh": "中国现代学术经典·太虚卷",
+  "author_id": "person_taixu",
+  "series_editor": "刘梦溪",
+  "volume_editors": ["楼宇烈", "周学农"],
+  "publisher": "河北教育出版社",
+  "isbn": "7-5434-2850-4",
+  "pdf_page_count": 790,
+  "word_volume_count": 20,
+  "reading_status": "completed_entire_scan",
+  "local_source_status": "read_only_verified",
+  "source_locator": "书/中国现代学术经典·太虚卷.pdf；20份Word分卷页标连续覆盖项目PDF pp.1–790；原件只读留在本地，不上传。",
+  "edition_note": "题名页与封底确认题名、卷编校者、出版社和ISBN；版次与出版年未从本地页核实，不据同系列其他卷推定。",
+  "source_note": "本卷含丛书总序、编例、小传、太虚多篇论说、讲录记录、年表与著述要目。宗体论在卷内只存第一章；各独立文章依页下注记和卷末书目分别归属。OCR Word均注明以原页图为准。",
+  "sources": [
+    {
+      "book": "《中国现代学术经典·太虚卷》",
+      "author": "题名页与编校署名",
+      "chapter": "封底、题名页",
+      "page": "项目PDF pp.2–4",
+      "location": "ISBN、主编、卷编校者与出版社"
+    },
+    {
+      "book": "《中国现代学术经典·太虚卷》",
+      "author": "编者说明",
+      "chapter": "《真现实论》编者说明",
+      "page": "项目PDF p.93",
+      "location": "宗依论、宗体论、宗用论的文本来源与选编范围"
+    },
+    {
+      "book": "《中国现代学术经典·太虚卷》",
+      "author": "知识库阅读审计",
+      "chapter": "全卷",
+      "page": "项目PDF pp.1–790",
+      "location": "20份Word共790个唯一连续页标；卷末p.790视觉核验"
+    }
+  ]
+}
