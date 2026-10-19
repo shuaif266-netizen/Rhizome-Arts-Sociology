@@ -1,0 +1,19 @@
+{
+  "id": "book_fengming_selected_fiction_127p_zh",
+  "type": "book",
+  "name_zh": "《废名文集》（项目选编扫描本）",
+  "author_id": "person_feng_wenbing_feiming",
+  "pdf_page_count": 127,
+  "reading_status": "completed",
+  "source_locator": "书/废名文集.pdf；7份Word页标唯一连续覆盖项目PDF pp.1–127",
+  "source_note": "PDF p.1为目录，p.127《编后记》称此册为冯文炳（废名）的小说选集，说明所收篇目来自早期集子、期刊及《桥》《莫须有先生传》等。故此记录仅覆盖本地127页选编扫描，不代表废名全部作品。扫描未见可确认的出版社、出版年、ISBN或版权页。",
+  "sources": [
+    {
+      "book": "《废名文集》（项目选编扫描本）",
+      "author": "冯思纯（编者）",
+      "chapter": "目录与编后记",
+      "page": "项目PDF p.1、p.127",
+      "location": "篇目及选编范围说明"
+    }
+  ]
+}
