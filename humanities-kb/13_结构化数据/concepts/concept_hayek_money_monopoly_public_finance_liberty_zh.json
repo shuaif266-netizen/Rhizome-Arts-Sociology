@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_money_monopoly_public_finance_liberty_zh",
+  "type": "concept",
+  "name_zh": "货币垄断、公共财政与政治自由",
+  "name_en": "money monopoly, public finance and political liberty",
+  "aliases": ["货币发行权与政府权力", "货币非国家化的政治论证"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "44–55, 152–163, 172–184, 185–199, 200–206, 222–243",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "178–184, 191–199, 200–206",
+      "chapter": "正文第21、23–25章",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "哈耶克将货币发行垄断与政府财政融资、赤字、利益集团和跨境控制联系起来，并主张货币竞争可约束公共权力；这是书中明确的政治经济学立场。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_legal_tender_gresham_zh", "concept_hayek_competitive_private_currencies_zh"],
+  "last_updated": "2026-10-20"
+}

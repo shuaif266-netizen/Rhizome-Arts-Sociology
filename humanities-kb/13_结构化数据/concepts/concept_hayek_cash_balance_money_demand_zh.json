@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_cash_balance_money_demand_zh",
+  "type": "concept",
+  "name_zh": "现金余额、持有需求与货币总量边界",
+  "name_en": "cash balances, demand to hold money and limits of monetary aggregates",
+  "aliases": ["现金余额法", "多元通货的需求"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "81–87, 88–98, 115–127, 128–134",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "115–120, 128–134",
+      "chapter": "正文第14–15章",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "哈耶克以现金余额分析货币持有需求，反对在多种不可完全互换的通货中假设一个可直接加总、能独立解释价格的货币总量。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_stable_purchasing_power_accounting_unit_zh"],
+  "last_updated": "2026-10-20"
+}

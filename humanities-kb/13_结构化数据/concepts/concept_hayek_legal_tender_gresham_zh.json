@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_legal_tender_gresham_zh",
+  "type": "concept",
+  "name_zh": "法币、合同清偿与格雷欣法则",
+  "name_en": "legal tender, contractual discharge and Gresham's law",
+  "aliases": ["法定货币", "固定兑换率与劣币驱逐良币"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "56–68, 229–231",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "56–65, 229–231",
+      "chapter": "正文第05–06章；附文《货币的选择：终结通货膨胀之道》",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "哈耶克把法币主要解释为对特定债务清偿方式的法律规则，并认为格雷欣法则的典型作用条件是法律强制不同货币按固定比率互换；该解释须连同其法律与历史论据阅读。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_competitive_private_currencies_zh"],
+  "last_updated": "2026-10-20"
+}

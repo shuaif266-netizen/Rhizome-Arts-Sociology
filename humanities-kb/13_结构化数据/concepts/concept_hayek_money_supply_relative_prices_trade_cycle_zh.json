@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_money_supply_relative_prices_trade_cycle_zh",
+  "type": "concept",
+  "name_zh": "货币供给、相对价格与商业周期",
+  "name_en": "money supply, relative prices and trade cycle",
+  "aliases": ["价格信号", "投资配置与货币扰动"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "73–80, 88–98, 103–120, 128–134, 144–163, 222–228",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "103–120, 128–134, 144–163",
+      "chapter": "正文第13–18章",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "哈耶克认为，货币变化会以不同顺序影响价格与信贷，扰乱相对价格和经济计算，并可能使生产及投资流向依赖继续扩张才能维持的方向；这是本书的因果论证。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_cash_balance_money_demand_zh", "concept_hayek_stable_purchasing_power_accounting_unit_zh"],
+  "last_updated": "2026-10-20"
+}

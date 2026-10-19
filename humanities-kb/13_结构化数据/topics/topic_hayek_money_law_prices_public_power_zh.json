@@ -1,0 +1,10 @@
+{
+  "id": "topic_hayek_money_law_prices_public_power_zh",
+  "type": "topic",
+  "name_zh": "货币、法律、价格信号与公共权力",
+  "aliases": ["哈耶克货币非国家化的跨学科阅读路径"],
+  "description": "知识库依据《货币的非国家化》整理的阅读路径：从法币与合同清偿，转向竞争性货币和发行者信誉，再看货币持有需求、价格信号、银行信用与经济计算，最后追问货币发行权和公共财政的政治后果。此路径是知识库整理，不是哈耶克原文提出的章节公式。",
+  "source_book_ids": ["book_hayek_denationalisation_money_yao_zhongqiu_2019"],
+  "markdown_path": "humanities-kb/06_跨学科知识链/法律—货币—价格—财政—自由：哈耶克《货币的非国家化》.md",
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_issuer_competition_bank_discipline_zh",
+  "type": "concept",
+  "name_zh": "发行者竞争、银行信用与市场纪律",
+  "name_en": "issuer competition, bank credit and market discipline",
+  "aliases": ["竞争性发钞", "寄生性通货", "发行者信誉"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "69–80, 88–98, 135–143, 152–163, 185–190, 244–259",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "88–98, 135–143, 185–190",
+      "chapter": "正文第11、16、22章",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "在哈耶克设想中，发钞银行通过发行量、短期贷款和兑换操作维持其货币价值；商业银行存款、二级发行及最后贷款人机制会影响发行责任如何分配。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_competitive_private_currencies_zh"],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_competitive_private_currencies_zh",
+  "type": "concept",
+  "name_zh": "竞争性私人货币与货币非国家化",
+  "name_en": "competitive private currencies and denationalisation of money",
+  "aliases": ["独立名称货币竞争", "货币的非国家化"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "35–43, 69–80, 135–143, 164–171, 201–206, 222–243, 244–259",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "35–43, 69–80, 135–143, 164–171, 201–206",
+      "chapter": "正文第01–09、16、19、25章",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "哈耶克提出发行者可提供有独立名称的货币单位，并在不受固定兑换率强制的条件下相互竞争；使用者可选择、兑换或放弃货币，发行者须维护其吸引力与信誉以保住业务。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_issuer_competition_bank_discipline_zh"],
+  "last_updated": "2026-10-20"
+}

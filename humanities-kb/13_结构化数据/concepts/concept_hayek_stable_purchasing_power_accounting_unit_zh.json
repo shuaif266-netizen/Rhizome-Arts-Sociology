@@ -1,0 +1,20 @@
+{
+  "id": "concept_hayek_stable_purchasing_power_accounting_unit_zh",
+  "type": "concept",
+  "name_zh": "稳定购买力与会计单位",
+  "name_en": "stable purchasing power and unit of account",
+  "aliases": ["商品篮子本位", "稳定货币价值"],
+  "source_book_id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "source_pages_pdf": "69–75, 99–114, 128–134, 244–267",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "99–114, 244–267",
+      "chapter": "正文第12–13章；附文《未来的价值单位》《货币的市场本位》",
+      "authors": ["person_friedrich_von_hayek"],
+      "definition": "货币价值只能相对于商品或商品组合谈论。哈耶克主张，较稳定的会计单位有助于经济计算，并讨论以广泛交易的原材料批发价格为标准的可能性；指数构成、权重和地域范围仍需试验。"
+    }
+  ],
+  "related_concepts": ["concept_hayek_cash_balance_money_demand_zh", "concept_hayek_money_supply_relative_prices_trade_cycle_zh"],
+  "last_updated": "2026-10-20"
+}

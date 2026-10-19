@@ -1,0 +1,66 @@
+{
+  "id": "book_hayek_denationalisation_money_yao_zhongqiu_2019",
+  "type": "book",
+  "name_zh": "《货币的非国家化》",
+  "name_original": "Denationalisation of Money: The Argument Refined",
+  "aliases": ["《货币的非国家化（修订本）》", "Hayek《货币的非国家化》"],
+  "author_id": "person_friedrich_von_hayek",
+  "translator": "姚中秋",
+  "publisher": "海南出版社",
+  "publication_year": 2019,
+  "edition_and_printing": "2019年2月第1版、第1次印刷；原作1976年由伦敦经济事务研究所首次出版；版权页标简体字版权©2018",
+  "isbn": "978-7-5443-8543-5",
+  "pdf_page_count": 267,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/探究加密货币、区块链、NFT与当代艺术/参考阅读/【中文】哈耶克-货币的非国家化.pdf；7份Word页标连续覆盖项目PDF pp.1–267",
+  "source_note": "完整阅读含中文序言、第一版前言、作者导言、第二版前言、作者笺注、第三版前言、正文25章、讨论题、附表、参考文献及四篇附文。巴曙松序言与哈耶克论述分层记录；第三版前言在项目扫描中未见署名。原始PDF与Word分卷留在本地只读，GitHub提交阅读档案和知识库材料。",
+  "related_people": ["person_friedrich_von_hayek"],
+  "related_concepts": [
+    "concept_hayek_competitive_private_currencies_zh",
+    "concept_hayek_stable_purchasing_power_accounting_unit_zh",
+    "concept_hayek_legal_tender_gresham_zh",
+    "concept_hayek_cash_balance_money_demand_zh",
+    "concept_hayek_money_supply_relative_prices_trade_cycle_zh",
+    "concept_hayek_issuer_competition_bank_discipline_zh",
+    "concept_hayek_money_monopoly_public_finance_liberty_zh"
+  ],
+  "related_topics": ["topic_hayek_money_law_prices_public_power_zh"],
+  "sources": [
+    {
+      "location": "中文书名、作者、译者、出版社、版次、印次与ISBN",
+      "page": "项目PDF pp.1–5",
+      "chapter": "封面、题名页、CIP／版权页",
+      "author": "弗里德里希·冯·哈耶克；姚中秋译",
+      "book": "《货币的非国家化》"
+    },
+    {
+      "location": "数字货币与区块链的当代解读；不属于哈耶克原文",
+      "page": "项目PDF pp.11–17",
+      "chapter": "中文序言",
+      "author": "巴曙松",
+      "book": "《货币的非国家化》"
+    },
+    {
+      "location": "作者提出问题的背景、研究目标与论证范围",
+      "page": "项目PDF pp.22–25、28–29",
+      "chapter": "作者导言；作者笺注",
+      "author": "弗里德里希·冯·哈耶克",
+      "book": "《货币的非国家化》"
+    },
+    {
+      "location": "货币竞争、法币、发行者纪律、购买力与政治经济论证",
+      "page": "项目PDF pp.35–206",
+      "chapter": "正文第01–25章",
+      "author": "弗里德里希·冯·哈耶克",
+      "book": "《货币的非国家化》"
+    },
+    {
+      "location": "货币史、货币竞争、自由市场货币体系与市场本位的补充论述",
+      "page": "项目PDF pp.222–267",
+      "chapter": "四篇附文",
+      "author": "弗里德里希·冯·哈耶克",
+      "book": "《货币的非国家化》"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
