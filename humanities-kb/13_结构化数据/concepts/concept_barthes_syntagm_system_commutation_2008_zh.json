@@ -1,0 +1,20 @@
+{
+  "id": "concept_barthes_syntagm_system_commutation_2008_zh",
+  "type": "concept",
+  "name_zh": "组合段、系统与对比替换",
+  "name_en": "syntagm, system, and commutation",
+  "aliases": ["组合轴与系统轴", "syntagmatic / systemic relations"],
+  "source_book_id": "book_barthes_elements_semiology_2008_zh",
+  "source_pages_pdf": "58–83",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "58–83",
+      "chapter": "第三部分：组合段与系统",
+      "authors": ["person_roland_barthes"],
+      "definition": "组合段是话语链中实际相邻和共同出现的单位；系统是未在当下实现但可被替换或联想的单位集合。对比替换通过改变表达并观察内容是否变化来确认意义单位。隐喻与换喻表现两轴的主导倾向，但不代表话语只依赖其中一轴。"
+    }
+  ],
+  "related_concepts": ["concept_syntagmatic_associative_relations", "concept_semiology_semiotics"],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concept_barthes_pertinence_corpus_method_2008_zh",
+  "type": "concept",
+  "name_zh": "适切性原则与文本整体",
+  "name_en": "pertinence principle and corpus",
+  "aliases": ["研究语料界定", "符号学的内在性分析"],
+  "source_book_id": "book_barthes_elements_semiology_2008_zh",
+  "source_pages_pdf": "89–92",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "89–92",
+      "chapter": "结论：符号学研究",
+      "authors": ["person_roland_barthes"],
+      "definition": "适切性原则要求研究者先说明意义分析的角度，文本整体是预先限定且须尽可能彻底分析的有限材料集合。语料应足以呈现系统关系并尽量控制材料类型与时间跨度；同步切片是方法起点，不否定后续历史研究。"
+    }
+  ],
+  "related_concepts": ["concept_semiology_semiotics"],
+  "last_updated": "2026-10-20"
+}

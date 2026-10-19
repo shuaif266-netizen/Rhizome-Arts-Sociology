@@ -1,0 +1,65 @@
+{
+  "id": "book_barthes_elements_semiology_2008_zh",
+  "type": "book",
+  "name_zh": "《符号学原理》",
+  "name_original": "Éléments de sémiologie",
+  "aliases": [
+    "罗兰·巴特《符号学原理》",
+    "Elements of Semiology"
+  ],
+  "author_id": "person_roland_barthes",
+  "translator": "李幼蒸",
+  "afterword_author": "李幼蒸",
+  "publisher": "中国人民大学出版社",
+  "publication_year": 2008,
+  "edition_and_printing": "2008年1月第1版、第1次印刷",
+  "isbn": "978-7-300-08833-4",
+  "pdf_page_count": 114,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】罗兰·巴特-符号学原理.PDF；3份Word页标连续覆盖项目PDF pp.1–114",
+  "source_note": "全卷含李幼蒸总序、译者前言、巴特正文、法文—中文概念索引及李幼蒸附论。原始PDF与Word分卷留在项目文件夹只读；GitHub仅保存阅读档案与知识库整合材料。",
+  "related_people": [
+    "person_roland_barthes"
+  ],
+  "related_books": [
+    "book_hjelmslev_glossematics_collection_zh_2006"
+  ],
+  "related_concepts": [
+    "concept_semiology_semiotics",
+    "concept_barthes_langue_parole_semiotic_systems_2008_zh",
+    "concept_barthes_signification_value_segmentation_2008_zh",
+    "concept_barthes_syntagm_system_commutation_2008_zh",
+    "concept_barthes_denotation_connotation_metalanguage_2008_zh",
+    "concept_barthes_pertinence_corpus_method_2008_zh"
+  ],
+  "sources": [
+    {
+      "location": "核对作者、译者、出版信息和ISBN",
+      "page": "项目PDF pp.1–4",
+      "chapter": "封面、题名页、CIP与版权页",
+      "author": "罗兰·巴特；李幼蒸译",
+      "book": "《符号学原理》"
+    },
+    {
+      "location": "四组符号学分析关系及研究方法",
+      "page": "项目PDF pp.17–92",
+      "chapter": "导论；第一至第四部分；结论",
+      "author": "罗兰·巴特",
+      "book": "《符号学原理》"
+    },
+    {
+      "location": "文集总序与译者前言，按译者材料区分于巴特正文",
+      "page": "项目PDF pp.5–14",
+      "chapter": "总序；译者前言",
+      "author": "李幼蒸",
+      "book": "《符号学原理》"
+    },
+    {
+      "location": "译者的批评性阐释；不作为巴特自述或无争议传记事实",
+      "page": "项目PDF pp.99–114",
+      "chapter": "附论：罗兰·巴尔特——当代西方文学思想的一面镜子",
+      "author": "李幼蒸",
+      "book": "《符号学原理》"
+    }
+  ]
+}

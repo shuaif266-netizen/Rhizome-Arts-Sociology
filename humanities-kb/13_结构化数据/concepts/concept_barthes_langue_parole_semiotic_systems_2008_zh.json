@@ -1,0 +1,20 @@
+{
+  "id": "concept_barthes_langue_parole_semiotic_systems_2008_zh",
+  "type": "concept",
+  "name_zh": "语言与言语：系统、实践及非语言符号",
+  "name_en": "langue and parole: system, practice, and non-linguistic sign systems",
+  "aliases": ["语言系统与言语实践", "langue / parole"],
+  "source_book_id": "book_barthes_elements_semiology_2008_zh",
+  "source_pages_pdf": "19–37",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "19–37",
+      "chapter": "第一部分：语言与言语",
+      "authors": ["person_roland_barthes"],
+      "definition": "语言是共同体共享的制度和价值系统，言语是个体在具体情境中的组合与执行；两者相互依存，分析边界随对象和尺度变化。服饰、饮食、家具和传播材料可用于考察非语言符号系统，但不因此与人类语言等同。"
+    }
+  ],
+  "related_concepts": ["concept_semiology_semiotics"],
+  "last_updated": "2026-10-20"
+}

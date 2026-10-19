@@ -1,0 +1,20 @@
+{
+  "id": "concept_barthes_denotation_connotation_metalanguage_2008_zh",
+  "type": "concept",
+  "name_zh": "外延、涵指与元语言",
+  "name_en": "denotation, connotation, and metalanguage",
+  "aliases": ["直指与涵指", "二级符号系统"],
+  "source_book_id": "book_barthes_elements_semiology_2008_zh",
+  "source_pages_pdf": "84–88",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "84–88",
+      "chapter": "第四部分：外延与涵指",
+      "authors": ["person_roland_barthes"],
+      "definition": "以表达、内容及其关系构成的第一意指系统，若整体成为第二系统的表达面，形成涵指；若成为第二系统的内容面，形成元语言。涵指项由第一系统的符号构成，其所指可与文化、知识、历史和意识形态相通；直指信息不会被涵指完全吸收。"
+    }
+  ],
+  "related_concepts": ["concept_myth_as_second_order_signification", "concept_semiology_semiotics"],
+  "last_updated": "2026-10-20"
+}

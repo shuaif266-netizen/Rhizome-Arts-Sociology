@@ -1,0 +1,20 @@
+{
+  "id": "concept_barthes_signification_value_segmentation_2008_zh",
+  "type": "concept",
+  "name_zh": "意指关系、值项与切分",
+  "name_en": "signification, value, and segmentation",
+  "aliases": ["能指与所指的关系", "符号的关系价值"],
+  "source_book_id": "book_barthes_elements_semiology_2008_zh",
+  "source_pages_pdf": "38–57",
+  "definition_status": "source_limited_single_author",
+  "definitions": [
+    {
+      "source_pages_pdf": "38–57",
+      "chapter": "第二部分：能指与所指；值项",
+      "authors": ["person_roland_barthes"],
+      "definition": "意指作用是表达面和内容面建立关系的过程。符号值项既取决于能指与所指的关系，也取决于单位在系统中的位置、差异与替换关系；意义可被理解为表达与内容连续领域的同步切分。"
+    }
+  ],
+  "related_concepts": ["concept_signifier_signified", "concept_semiology_semiotics"],
+  "last_updated": "2026-10-20"
+}
