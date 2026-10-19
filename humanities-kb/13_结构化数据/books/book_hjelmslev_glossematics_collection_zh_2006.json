@@ -1,0 +1,31 @@
+{
+  "id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "type": "book",
+  "name_zh": "《叶姆斯列夫语符学文集》",
+  "author_id": "person_louis_hjelmslev",
+  "translator": "程琪龙",
+  "series_editors": ["姚小平", "程琪龙"],
+  "series": "语言学名家译丛",
+  "publisher": "湖南教育出版社",
+  "publication_year_cip": "2005",
+  "edition_and_printing": "版权／印制页：2006年4月第1版、第1次印刷",
+  "isbn": "7-5355-4489-4",
+  "isbn_13_from_cover_barcode": "9787535544896",
+  "original_works": [
+    "Sproget: En introduktion",
+    "Omkring Sprogteoriens Grundlæggelse"
+  ],
+  "pdf_page_count": 258,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/当代艺术摄影与符号学/符号学参考阅读/【中译】叶姆斯列夫语符学文集.pdf；7份Word页标唯一连续覆盖项目PDF pp.1–258",
+  "source_note": "整卷含《译丛》总序、译者的话、两部叶姆斯列夫作品、索引和定义。CIP将出版年份标为2005，版权／印制页为2006年4月，版本页差异原样保留。PDF与Word为本地只读原件，未上传。",
+  "sources": [
+    {
+      "book": "《叶姆斯列夫语符学文集》",
+      "author": "路易斯·叶姆斯列夫；译者程琪龙",
+      "chapter": "题名页、CIP、版权／印制页、目录",
+      "page": "项目PDF pp.2–4、9–11",
+      "location": "题名责任者、出版版本差异及两部主体作品范围"
+    }
+  ]
+}

@@ -5,5 +5,21 @@
   "name_en": "process / system",
   "aliases": [
     "过程与系统"
-  ]
+  ],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "42–51, 201–208",
+  "definition_status": "source_limited_with_course_context",
+  "definitions": [
+    {
+      "source_pages_pdf": "42–51, 201–208",
+      "view": "过程作为合取关系的层级组织，语言在语篇中实际展开；系统作为析取关系的层级组织，说明可替换成员和关系。语言图式提供结构可能，语言运用使其在具体语篇中显现。",
+      "author": "路易斯·叶姆斯列夫"
+    },
+    {
+      "source_pages_pdf": "课件06 pp.28–32",
+      "view": "课程将过程近似讲作逻辑与／成分共在，将系统近似讲作逻辑或／可替换成员；这是教学简化，不覆盖原著全部条件。",
+      "author": "课程作者对Hjelmslev的教学转述"
+    }
+  ],
+  "last_updated": "2026-10-20"
 }

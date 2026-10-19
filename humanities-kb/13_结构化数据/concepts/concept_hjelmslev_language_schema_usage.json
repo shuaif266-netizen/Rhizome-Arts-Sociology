@@ -1,0 +1,18 @@
+{
+  "id": "concept_hjelmslev_language_schema_usage",
+  "type": "concept",
+  "name_zh": "语言图式与语言运用（叶姆斯列夫）",
+  "name_en": "linguistic schema and linguistic usage",
+  "aliases": ["语言系统与语篇实现"],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "42–51, 201–208",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "42–51, 201–208",
+      "view": "图式提供形式关系和组合可能，运用是图式在具体语篇、声音、文字或其他载体中的显现。图式与语篇过程相关，但不能混为同一层次。",
+      "author": "路易斯·叶姆斯列夫"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

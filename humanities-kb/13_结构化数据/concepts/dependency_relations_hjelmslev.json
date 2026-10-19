@@ -7,5 +7,21 @@
     "互依关系",
     "决定关系",
     "并存关系"
-  ]
+  ],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "152–170, 210–212",
+  "definition_status": "source_limited_with_course_context",
+  "definitions": [
+    {
+      "source_pages_pdf": "152–170, 210–212",
+      "view": "互连依从关系联结两个彼此预设的常素；确定关系联结常素与变素并具有方向；连组关系联结彼此相关但互不预设的变素。过程与系统视角下对应不同术语。",
+      "author": "路易斯·叶姆斯列夫"
+    },
+    {
+      "source_pages_pdf": "课件06 pp.33–35",
+      "view": "课程将其简化转述为互依、决定、并存三类关系；原著另用常素、变素、功能子及过程／系统术语加以限定。",
+      "author": "课程作者对Hjelmslev的教学转述"
+    }
+  ],
+  "last_updated": "2026-10-20"
 }

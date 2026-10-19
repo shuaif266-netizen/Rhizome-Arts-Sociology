@@ -1,0 +1,18 @@
+{
+  "id": "concept_hjelmslev_language_kinship_element_function",
+  "type": "concept",
+  "name_zh": "语言亲缘与成分功能（叶姆斯列夫）",
+  "name_en": "linguistic kinship and element-functions",
+  "aliases": ["成分功能", "本源语构拟的范围"],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "19–41, 71–95",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "19–41, 84–90",
+      "view": "亲缘关系通过不同语言表达成分在条件和位置上的系统对应来论证，而非凭表面词形相似；对应关系允许有限构拟，不足以恢复完整词形、词义或族群历史。",
+      "author": "路易斯·叶姆斯列夫"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

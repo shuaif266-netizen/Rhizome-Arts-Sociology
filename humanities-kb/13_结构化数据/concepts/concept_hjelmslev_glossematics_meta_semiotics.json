@@ -1,0 +1,18 @@
+{
+  "id": "concept_hjelmslev_glossematics_meta_semiotics",
+  "type": "concept",
+  "name_zh": "语符学与内涵、元符号系统（叶姆斯列夫）",
+  "name_en": "glossematics, connotative semiotics, and metasemiotics",
+  "aliases": ["语符", "内涵符号系统", "元符号系统"],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "222–250",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "227–250",
+      "view": "语符学以形式关系和可演算分析为语言研究基础；内涵符号系统与元符号系统用于描述表达面或内容面本身又包含符号系统的层级关系。",
+      "author": "路易斯·叶姆斯列夫"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

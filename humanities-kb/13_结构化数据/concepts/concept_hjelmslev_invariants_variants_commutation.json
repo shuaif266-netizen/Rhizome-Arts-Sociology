@@ -1,0 +1,18 @@
+{
+  "id": "concept_hjelmslev_invariants_variants_commutation",
+  "type": "concept",
+  "name_zh": "不变体、变体与交换测试（叶姆斯列夫）",
+  "name_en": "invariants, variants, and commutation test",
+  "aliases": ["交换关系", "合并与中和"],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "188–200, 206–218",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "188–200, 206–218",
+      "view": "交换测试考察一个表达或内容单位替换后是否造成另一平面上的对立变化；据此区分结构不变体与条件或组合变体，并进一步分析合并、中和、解析和内推。",
+      "author": "路易斯·叶姆斯列夫"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

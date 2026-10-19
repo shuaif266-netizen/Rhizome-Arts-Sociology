@@ -1,0 +1,18 @@
+{
+  "id": "concept_hjelmslev_expression_content_form_substance",
+  "type": "concept",
+  "name_zh": "表达、内容与混沌体（叶姆斯列夫）",
+  "name_en": "expression, content, form, substance, and purport",
+  "aliases": ["表达平面", "内容平面", "混沌体"],
+  "source_book_id": "book_hjelmslev_glossematics_collection_zh_2006",
+  "source_pages_pdf": "171–187, 201–205",
+  "definition_status": "source_limited",
+  "definitions": [
+    {
+      "source_pages_pdf": "176–187",
+      "view": "符号功能由表达形式与内容形式的相互预设构成。语言形式将连续材料划分为内容实体和表达实体；不同语言可对同一连续范围作出不同形式切分。",
+      "author": "路易斯·叶姆斯列夫"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
