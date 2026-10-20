@@ -1,0 +1,19 @@
+{
+  "id": "concept_list_national_cosmopolitan_economy",
+  "type": "concept",
+  "name_zh": "国家经济与世界主义经济（李斯特）",
+  "name_en": "National and Cosmopolitical Economy (List)",
+  "aliases": [
+    "国家经济学",
+    "世界主义经济学"
+  ],
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》",
+      "author": "李斯特",
+      "chapter": "第二编第十一、十四、十五章",
+      "page": "List11.html；List14.html；List15.html",
+      "location": "国家作为个人与人类整体之间的政治经济共同体；政治联合与商业联合的关系"
+    }
+  ]
+}

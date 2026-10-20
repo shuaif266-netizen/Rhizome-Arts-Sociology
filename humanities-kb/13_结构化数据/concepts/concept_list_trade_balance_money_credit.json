@@ -1,0 +1,18 @@
+{
+  "id": "concept_list_trade_balance_money_credit",
+  "type": "concept",
+  "name_zh": "贸易平衡、贵金属与国家信用（李斯特）",
+  "name_en": "Trade Balance, Precious Metals, and National Credit (List)",
+  "aliases": [
+    "国际贸易差额与金融恐慌（来源限定）"
+  ],
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》",
+      "author": "李斯特",
+      "chapter": "第二编第二十三章",
+      "page": "List23.html",
+      "location": "贸易差额、贵金属流动、信贷和金融脆弱性的作者论证"
+    }
+  ]
+}

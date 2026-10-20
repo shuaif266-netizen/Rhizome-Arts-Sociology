@@ -1,0 +1,28 @@
+{
+  "id": "person_friedrich_list",
+  "type": "person",
+  "name": "Friedrich List",
+  "name_zh": "弗里德里希·李斯特",
+  "aliases": [
+    "F.李斯特",
+    "李斯特"
+  ],
+  "fields": [
+    "政治经济学",
+    "国家经济学",
+    "产业政策"
+  ],
+  "related_people": [],
+  "related_books": [
+    "book_friedrich_list_national_system_zh_chm"
+  ],
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》项目CHM",
+      "author": "CHM目录与首页",
+      "page": "index.html；list001.html",
+      "location": "作者署名Friedrich List / F.李斯特；未据本书补写生卒年或职务"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

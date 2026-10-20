@@ -1,0 +1,19 @@
+{
+  "id": "concept_list_staged_protection",
+  "type": "concept",
+  "name_zh": "阶段性保护关税与工业成熟（李斯特）",
+  "name_en": "Staged Protection and Industrial Maturity (List)",
+  "aliases": [
+    "产业发展阶段与关税",
+    "保护制度的阶段性"
+  ],
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》",
+      "author": "李斯特",
+      "chapter": "第一编第一章；第二编第十五、二十六、二十七章；第四编第三十六章",
+      "page": "List01.html；List15.html；List26.html；List27.html；List36.html",
+      "location": "自由贸易、有限保护、产业成熟与重新开放的条件性论述"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "concept_list_division_confederation_productive_forces",
+  "type": "concept",
+  "name_zh": "生产力联合与国内分工（李斯特）",
+  "name_en": "Division and Confederation of Productive Forces (List)",
+  "aliases": [
+    "国内生产力联合",
+    "国家层面的分工与协作"
+  ],
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》",
+      "author": "李斯特",
+      "chapter": "第二编第十三、十七、二十、二十一章",
+      "page": "List13.html；List17.html；List20.html；List21.html",
+      "location": "从工序分工扩展至产业、城乡和区域协作的论证"
+    }
+  ]
+}

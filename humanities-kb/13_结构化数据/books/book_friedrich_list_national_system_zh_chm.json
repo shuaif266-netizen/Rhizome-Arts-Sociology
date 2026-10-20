@@ -1,0 +1,35 @@
+{
+  "id": "book_friedrich_list_national_system_zh_chm",
+  "type": "book",
+  "name_zh": "弗里德里希·李斯特《政治经济学的国民体系》",
+  "name_en": "The National System of Political Economy",
+  "aliases": [
+    "《政治经济学的国民体系》",
+    "Friedrich List《The National System of Political Economy》"
+  ],
+  "author_ids": [
+    "person_friedrich_list"
+  ],
+  "translator": "",
+  "material_type": "项目CHM电子文本；目录列四编36章和四项英译本附录",
+  "publication_status": "中文译者、中文底本、出版社、版次、出版年和ISBN未核；前置英译者序署Lloyd并标1885年",
+  "local_source_status": "read_only_verified_with_two_corrupt_chapter_files",
+  "reading_status": "completed_full_indexed_content_with_external_supplements",
+  "source_hash_sha256": "361E31375171F51A75EA570D57C01CF92D5D05DEFE2909B9B5C5D23E11C6011D",
+  "source_locator": "书/哲学害人/学究学究/这那那这/政治经济学的国民体系.chm；ZIP内CHM同哈希；第5、34章本地HTML损坏，以同一Lloyd英译本外部全文补读。原始CHM、ZIP与抽取全文不上传。",
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》项目CHM",
+      "author": "CHM目录与首页",
+      "page": "index.html；list001.html",
+      "location": "书名、Friedrich List署名、四编目录与前置材料"
+    },
+    {
+      "book": "The National System of Political Economy",
+      "author": "Friedrich List；Sampson S. Lloyd英译",
+      "page": "Chapter V；Chapter XXXIV",
+      "location": "补读项目CHM损坏的第5、34章；OLL标示为1909年新印本、英译初版1885年",
+      "url": "https://dev.oll.libertyfund.org/titles/lloyd-the-national-system-of-political-economy"
+    }
+  ]
+}

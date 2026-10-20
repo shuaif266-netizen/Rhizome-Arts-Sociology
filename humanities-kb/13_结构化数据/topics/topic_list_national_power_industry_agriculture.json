@@ -1,0 +1,19 @@
+{
+  "id": "topic_list_national_power_industry_agriculture",
+  "type": "topic",
+  "name_zh": "国家共同体—工业能力—农业市场—经济自主",
+  "name_en": "National Community, Industrial Capacity, Agricultural Markets, and Economic Autonomy",
+  "aliases": [
+    "李斯特《政治经济学的国民体系》跨学科阅读链"
+  ],
+  "status": "suggested reading path",
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》",
+      "author": "李斯特原文；跨学科路径由知识库编者整理",
+      "chapter": "第二编第十一至二十七章；第四编第三十三至三十六章",
+      "page": "CHM内部HTML章节定位；第34章使用外部同译本",
+      "location": "国家经济、生产力、产业协作、贸易政策与国家自主之间的阅读路径"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "concept_list_productive_power_exchange_value",
+  "type": "concept",
+  "name_zh": "生产力理论与交换价值理论（李斯特）",
+  "name_en": "Productive Powers and Exchange Value (List)",
+  "aliases": [
+    "国家生产力",
+    "生产能力与交换价值"
+  ],
+  "sources": [
+    {
+      "book": "《政治经济学的国民体系》",
+      "author": "李斯特",
+      "chapter": "第二编第十二、十三、十九章",
+      "page": "List12.html；List13.html；List19.html",
+      "location": "生产能力、交换价值、资本及制度条件的区别"
+    }
+  ]
+}
