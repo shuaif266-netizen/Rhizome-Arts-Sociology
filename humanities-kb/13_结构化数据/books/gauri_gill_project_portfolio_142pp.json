@@ -1,0 +1,43 @@
+{
+  "id": "book_gauri_gill_project_portfolio_142pp",
+  "type": "book",
+  "name_zh": "Gauri Gill项目作品集",
+  "name_en": "Gauri Gill (project portfolio PDF)",
+  "aliases": [
+    "Gauri Gill项目PDF",
+    "Gauri Gill 142页作品资料"
+  ],
+  "artist_ids": [
+    "person_gauri_gill",
+    "person_rajesh_vangad"
+  ],
+  "material_type": "artist website portfolio / project image catalogue",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 142,
+  "word_volume_count": 8,
+  "page_coverage": "项目PDF pp.1–142/142；八份Word页标连续覆盖pp.1–20至141–142",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_archive",
+  "source_sha256": "49F414FF49E0AF327BC3C6A0911D31656077482DBA65E7CF6D40EB4840C25527",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Gauri Gill .pdf；原PDF与Word分卷只读留在本地",
+  "sources": [
+    {
+      "book": "Gauri Gill项目作品集",
+      "author": "Gauri Gill",
+      "page": "项目PDF p.1",
+      "location": "封面署名及gauri-gill.com"
+    },
+    {
+      "book": "Gauri Gill项目作品集",
+      "author": "Gauri Gill与Rajesh Vangad",
+      "page": "项目PDF pp.7–40",
+      "location": "Fields of Sight作品题注与共同署名"
+    },
+    {
+      "book": "Gauri Gill项目作品集",
+      "author": "Gauri Gill",
+      "page": "项目PDF pp.47, 88, 124",
+      "location": "Acts of Appearance、Balika Mela与Jannat系列标题"
+    }
+  ]
+}
