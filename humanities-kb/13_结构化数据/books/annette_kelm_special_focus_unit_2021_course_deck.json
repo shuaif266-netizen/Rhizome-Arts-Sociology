@@ -1,0 +1,39 @@
+{
+  "id": "book_annette_kelm_02_special_focus_unit_course_deck_119pp",
+  "type": "book",
+  "name_zh": "Annette Kelm“特别关注单元”项目资料",
+  "name_en": "Annette Kelm 02 (special focus course unit)",
+  "aliases": [
+    "Annette Kelm 02项目PDF",
+    "Annette Kelm 作品图册单元"
+  ],
+  "artist_ids": [
+    "person_annette_kelm"
+  ],
+  "material_type": "course unit / artist portfolio / reference slides",
+  "publication_status": "not_a_verified_formal_book",
+  "page_count_pdf": 119,
+  "word_volume_count": 6,
+  "page_coverage": "项目PDF pp.1–119/119；六份Word页标连续覆盖pp.1–20、21–40、41–60、61–80、81–100、101–119",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_unit",
+  "source_sha256": "FB60294428077F5034D948E564340D5D67C51B61F3E0D691FD679E0E92F9314C",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Annette Kelm 02.pdf；原PDF与Word分卷只读留在本地",
+  "sources": [
+    {
+      "book": "Annette Kelm“特别关注单元”项目资料",
+      "page": "项目PDF p.1",
+      "location": "题签、艺术家姓名、出生年份标注与日期"
+    },
+    {
+      "book": "Annette Kelm“特别关注单元”项目资料",
+      "page": "项目PDF pp.1–119",
+      "location": "作品图版、教学参考页、博物馆与档案题注"
+    },
+    {
+      "book": "Annette Kelm“特别关注单元”项目资料",
+      "page": "项目PDF p.21",
+      "location": "页面标注“其他未分析的作品”"
+    }
+  ]
+}
