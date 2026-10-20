@@ -1,0 +1,42 @@
+{
+  "id": "book_daniel_gordon_project_portfolio_159pp",
+  "type": "book",
+  "name_zh": "Daniel Gordon项目作品图册",
+  "name_en": "Daniel Gordon (project portfolio PDF)",
+  "aliases": [
+    "Daniel Gordon项目PDF",
+    "Daniel Gordon 159页作品资料"
+  ],
+  "artist_ids": [
+    "person_daniel_gordon"
+  ],
+  "material_type": "artist portfolio / course reference compilation",
+  "publication_status": "not_verified_as_single_formal_book",
+  "page_count_pdf": 159,
+  "word_volume_count": 8,
+  "page_coverage": "项目PDF pp.1–159/159；八份Word页标连续覆盖pp.1–20至141–159",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_archive",
+  "source_sha256": "2D4516961CC38DD0A9F9302A862D24655DD31545297E3A6CCF828932F6CF2A35",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Daniel Gordon .pdf；原PDF与Word分卷只读留在本地",
+  "sources": [
+    {
+      "book": "Daniel Gordon项目作品图册",
+      "author": "Daniel Gordon",
+      "page": "项目PDF p.1",
+      "location": "封面署名和出生年份标记"
+    },
+    {
+      "book": "Daniel Gordon项目作品图册",
+      "author": "Daniel Gordon",
+      "page": "项目PDF pp.1–159",
+      "location": "作品图版、系列题名、艺术史参照与工作室图像"
+    },
+    {
+      "book": "Daniel Gordon项目作品图册",
+      "author": "项目材料",
+      "page": "项目PDF p.119",
+      "location": "Intermissions作品集页提及Onestar Press"
+    }
+  ]
+}
