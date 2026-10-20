@@ -1,0 +1,11 @@
+{
+  "id": "book_feng_youlan_brief_history_chinese_philosophy_chm_zh",
+  "type": "book",
+  "name_zh": "《中国哲学简史》",
+  "author_id": "person_feng_youlan",
+  "translator": "涂又光",
+  "original_publication_year": 1948,
+  "reading_status": "completed",
+  "source_locator": "书/哲学害人/学究学究/中国哲学史/中国哲学简史.chm；正文二十八章；无稳定页码",
+  "source_note": "原作英文版1948年出版及中文译者信息据CHM内《出版说明》；中文译本出版信息未核。两份同名CHM的SHA-256相同。八卦线图在电子文本中缺失，阅读档案保留此限制。原件不上传。"
+}
