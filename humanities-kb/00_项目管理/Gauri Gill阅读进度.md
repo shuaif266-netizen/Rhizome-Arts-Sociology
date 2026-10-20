@@ -45,7 +45,7 @@ PDF p.1以Gauri Gill为封面署名并显示网站地址。p.4标出Fields of Si
 
 ## GitHub状态
 
-整卷档案、Gauri Gill与Rajesh Vangad人物页、来源限定概念卡、跨学科链和结构化数据已建立；上传记录将在内容提交核验后补记。
+已推送GitHub，内容提交 22c1324；其中五条来源关系含作者署名、共同署名、概念归纳、跨学科推演和与Anne Collier的有限比较。
 
 ## 下一步
 
