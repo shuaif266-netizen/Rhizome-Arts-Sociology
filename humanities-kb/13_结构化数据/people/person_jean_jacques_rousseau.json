@@ -1,0 +1,17 @@
+{
+  "id": "person_jean_jacques_rousseau",
+  "type": "person",
+  "name": "Jean-Jacques Rousseau",
+  "name_zh": "让·雅克·卢梭",
+  "aliases": ["卢梭", "Jean Jacques Rousseau"],
+  "fields": ["政治哲学", "自然法", "教育思想", "自传与文学"],
+  "related_books": ["book_rousseau_discourse_inequality_zh_chm"],
+  "sources": [
+    {
+      "book": "《论人类不平等的起源和基础》项目CHM",
+      "page": "目录及NoEqual03.htm–NoEqual08.htm",
+      "location": "作者署名、献辞、正文和作者附注；纸本版本未核"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

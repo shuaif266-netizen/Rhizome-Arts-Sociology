@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_amour_propre",
+  "type": "concept",
+  "name_zh": "自尊心与社会比较",
+  "name_en": "amour-propre / socially comparative self-regard",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《论人类不平等的起源和基础》",
+      "author": "卢梭",
+      "page": "第二部分、作者附注〔十五〕，CHM NoEqual07.htm–NoEqual08.htm",
+      "location": "来源限定概念条目；按CHM内部HTML文件定位"
+    }
+  ]
+}

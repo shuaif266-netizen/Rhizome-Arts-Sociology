@@ -1,0 +1,16 @@
+{
+  "id": "topic_rousseau_property_law_art_field",
+  "type": "topic",
+  "name_zh": "社会评价—财产关系—法律秩序—艺术声望",
+  "name_en": "Social esteem, property, legal order, and artistic recognition",
+  "aliases": ["卢梭与艺术场域的可比问题"],
+  "status": "suggested reading path",
+  "sources": [
+    {
+      "book": "卢梭《论人类不平等的起源和基础》",
+      "author": "卢梭；跨学科路径由知识库编者整理",
+      "page": "CHM NoEqual07.htm–NoEqual08.htm",
+      "location": "公共评价、自尊心、财产、法律与不平等；不表示卢梭讨论现代艺术制度"
+    }
+  ]
+}

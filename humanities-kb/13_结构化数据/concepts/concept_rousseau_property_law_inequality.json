@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_property_law_inequality",
+  "type": "concept",
+  "name_zh": "财产、法律与政治不平等",
+  "name_en": "property, law, and political inequality",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《论人类不平等的起源和基础》",
+      "author": "卢梭",
+      "page": "第二部分及作者附注〔十九〕，CHM NoEqual07.htm–NoEqual08.htm",
+      "location": "来源限定概念条目；按CHM内部HTML文件定位"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_pitie",
+  "type": "concept",
+  "name_zh": "怜悯心与自然法",
+  "name_en": "pitié / natural pity",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《论人类不平等的起源和基础》",
+      "author": "卢梭",
+      "page": "“序”、第一部分，CHM NoEqual04.htm、NoEqual06.htm",
+      "location": "来源限定概念条目；按CHM内部HTML文件定位"
+    }
+  ]
+}

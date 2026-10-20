@@ -1,0 +1,23 @@
+{
+  "id": "book_rousseau_discourse_inequality_zh_chm",
+  "type": "book",
+  "name_zh": "卢梭《论人类不平等的起源和基础》",
+  "name_en": "Discourse on the Origin and Basis of Inequality Among Men (French title cited in appendix; edition not verified)",
+  "aliases": ["《论人类不平等的起源》", "《人类不平等起源论》"],
+  "author_ids": ["person_jean_jacques_rousseau"],
+  "translator": "李常山（据CHM目录）",
+  "editor": "东林（据CHM目录标注“校”）",
+  "material_type": "CHM电子文本，含两篇导言和两篇后附研究",
+  "publication_status": "paper edition not verified",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_chm_contents",
+  "source_hash_sha256": "2F50CED1022F1C3DC086C8AEAEED05E6E553DB15E14A312878413520CC5DA506",
+  "source_locator": "书/哲学害人/学究学究/这那那这/论人类不平等的起源和基础.chm；阅读成果归档，不上传原始CHM、ZIP或全文转码件",
+  "sources": [
+    {
+      "book": "卢梭《论人类不平等的起源和基础》项目CHM",
+      "page": "CHM index.html 与 NoEqual01.htm–NoEqual10.htm",
+      "location": "电子目录、正文两部分、作者附注及附录"
+    }
+  ]
+}

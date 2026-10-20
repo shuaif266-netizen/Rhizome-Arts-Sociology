@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_amour_de_soi",
+  "type": "concept",
+  "name_zh": "自然自爱与自我保存",
+  "name_en": "amour de soi / self-preservation",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《论人类不平等的起源和基础》",
+      "author": "卢梭",
+      "page": "“序”、第一部分、作者附注〔十五〕，CHM NoEqual04.htm、NoEqual06.htm、NoEqual08.htm",
+      "location": "来源限定概念条目；按CHM内部HTML文件定位"
+    }
+  ]
+}
