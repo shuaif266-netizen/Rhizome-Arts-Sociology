@@ -1,0 +1,15 @@
+{
+  "id": "concept_holbach_material_motion",
+  "type": "concept",
+  "name_zh": "物质运动与自然因果（霍尔巴赫）",
+  "name_en": "matter, motion, and natural causation",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "霍尔巴赫《健全的思想》",
+      "author": "霍尔巴赫",
+      "page": "第22、36–45则，CHM index.html",
+      "location": "物质、运动与自然原因的论证"
+    }
+  ]
+}

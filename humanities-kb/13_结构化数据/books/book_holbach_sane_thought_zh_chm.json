@@ -1,0 +1,16 @@
+{
+  "id": "book_holbach_sane_thought_zh_chm",
+  "type": "book",
+  "name_zh": "霍尔巴赫《健全的思想：或和超自然观念对立的自然观念》",
+  "aliases": ["《健全的思想》", "《健全思想》"],
+  "author_ids": ["person_holbach"],
+  "translator": "王荫庭（据CHM题名页）",
+  "material_type": "CHM电子文本，含未署名序、目录与206则正文",
+  "publication_status": "出版社、版次、出版年、ISBN与原题未核",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_chm_contents",
+  "source_hash_sha256": "4367A5EE66DB225140DF0041575D4575A33DE19F3D74B4579E22EA17D59643C2",
+  "source_locator": "书\\哲学害人\\学究学究\\这那那这\\健全的思想.chm；CHM index.html正文第01–206则；ZIP内CHM哈希相同",
+  "source_note": "题名页署〔法〕霍尔巴赫著、王荫庭译；主文index.html与thought.html SHA-256相同。About.html和ebook007.html为电子书工具/站点说明，不计入正文。原始CHM与ZIP只读留在项目目录，不上传全文。",
+  "markdown": "../../01_单书档案/霍尔巴赫_健全的思想_王荫庭译_整本阅读档案.md"
+}
