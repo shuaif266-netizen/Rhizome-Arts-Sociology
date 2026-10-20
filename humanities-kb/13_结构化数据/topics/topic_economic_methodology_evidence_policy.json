@@ -1,0 +1,10 @@
+{
+  "id": "topic_economic_methodology_evidence_policy",
+  "type": "topic",
+  "name_zh": "经济学理论、经验检验与政策判断",
+  "name_en": "Economic Theory, Empirical Testing, and Policy Judgment",
+  "aliases": ["经济学方法论", "模型与证据", "实证与规范"],
+  "sources": [
+    {"book": "《经济学方法论》", "author": "布劳格", "chapter": "第1–15章", "page": "MethofEcoch01–15.html", "location": "全书跨章主题，由阅读者用于知识导航"}
+  ]
+}

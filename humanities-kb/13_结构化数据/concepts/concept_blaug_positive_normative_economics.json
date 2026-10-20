@@ -1,0 +1,10 @@
+{
+  "id": "concept_blaug_positive_normative_economics",
+  "type": "concept",
+  "name_zh": "实证经济学与规范经济学（布劳格）",
+  "name_en": "Positive and Normative Economics",
+  "aliases": ["休谟铡刀", "事实判断与价值判断"],
+  "sources": [
+    {"book": "《经济学方法论》", "author": "布劳格", "chapter": "第5、15章", "page": "MethofEcoch05.html；MethofEcoch15.html", "location": "是/应该区分、方法论判断、政策目标与福利经济学"}
+  ]
+}

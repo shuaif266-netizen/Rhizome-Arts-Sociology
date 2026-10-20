@@ -1,0 +1,20 @@
+{
+  "id": "person_mark_blaug",
+  "type": "person",
+  "name": "Mark Blaug",
+  "name_zh": "马克·布劳格",
+  "aliases": ["马克·布劳格"],
+  "fields": ["经济学方法论", "经济思想史"],
+  "related_people": [],
+  "related_books": ["book_mark_blaug_economic_methodology_zh_chm"],
+  "sources": [
+    {
+      "book": "《经济学方法论》项目CHM",
+      "author": "目录与作者前言署名",
+      "chapter": "书名、前言",
+      "page": "MethofEcoIndex.html；MethofEco001.html；MethofEco002.html",
+      "location": "作者署名；不据本书之外资料补写生卒年或职务"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

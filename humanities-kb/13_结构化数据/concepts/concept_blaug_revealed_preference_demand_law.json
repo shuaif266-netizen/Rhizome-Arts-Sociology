@@ -1,0 +1,10 @@
+{
+  "id": "concept_blaug_revealed_preference_demand_law",
+  "type": "concept",
+  "name_zh": "显示偏好与需求定律的经验内容（布劳格）",
+  "name_en": "Revealed Preference and Empirical Content of the Law of Demand",
+  "aliases": ["显示偏好理论", "需求定律检验"],
+  "sources": [
+    {"book": "《经济学方法论》", "author": "布劳格", "chapter": "第6章；第4章", "page": "MethofEcoch06.html；MethofEcoch04.html", "location": "消费者行为的公理化理论、市场数据与可证伪性"}
+  ]
+}

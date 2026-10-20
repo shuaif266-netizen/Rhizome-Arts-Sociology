@@ -1,0 +1,31 @@
+{
+  "id": "book_mark_blaug_economic_methodology_zh_chm",
+  "type": "book",
+  "name_zh": "马克·布劳格《经济学方法论》",
+  "name_en": "",
+  "aliases": ["《经济学方法论》", "经济学家的解释"],
+  "author_ids": ["person_mark_blaug"],
+  "translator": "黎明星、陈一民、季勇",
+  "material_type": "项目CHM电子文本；含两篇前言、15章正文、两篇附录",
+  "publication_status": "索引未列出版社、版次、出版年、ISBN或印刷页码；作者前言署1980-08，索引标注中译本前言的文本署作者1987-12",
+  "local_source_status": "read_only_verified_full_indexed_content",
+  "reading_status": "completed_full_indexed_content",
+  "source_hash_sha256": "DDD34A1BD0A57AD9CAC48B81FF4F40792CCF2CE58C2F6B5252706655A679DBFA",
+  "source_locator": "书/哲学害人/学究学究/这那那这/经济学方法论.chm；正文MethofEcoch01–15.html；附录MethofEcoch16.html；前言MethofEco001/002.html；印刷页码未见",
+  "sources": [
+    {
+      "book": "《经济学方法论》项目CHM",
+      "author": "CHM目录索引",
+      "chapter": "书名与目录",
+      "page": "MethofEcoIndex.html",
+      "location": "题名、作者/译者署名、15章正文和两篇附录的完整目录"
+    },
+    {
+      "book": "《经济学方法论》项目CHM",
+      "author": "马克·布劳格",
+      "chapter": "前言；中译本前言标签项",
+      "page": "MethofEco001.html；MethofEco002.html",
+      "location": "1987年12月与1980年8月作者前言署名；未据此推定译本版次"
+    }
+  ]
+}

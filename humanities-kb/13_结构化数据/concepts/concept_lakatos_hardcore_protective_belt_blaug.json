@@ -1,0 +1,10 @@
+{
+  "id": "concept_lakatos_hardcore_protective_belt_blaug",
+  "type": "concept",
+  "name_zh": "科学研究框架的硬核与保护带（布劳格论述）",
+  "name_en": "Hard Core and Protective Belt of a Research Programme",
+  "aliases": ["科研框架", "正面启发法", "负面启发法"],
+  "sources": [
+    {"book": "《经济学方法论》", "author": "布劳格转述并讨论拉卡托斯", "chapter": "第2、4、13、15章", "page": "MethofEcoch02.html；MethofEcoch04.html；MethofEcoch13.html；MethofEcoch15.html", "location": "框架评价、硬核/保护带与进步或退步的经验特征"}
+  ]
+}
