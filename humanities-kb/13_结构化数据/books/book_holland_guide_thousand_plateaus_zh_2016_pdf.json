@@ -1,0 +1,68 @@
+{
+  "id": "book_holland_guide_thousand_plateaus_zh_2016_pdf",
+  "type": "book",
+  "name_zh": "尤金·W.霍兰德《导读德勒兹与加塔利〈千高原〉》",
+  "name": "Deleuze and Guattari’s A Thousand Plateaus: A Reader’s Guide",
+  "aliases": [
+    "《导读德勒兹与加塔利〈千高原〉》",
+    "《导读德勒兹与加塔利〈千高原〉》霍兰德",
+    "A Reader’s Guide to A Thousand Plateaus"
+  ],
+  "author_ids": [
+    "person_eugene_w_holland"
+  ],
+  "translator": "周兮吟",
+  "publisher": "重庆大学出版社",
+  "publication_year": "2016",
+  "edition": "2016年11月第1版、第1次印刷",
+  "isbn": "978-7-5689-0216-8",
+  "original_copyright": "© Eugene W. Holland, 2013；中译本经Bloomsbury Publishing授权",
+  "fields": [
+    "德勒兹与加塔利研究",
+    "哲学",
+    "文学理论",
+    "电影与艺术",
+    "政治理论",
+    "社会科学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 218,
+  "local_source_status": "项目扫描PDF共218页；6份Word OCR分卷页标唯一连续覆盖pp.1–218；封面、题名/CIP、版权、空白页及末页已回看PDF。原PDF与Word只读保留在本地，未上传。",
+  "related_people": [
+    "person_eugene_w_holland",
+    "person_gilles_deleuze",
+    "person_felix_guattari"
+  ],
+  "related_books": [
+    "book_mille_plateaux_deleuze_guattari_zh_2010"
+  ],
+  "related_concepts": [
+    "concept_rhizome_multiplicity_deleuze_guattari",
+    "concept_strata_content_expression_machinic_assemblage",
+    "concept_order_words_collective_assemblage",
+    "concept_body_without_organs_intensity_plane",
+    "concept_faciality_white_wall_black_hole",
+    "concept_segmentarity_lines_micropolitics",
+    "concept_becoming_animal_pack_anomal",
+    "concept_ritornello_territory_music",
+    "concept_nomadic_war_machine_state_capture",
+    "concept_smooth_striated_space_nomad_science"
+  ],
+  "sources": [
+    {
+      "book": "《导读德勒兹与加塔利〈千高原〉》项目扫描PDF",
+      "author": "题名页、CIP与版权页",
+      "chapter": "书目信息",
+      "page": "PDF pp.1–6",
+      "location": "核对作者、译者、出版社、版次、ISBN、原书名与©2013版权信息"
+    },
+    {
+      "book": "《导读德勒兹与加塔利〈千高原〉》项目扫描PDF",
+      "author": "Eugene W. Holland",
+      "chapter": "全书",
+      "page": "PDF pp.1–218",
+      "location": "六份Word页标连续；四个OCR未识别页回看PDF并确认为空白"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

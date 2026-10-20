@@ -1,0 +1,31 @@
+{
+  "id": "person_eugene_w_holland",
+  "type": "person",
+  "name": "Eugene W. Holland",
+  "name_zh": "尤金·W.霍兰德",
+  "aliases": [
+    "Eugene Holland",
+    "霍兰德"
+  ],
+  "fields": [
+    "德勒兹与加塔利研究",
+    "哲学与政治经济学交叉研究"
+  ],
+  "related_people": [
+    "person_gilles_deleuze",
+    "person_felix_guattari"
+  ],
+  "related_books": [
+    "book_holland_guide_thousand_plateaus_zh_2016_pdf"
+  ],
+  "sources": [
+    {
+      "book": "《导读德勒兹与加塔利〈千高原〉》项目扫描PDF",
+      "author": "题名页与CIP",
+      "chapter": "书目信息",
+      "page": "PDF pp.2–3",
+      "location": "确认Eugene W. Holland为本书作者；主题归纳以本书内容为限"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}
