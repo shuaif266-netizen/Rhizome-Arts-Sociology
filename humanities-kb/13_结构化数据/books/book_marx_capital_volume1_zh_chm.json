@@ -1,0 +1,39 @@
+{
+  "id": "book_marx_capital_volume1_zh_chm",
+  "type": "book",
+  "name_zh": "卡尔·马克思《资本论》第一卷：资本的生产过程",
+  "name_en": "Capital, Volume I: The Process of Production of Capital",
+  "aliases": ["《资本论》第一卷", "《资本论·政治经济学批判》", "资本的生产过程", "Das Kapital, Volume I"],
+  "author_ids": ["person_karl_marx"],
+  "translator": "",
+  "material_type": "项目CHM电子文本；第一卷前置材料与正文25章；第十六章另据可追溯中文网页补读",
+  "publication_status": "CHM目录标明第一卷《资本的生产过程》，未提供可确认的中译者、出版社、中文出版年、版次、ISBN或纸本页码",
+  "local_source_status": "read_only_verified_volume1_with_local_chapter16_gap",
+  "reading_status": "completed_volume1_with_external_chapter16_supplement",
+  "source_hash_sha256": "3055F537B0FF386A6469FF6748F4A05E23E39C06C4D2A5E33B7BF1CD12C1CDB8",
+  "candidate_zip_hash_sha256": "8C64E6A66F83B1E5EE2908FA135BC5F5620FEEE8E901CFCE81A0B8C22A9A2D5B",
+  "source_locator": "书/哲学害人/学究学究/这那那这/资本论.chm；ZIP候选内CHM同哈希；前置材料capit00.html、capit02.html–capit07.html；正文capitch01.html–capitch15.html及capitch17.html–capitch25.html；本地缺capitch16.html",
+  "sources": [
+    {
+      "book": "《资本论》第一卷项目CHM",
+      "author": "CHM目录索引",
+      "chapter": "题名、卷次与目录",
+      "page": "capitIndex.html；Index.html",
+      "location": "列《资本论·政治经济学批判》第一卷《资本的生产过程》及序言、跋和25章"
+    },
+    {
+      "book": "《资本论》第一卷项目CHM",
+      "author": "卡尔·马克思；恩格斯编订序言",
+      "chapter": "前置材料与正文第一至第十五章、第十七至第二十五章",
+      "page": "capit00.html；capit02.html–capit07.html；capitch01.html–capitch15.html；capitch17.html–capitch25.html",
+      "location": "本地CHM内部HTML全文；无印刷页码"
+    },
+    {
+      "book": "《资本论》第一卷第十六章网页补读",
+      "author": "卡尔·马克思",
+      "chapter": "第十六章〈剩余价值率的各种公式〉",
+      "page": "https://www.marxists.org/chinese/marx/capital/16.htm",
+      "location": "外部中文文本；页面注明根据《马克思恩格斯全集》第23卷、人民出版社1972年版整理；本地CHM版次未核"
+    }
+  ]
+}

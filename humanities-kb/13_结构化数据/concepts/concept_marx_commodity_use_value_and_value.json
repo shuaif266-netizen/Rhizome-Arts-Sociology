@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_commodity_use_value_and_value",
+  "type": "concept",
+  "name_zh": "商品的使用价值与价值（马克思）",
+  "name_en": "",
+  "aliases": [
+    "商品二因素",
+    "使用价值与价值"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch01.html",
+      "chapter": "第一章〈商品〉",
+      "location": "商品的使用价值、价值及交换价值形式",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

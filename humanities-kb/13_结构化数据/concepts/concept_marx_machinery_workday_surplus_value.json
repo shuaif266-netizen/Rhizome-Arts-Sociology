@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_machinery_workday_surplus_value",
+  "type": "concept",
+  "name_zh": "机器体系、工时与相对剩余价值（马克思）",
+  "name_en": "",
+  "aliases": [
+    "机器体系与资本",
+    "机器与工作日"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch10.html；capitch13.html–capitch15.html",
+      "chapter": "第十、十三至十五章",
+      "location": "机器生产、工时强化、工厂制度和劳动排斥",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

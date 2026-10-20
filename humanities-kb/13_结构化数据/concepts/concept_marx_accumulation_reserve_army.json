@@ -1,0 +1,20 @@
+{
+  "id": "concept_marx_accumulation_reserve_army",
+  "type": "concept",
+  "name_zh": "资本积累与产业后备军（马克思）",
+  "name_en": "",
+  "aliases": [
+    "产业后备军",
+    "相对过剩人口",
+    "资本积累的一般规律"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch21.html–capitch23.html",
+      "chapter": "第二十一至第二十三章",
+      "location": "再生产、资本有机构成、集中与相对过剩人口",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

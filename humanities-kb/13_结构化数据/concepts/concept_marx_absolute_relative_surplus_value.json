@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_absolute_relative_surplus_value",
+  "type": "concept",
+  "name_zh": "绝对剩余价值与相对剩余价值（马克思）",
+  "name_en": "",
+  "aliases": [
+    "绝对剩余价值",
+    "相对剩余价值"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch08.html–capitch10.html；capitch14.html；capitch15.html",
+      "chapter": "第八至第十章及第十四、十五章",
+      "location": "工作日延长、生产率、劳动强度和剩余劳动",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

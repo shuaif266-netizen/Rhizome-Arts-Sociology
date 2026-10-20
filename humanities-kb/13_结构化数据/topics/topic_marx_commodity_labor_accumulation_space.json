@@ -1,0 +1,16 @@
+{
+  "id": "topic_marx_commodity_labor_accumulation_space",
+  "type": "topic",
+  "name_zh": "商品、劳动力、资本积累与空间变迁",
+  "aliases": ["资本关系的社会与空间形成", "马克思《资本论》第一卷阅读链"],
+  "related_books": ["book_marx_capital_volume1_zh_chm"],
+  "sources": [
+    {
+      "book": "《资本论》第一卷项目CHM",
+      "author": "卡尔·马克思",
+      "chapter": "第一至第二十五章",
+      "page": "capitch01.html–capitch15.html；第十六章网页补读；capitch17.html–capitch25.html",
+      "location": "商品价值、劳动力、剩余价值、积累、圈地和殖民的跨章关系"
+    }
+  ]
+}

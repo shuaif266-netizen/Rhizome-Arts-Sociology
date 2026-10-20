@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_socially_necessary_labor_time",
+  "type": "concept",
+  "name_zh": "社会必要劳动时间与价值量（马克思）",
+  "name_en": "",
+  "aliases": [
+    "社会必要劳动时间",
+    "价值量"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch01.html；第十章capitch10.html",
+      "chapter": "第一章〈商品〉",
+      "location": "社会平均条件下生产使用价值所需劳动时间及价值量",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

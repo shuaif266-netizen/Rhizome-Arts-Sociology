@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_constant_and_variable_capital",
+  "type": "concept",
+  "name_zh": "不变资本与可变资本（马克思）",
+  "name_en": "",
+  "aliases": [
+    "不变资本",
+    "可变资本"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch06.html；capitch07.html",
+      "chapter": "第六、七章",
+      "location": "生产资料价值转移与劳动力创造新价值的职能区别",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

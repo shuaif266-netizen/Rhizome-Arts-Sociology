@@ -1,0 +1,20 @@
+{
+  "id": "person_karl_marx",
+  "type": "person",
+  "name": "Karl Marx",
+  "name_zh": "卡尔·马克思",
+  "aliases": ["马克思", "Karl Marx"],
+  "fields": ["政治经济学批判", "历史唯物主义", "社会理论"],
+  "related_people": [],
+  "related_books": ["book_marx_capital_volume1_zh_chm"],
+  "sources": [
+    {
+      "book": "《资本论》第一卷项目CHM",
+      "author": "CHM目录索引及第一版序言",
+      "chapter": "书名与第一版序言",
+      "page": "capitIndex.html；capit00.html",
+      "location": "目录署卡尔·马克思著；第一版序言署名并标伦敦、1867年7月25日"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

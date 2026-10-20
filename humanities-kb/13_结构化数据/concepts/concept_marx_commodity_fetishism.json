@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_commodity_fetishism",
+  "type": "concept",
+  "name_zh": "商品拜物教与社会关系物化（马克思）",
+  "name_en": "",
+  "aliases": [
+    "商品拜物教",
+    "物化的社会关系"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch01.html；capitch02.html；capitch03.html",
+      "chapter": "第一章〈商品〉；第二、三章",
+      "location": "私人劳动的社会联系通过商品和货币形式表现",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

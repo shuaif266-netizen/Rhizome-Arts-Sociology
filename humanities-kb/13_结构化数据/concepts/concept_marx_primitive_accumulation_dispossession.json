@@ -1,0 +1,20 @@
+{
+  "id": "concept_marx_primitive_accumulation_dispossession",
+  "type": "concept",
+  "name_zh": "原始积累与生产者被剥夺（马克思）",
+  "name_en": "",
+  "aliases": [
+    "原始积累",
+    "圈地",
+    "生产者与生产资料分离"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch24.html；capitch25.html",
+      "chapter": "第二十四、二十五章",
+      "location": "土地剥夺、殖民、国家权力与雇佣劳动市场",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}

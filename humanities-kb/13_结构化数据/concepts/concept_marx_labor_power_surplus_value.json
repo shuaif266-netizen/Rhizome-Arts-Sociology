@@ -1,0 +1,19 @@
+{
+  "id": "concept_marx_labor_power_surplus_value",
+  "type": "concept",
+  "name_zh": "劳动力商品与剩余价值（马克思）",
+  "name_en": "",
+  "aliases": [
+    "劳动力商品",
+    "剩余价值"
+  ],
+  "sources": [
+    {
+      "author": "卡尔·马克思",
+      "page": "capitch04.html–capitch07.html",
+      "chapter": "第四至第七章",
+      "location": "劳动力价值与使用价值的区别、必要劳动和剩余劳动",
+      "book": "《资本论》第一卷项目CHM"
+    }
+  ]
+}
