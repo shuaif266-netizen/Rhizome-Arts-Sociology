@@ -1,0 +1,31 @@
+{
+  "id": "book_richard_dawkins_river_out_of_eden_zh_chm",
+  "type": "book",
+  "name_zh": "理查德·道金斯《伊甸园之河》",
+  "name_en": "River Out of Eden",
+  "aliases": ["《伊甸园之河》", "伊甸园之河", "River Out of Eden"],
+  "author_ids": ["person_richard_dawkins"],
+  "translator": "王直华",
+  "material_type": "项目CHM电子文本；前言与正文五章",
+  "publication_status": "CHM目录署作者与译者，未提供可确认的出版社、译本出版年、版次、ISBN或纸本页数；前言署1994年于牛津，不据此推定中文版本年份",
+  "local_source_status": "read_only_verified_full_indexed_content",
+  "reading_status": "completed_full_indexed_content",
+  "source_hash_sha256": "6CB07BE372BC8EC82E6BAFC7421CD6ACD77CEB54C961077114107EB412B56025",
+  "source_locator": "书/哲学害人/学究学究/这那那这/伊甸园之河.chm；ZIP内CHM同哈希；前言edenpre.html；正文Eden01.html、eden02.html、eden03.html、eden04.html、eden05.html；无纸本页码",
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "author": "CHM目录索引",
+      "chapter": "书名与目录",
+      "page": "edenriver.html；index.html",
+      "location": "列英文题名、作者、译者、前言与五章"
+    },
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "author": "理查德·道金斯",
+      "chapter": "前言与正文第一至第五章",
+      "page": "edenpre.html；Eden01.html–eden05.html",
+      "location": "CHM内部HTML全文；未提供纸本页码"
+    }
+  ]
+}

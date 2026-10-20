@@ -1,0 +1,19 @@
+{
+  "id": "concept_dawkins_mitochondrial_eve_matrogenealogy",
+  "type": "concept",
+  "name_zh": "线粒体夏娃与母系谱系（道金斯）",
+  "name_en": "",
+  "aliases": [
+    "线粒体夏娃",
+    "母系谱系"
+  ],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "chapter": "第二章",
+      "location": "线粒体DNA、135名女性取样及共同祖先概念边界",
+      "author": "理查德·道金斯",
+      "page": "eden02.html"
+    }
+  ]
+}

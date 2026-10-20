@@ -1,0 +1,19 @@
+{
+  "id": "concept_dawkins_gradual_selection_complexity",
+  "type": "concept",
+  "name_zh": "渐进选择与复杂结构（道金斯）",
+  "name_en": "",
+  "aliases": [
+    "中间形式",
+    "渐进演化"
+  ],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "chapter": "第三章",
+      "location": "拟态、眼睛模型、蜜蜂舞蹈与连续选择梯度",
+      "author": "理查德·道金斯",
+      "page": "eden03.html"
+    }
+  ]
+}

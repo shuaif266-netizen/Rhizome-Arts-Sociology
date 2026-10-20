@@ -1,0 +1,19 @@
+{
+  "id": "concept_dawkins_phenotype_replicator_threshold",
+  "type": "concept",
+  "name_zh": "表现型与复制者门槛（道金斯）",
+  "name_en": "",
+  "aliases": [
+    "表现型门槛",
+    "复制者门槛"
+  ],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "chapter": "第五章",
+      "location": "表现型、细胞与复制信息影响范围的分层叙述",
+      "author": "理查德·道金斯",
+      "page": "eden05.html"
+    }
+  ]
+}

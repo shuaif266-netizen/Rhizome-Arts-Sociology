@@ -1,0 +1,19 @@
+{
+  "id": "concept_dawkins_reproductive_cost_aging",
+  "type": "concept",
+  "name_zh": "繁殖成本、衰老与选择压力（道金斯）",
+  "name_en": "",
+  "aliases": [
+    "繁殖取舍",
+    "衰老的演化解释"
+  ],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "chapter": "第四章",
+      "location": "鲑鱼繁殖、晚发效应、衰老和多效性理论",
+      "author": "理查德·道金斯",
+      "page": "eden04.html"
+    }
+  ]
+}

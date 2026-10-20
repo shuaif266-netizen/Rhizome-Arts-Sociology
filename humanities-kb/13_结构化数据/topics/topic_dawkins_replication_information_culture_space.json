@@ -1,0 +1,16 @@
+{
+  "id": "topic_dawkins_replication_information_culture_space",
+  "type": "topic",
+  "name_zh": "基因信息、身体表现型、文化媒介与宇宙通信",
+  "aliases": ["复制者—表现型—文化传播", "道金斯跨学科阅读链"],
+  "related_books": ["book_richard_dawkins_river_out_of_eden_zh_chm"],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "author": "理查德·道金斯",
+      "chapter": "前言与第一至第五章",
+      "page": "edenpre.html；Eden01.html–eden05.html",
+      "location": "从遗传复制、身体发育与行为，延展到语言、文化模因和技术传播"
+    }
+  ]
+}

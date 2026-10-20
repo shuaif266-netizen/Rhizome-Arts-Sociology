@@ -1,0 +1,19 @@
+{
+  "id": "concept_dawkins_replicator_utility_tradeoffs",
+  "type": "concept",
+  "name_zh": "复制者的实用功能与繁殖取舍（道金斯）",
+  "name_en": "",
+  "aliases": [
+    "基因复制成功",
+    "演化实用功能"
+  ],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "chapter": "第四章",
+      "location": "性别比、亲代投入、竞争、生命周期与自然选择的非目的性",
+      "author": "理查德·道金斯",
+      "page": "eden04.html"
+    }
+  ]
+}

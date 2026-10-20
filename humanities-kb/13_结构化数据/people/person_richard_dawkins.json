@@ -1,0 +1,20 @@
+{
+  "id": "person_richard_dawkins",
+  "type": "person",
+  "name": "Richard Dawkins",
+  "name_zh": "理查德·道金斯",
+  "aliases": ["R. 道金斯", "R. Dawkins"],
+  "fields": ["演化生物学", "科学写作"],
+  "related_people": [],
+  "related_books": ["book_richard_dawkins_river_out_of_eden_zh_chm"],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "author": "CHM目录索引",
+      "chapter": "书名与目录",
+      "page": "edenriver.html",
+      "location": "列 Richard Dawkins / R. 道金斯著、王直华译；此条只确认本书作者署名"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

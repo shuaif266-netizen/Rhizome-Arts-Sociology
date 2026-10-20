@@ -1,0 +1,19 @@
+{
+  "id": "concept_dawkins_digital_gene_river",
+  "type": "concept",
+  "name_zh": "DNA之河与数字遗传信息（道金斯）",
+  "name_en": "",
+  "aliases": [
+    "DNA之河",
+    "数字遗传信息"
+  ],
+  "sources": [
+    {
+      "book": "《伊甸园之河》项目CHM",
+      "chapter": "前言、第一章",
+      "location": "遗传信息复制、数字编码、物质身体与胚胎发育",
+      "author": "理查德·道金斯",
+      "page": "edenpre.html；Eden01.html"
+    }
+  ]
+}
