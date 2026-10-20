@@ -1,0 +1,42 @@
+{
+  "id": "book_ilit_azoulay_special_focus_unit_125pp",
+  "type": "book",
+  "name_zh": "Ilit Azoulay“特别关注单元”项目作品集",
+  "name_en": "Ilit Azoulay (special focus project unit)",
+  "aliases": [
+    "Ilit Azoulay项目PDF",
+    "Ilit Azoulay 125页作品资料"
+  ],
+  "artist_ids": [
+    "person_ilit_azoulay"
+  ],
+  "material_type": "course unit / artist portfolio / theory and history references",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 125,
+  "word_volume_count": 7,
+  "page_coverage": "项目PDF pp.1–125/125；七份Word页标连续覆盖pp.1–20至121–125",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_unit",
+  "source_sha256": "67D5E39497647A6D03EF681524144903A5A53EA2C56D35EF128618553A3DD72C",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Ilit Azoulay .pdf；原PDF与Word分卷只读留在本地",
+  "sources": [
+    {
+      "book": "Ilit Azoulay“特别关注单元”项目作品集",
+      "author": "Ilit Azoulay",
+      "page": "项目PDF p.1",
+      "location": "题签、艺术家姓名、出生年份标记与日期"
+    },
+    {
+      "book": "Ilit Azoulay“特别关注单元”项目作品集",
+      "author": "Hannah Arendt（课件所标导言作者）",
+      "page": "项目PDF pp.2–8",
+      "location": "Benjamin选集封面与收藏／物件论述参照"
+    },
+    {
+      "book": "Ilit Azoulay“特别关注单元”项目作品集",
+      "author": "Ilit Azoulay",
+      "page": "项目PDF pp.11–123",
+      "location": "作品系列标题、图版、题注与展览视图"
+    }
+  ]
+}

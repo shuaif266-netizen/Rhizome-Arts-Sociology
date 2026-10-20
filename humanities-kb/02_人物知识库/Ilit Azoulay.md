@@ -29,3 +29,10 @@ p.26把作品中的黄线、吸音设施、钢筋、地图、装饰画、椅子�
 ## 来源
 
 《当代艺术摄影与符号学》03，PDF pp.19–28；2026-09-23逐页视觉核读。
+
+## 2026-10-20新增来源：Ilit Azoulay“特别关注单元”
+
+- PDF第1页以“特别关注单元”题签列出Ilit Azoulay和b.1972；本地文件没有正式出版信息。
+- 课程单元pp.2–8展示Walter Benjamin《启迪》及归于Hannah Arendt导言的收藏论述；这些引文是课程框架，不能写成Azoulay的自述。
+- 本项目PDF呈现Unknown Aspects、Messengers、Room #8、Regarding Silences、No Thing Dies、Vitrine、Transferumbau与Bricolage等系列，页码和材料边界见[整卷档案](../01_单书档案/Ilit_Azoulay_特别关注单元_项目作品集_整卷阅读档案.md)。
+- p.124关于1933年转移协议与p.125“特拉维夫白城”是本地课件的历史参照，具体来源和解释仍待核。
