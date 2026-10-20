@@ -1,0 +1,39 @@
+{
+  "id": "book_lorna_simpson_photographic_works_project_archive",
+  "type": "book",
+  "name_zh": "Lorna Simpson《Photographic Works》项目网站作品档案",
+  "name_en": "Photographic Works (project website archive)",
+  "aliases": [
+    "Lorna Simpson作品集",
+    "Lorna Simpson Photographic Works项目PDF"
+  ],
+  "artist_ids": [
+    "person_lorna_simpson"
+  ],
+  "material_type": "artist website portfolio / PDF export",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 390,
+  "word_volume_count": 20,
+  "page_coverage": "项目PDF pp.1–390/390；Word分卷文件名页段连续",
+  "capture_date_text": "PDF p.1显示2020.12.5；是否为网页更新时间或导出日期未核",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_archive",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Lorna Simpson.pdf；原PDF与Word分卷留本地只读，不上传原件",
+  "sources": [
+    {
+      "book": "Lorna Simpson《Photographic Works》项目网站作品档案",
+      "page": "项目PDF p.1",
+      "location": "页首列艺术家姓名、出生年份、网站地址及日期"
+    },
+    {
+      "book": "Lorna Simpson《Photographic Works》项目网站作品档案",
+      "page": "项目PDF p.2",
+      "location": "分节标题Photographic Works"
+    },
+    {
+      "book": "Lorna Simpson《Photographic Works》项目网站作品档案",
+      "page": "项目PDF p.390",
+      "location": "本地PDF末页；未见出版社或版权页"
+    }
+  ]
+}

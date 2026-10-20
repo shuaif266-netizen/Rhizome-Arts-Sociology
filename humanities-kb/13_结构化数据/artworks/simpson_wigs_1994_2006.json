@@ -1,0 +1,18 @@
+{
+  "id": "artwork_simpson_wigs_1994_2006",
+  "type": "artwork",
+  "name": "Wigs / Wigs II",
+  "name_zh": "Lorna Simpson《假发》系列",
+  "aliases": [
+    "Wigs 1994–2006",
+    "Wigs II 1994–2006"
+  ],
+  "artist_ids": [
+    "person_lorna_simpson"
+  ],
+  "date_text": "1994–2006",
+  "medium_notes": "项目图册显示毛毡、印刷和装置材料；细项以各作品题注为准",
+  "source_book_id": "book_lorna_simpson_photographic_works_project_archive",
+  "source_pages_pdf": "204–218",
+  "source_status": "project portfolio caption verified"
+}

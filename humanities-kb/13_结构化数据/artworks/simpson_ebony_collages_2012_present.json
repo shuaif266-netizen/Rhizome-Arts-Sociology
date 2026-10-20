@@ -1,0 +1,18 @@
+{
+  "id": "artwork_simpson_ebony_collages_2012_present",
+  "type": "artwork",
+  "name": "Ebony Collages",
+  "name_zh": "Lorna Simpson《乌木拼贴》系列",
+  "aliases": [
+    "Ebony Collages 2012–2018",
+    "Ebony Collages 2014–Present"
+  ],
+  "artist_ids": [
+    "person_lorna_simpson"
+  ],
+  "date_text": "项目PDF分别标注2012–2018及2014–Present两个阶段，边界保留原题注",
+  "medium_notes": "以Ebony杂志及其他印刷图像构成拼贴；具体期号和剪贴来源未逐件核实",
+  "source_book_id": "book_lorna_simpson_photographic_works_project_archive",
+  "source_pages_pdf": "321–355",
+  "source_status": "project portfolio caption verified"
+}
