@@ -50,4 +50,4 @@
 
 ## 下一步
 
-路线第02项为Annette Kelm 02项目图册。Anne Collier这一项的阅读档案、概念卡、人物页和跨学科链已建立；GitHub推送状态将在提交后补记。
+路线第02项为Annette Kelm 02项目图册。Anne Collier这一项的阅读档案、概念卡、人物页和跨学科链已建立；已推送GitHub，内容提交 b842d8f；远端main与该提交一致。
