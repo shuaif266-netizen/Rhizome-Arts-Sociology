@@ -1,0 +1,15 @@
+{
+  "id": "concept_maine_family_as_legal_unit",
+  "type": "concept",
+  "name_zh": "宗法家族与法律人格",
+  "name_en": "Patriarchal family and legal personhood",
+  "aliases": ["家父权与宗亲关系"],
+  "sources": [
+    {
+      "book": "《古代法》",
+      "author": "梅因",
+      "page": "第五至第七章，anci_lawch05.html–anci_lawch07.html",
+      "location": "作者对家父权、宗亲、收养、继承和家族法律单位的论述"
+    }
+  ]
+}

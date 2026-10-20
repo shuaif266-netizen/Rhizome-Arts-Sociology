@@ -1,0 +1,15 @@
+{
+  "id": "concept_maine_status_to_contract",
+  "type": "concept",
+  "name_zh": "身分到契约",
+  "name_en": "From status to contract",
+  "aliases": ["梅因的历史命题"],
+  "sources": [
+    {
+      "book": "《古代法》",
+      "author": "梅因",
+      "page": "第五章结尾，anci_lawch05.html",
+      "location": "由家族／亲属关系规定的法律位置，逐步转向以个人合意组织关系；作为作者的历史概括记录"
+    }
+  ]
+}

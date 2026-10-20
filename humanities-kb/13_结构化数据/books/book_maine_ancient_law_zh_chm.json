@@ -1,0 +1,22 @@
+{
+  "id": "book_maine_ancient_law_zh_chm",
+  "type": "book",
+  "name_zh": "梅因《古代法》",
+  "name_en": "Ancient Law",
+  "aliases": ["《古代法》", "《古代法：与社会早期历史的联系及其与现代思想的关系》（副题信息未由项目CHM题名页确认）"],
+  "author_ids": ["person_henry_sumner_maine"],
+  "translator": "沈景一（据CHM索引）",
+  "material_type": "CHM电子文本，含作者序、1931年编者导言与十章正文",
+  "publication_status": "paper edition not verified",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_chm_contents",
+  "source_hash_sha256": "949BB56C7B13FAFF4687917EE53C83D8DBEEEA99CA8978704B3FFCCD57C8F2D6",
+  "source_locator": "书/哲学害人/学究学究/这那那这/古代法.chm；仓库仅收阅读档案与索引，不上传原始CHM或全文转码件",
+  "sources": [
+    {
+      "book": "《古代法》项目CHM",
+      "page": "anci_lawIndex.html；anci_law00.html；anci_lawch01.html–anci_lawch10.html",
+      "location": "CHM索引署作者与译者；前言、编者导言和十章正文已核读"
+    }
+  ]
+}

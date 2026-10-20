@@ -1,0 +1,16 @@
+{
+  "id": "topic_maine_kinship_property_contract_law_evolution",
+  "type": "topic",
+  "name_zh": "亲属共同体、财产、法律人格与契约秩序",
+  "name_en": "Kinship, property, legal personhood, and contract",
+  "aliases": ["梅因《古代法》的制度变迁链"],
+  "status": "suggested reading path",
+  "sources": [
+    {
+      "book": "《古代法》",
+      "author": "梅因；跨学科路径由知识库编者整理",
+      "page": "CHM anci_lawch01.html–anci_lawch10.html",
+      "location": "家族单位、财产归属、法律人格、契约关系与侵权／犯罪制度"
+    }
+  ]
+}

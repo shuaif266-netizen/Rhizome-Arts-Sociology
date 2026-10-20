@@ -1,0 +1,15 @@
+{
+  "id": "concept_maine_tort_and_crime",
+  "type": "concept",
+  "name_zh": "侵权赔偿与刑事公诉",
+  "name_en": "Private wrongs and public crimes",
+  "aliases": ["不法行为与犯罪的区分"],
+  "sources": [
+    {
+      "book": "《古代法》",
+      "author": "梅因",
+      "page": "第十章，anci_lawch10.html",
+      "location": "作者对侵权赔偿、特别公诉、审问处与常设刑事法院的历史解释"
+    }
+  ]
+}

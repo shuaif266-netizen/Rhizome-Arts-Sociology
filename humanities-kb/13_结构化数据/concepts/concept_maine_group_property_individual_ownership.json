@@ -1,0 +1,15 @@
+{
+  "id": "concept_maine_group_property_individual_ownership",
+  "type": "concept",
+  "name_zh": "共同体财产与个人所有",
+  "name_en": "Communal property and individual ownership",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《古代法》",
+      "author": "梅因",
+      "page": "第八章，anci_lawch08.html",
+      "location": "共同体财产、罗马财产类别、交付、时效取得和永佃权"
+    }
+  ]
+}

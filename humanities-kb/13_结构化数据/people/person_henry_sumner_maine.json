@@ -1,0 +1,18 @@
+{
+  "id": "person_henry_sumner_maine",
+  "type": "person",
+  "name": "Henry Maine",
+  "name_zh": "亨利·梅因",
+  "aliases": ["梅因", "Maine"],
+  "fields": ["历史法学", "比较法", "罗马法", "契约与社会制度"],
+  "related_books": ["book_maine_ancient_law_zh_chm"],
+  "sources": [
+    {
+      "book": "《古代法》项目CHM",
+      "page": "anci_lawIndex.html；anci_law00.html",
+      "location": "CHM署作者“〔英〕梅因”；作者序与编者导言讨论其历史法律学位置",
+      "note": "人物入口仅按项目文本记录，不补写未由底本核验的传记细节。"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
