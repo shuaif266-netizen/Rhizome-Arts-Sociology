@@ -1,0 +1,23 @@
+{
+  "id": "book_rawls_law_of_peoples_zh_chm",
+  "type": "book",
+  "name_zh": "罗尔斯《万民法》",
+  "name_en": "The Law of Peoples",
+  "aliases": ["《万民法》"],
+  "author_ids": ["person_john_rawls"],
+  "translator": "舒炜（据CHM索引）",
+  "material_type": "CHM电子文本，含前言、八节正文与注释",
+  "original_publication_note": "末尾注释注明英文原文发表于 Critical Inquiry, Autumn 1993",
+  "publication_status": "Chinese paper edition not verified",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_chm_contents",
+  "source_hash_sha256": "1946813B546CD41A767314A1DD2979D95736AE984E417E31C9862025E8CD16B8",
+  "source_locator": "书/哲学害人/学究学究/这那那这/万民法.chm；仓库仅收阅读档案和索引，不上传原始CHM或全文转码件",
+  "sources": [
+    {
+      "book": "《万民法》项目CHM",
+      "page": "index.html；wmf00.htm–wmf09.htm",
+      "location": "索引署作者/译者；正文含前言、八节和注释，末注含英文发表线索"
+    }
+  ]
+}

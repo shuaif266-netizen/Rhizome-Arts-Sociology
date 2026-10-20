@@ -1,0 +1,15 @@
+{
+  "id": "concept_rawls_decent_hierarchical_society",
+  "type": "concept",
+  "name_zh": "秩序良好的等级社会",
+  "name_en": "Decent hierarchical society",
+  "aliases": ["秩序良好的非自由社会"],
+  "sources": [
+    {
+      "book": "《万民法》",
+      "author": "约翰·罗尔斯",
+      "page": "第四节；CHM wmf04.htm",
+      "location": "和平、非扩张、共同善法律秩序、协商等级制与基本人权条件"
+    }
+  ]
+}

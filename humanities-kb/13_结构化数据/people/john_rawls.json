@@ -4,6 +4,7 @@
   "name_zh": "约翰·罗尔斯",
   "name_en": "John Rawls",
   "aliases": [],
+  "related_books": ["book_rawls_law_of_peoples_zh_chm"],
   "sources": [
     {
       "book": "《自由人的平等政治》",
@@ -11,6 +12,12 @@
       "chapter": "第1–6章",
       "page": "PDF pp.24–228",
       "location": "原初状态、差异原则、正当与“好”、稳定性及政治自由主义；记录周保松的阐释，不归为罗尔斯原话"
+    },
+    {
+      "book": "《万民法》项目CHM",
+      "author": "约翰·罗尔斯（CHM目录署名）",
+      "page": "index.html；wmf00.htm–wmf09.htm",
+      "location": "万民法、民族代表、秩序良好的等级社会、人权、非理想理论与援助义务"
     }
   ]
 }

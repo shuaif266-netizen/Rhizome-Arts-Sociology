@@ -1,0 +1,16 @@
+{
+  "id": "topic_rawls_human_rights_law_peoples_toleration",
+  "type": "topic",
+  "name_zh": "人权—国际秩序—自由主义宽容",
+  "name_en": "Human rights, international order, and liberal toleration",
+  "aliases": ["罗尔斯《万民法》的跨学科制度链"],
+  "status": "suggested reading path",
+  "sources": [
+    {
+      "book": "《万民法》",
+      "author": "约翰·罗尔斯；跨学科路径由知识库编者整理",
+      "page": "CHM wmf00.htm–wmf09.htm",
+      "location": "国内政治自由主义、民族间原则、等级社会、人权底线、强制与援助义务"
+    }
+  ]
+}
