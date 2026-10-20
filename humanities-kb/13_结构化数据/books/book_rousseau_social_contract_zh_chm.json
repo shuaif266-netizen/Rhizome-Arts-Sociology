@@ -1,0 +1,23 @@
+{
+  "id": "book_rousseau_social_contract_zh_chm",
+  "type": "book",
+  "name_zh": "卢梭《社会契约论》",
+  "name_en": "The Social Contract, or Principles of Political Right (subtitle cited in CHM index)",
+  "aliases": ["《民约论》", "《社会契约论：政治权利的原理》"],
+  "author_ids": ["person_jean_jacques_rousseau"],
+  "translator": "何兆武（据CHM首页）",
+  "subtitle_zh": "一名：政治权利的原理",
+  "material_type": "CHM电子文本，含四卷正文与《日内瓦手稿》片段附录",
+  "publication_status": "paper edition not verified",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_chm_contents",
+  "source_hash_sha256": "F68A11E65B0AAD2714BA8A106AA661CEFDF682A147658B423C0105E32F4F33BC",
+  "source_locator": "书/哲学害人/学究学究/这那那这/社会契约论.chm；阅读成果归档，不上传原始CHM、ZIP或全文转码件",
+  "sources": [
+    {
+      "book": "《社会契约论》项目CHM",
+      "page": "index.html；sociach01.html–sociach05.html",
+      "location": "首页署作者/译者，目录列前言、四卷与附录"
+    }
+  ]
+}

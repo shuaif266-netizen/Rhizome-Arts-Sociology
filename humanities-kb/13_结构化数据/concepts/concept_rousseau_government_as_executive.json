@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_government_as_executive",
+  "type": "concept",
+  "name_zh": "政府与主权者的区分",
+  "name_en": "government and sovereign distinction",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第三卷第1–3、16–18章，CHM sociach03.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "topic_rousseau_social_contract_law_religion",
+  "type": "topic",
+  "name_zh": "共同体—公意—一般法律—公民信仰",
+  "name_en": "Community, general will, law, and civic religion",
+  "aliases": ["卢梭《社会契约论》的政治制度链"],
+  "status": "suggested reading path",
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭；跨学科路径由知识库编者整理",
+      "page": "CHM sociach01.html–sociach05.html",
+      "location": "社会公约、主权、法律、政府、人民集会与公民宗教"
+    }
+  ]
+}

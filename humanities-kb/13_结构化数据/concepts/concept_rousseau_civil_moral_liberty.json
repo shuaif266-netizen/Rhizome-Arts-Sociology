@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_civil_moral_liberty",
+  "type": "concept",
+  "name_zh": "公民自由与道德自由",
+  "name_en": "civil and moral liberty",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第一卷第8–9章，CHM sociach01.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}

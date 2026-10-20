@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_social_contract",
+  "type": "concept",
+  "name_zh": "社会公约与政治共同体",
+  "name_en": "social contract and political community",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第一卷第5–7章，CHM sociach01.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}

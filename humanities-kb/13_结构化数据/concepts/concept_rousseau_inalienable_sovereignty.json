@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_inalienable_sovereignty",
+  "type": "concept",
+  "name_zh": "主权不可转让与不可分割",
+  "name_en": "inalienable and indivisible sovereignty",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第二卷第1–2章，CHM sociach02.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}

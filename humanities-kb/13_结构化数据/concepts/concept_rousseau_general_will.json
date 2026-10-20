@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_general_will",
+  "type": "concept",
+  "name_zh": "公意与众意",
+  "name_en": "general will and will of all",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第二卷第1–3章、第四卷第1–2章，CHM sociach02.html、sociach04.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}

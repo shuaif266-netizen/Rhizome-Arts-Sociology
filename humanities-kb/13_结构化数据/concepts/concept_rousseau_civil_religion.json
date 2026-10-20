@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_civil_religion",
+  "type": "concept",
+  "name_zh": "公民宗教",
+  "name_en": "civil religion",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第四卷第8章，CHM sociach04.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}

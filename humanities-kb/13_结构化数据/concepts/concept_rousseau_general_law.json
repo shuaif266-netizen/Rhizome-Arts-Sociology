@@ -1,0 +1,15 @@
+{
+  "id": "concept_rousseau_general_law",
+  "type": "concept",
+  "name_zh": "法律的普遍性",
+  "name_en": "generality of law",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "卢梭《社会契约论》",
+      "author": "卢梭",
+      "page": "第二卷第6章，CHM sociach02.html",
+      "location": "按CHM卷章和内部HTML文件定位"
+    }
+  ]
+}
