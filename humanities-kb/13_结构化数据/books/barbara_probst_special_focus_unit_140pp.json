@@ -1,0 +1,34 @@
+{
+  "id": "book_barbara_probst_special_focus_unit_140pp",
+  "type": "book",
+  "name_zh": "Barbara Probst“特别关注单元”项目作品图册",
+  "name_en": "Barbara Probst (special focus project unit)",
+  "aliases": [
+    "Barbara Probst项目PDF",
+    "Barbara Probst 140页作品单元"
+  ],
+  "artist_ids": [
+    "person_barbara_probst"
+  ],
+  "material_type": "course unit / artist portfolio / reference slides",
+  "publication_status": "not_a_verified_formal_book",
+  "page_count_pdf": 140,
+  "word_volume_count": 7,
+  "page_coverage": "项目PDF pp.1–140/140；七份Word页标连续覆盖pp.1–20至121–140",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_unit",
+  "source_sha256": "F243224F641079AB8038A2D1432674A2E48CD302034F00D5AF887A6473BD8DC4",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Barbara Probst.pdf；原PDF与Word分卷只读留在本地",
+  "sources": [
+    {
+      "book": "Barbara Probst“特别关注单元”项目作品图册",
+      "page": "项目PDF p.1",
+      "location": "题签、艺术家姓名、网站与日期"
+    },
+    {
+      "book": "Barbara Probst“特别关注单元”项目作品图册",
+      "page": "项目PDF pp.1–140",
+      "location": "Exposure系列、艺术家自述、参考材料与展览安装视图"
+    }
+  ]
+}
