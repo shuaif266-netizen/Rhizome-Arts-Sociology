@@ -1,0 +1,14 @@
+{
+  "id": "person_virginia_woolf",
+  "type": "person",
+  "name_zh": "弗吉尼亚·伍尔夫",
+  "name_en": "Virginia Woolf",
+  "aliases": ["Virginia Woolf", "伍尔夫"],
+  "source_book_id": "book_woolf_mark_on_wall_short_fiction_herui_2017",
+  "related_books": ["book_woolf_mark_on_wall_short_fiction_herui_2017"],
+  "sources": [
+    {"book": "《墙上的斑点：伍尔夫短篇小说选》", "page": "项目PDF pp.1–6", "location": "中文封面、CIP与目录，作者署名及收录篇目"},
+    {"book": "The Mark on the Wall and Other Short Fiction", "page": "项目PDF pp.254–255", "location": "英文书名页与目录"}
+  ],
+  "last_updated": "2026-10-20"
+}

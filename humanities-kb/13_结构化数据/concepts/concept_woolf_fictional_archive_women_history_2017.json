@@ -1,0 +1,15 @@
+{
+  "id": "concept_woolf_fictional_archive_women_history_2017",
+  "type": "concept",
+  "name_zh": "虚构日记、档案与女性历史",
+  "name_en": "fictional diary, archive and women's history",
+  "aliases": ["琼·马丁小姐的日记", "史料与想象"],
+  "source_book_id": "book_woolf_mark_on_wall_short_fiction_herui_2017",
+  "source_pages_pdf": "109–151, 367–413",
+  "definition_status": "source_limited",
+  "definitions": [
+    {"source_pages_pdf": "109–151, 367–413", "chapter": "《琼·马丁小姐的日记》 / The Journal of Mistress Joan Martyn", "definition": "小说以现代历史学家的寻访框架嵌套虚构的15世纪女性日记，把档案残缺、日常生活、庄园土地、婚姻和女性读写经验并置。该日记是文学构造，不是真实中世纪史料。"}
+  ],
+  "related_concepts": ["concept_stream_of_consciousness_literature"],
+  "last_updated": "2026-10-20"
+}

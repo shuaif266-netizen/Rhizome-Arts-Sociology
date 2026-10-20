@@ -1,0 +1,15 @@
+{
+  "id": "concept_woolf_everyday_objects_attention_stream_2017",
+  "type": "concept",
+  "name_zh": "日常物件、注意力与意识流",
+  "name_en": "everyday objects, attention and stream of consciousness",
+  "aliases": ["墙上斑点", "物件触发的联想"],
+  "source_book_id": "book_woolf_mark_on_wall_short_fiction_herui_2017",
+  "source_pages_pdf": "7–15, 50–56, 101–108, 256–265, 303–310, 358–366",
+  "definition_status": "source_limited",
+  "definitions": [
+    {"source_pages_pdf": "7–15, 50–56, 101–108", "chapter": "《墙上的斑点》《坚实之物》《邱园》", "definition": "知识库据本选本归纳：斑点、玻璃块和蜗牛等具体物件牵引记忆、联想、感觉与社会观察；它们为意识流动提供落点，但不构成伍尔夫明确提出的统一理论。"}
+  ],
+  "related_concepts": ["concept_stream_of_consciousness_literature", "concept_object_accumulation"],
+  "last_updated": "2026-10-20"
+}

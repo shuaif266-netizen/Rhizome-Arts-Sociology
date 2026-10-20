@@ -1,0 +1,15 @@
+{
+  "id": "concept_woolf_animal_senses_class_freedom_flush_2017",
+  "type": "concept",
+  "name_zh": "动物感官、分类与自由",
+  "name_en": "animal senses, classification and freedom",
+  "aliases": ["《弗拉希》", "犬种等级", "嗅觉叙事"],
+  "source_book_id": "book_woolf_mark_on_wall_short_fiction_herui_2017",
+  "source_pages_pdf": "152–243, 414–510",
+  "definition_status": "source_limited",
+  "definitions": [
+    {"source_pages_pdf": "152–243, 414–510", "chapter": "《弗拉希：传记》 / Flush: A Biography", "definition": "小说借犬种协会、链条、街巷空间和嗅觉经验映照人类社会的等级分类与活动自由。弗拉希的内在经验属于文学拟人叙述，不作为真实动物心理的科学证据。"}
+  ],
+  "related_concepts": ["concept_woolf_clothing_mirror_social_gaze_2017"],
+  "last_updated": "2026-10-20"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "book_woolf_mark_on_wall_short_fiction_herui_2017",
+  "type": "book",
+  "name_zh": "《墙上的斑点：伍尔夫短篇小说选》",
+  "name_original": "The Mark on the Wall and Other Short Fiction",
+  "aliases": ["《墙上的斑点》", "The Mark on the Wall and Other Short Fiction"],
+  "author_id": "person_virginia_woolf",
+  "translator": "何蕊",
+  "publisher": "译林出版社",
+  "publication_year": 2017,
+  "edition_and_printing": "2017年1月第1版、第1次印刷；双语译林·壹力文库",
+  "isbn": "978-7-5447-6759-0",
+  "pdf_page_count": 517,
+  "word_volume_count": 13,
+  "reading_status": "completed",
+  "source_locator": "新鬼专栏课件/想象的游荡：当代艺术与文学/参考阅读/【中译】墙上的斑点——伍尔夫短篇小说选（双语).pdf；PDF共517页，13份Word分卷文件名连续覆盖pp.1–517",
+  "source_note": "整本阅读覆盖中文译文14篇（项目PDF pp.7–243）、中文注释（pp.244–247）、书目广告附页（pp.248–253）、英文书名页与目录（pp.254–255）、英文原作14篇（pp.256–510）及英文尾注12则（pp.511–517）。Word分卷以页图为主；逐页OCR用于识读，关键篇题、页界和卷末回看PDF。原件留在项目文件夹只读。",
+  "contents": [
+    {"name_zh": "《墙上的斑点》", "name_original": "The Mark on the Wall", "pages_zh_pdf": "7–15", "pages_en_pdf": "256–265"},
+    {"name_zh": "《三个画面》", "name_original": "Three Pictures", "pages_zh_pdf": "16–20", "pages_en_pdf": "266–270"},
+    {"name_zh": "《新装》", "name_original": "The New Dress", "pages_zh_pdf": "21–30", "pages_en_pdf": "271–281"},
+    {"name_zh": "《热爱同类者的人》", "name_original": "The Man Who Loved His Kind", "pages_zh_pdf": "31–38", "pages_en_pdf": "282–290"},
+    {"name_zh": "《拉平与拉平诺娃》", "name_original": "Lappin and Lapinova", "pages_zh_pdf": "39–49", "pages_en_pdf": "291–302"},
+    {"name_zh": "《坚实之物》", "name_original": "Solid Objects", "pages_zh_pdf": "50–56", "pages_en_pdf": "303–310"},
+    {"name_zh": "《公爵夫人与珠宝商》", "name_original": "The Duchess and the Jeweller", "pages_zh_pdf": "57–66", "pages_en_pdf": "311–320"},
+    {"name_zh": "《遗物》", "name_original": "The Legacy", "pages_zh_pdf": "67–76", "pages_en_pdf": "321–330"},
+    {"name_zh": "《探照灯》", "name_original": "The Searchlight", "pages_zh_pdf": "77–82", "pages_en_pdf": "331–337"},
+    {"name_zh": "《镜中的女人——一幅映像》", "name_original": "The Lady in the Looking-Glass: A Reflection", "pages_zh_pdf": "83–89", "pages_en_pdf": "338–345"},
+    {"name_zh": "《狩猎会》", "name_original": "The Shooting Party", "pages_zh_pdf": "90–100", "pages_en_pdf": "346–357"},
+    {"name_zh": "《邱园》", "name_original": "Kew Gardens", "pages_zh_pdf": "101–108", "pages_en_pdf": "358–366"},
+    {"name_zh": "《琼·马丁小姐的日记》", "name_original": "The Journal of Mistress Joan Martyn", "pages_zh_pdf": "109–151", "pages_en_pdf": "367–413"},
+    {"name_zh": "《弗拉希》", "name_original": "Flush: A Biography", "pages_zh_pdf": "152–243", "pages_en_pdf": "414–510"}
+  ],
+  "related_people": ["person_virginia_woolf"],
+  "related_concepts": [
+    "concept_woolf_everyday_objects_attention_stream_2017",
+    "concept_woolf_clothing_mirror_social_gaze_2017",
+    "concept_woolf_animal_senses_class_freedom_flush_2017",
+    "concept_woolf_fictional_archive_women_history_2017",
+    "concept_stream_of_consciousness_literature"
+  ],
+  "related_topics": ["topic_woolf_narrative_objects_social_position_animal_senses_2017"],
+  "sources": [
+    {"location": "中文书名、作者、译者、出版信息及ISBN", "page": "项目PDF pp.1–3", "chapter": "封面、CIP与版权页", "author": "Virginia Woolf；何蕊译", "book": "《墙上的斑点：伍尔夫短篇小说选》"},
+    {"location": "14篇中文目录", "page": "项目PDF p.6", "chapter": "中文目录", "author": "Virginia Woolf", "book": "《墙上的斑点：伍尔夫短篇小说选》"},
+    {"location": "英文书名和14篇英文目录", "page": "项目PDF pp.254–255", "chapter": "英文书名页与英文目录", "author": "Virginia Woolf", "book": "The Mark on the Wall and Other Short Fiction"},
+    {"location": "中文译文14篇及中文注释", "page": "项目PDF pp.7–247", "chapter": "14篇正文及译注", "author": "Virginia Woolf；何蕊译", "book": "《墙上的斑点：伍尔夫短篇小说选》"},
+    {"location": "英文原作14篇及英文尾注12则", "page": "项目PDF pp.256–517", "chapter": "14篇正文及卷末注释", "author": "Virginia Woolf", "book": "The Mark on the Wall and Other Short Fiction"}
+  ],
+  "last_updated": "2026-10-20"
+}

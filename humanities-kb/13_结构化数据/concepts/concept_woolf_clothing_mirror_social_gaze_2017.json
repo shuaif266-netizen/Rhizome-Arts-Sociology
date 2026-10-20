@@ -1,0 +1,15 @@
+{
+  "id": "concept_woolf_clothing_mirror_social_gaze_2017",
+  "type": "concept",
+  "name_zh": "服饰、镜面与社交凝视",
+  "name_en": "clothing, mirrors and the social gaze",
+  "aliases": ["黄色连衣裙", "镜中女性形象", "社交评价"],
+  "source_book_id": "book_woolf_mark_on_wall_short_fiction_herui_2017",
+  "source_pages_pdf": "16–30, 83–89, 266–281, 338–345",
+  "definition_status": "source_limited",
+  "definitions": [
+    {"source_pages_pdf": "16–30, 83–89", "chapter": "《三个画面》《新装》《镜中的女人——一幅映像》", "definition": "知识库据小说场景归纳：服饰、镜面和旁观目光把阶级位置、性别期待与自我判断带入人物经验；观察者对女性内心的解释本身也可能是投射，而非透明事实。"}
+  ],
+  "related_concepts": ["concept_returning_the_gaze", "concept_male_gaze"],
+  "last_updated": "2026-10-20"
+}

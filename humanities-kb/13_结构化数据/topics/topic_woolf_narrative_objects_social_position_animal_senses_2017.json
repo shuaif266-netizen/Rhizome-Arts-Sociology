@@ -1,0 +1,16 @@
+{
+  "id": "topic_woolf_narrative_objects_social_position_animal_senses_2017",
+  "type": "topic",
+  "name_zh": "日常物件、内在视点、社会位置与动物感官",
+  "aliases": ["伍尔夫短篇小说的跨学科阅读路径"],
+  "description": "知识库依据《墙上的斑点：伍尔夫短篇小说选》整本阅读建立的跨学科路径：从日常物件触发的意识活动出发，考察图像、服饰与镜面中的社会观看，再转向档案叙事、女性生活和动物的感官经验。此路径是读者整理，不是伍尔夫在作品中提出的统一理论。",
+  "source_book_ids": ["book_woolf_mark_on_wall_short_fiction_herui_2017"],
+  "related_concepts": [
+    "concept_woolf_everyday_objects_attention_stream_2017",
+    "concept_woolf_clothing_mirror_social_gaze_2017",
+    "concept_woolf_animal_senses_class_freedom_flush_2017",
+    "concept_woolf_fictional_archive_women_history_2017"
+  ],
+  "markdown_path": "humanities-kb/06_跨学科知识链/日常物件—内在视点—社会位置—动物感官：伍尔夫短篇的跨学科阅读.md",
+  "last_updated": "2026-10-20"
+}
