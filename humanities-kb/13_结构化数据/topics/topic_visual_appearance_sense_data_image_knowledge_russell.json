@@ -1,0 +1,9 @@
+{
+  "id": "topic_visual_appearance_sense_data_image_knowledge_russell",
+  "type": "topic",
+  "name_zh": "视觉外观、感觉材料与图像判断",
+  "aliases": ["视觉认识路径：罗素《哲学问题》"],
+  "source_book_ids": ["book_russell_problems_of_philosophy_zh_chm"],
+  "source_anchor": "第一、第三、第五及第十二章",
+  "status": "suggested"
+}

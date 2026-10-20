@@ -1,0 +1,27 @@
+{
+  "id": "book_russell_problems_of_philosophy_zh_chm",
+  "type": "book",
+  "name_zh": "哲学问题",
+  "name_en": "The Problems of Philosophy",
+  "aliases": ["《哲学问题》", "罗素《哲学问题》"],
+  "author_ids": ["person_bertrand_russell"],
+  "translator": "何兆武（据CHM目录署名）",
+  "publication_year": null,
+  "publisher": null,
+  "edition": "本地CHM目录另标“zhou biao 重校电子文本”；纸本版本未核",
+  "isbn": null,
+  "page_count_printed": null,
+  "pdf_page_count": null,
+  "local_source_status": "read_only_verified_text_content",
+  "reading_status": "completed_entire_chm_text",
+  "source_locator": "书/哲学害人/学究学究/这那那这/哲学问题.chm；CHM前言及ph_problem01.html—ph_problem15.html",
+  "sources": [
+    {
+      "author": "CHM目录标注罗素著、何兆武译",
+      "book": "《哲学问题》",
+      "chapter": "电子目录与正文前言、第一至第十五章",
+      "page": "CHM无纸本页码",
+      "location": "项目CHM导航和HTML正文"
+    }
+  ]
+}

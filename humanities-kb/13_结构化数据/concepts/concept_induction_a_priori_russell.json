@@ -1,0 +1,8 @@
+{
+  "id": "concept_induction_a_priori_russell",
+  "type": "concept",
+  "name_zh": "归纳原则与先验知识",
+  "aliases": ["induction", "a priori knowledge"],
+  "source_book_ids": ["book_russell_problems_of_philosophy_zh_chm"],
+  "source_anchor": "第六至第八章；ph_problem06.html—ph_problem08.html"
+}

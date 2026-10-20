@@ -1,0 +1,8 @@
+{
+  "id": "concept_truth_belief_fact_russell",
+  "type": "concept",
+  "name_zh": "信念、事实与真理符合",
+  "aliases": ["correspondence theory of truth", "multiple-relation theory of judgment"],
+  "source_book_ids": ["book_russell_problems_of_philosophy_zh_chm"],
+  "source_anchor": "第十一至第十三章；ph_problem11.html—ph_problem13.html"
+}

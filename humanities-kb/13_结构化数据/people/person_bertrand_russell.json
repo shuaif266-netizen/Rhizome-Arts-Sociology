@@ -1,0 +1,18 @@
+{
+  "id": "person_bertrand_russell",
+  "type": "person",
+  "name": "Bertrand Russell",
+  "name_zh": "伯特兰·罗素",
+  "aliases": ["罗素", "伯特兰·罗素"],
+  "fields": ["哲学", "认识论", "逻辑学"],
+  "related_books": ["book_russell_problems_of_philosophy_zh_chm"],
+  "sources": [
+    {
+      "book": "《哲学问题》",
+      "chapter": "CHM目录及前言、正文第一至第十五章",
+      "page": "无稳定页码",
+      "location": "作者署名和本书论证"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
