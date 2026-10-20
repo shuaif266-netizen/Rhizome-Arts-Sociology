@@ -1,0 +1,30 @@
+{
+  "id": "topic_deleuze_perception_image_literature_politics_colebrook",
+  "type": "topic",
+  "name_zh": "主体生成、非人影像、文学语言与少数政治",
+  "aliases": [
+    "感知—影像—文学—政治",
+    "德勒兹生成思想跨学科链"
+  ],
+  "related_books": [
+    "book_claire_colebrook_guide_to_deleuze_zh_2014_pdf"
+  ],
+  "related_concepts": [
+    "concept_deleuze_transcendental_empiricism_immanence_colebrook",
+    "concept_deleuze_simulacrum_difference_real_virtual_colebrook",
+    "concept_deleuze_becoming_animal_imperceptible_colebrook",
+    "concept_deleuze_concept_percept_affect_creation",
+    "concept_deleuze_desiring_machines_social_field",
+    "concept_deleuze_minority_becoming_political_creation"
+  ],
+  "sources": [
+    {
+      "book": "《导读德勒兹》项目扫描PDF",
+      "author": "Claire Colebrook",
+      "chapter": "全书",
+      "page": "PDF pp.20–196",
+      "location": "由主体与经验、电影影像、语言风格、欲望连接延展到少数文学和政治生成"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

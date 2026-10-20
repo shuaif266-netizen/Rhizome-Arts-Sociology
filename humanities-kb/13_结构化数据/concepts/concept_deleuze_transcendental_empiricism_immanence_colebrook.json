@@ -1,0 +1,21 @@
+{
+  "id": "concept_deleuze_transcendental_empiricism_immanence_colebrook",
+  "type": "concept",
+  "name_zh": "内在性平面与先验经验主义（科尔布鲁克导读）",
+  "name_en": "plane of immanence and transcendental empiricism",
+  "aliases": [
+    "经验内在条件",
+    "主体作为经验效果"
+  ],
+  "source_book_id": "book_claire_colebrook_guide_to_deleuze_zh_2014_pdf",
+  "source_pages_pdf": "104–129",
+  "definition_status": "source_limited_secondary",
+  "definitions": [
+    {
+      "source_pages_pdf": "104–129",
+      "view": "在Colebrook的阐释中，先验经验主义追问经验条件如何在经验内部形成；主体、因果秩序和社会形式是连接、记忆与期待的效果，而非经验之外的先决基础。内在性平面不是另一个终极根基，而是差异关系生成各种稳定形态的开放场域。",
+      "author": "Claire Colebrook（阐释德勒兹）"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

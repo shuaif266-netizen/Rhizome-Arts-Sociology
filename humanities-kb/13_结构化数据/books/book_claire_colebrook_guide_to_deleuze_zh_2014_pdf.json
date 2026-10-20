@@ -1,0 +1,39 @@
+{
+  "id": "book_claire_colebrook_guide_to_deleuze_zh_2014_pdf",
+  "type": "book",
+  "name_zh": "克莱尔·科尔布鲁克《导读德勒兹》",
+  "name_en": "Gilles Deleuze",
+  "aliases": [
+    "《导读德勒兹》",
+    "导读德勒兹",
+    "Gilles Deleuze",
+    "Claire Colebrook 的德勒兹导读"
+  ],
+  "author_ids": [
+    "person_claire_colebrook"
+  ],
+  "translator": "廖鸿飞",
+  "material_type": "项目扫描PDF；7份Word OCR辅助卷",
+  "publication_status": "CIP与版权页确认：重庆大学出版社“思想家和思想导读丛书”，2014年7月第1版、第1次印刷；ISBN 978-7-5624-8276-5；原书名Gilles Deleuze",
+  "local_source_status": "read_only_verified_full_scan",
+  "reading_status": "completed_full_pdf_pp_1_241",
+  "source_hash_sha256": "9DE7E7040A42D804A134A747AD2F7E07FEC33AA7F774F44459E8CEF845F9FE5E",
+  "source_locator": "新鬼专栏课件/德勒兹与摄影哲学参考阅读与讲义/参考阅读/【中译】导读德勒兹 .pdf；PDF转Word全量输出下同名7份Word OCR分卷；项目页标统一按PDF pp.1–241",
+  "sources": [
+    {
+      "book": "《导读德勒兹》项目扫描PDF",
+      "author": "Claire Colebrook",
+      "chapter": "全书",
+      "page": "PDF pp.1–241",
+      "location": "正文七章、前后材料、索引及两项卷末附加材料已覆盖；Word页标连续"
+    },
+    {
+      "book": "《导读德勒兹》项目扫描PDF",
+      "author": "题名页、CIP与版权页",
+      "chapter": "书目信息",
+      "page": "PDF pp.1–3",
+      "location": "核对作者、译者、出版社、出版年月、版次、ISBN与原书名"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

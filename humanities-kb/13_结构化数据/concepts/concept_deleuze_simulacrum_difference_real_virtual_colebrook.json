@@ -1,0 +1,21 @@
+{
+  "id": "concept_deleuze_simulacrum_difference_real_virtual_colebrook",
+  "type": "concept",
+  "name_zh": "拟像、差异与现实—潜在结构（科尔布鲁克导读）",
+  "name_en": "simulacrum, difference, and the actual-virtual",
+  "aliases": [
+    "拟像不是副本",
+    "现实—潜在的共同真实"
+  ],
+  "source_book_id": "book_claire_colebrook_guide_to_deleuze_zh_2014_pdf",
+  "source_pages_pdf": "137–143, 164–169",
+  "definition_status": "source_limited_secondary",
+  "definitions": [
+    {
+      "source_pages_pdf": "137–143, 164–169",
+      "view": "Colebrook借德勒兹反对先有纯粹原本、影像随后成为次等副本的等级结构。潜在不是虚假的可能性，而是现实生成新形式的真实力量；仿真、重复与差异共同参与现实形式的生成。",
+      "author": "Claire Colebrook（阐释德勒兹，并与鲍德里亚对读）"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

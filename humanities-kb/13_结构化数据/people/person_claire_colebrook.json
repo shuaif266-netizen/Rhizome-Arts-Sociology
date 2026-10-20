@@ -1,0 +1,30 @@
+{
+  "id": "person_claire_colebrook",
+  "type": "person",
+  "name": "Claire Colebrook",
+  "name_zh": "克莱尔·科尔布鲁克",
+  "aliases": [
+    "C. Colebrook",
+    "科尔布鲁克"
+  ],
+  "fields": [
+    "德勒兹研究",
+    "哲学与文学/电影交叉研究"
+  ],
+  "related_people": [
+    "person_gilles_deleuze"
+  ],
+  "related_books": [
+    "book_claire_colebrook_guide_to_deleuze_zh_2014_pdf"
+  ],
+  "sources": [
+    {
+      "book": "《导读德勒兹》项目扫描PDF",
+      "author": "题名页与CIP",
+      "chapter": "书目信息",
+      "page": "PDF pp.1–3",
+      "location": "确认Claire Colebrook为作者；主题字段仅依已读本书所见研究内容归纳"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

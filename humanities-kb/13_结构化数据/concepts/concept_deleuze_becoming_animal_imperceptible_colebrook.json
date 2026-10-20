@@ -1,0 +1,21 @@
+{
+  "id": "concept_deleuze_becoming_animal_imperceptible_colebrook",
+  "type": "concept",
+  "name_zh": "生成—动物与非人知觉（科尔布鲁克导读）",
+  "name_en": "becoming-animal and imperceptible perception",
+  "aliases": [
+    "非人知觉",
+    "生成—不可感知物"
+  ],
+  "source_book_id": "book_claire_colebrook_guide_to_deleuze_zh_2014_pdf",
+  "source_pages_pdf": "170–196",
+  "definition_status": "source_limited_secondary",
+  "definitions": [
+    {
+      "source_pages_pdf": "170–196",
+      "view": "生成—动物不是模仿动物或替换成一种固定身份，而是通过与非人速度、群体活动和感知方式建立连接，松动人类中心的感知位置，打开新的生成路线。",
+      "author": "Claire Colebrook（阐释德勒兹与加塔利）"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}
