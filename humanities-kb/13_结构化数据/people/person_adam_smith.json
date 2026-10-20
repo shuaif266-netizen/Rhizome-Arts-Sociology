@@ -1,0 +1,9 @@
+{
+  "id": "person_adam_smith",
+  "type": "person",
+  "name_zh": "亚当·斯密",
+  "name_en": "Adam Smith",
+  "aliases": ["Adam Smith", "亚当.斯密"],
+  "source_note": "《道德情操论》CHM及其译者序言、译后记中的来源限定信息；未用外部传记补写。",
+  "markdown": "../../02_人物知识库/亚当·斯密.md"
+}

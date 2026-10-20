@@ -1,0 +1,14 @@
+{
+  "id": "book_adam_smith_moral_sentiments_chm_zh",
+  "type": "book",
+  "name_zh": "《道德情操论》",
+  "name_en": "The Theory of Moral Sentiments",
+  "author_id": "person_adam_smith",
+  "translator": "蒋自强主持；卷一、二钦北愚译，卷三、四朱钟棣译，卷五、六沈凯璋译，卷七蒋自强译；蒋自强、钦北愚统稿",
+  "editor": "胡企林",
+  "original_publication_year": 1759,
+  "reading_status": "completed",
+  "source_locator": "CHM目录MoralIndex.html；译者序Moral000.html；作者告读者Moral001.html；正文Moral01.html—Moral07.html；译后记Moral08.html；无稳定页码",
+  "source_note": "1759初版与1790年第六版等信息来自译者材料，CHM未提供中文版权页、出版社、ISBN或确切中文底本版次。CHM所载全部书稿材料已读；原件不上传。",
+  "markdown": "../../01_单书档案/亚当·斯密_道德情操论_整本阅读档案.md"
+}

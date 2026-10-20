@@ -1,0 +1,11 @@
+{
+  "id": "topic_smith_moral_judgment_aesthetic_order",
+  "type": "topic",
+  "name_zh": "同情、社会判断与审美秩序：斯密《道德情操论》的跨学科读法",
+  "name_en": "sympathy, social judgment, and aesthetic order",
+  "aliases": ["斯密道德情感与审美评价"],
+  "source_book_id": "book_adam_smith_moral_sentiments_chm_zh",
+  "source_locator": "第一卷、第三卷、第四卷、第五卷；Moral01.html、Moral03.html—Moral05.html",
+  "source_note": "跨学科整理路径：想象换位、旁观者判断、良心和一般规则，并旁及效用、艺术形式与风尚；不把路径写成斯密提出的单一因果定律。",
+  "markdown": "../../06_跨学科知识链/想象换位—旁观者—良心—一般规则：斯密的道德判断链.md"
+}
