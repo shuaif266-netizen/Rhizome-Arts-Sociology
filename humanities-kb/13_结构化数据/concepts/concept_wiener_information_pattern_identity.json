@@ -1,0 +1,10 @@
+{
+  "id": "concept_wiener_information_pattern_identity",
+  "type": "concept",
+  "name_zh": "信息模式与个体同一性（维纳）",
+  "name_en": "Information Pattern and Individual Identity",
+  "aliases": ["有机体作为消息", "模式延续"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳", "chapter": "第5、10章", "page": "wiener05.html；wiener10.html", "location": "物质更新、组织模式、记忆与传输思想实验"}
+  ]
+}

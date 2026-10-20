@@ -1,0 +1,10 @@
+{
+  "id": "concept_wiener_cybernetics_communication_control",
+  "type": "concept",
+  "name_zh": "控制论、通讯与反馈（维纳）",
+  "name_en": "Cybernetics, Communication, and Feedback",
+  "aliases": ["控制论", "反馈控制"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳", "chapter": "第1、3、9、10章", "page": "wiener01.html；wiener03.html；wiener09.html；wiener10.html", "location": "通讯回路、反馈机制、自动控制与学习型机器"}
+  ]
+}

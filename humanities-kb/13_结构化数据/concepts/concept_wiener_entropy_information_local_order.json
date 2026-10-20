@@ -1,0 +1,10 @@
+{
+  "id": "concept_wiener_entropy_information_local_order",
+  "type": "concept",
+  "name_zh": "熵、信息与局部秩序（维纳）",
+  "name_en": "Entropy, Information, and Local Order",
+  "aliases": ["信息与负熵", "熵增"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳", "chapter": "序言；第1、2章", "page": "wiener00.html；wiener01.html；wiener02.html", "location": "统计偶然性、热力学第二定律、信息与局部组织"}
+  ]
+}

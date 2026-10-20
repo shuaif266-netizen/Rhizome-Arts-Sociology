@@ -1,0 +1,20 @@
+{
+  "id": "person_norbert_wiener",
+  "type": "person",
+  "name": "Norbert Wiener",
+  "name_zh": "诺伯特·维纳",
+  "aliases": ["N. Wiener", "N.维纳"],
+  "fields": ["控制论", "数学", "信息与通讯"],
+  "related_people": [],
+  "related_books": ["book_norbert_wiener_human_use_zh_chm"],
+  "sources": [
+    {
+      "book": "《人有人的用处：控制论和社会》项目CHM",
+      "author": "目录索引署名",
+      "chapter": "书名与目录",
+      "page": "wienerIndex.html",
+      "location": "作者署名N. Wiener；不据此补写完整生平"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

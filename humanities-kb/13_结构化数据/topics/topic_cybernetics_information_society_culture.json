@@ -1,0 +1,11 @@
+{
+  "id": "topic_cybernetics_information_society_culture",
+  "type": "topic",
+  "name_zh": "控制论、信息社会与文化传播",
+  "name_en": "Cybernetics, Information Society, and Cultural Communication",
+  "aliases": ["通讯与控制", "信息流通与社会组织"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳；知识链由编者整理", "chapter": "全书序言与第1–11章", "page": "wiener00.html–wiener11.html", "location": "信息、反馈、语言、制度、艺术传播与自动化"
+  }
+  ]
+}

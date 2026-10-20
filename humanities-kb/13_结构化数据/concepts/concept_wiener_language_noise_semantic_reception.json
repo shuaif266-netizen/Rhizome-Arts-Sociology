@@ -1,0 +1,10 @@
+{
+  "id": "concept_wiener_language_noise_semantic_reception",
+  "type": "concept",
+  "name_zh": "语言、噪声与语义接收（维纳）",
+  "name_en": "Language, Noise, and Semantic Reception",
+  "aliases": ["语音阶段", "语义信息", "通讯堵塞"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳", "chapter": "第4、11章", "page": "wiener04.html；wiener11.html", "location": "编码、解码、接收器、信息损耗和策略性干扰"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "concept_wiener_feedback_learning_adaptation",
+  "type": "concept",
+  "name_zh": "反馈、学习与适应（维纳）",
+  "name_en": "Feedback, Learning, and Adaptation",
+  "aliases": ["策略反馈", "学习型自动机"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳", "chapter": "第1、3、10章", "page": "wiener01.html；wiener03.html；wiener10.html", "location": "反馈层级、学习与自动控制"
+  }
+  ]
+}

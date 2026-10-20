@@ -1,0 +1,31 @@
+{
+  "id": "book_norbert_wiener_human_use_zh_chm",
+  "type": "book",
+  "name_zh": "诺伯特·维纳《人有人的用处：控制论和社会》",
+  "name_en": "",
+  "aliases": ["《人有人的用处》", "《人有人的用处：控制论和社会》", "N. Wiener《人有人的用处》"],
+  "author_ids": ["person_norbert_wiener"],
+  "translator": "陈步",
+  "material_type": "项目CHM电子文本；序言与正文11章",
+  "publication_status": "CHM索引未列出版社、译本年份、版次、ISBN或纸本页码；不据站点打包信息推定",
+  "local_source_status": "read_only_verified_full_indexed_content",
+  "reading_status": "completed_full_indexed_content",
+  "source_hash_sha256": "E4447D9FA6EAAB0F66FFC973A06B7695C6F3567D8FF3DBF4EF5148F79CA13FB5",
+  "source_locator": "书/哲学害人/学究学究/这那那这/人有人的用处-控制论和社会.chm；ZIP内CHM同哈希；序言wiener00.html；正文wiener01.html–wiener11.html；纸本页码未见",
+  "sources": [
+    {
+      "book": "《人有人的用处：控制论和社会》项目CHM",
+      "author": "CHM目录索引",
+      "chapter": "书名与目录",
+      "page": "wienerIndex.html",
+      "location": "N. Wiener著、陈步译；列序言与11章"
+    },
+    {
+      "book": "《人有人的用处：控制论和社会》项目CHM",
+      "author": "诺伯特·维纳",
+      "chapter": "序言与正文第1–11章",
+      "page": "wiener00.html–wiener11.html",
+      "location": "CHM内部HTML全文；未提供纸本页码"
+    }
+  ]
+}

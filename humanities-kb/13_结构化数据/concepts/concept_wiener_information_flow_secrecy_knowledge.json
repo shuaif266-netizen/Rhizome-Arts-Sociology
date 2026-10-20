@@ -1,0 +1,10 @@
+{
+  "id": "concept_wiener_information_flow_secrecy_knowledge",
+  "type": "concept",
+  "name_zh": "信息流通、保密与知识共同体（维纳）",
+  "name_en": "Information Flow, Secrecy, and the Knowledge Community",
+  "aliases": ["信息的商品化", "通讯保密"],
+  "sources": [
+    {"book": "《人有人的用处：控制论和社会》", "author": "维纳", "chapter": "第7、8、11章", "page": "wiener07.html；wiener08.html；wiener11.html", "location": "艺术复制、知识传播、保密制度和通讯堵塞"}
+  ]
+}
