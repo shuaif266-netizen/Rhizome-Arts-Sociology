@@ -1,0 +1,24 @@
+{
+  "id": "book_vanloon_tolerance_lian_jincuiwei_zh_chm",
+  "type": "book",
+  "name_zh": "房龙《宽容》",
+  "name_en": "Original English title not verified from the project CHM",
+  "aliases": ["宽容", "房龙：宽容"],
+  "author_ids": ["person_van_loon"],
+  "translator": "连卫、靳翠微（据CHM首页）",
+  "publisher": "三联书店（据CHM首页；具体出版项未核）",
+  "material_type": "CHM电子文本，序言、三十章及后记",
+  "publication_status": "Chinese edition date, edition, ISBN, and print pagination not verified",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_chm_contents",
+  "source_hash_sha256": "F2F8AAEB8B9671D0C53CADB4247DAD86A6B60200113B208FC0C10F99A6BCC6AF",
+  "source_locator": "书/哲学害人/学究学究/这那那这/宽容.chm；不上传原始CHM、ZIP或转码全文",
+  "sources": [
+    {
+      "book": "房龙《宽容》项目CHM",
+      "author": "题名页署[美]房龙；译者连卫、靳翠微",
+      "page": "CHM Kuanrong.htm及000.htm–031.htm",
+      "location": "题名信息、序言、三十章正文及后记；纸本版次和页码未核"
+    }
+  ]
+}

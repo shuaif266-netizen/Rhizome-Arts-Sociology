@@ -1,0 +1,16 @@
+{
+  "id": "topic_vanloon_tolerance_public_order",
+  "type": "topic",
+  "name_zh": "群体认同—恐惧—制度强制—宽容实践",
+  "name_en": "Group identity, fear, institutional coercion, and toleration",
+  "aliases": ["房龙《宽容》的跨学科阅读链"],
+  "status": "suggested reading path",
+  "sources": [
+    {
+      "book": "房龙《宽容》",
+      "author": "房龙；路径由知识库编者整理",
+      "page": "CHM 000.htm–031.htm",
+      "location": "群体禁忌、教会组织、知识传播、制度迫害与1940年后记；路径不等同作者的一套单一理论"
+    }
+  ]
+}

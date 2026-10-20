@@ -1,0 +1,17 @@
+{
+  "id": "person_van_loon",
+  "type": "person",
+  "name": "Van Loon (full name not verified from the project CHM)",
+  "name_zh": "房龙",
+  "aliases": ["[美]房龙", "Van Loon"],
+  "fields": ["通俗历史写作", "宗教史叙事", "宽容与思想自由"],
+  "related_books": ["book_vanloon_tolerance_lian_jincuiwei_zh_chm"],
+  "sources": [
+    {
+      "book": "房龙《宽容》项目CHM",
+      "page": "题名页、序言、后记",
+      "location": "题名页署作者为[美]房龙；后记回顾作品初版与1940年写作语境。完整外文姓名及生平未由此原件核验"
+    }
+  ],
+  "last_updated": "2026-10-20"
+}

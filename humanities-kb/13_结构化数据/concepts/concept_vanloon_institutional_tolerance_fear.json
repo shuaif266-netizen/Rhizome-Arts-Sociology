@@ -1,0 +1,15 @@
+{
+  "id": "concept_vanloon_institutional_tolerance_fear",
+  "type": "concept",
+  "name_zh": "制度性宽容、良知自由与群体恐惧",
+  "name_en": "Institutional toleration, conscience, and collective fear (Van Loon source-limited)",
+  "aliases": ["官方不宽容与信仰自由", "房龙《宽容》的群体恐惧解释"],
+  "sources": [
+    {
+      "book": "房龙《宽容》",
+      "author": "房龙",
+      "page": "第一、八至十、二十七、三十章及后记；CHM 001.htm、008.htm–010.htm、027.htm、030.htm–031.htm",
+      "location": "宽容定义、官方与个人不宽容之分、群体恐惧及宽容边界"
+    }
+  ]
+}
