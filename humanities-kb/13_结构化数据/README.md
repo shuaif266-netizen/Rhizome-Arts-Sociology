@@ -1,6 +1,6 @@
 # 结构化数据层
 
-本目录为Markdown知识库的机器可读补充。当前累计2,313个实体、2,698条关系，其中2,524条为status=verified，121条历史关系未标status（不自动视为verified），另有53条跨学科或跨书关系保留status=suggested。统计按当前JSON文件与relations.jsonl逐条重计；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。苏菲·卡尔《Suite vénitienne》与鲍德里亚《Please follow me》及卡尔—奥斯特跨书路径记录见下文。
+本目录为Markdown知识库的机器可读补充。当前累计2,344个实体、2,749条关系，其中2,569条为status=verified，121条历史关系未标status（不自动视为verified），另有59条跨学科或跨书关系保留status=suggested。统计按当前JSON文件与relations.jsonl逐条重计；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。新增《摄影论》阅读档案与关系入口见下文。
 
 ### 2026-10-21：苏菲·卡尔《Suite vénitienne》与鲍德里亚《Please follow me》
 
