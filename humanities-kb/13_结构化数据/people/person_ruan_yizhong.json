@@ -17,7 +17,8 @@
     "person_huang_chunming"
   ],
   "related_books": [
-    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_ruan_yizhong_contemporary_photography_newcomers_zh_source_limited"
   ],
   "sources": [
     {
@@ -27,8 +28,14 @@
       "page": "书内p.211",
       "location": "后记称阮义忠为作者，并叙述结集出版经过",
       "note": "题名页与版权页缺失；大陆简体版出版线索由外部资料交叉核对。"
+    },
+    {
+      "book": "《当代摄影新锐——17位影象新生代》",
+      "author": "阮义忠（外部书目署名）",
+      "chapter": "书目与出版线索",
+      "page": "外部书目网页；本地扫描未见题名页和版权页",
+      "location": "同题书目将阮义忠列为作者；本地扫描版次未核"
     }
   ],
   "last_updated": "2026-10-22"
 }
-

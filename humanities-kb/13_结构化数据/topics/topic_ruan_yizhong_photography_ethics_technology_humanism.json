@@ -3,7 +3,7 @@
   "type": "topic",
   "name_zh": "摄影的伦理、技术、证据与人文观看",
   "name_en": "Photography, ethics, technology, evidence, and humanistic spectatorship",
-  "summary": "以观看关系、相机技术、证据主张、图像识读和人文表达为线索，整理《摄影美学七问》的对谈路径；跨问综合为知识库编者所作，不代表三位受访者拥有同一理论。",
+  "summary": "以观看关系、相机技术、证据主张、图像识读和人文表达为线索，整理《摄影美学七问》的对谈路径，并将《当代摄影新锐》的17位摄影家个案与代后记纳入对读；跨问综合由知识库编者整理，不代表受访者或摄影家拥有同一理论。",
   "related_people": [
     "person_ruan_yizhong",
     "person_chen_chuanxing",
@@ -16,11 +16,16 @@
     "concept_ruan_yizhong_camera_technology_human_agency",
     "concept_photographic_truth_claims",
     "concept_documentary_neutrality",
-    "concept_pictorial_photography"
+    "concept_pictorial_photography",
+    "concept_photography_temporal_witness_archive_ruan_yizhong",
+    "concept_humanistic_documentary_subject_relation_ruan_yizhong",
+    "concept_constructed_photography_staging_memory_ruan_yizhong",
+    "concept_social_landscape_photographer_presence_ruan_yizhong"
   ],
   "related_books": [
     "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
-    "book_photography_theory_bexp_zh_source_limited"
+    "book_photography_theory_bexp_zh_source_limited",
+    "book_ruan_yizhong_contemporary_photography_newcomers_zh_source_limited"
   ],
   "sources": [
     {
@@ -36,8 +41,14 @@
       "chapter": "摄影本体、构图、新闻摄影、电脑摄影",
       "page": "书内pp.1–11、47–74、161–204、269–292",
       "location": "摄影的记录条件、取景、传播与数字修订"
+    },
+    {
+      "book": "《当代摄影新锐——17位影象新生代》",
+      "author": "阮义忠（外部书目匹配）；专题评论责任者未署名",
+      "chapter": "17位摄影家专题与代后记",
+      "page": "书内pp.2–239、246–253的可读部分",
+      "location": "人文纪实、社会风景、构筑影像、摄影见证与对象伦理；整本仍有139页无法解码"
     }
   ],
   "last_updated": "2026-10-22"
 }
-

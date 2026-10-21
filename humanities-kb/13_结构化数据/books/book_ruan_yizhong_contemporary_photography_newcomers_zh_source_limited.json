@@ -1,0 +1,53 @@
+{
+  "id": "book_ruan_yizhong_contemporary_photography_newcomers_zh_source_limited",
+  "type": "book",
+  "name_zh": "《当代摄影新锐——17位影象新生代》",
+  "name_original": "当代摄影新锐：17位影象新生代",
+  "aliases": [
+    "《当代摄影新锐》",
+    "摄影家参考丛书 当代摄影新锐"
+  ],
+  "author_id": "person_ruan_yizhong",
+  "author_attribution": "外部书目将作者列为阮义忠；本地bookinfo.dat作者栏为BEXP，扫描未见题名页或版权页，故本地底本署名与具体版次未核",
+  "publisher": "中国摄影出版社（同题外部书目记录）",
+  "edition_and_printing": "外部书目常记录1990年3月、253页、ISBN 9787800070525；作者年表另记简体版为1997年。本地扫描缺版权页，无法确定所持扫描的版次、印次与ISBN。",
+  "isbn_candidate": "9787800070525（外部书目候选，非本地底本核实）",
+  "pdf_page_count": 254,
+  "book_page_count": 253,
+  "scan_page_image_count": 254,
+  "readable_page_count": 114,
+  "unreadable_page_count": 139,
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/关于摄影的书/摄影家参考丛书  当代摄影新锐——17位影象新生代；254张PDG页图，无Word分卷",
+  "source_note": "特殊页!00001.pdg为目录；正文pp.1–253。校正阅读PDF p.1为目录、pp.2–254为正文。114页正文已逐页核读；139张下划线编号页当前解码为异常图像尺寸0×0。完整缺读页段见单书进度文件。已查本地项目目录、公开书目与网络搜索，未找到可逐页核对的替代数字本。原始PDG、临时PDF与OCR全文不入库。",
+  "related_people": [
+    "person_ruan_yizhong"
+  ],
+  "related_concepts": [
+    "concept_photography_temporal_witness_archive_ruan_yizhong",
+    "concept_humanistic_documentary_subject_relation_ruan_yizhong",
+    "concept_constructed_photography_staging_memory_ruan_yizhong",
+    "concept_social_landscape_photographer_presence_ruan_yizhong"
+  ],
+  "related_books": [
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_photography_theory_bexp_zh_source_limited",
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《当代摄影新锐——17位影象新生代》",
+      "author": "阮义忠（外部书目匹配）；专题篇章评论责任者未署名",
+      "chapter": "目录所列17位摄影家专题",
+      "page": "书内pp.2–239的可读段落，详见阅读进度",
+      "location": "摄影家的创作方法、图像风格、社会语境与篇章评论"
+    },
+    {
+      "book": "《当代摄影新锐——17位影象新生代》",
+      "author": "阮义忠（代后记）",
+      "chapter": "《影象的反省》",
+      "page": "书内pp.246–253",
+      "location": "摄影的见证性、时间经验、对象伦理与媒介局限"
+    }
+  ]
+}
