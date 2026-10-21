@@ -1,0 +1,67 @@
+{
+  "id": "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+  "type": "book",
+  "name_zh": "《摄影美学七问》",
+  "name_original": "摄影美学七问",
+  "aliases": [
+    "摄影家参考丛书·摄影美学七问",
+    "《摄影美学七问：与陈传兴、汉宝德、黄春明的对话》"
+  ],
+  "author_id": "person_ruan_yizhong",
+  "publisher": "中国摄影出版社",
+  "edition_and_printing": "中国摄影出版社简体字版，收入“摄影家参考丛书”；后记p.211署陈申并提供出版线索。外部资料记大陆简体字版于1999年出版；本扫描版权页未见，具体印次、出版年月和ISBN未核。",
+  "pdf_page_count": 212,
+  "book_page_count": 211,
+  "scan_page_image_count": 212,
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/关于摄影的书/摄影家参考丛书  摄影美学七问；212个PDG页图",
+  "source_note": "本地bookinfo.dat题名为“摄影家参考丛书 摄影美学七问”，作者栏仅有BEXP。书后记p.211称阮义忠为作者，并载陈申1998年9月落款及中国摄影出版社简体字版线索。外部资料确认阮义忠、台湾1991年版与大陆1999年简体版，但扫描缺题名页和版权页，未把版次、印次和ISBN视作已由底本证实。目录占1页，书内pp.1–211占其余211页；67页无法解码，144页可读页均已读。",
+  "related_people": [
+    "person_ruan_yizhong",
+    "person_chen_chuanxing",
+    "person_han_baode",
+    "person_huang_chunming"
+  ],
+  "related_concepts": [
+    "concept_ruan_yizhong_viewing_ethics_privacy_subject_relation",
+    "concept_ruan_yizhong_reading_photographs_visual_literacy",
+    "concept_ruan_yizhong_camera_technology_human_agency",
+    "concept_photographic_truth_claims",
+    "concept_documentary_neutrality",
+    "concept_pictorial_photography"
+  ],
+  "related_books": [
+    "book_photography_theory_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影美学七问》",
+      "author": "阮义忠；陈申后记",
+      "chapter": "目录与后记",
+      "page": "书内p.1、p.211；PDF pp.1、212",
+      "location": "七问对象、作者署名与简体版出版线索"
+    },
+    {
+      "book": "《摄影美学七问》",
+      "author": "陈传兴（受访者）；阮义忠（访谈者）",
+      "chapter": "第一至第五问",
+      "page": "书内pp.1–134",
+      "location": "摄影本体、心理、伦理、批评与科技"
+    },
+    {
+      "book": "《摄影美学七问》",
+      "author": "汉宝德（受访者）；阮义忠（访谈者）",
+      "chapter": "第六问",
+      "page": "书内pp.135–174",
+      "location": "摄影表现、肖像、记录与人文价值"
+    },
+    {
+      "book": "《摄影美学七问》",
+      "author": "黄春明（受访者）；阮义忠（访谈者）",
+      "chapter": "第七问",
+      "page": "书内pp.175–210",
+      "location": "内容、写实、安排、人文观看与视觉识读"
+    }
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "id": "person_chen_chuanxing",
+  "type": "person",
+  "name_zh": "陈传兴",
+  "name_en": "Chen Chuanxing",
+  "aliases": [],
+  "fields": [
+    "摄影美学",
+    "影像理论",
+    "电影与文化批评"
+  ],
+  "related_books": [
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《摄影美学七问》",
+      "author": "阮义忠",
+      "chapter": "第一至第五问目录及对谈",
+      "page": "书内pp.1–134",
+      "location": "目录列陈传兴为前五问受访者"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+

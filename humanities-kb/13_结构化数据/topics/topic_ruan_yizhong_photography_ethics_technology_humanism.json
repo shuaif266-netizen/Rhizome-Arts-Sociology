@@ -1,0 +1,43 @@
+{
+  "id": "topic_ruan_yizhong_photography_ethics_technology_humanism",
+  "type": "topic",
+  "name_zh": "摄影的伦理、技术、证据与人文观看",
+  "name_en": "Photography, ethics, technology, evidence, and humanistic spectatorship",
+  "summary": "以观看关系、相机技术、证据主张、图像识读和人文表达为线索，整理《摄影美学七问》的对谈路径；跨问综合为知识库编者所作，不代表三位受访者拥有同一理论。",
+  "related_people": [
+    "person_ruan_yizhong",
+    "person_chen_chuanxing",
+    "person_han_baode",
+    "person_huang_chunming"
+  ],
+  "related_concepts": [
+    "concept_ruan_yizhong_viewing_ethics_privacy_subject_relation",
+    "concept_ruan_yizhong_reading_photographs_visual_literacy",
+    "concept_ruan_yizhong_camera_technology_human_agency",
+    "concept_photographic_truth_claims",
+    "concept_documentary_neutrality",
+    "concept_pictorial_photography"
+  ],
+  "related_books": [
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_photography_theory_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影美学七问》",
+      "author": "阮义忠、陈传兴、汉宝德、黄春明；跨学科路径为知识库整理",
+      "chapter": "第三至第七问",
+      "page": "书内pp.57–210",
+      "location": "观看伦理、技术、证据、视觉识读与人文关系"
+    },
+    {
+      "book": "《摄影论》",
+      "author": "各篇责任者未能逐一确认；跨书路径为知识库整理",
+      "chapter": "摄影本体、构图、新闻摄影、电脑摄影",
+      "page": "书内pp.1–11、47–74、161–204、269–292",
+      "location": "摄影的记录条件、取景、传播与数字修订"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+

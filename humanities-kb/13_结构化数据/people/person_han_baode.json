@@ -1,0 +1,25 @@
+{
+  "id": "person_han_baode",
+  "type": "person",
+  "name_zh": "汉宝德",
+  "name_en": "Han Baode",
+  "aliases": [],
+  "fields": [
+    "建筑",
+    "艺术与文化评论"
+  ],
+  "related_books": [
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《摄影美学七问》",
+      "author": "阮义忠",
+      "chapter": "第六问目录及对谈",
+      "page": "书内pp.135–174",
+      "location": "目录列汉宝德为第六问受访者"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+

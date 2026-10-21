@@ -1,0 +1,34 @@
+{
+  "id": "person_ruan_yizhong",
+  "type": "person",
+  "name_zh": "阮义忠",
+  "name_en": "Ruan Yizhong",
+  "aliases": [
+    "阮義忠"
+  ],
+  "fields": [
+    "摄影",
+    "摄影写作",
+    "摄影编辑与出版"
+  ],
+  "related_people": [
+    "person_chen_chuanxing",
+    "person_han_baode",
+    "person_huang_chunming"
+  ],
+  "related_books": [
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《摄影美学七问》",
+      "author": "阮义忠；陈申后记",
+      "chapter": "后记",
+      "page": "书内p.211",
+      "location": "后记称阮义忠为作者，并叙述结集出版经过",
+      "note": "题名页与版权页缺失；大陆简体版出版线索由外部资料交叉核对。"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+

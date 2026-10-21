@@ -1,0 +1,28 @@
+{
+  "id": "person_huang_chunming",
+  "type": "person",
+  "name_zh": "黄春明",
+  "name_en": "Huang Chunming",
+  "aliases": [
+    "黃春明"
+  ],
+  "fields": [
+    "小说",
+    "地方经验",
+    "影像与社会"
+  ],
+  "related_books": [
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《摄影美学七问》",
+      "author": "阮义忠",
+      "chapter": "第七问目录及对谈",
+      "page": "书内pp.175–210",
+      "location": "目录列黄春明为第七问受访者"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+
