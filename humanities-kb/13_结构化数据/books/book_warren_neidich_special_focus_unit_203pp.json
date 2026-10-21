@@ -1,0 +1,68 @@
+{
+  "id": "book_warren_neidich_special_focus_unit_203pp",
+  "type": "book",
+  "name_zh": "Warren Neidich《特别关注单元》项目作品图册",
+  "name_en": "Warren Neidich Special Focus Unit project portfolio",
+  "aliases": [
+    "Warren Neidich项目作品集PDF",
+    "特别关注单元 Warren Neidich"
+  ],
+  "artist_ids": [
+    "person_warren_neidich"
+  ],
+  "material_type": "artist website portfolio / course reference PDF export",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 203,
+  "word_volume_count": 11,
+  "page_coverage": "项目PDF pp.1–203/203；11份Word分卷页标连续覆盖pp.1–203；PDF图像全卷核读",
+  "capture_date_text": "PDF p.1标注2020-09-19；是否为页面更新时间、导出日或其他日期未核",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_archive",
+  "source_sha256": "863E21B1EBA7B8211800574D8FD85F5F4837BC2D539DB2D221FC135D2C8949E2",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Warren Neidich .pdf；Word辅助稿在PDF转Word/全量输出同相对目录",
+  "source_note": "PDF为203页特别关注单元项目作品集，不以Aperture 1989年《American History Reinvented》纸本代称。PDF包括AHR相关作品及后续系列。Word文字层较稀疏，主要提供页标、图注和部分OCR；图像页按PDF原页核读。无扫描页缺失。",
+  "related_concepts": [
+    "concept_historical_archive_reenactment_photo_evidence_warren_neidich",
+    "concept_surveillance_war_image_interpretation_warren_neidich",
+    "concept_visual_neuroscience_cinema_photography_warren_neidich",
+    "concept_media_cover_identity_performance_warren_neidich",
+    "concept_place_memory_cosmology_photography_warren_neidich"
+  ],
+  "related_topics": [
+    "topic_warren_neidich_archive_vision_memory_neuroaesthetics"
+  ],
+  "sources": [
+    {
+      "book": "Warren Neidich《特别关注单元》项目作品图册",
+      "author": "Warren Neidich",
+      "page": "PDF p.1",
+      "location": "首页显示专题名称、艺术家网站及2020-09-19日期"
+    },
+    {
+      "book": "Warren Neidich《特别关注单元》项目作品图册",
+      "author": "Warren Neidich",
+      "page": "PDF pp.4–117",
+      "location": "American History Reinvented七个部分、Cindy Unveiled邻接组"
+    },
+    {
+      "book": "Warren Neidich《特别关注单元》项目作品图册",
+      "author": "Warren Neidich",
+      "page": "PDF pp.118–203",
+      "location": "Double Vision、Shot Reverse Shot、Earthling、Beyond the Vanishing Point、Law of Loci、Blanqui’s Cosmology与Evergreen"
+    },
+    {
+      "book": "American History Reinvented",
+      "author": "Aperture Foundation／官方项目网站",
+      "page": "项目网页",
+      "location": "出版版与在线项目目录的范围存在差异",
+      "url": "https://americanhistoryreinvented.com/main.html"
+    },
+    {
+      "book": "Warren Neidich作品官网",
+      "author": "Warren Neidich",
+      "page": "项目网页",
+      "location": "艺术家自述及系列介绍",
+      "url": "https://www.warrenneidich.com/archive/"
+    }
+  ]
+}

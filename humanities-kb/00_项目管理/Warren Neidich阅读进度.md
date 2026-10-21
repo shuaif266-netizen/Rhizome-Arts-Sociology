@@ -6,7 +6,7 @@
 - PDF首页题作“特别关注单元 Warren Neidich”，列出艺术家网站与页面日期2020-09-19；文件未提供出版社、版次、ISBN等正式出版信息，按项目作品图册记录。
 - Word优先材料位于PDF转Word/全量输出/新鬼专栏课件/第一季：当作艺术摄影作品解读课件，共11份分卷。Word COM页数分别为20页×10份与3页×1份，页标连续覆盖PDF pp.1–203；原件均只读，没有修改。
 - Word文字层多为图片页标、图注或“OCR草稿／原页图为准”；仅提取Word文字不足以读完这份作品集。现已用PDF原页图检查全卷图像序列，正在逐段核读图像、作品题名、展览文字及文本面板。
-- 阅读范围状态：**详细核读至PDF p.157/203**；pp.1–157已结合Word分卷与PDF视觉页图阅读，下一页p.158。全卷缩略图已完成一轮总览，但尚未逐页完成图注与作品分析。
+- 阅读范围状态：**PDF pp.1–203/203与11份Word分卷已全卷核读。**Word页标连续，文字稀疏页与图像序列均已回看PDF原页；外部艺术家说明仅作来源清晰的补充。未发现扫描缺页。
 
 ## Word分卷台账
 
@@ -24,7 +24,7 @@
 | Warren Neidich _p0181-0200.docx | 181–200 | 20 |
 | Warren Neidich _p0201-0203.docx | 201–203 | 3 |
 
-## 当前已读札记：PDF pp.1–157
+## 全卷阅读札记：PDF pp.1–203
 
 ### 首页与《Brainwash》（pp.1–3）
 
@@ -57,6 +57,39 @@ PDF p.135题注为“Shot Reverse Shot, 2002”；Neidich官网作品页则题�
 
 PDF在pp.145–146引入《Earthling》，随后一组作品反复呈现读者、咖啡馆、杂志封面与眼睛：人物以报纸或杂志遮住脸部，封面眼睛被挖空后与真人眼睛对齐。Neidich官网说明，他收集跨国报纸杂志，邀请咖啡馆中的参与者戴上封面并即兴表演；他量取眼距、裁开印刷眼部，使真人目光与媒体肖像对接。作品将大众媒体制造的脸孔、品牌／新闻语境与现实个体的目光并置，也揭示摄影中的表演、同意与观看关系。官网把相关作品列为《Earthling》（2006），而本地PDF的图注见“Earthling, 2004”；这可能对应系列、图像或出版时间差异，当前不强行统一。[艺术家官网作品页](https://warrenneidich.com/earthling-1-10/) · [《Earthling》导读](https://warrenneidich.com/introduction-earthling/)
 
+### 《Beyond the Vanishing Point Los Angeles》（pp.158–164）
+
+p.158题页列出“#1 through #30”；后续照片从镜面建筑的格状立面反射洛杉矶街道、车辆、行人和邻近楼体。艺术家官网描述两名演员在洛杉矶街头重演偶遇，并从镜面建筑的反射拍摄，借三种视觉处理考察透视史与观看条件。反射令建筑既像窗又像镜，使背景成为图像空间的一部分。[艺术家官网项目说明](https://warrenneidich.com/beyond-the-vanishing-point-los-angeles/)
+
+### 《Law of Loci》（PDF pp.165–183）
+
+题页与图注将作品列为“Law of Loci”；本地PDF多处标为1998–99，艺术家官网称系列制作为1998–2000。图像呈现模糊、重叠的房间、门窗、庭院、家具和树木，像记忆留下的视觉残影。Neidich将其联系到古典“地点记忆法”：演说者把话语拆分并安置在熟悉房屋的房间和物件中，回忆时沿空间路径移动。官网列出First Love #5、Dock #8、Father、Shed与Back of the House等题名。[艺术家官网项目说明](https://warrenneidich.com/law-of-loci-9/)
+
+### 《Blanqui’s Cosmology》（PDF pp.184–200）
+
+p.184以“Blanqui’s Cosmology, 1997–2007”为题，p.185并置布朗基《星体的永恒》（L’Éternité par les astres）封面与马克对布朗基的评价。后续为剃发头部、光痕、长曝光肖像，以及Karuna、Satipatthana、Maranasati、Vipassana等题名。艺术家官网称该项目由约1200位剃发人物的肖像构成，并以手持光源在长曝光中绘画；Neidich把作品联系到光绘、肖像、颅相学、灵媒摄影、X射线、天文学和无意识。PDF主标题与官网列1997–2007，个别图注另作1994–2007，档案保留差异。[艺术家官网项目说明](https://warrenneidich.com/blanquis-cosmology/)
+
+### 《Evergreen》（PDF pp.201–203）
+
+末三页分别题作“Evergreen #79”“Evergreen #42”“Evergreen #88”，为色彩鲜明、由印刷图像和拼贴构成的装框作品。PDF未提供系列说明，故只记录题名与图像结构，不外推其主题。
+
+## 全卷综合阅读札记
+
+1. **历史由图像、题注与机构共同书写。**《American History Reinvented》通过历史村庄、政治图像档案、AP新闻照片、Curtis摄影和战争重演揭示：图像既保存历史，也能选择、改写和遮蔽历史。
+2. **照片不是自我解释的证据。**《Aerial Reconnaissance》把卫星／航空侦察报道与战场重演的航拍、锡版并置，指出图像判读依赖技术、经验和政治决策。
+3. **视觉是身体与仪器共同形成的。**《Brainwash》《Double Vision》《Shot Reverse Shot》将旋转图像、滤色、棱镜、斜视图和电影正反打连到神经视觉，使“看”成为作品主题和可被安排的装置。
+4. **大众媒体为面孔安排身份。**《Earthling》邀请咖啡馆参与者戴上裁出眼孔的杂志封面，让真人目光与印刷肖像对齐，展示媒体图像如何覆盖并塑造个体自我呈现。
+5. **空间组织记忆，也组织观看。**洛杉矶镜面建筑把城市反射成多重视点；《Law of Loci》把记忆放入空间路径；《Blanqui’s Cosmology》再把身体肖像和光绘放进宇宙循环与政治时间想象。
+6. **作品集本身也是策展。**艺术家档案、展览照片、新闻摘文、作品题注和图像系列交错出现，形成从档案再造到视觉神经机制、媒介身份和宇宙记忆的阅读路线；这条路线是知识库整理，不等于艺术家本人提出的单一理论。
+
+## 版本、年份与来源边界
+
+- PDF首页为“特别关注单元 Warren Neidich”，带网站和2020-09-19日期；本地文件没有出版社、版权页或ISBN，不登记为正式出版书。
+- Neidich官网称Aperture 1989年版《American History Reinvented》由五件作品组成；原项目网站目录列七部分，本地203页作品集又收入其他系列，三者范围不同。
+- 《Shot Reverse Shot》PDF图注为2002、官网页面题名为2001；《Earthling》PDF出现2004图注、官网作品页题名为2006；《Law of Loci》PDF图注1998–99、官网记1998–2000；《Blanqui’s Cosmology》个别图注也与主标题和官网年份不同。
+- p114起的“Cindy Unveiled”与前一组“Unknown Artist”的作品边界未由本地PDF说明；不以版面相邻代替来源证据。
+- 图像、题注、艺术家自述和阅读者分析分别归属。AHR评论和对身份、种族、监视、脑科学的解释均需保留其来源，不替参与者或历史对象发言。
+
 ## 外部补充来源的使用边界
 
 艺术家官网提供的作品说明用于核对系列题名、制作方法与创作背景；作品图像的阅读仍以本地PDF为主。官网将Aperture 1989年的《American History Reinvented》描述为由若干部分组成的作品集，而本地203页PDF包含更多专题及后续系列，二者不能直接等同为同一出版版本。
@@ -69,6 +102,10 @@ PDF在pp.145–146引入《Earthling》，随后一组作品反复呈现读者�
 - [《Earthling》官网作品页](https://warrenneidich.com/earthling-1-10/)及[作品导读](https://warrenneidich.com/introduction-earthling/)：咖啡馆参与者、杂志封面与眼部对齐的创作过程。
 - [作品说明：News from No-Place](https://americanhistoryreinvented.com/ahr3_about.html)
 - [作品说明：Aerial Reconnaissance / Chickamauga](https://americanhistoryreinvented.com/ahr5_about.html)
+
+## 完成状态与下一项
+
+项目作品图册PDF pp.1–203与11份Word页段已全卷核读。原件无页码缺失，但页1与Word页标、官方作品网页分别承担封面与说明功能；本地PDF没有正式出版版权页，故以“项目作品档案”完成，不计为出版书整本数。下一项为AN-MYLÊ项目作品图册，PDF 122页、7份Word，继续Word优先并用PDF核对图像页。
 
 ## 维护原则
 
