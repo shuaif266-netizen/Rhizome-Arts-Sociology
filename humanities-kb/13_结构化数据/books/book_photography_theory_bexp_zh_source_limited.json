@@ -1,0 +1,50 @@
+{
+  "id": "book_photography_theory_bexp_zh_source_limited",
+  "type": "book",
+  "name_zh": "《摄影论》",
+  "aliases": [
+    "摄影论（题名据bookinfo.dat）"
+  ],
+  "pdf_page_count": 296,
+  "scan_page_image_count": 299,
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/关于摄影的书/摄影论；299个PDG页图",
+  "source_note": "题名据bookinfo.dat。作者字段BEXP未能对应到可确认姓名；目录所列毕文波为序文署名，但现存扫描未见序文正文。后记署韩丛耀，日期1996-12-15，并说明本册汇集多类文章、札记、讲课记录、译文和新作，因此不把全书统一归给单一作者。正文书内pp.1–117、119–296已读；p.118不可读。出版社、版次、出版年和ISBN未核。",
+  "related_concepts": [
+    "concept_photographic_truth_claims",
+    "concept_documentary_neutrality",
+    "concept_pictorial_photography"
+  ],
+  "related_books": [],
+  "sources": [
+    {
+      "book": "《摄影论》",
+      "author": "目录元数据文件bookinfo.dat",
+      "chapter": "书目识别",
+      "page": "扫描目录元数据",
+      "location": "题名、作者代码与页数"
+    },
+    {
+      "book": "《摄影论》",
+      "author": "各篇责任者未能逐一确认",
+      "chapter": "摄影与计算机",
+      "page": "书内pp.269–292；校正阅读PDF pp.272–295",
+      "location": "数字图像处理、电脑暗房与摄影真实性"
+    },
+    {
+      "book": "《摄影论》",
+      "author": "各篇责任者未能逐一确认",
+      "chapter": "摄影美学；摄影艺术与摄影家",
+      "page": "书内pp.25–46、214–228；校正阅读PDF pp.28–49、217–231",
+      "location": "摄影与绘画、画意摄影及审美形式"
+    },
+    {
+      "book": "《摄影论》",
+      "author": "后记：韩丛耀",
+      "chapter": "后记",
+      "page": "书内pp.293–296；校正阅读PDF pp.296–299",
+      "location": "编纂材料与后记署名"
+    }
+  ]
+}
+
