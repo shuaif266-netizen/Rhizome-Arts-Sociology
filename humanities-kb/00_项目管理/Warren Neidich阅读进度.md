@@ -6,7 +6,7 @@
 - PDF首页题作“特别关注单元 Warren Neidich”，列出艺术家网站与页面日期2020-09-19；文件未提供出版社、版次、ISBN等正式出版信息，按项目作品图册记录。
 - Word优先材料位于PDF转Word/全量输出/新鬼专栏课件/第一季：当作艺术摄影作品解读课件，共11份分卷。Word COM页数分别为20页×10份与3页×1份，页标连续覆盖PDF pp.1–203；原件均只读，没有修改。
 - Word文字层多为图片页标、图注或“OCR草稿／原页图为准”；仅提取Word文字不足以读完这份作品集。现已用PDF原页图检查全卷图像序列，正在逐段核读图像、作品题名、展览文字及文本面板。
-- 阅读范围状态：**详细核读至PDF p.107/203**；pp.1–107已结合Word分卷与PDF视觉页图阅读，下一页p.108。全卷缩略图已完成一轮总览，但尚未逐页完成图注与作品分析。
+- 阅读范围状态：**详细核读至PDF p.157/203**；pp.1–157已结合Word分卷与PDF视觉页图阅读，下一页p.158。全卷缩略图已完成一轮总览，但尚未逐页完成图注与作品分析。
 
 ## Word分卷台账
 
@@ -24,7 +24,7 @@
 | Warren Neidich _p0181-0200.docx | 181–200 | 20 |
 | Warren Neidich _p0201-0203.docx | 201–203 | 3 |
 
-## 当前已读札记：PDF pp.1–107
+## 当前已读札记：PDF pp.1–157
 
 ### 首页与《Brainwash》（pp.1–3）
 
@@ -41,12 +41,32 @@ PDF p.4以《American History Reinvented》（1986–2001）为总题；p.5展�
 - **5. Aerial Reconnaissance Photographs: The Battle of Chickamauga（pp.85–102）**：pp.86–87为展览现场；pp.88–92展示关于侦察卫星、航空侦察、图像判读歧义和诱饵欺骗的新闻文字；pp.93–102为Chickamauga战场重演的航拍图，后制成5×7英寸锡版照片（tin types），题注时间为1990–91年。Neidich官网说明，他乘飞机从高处拍摄南北战争重演，之后请现场锡版摄影师将照片转制。系列并置历史战争、现代监视技术和重演影像，追问照片如何成为证据、以及证据如何被组织。[官方说明](https://americanhistoryreinvented.com/ahr5_about.html)
 - **6. Amputation without Anaesthesia（pp.103–107）**：PDF p.103为题页，p.104–105展示展览现场，p.107题注“Silver Print with Paint”。图像取自同一场战争重演中的假截肢场景；艺术家说明称照片被放大至真人尺寸、绘上红色颜料，再用红色摄影棚灯照明，使红血在展场中显黑。作品以医疗史、战争重演、电影化暴力与展览照明交织观者的观看经验。[官方说明](https://americanhistoryreinvented.com/ahr6_about.html)
 
+### 《Unknown Artist》与《Cindy Unveiled》（pp.108–117）
+
+p.108以“Unknown Artist”为题；pp.109–113展示不同艺术群体与集体合照的历史档案图像。艺术家官网将《Unknown Artist》（1992–94）说明为四部分项目，起点是收集20世纪知名艺术群体的摄影档案，并以“艺术史也由群体而非孤立个人生产”为命题。PDF p.114另题“Cindy Unveiled, 1986”，pp.115–117呈现同一年轻人物的多张黑白肖像；本地册页没有说明这一组与“Unknown Artist”的篇章关系，故分开记录，不推定其为同一系列或身份表演。
+
+### 《Double Vision》（pp.118–134）
+
+p.118起进入《Double Vision》（1997–2000）；图像把海平线、人物、远景和红绿／模糊圆形叠合，后段转至Kaaterskill Falls。Neidich官网说明，他在相机镜头前放置Lancaster红绿滤片，以光学方式改变观看经验；Louse Point既是拍摄地点，也因抽象表现主义艺术家而具有艺术史记忆。照片由此把视觉错位、摄影技术、地点经验和既有艺术史交织起来。[艺术家官网作品页](https://warrenneidich.com/double-vision-1997-2000-2/)
+
+### 《Shot Reverse Shot》（PDF pp.135–144）
+
+PDF p.135题注为“Shot Reverse Shot, 2002”；Neidich官网作品页则题为2001年，年份存在来源差异，暂按“PDF图注2002／官网页面2001”并列。pp.136–137为装置现场与图像网格，p.138出现眼科用棱镜柱，p.139为内／外斜视示意图，p.140展示视力检查情境，后续页呈现镜头、脸部与观看关系。官网将电影中的正反打结构与摄影史、神经科学联系起来，称其被用作组织演员相遇的装置；本地页图使“视觉如何被测量、剪接和安排”成为这一组作品的核心问题。[艺术家官网作品页](https://warrenneidich.com/shot-reverse-shot-4/)
+
+### 《Earthling》（PDF pp.145–157）
+
+PDF在pp.145–146引入《Earthling》，随后一组作品反复呈现读者、咖啡馆、杂志封面与眼睛：人物以报纸或杂志遮住脸部，封面眼睛被挖空后与真人眼睛对齐。Neidich官网说明，他收集跨国报纸杂志，邀请咖啡馆中的参与者戴上封面并即兴表演；他量取眼距、裁开印刷眼部，使真人目光与媒体肖像对接。作品将大众媒体制造的脸孔、品牌／新闻语境与现实个体的目光并置，也揭示摄影中的表演、同意与观看关系。官网把相关作品列为《Earthling》（2006），而本地PDF的图注见“Earthling, 2004”；这可能对应系列、图像或出版时间差异，当前不强行统一。[艺术家官网作品页](https://warrenneidich.com/earthling-1-10/) · [《Earthling》导读](https://warrenneidich.com/introduction-earthling/)
+
 ## 外部补充来源的使用边界
 
 艺术家官网提供的作品说明用于核对系列题名、制作方法与创作背景；作品图像的阅读仍以本地PDF为主。官网将Aperture 1989年的《American History Reinvented》描述为由若干部分组成的作品集，而本地203页PDF包含更多专题及后续系列，二者不能直接等同为同一出版版本。
 
 - [Neidich官网：American History Reinvented总览](https://warrenneidich.com/american-history-reinvented/)
 - [原项目网站目录与七部分标题](https://americanhistoryreinvented.com/main.html)
+- [《Unknown Artist》官网作品页](https://warrenneidich.com/unknown-artist-1992-94/)与[艺术家档案说明](https://warrenneidich.com/archive/)：核对其项目时间与群体档案命题。
+- [《Double Vision》官网作品页](https://warrenneidich.com/double-vision-1997-2000-2/)：红绿滤片、Louse Point与作品年份线索。
+- [《Shot Reverse Shot》官网作品页](https://warrenneidich.com/shot-reverse-shot-4/)：摄影／电影与神经科学的关系；页面题名年份与本地PDF图注不同。
+- [《Earthling》官网作品页](https://warrenneidich.com/earthling-1-10/)及[作品导读](https://warrenneidich.com/introduction-earthling/)：咖啡馆参与者、杂志封面与眼部对齐的创作过程。
 - [作品说明：News from No-Place](https://americanhistoryreinvented.com/ahr3_about.html)
 - [作品说明：Aerial Reconnaissance / Chickamauga](https://americanhistoryreinvented.com/ahr5_about.html)
 
