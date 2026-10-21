@@ -1,0 +1,18 @@
+{
+  "id": "concept_depth_of_field_hyperfocal_and_circle_of_confusion",
+  "type": "concept",
+  "name_zh": "景深、焦深、弥散圆与超焦距",
+  "summary": "景深是相对可接受的清晰范围，取决于光圈、焦距、物距、画幅、弥散圆和观看条件；超焦距使景深远界到达无限远，但主体不一定在最锐焦平面。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "景深与超焦距及镜头应用",
+      "page": "书内pp.63–145",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

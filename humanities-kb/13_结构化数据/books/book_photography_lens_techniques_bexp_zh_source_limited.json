@@ -1,0 +1,66 @@
+{
+  "id": "book_photography_lens_techniques_bexp_zh_source_limited",
+  "type": "book",
+  "name_zh": "《摄影镜头的使用技巧》",
+  "aliases": [
+    "摄影镜头使用技巧"
+  ],
+  "author_attribution": "本地bookinfo.dat作者栏为内部代码BEXP；没有可核验的人名或题名页署名",
+  "pdf_page_count": 448,
+  "book_page_count": 442,
+  "scan_page_image_count": 448,
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/关于摄影的书/摄影镜头的使用技巧；448个PDG页图",
+  "source_note": "六张特殊页为原书页码1–6的连续目录，其后为书内pp.1–442。校正PDF pp.1–6为目录，p.7起为正文。正文435页可读并已核读；pp.141、190、225、264、265、366、422无法由当前PDG解码流程读取。表格页pp.108–110、319、435已旋转页图人工核读。扫描缺题名页、版权页；作者、出版社、出版年、版次与ISBN未核。",
+  "related_concepts": [
+    "concept_lens_and_human_vision_photo_art",
+    "concept_focal_length_viewpoint_and_perspective",
+    "concept_depth_of_field_hyperfocal_and_circle_of_confusion",
+    "concept_focus_and_viewer_attention",
+    "concept_motion_blur_and_screen_speed",
+    "concept_lens_shift_scheimpflug_perspective_control",
+    "concept_optical_lens_accessories_and_image_quality"
+  ],
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993",
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_hockney_on_photography"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "绪论与第一章",
+      "page": "书内pp.1–62",
+      "location": "镜头与人眼、接口、光圈、变焦、调焦与法兰焦距"
+    },
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "第二章：景深与超焦距",
+      "page": "书内pp.63–145",
+      "location": "弥散圆、景深公式、景深表、超焦距与景深应用"
+    },
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "第三、四章：影像透视与焦距",
+      "page": "书内pp.146–252",
+      "location": "透视比、视点、焦距、景别、运动速度与拍摄条件"
+    },
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "第五、六章：镜头选用与清晰度",
+      "page": "书内pp.253–362",
+      "location": "鱼眼、短焦、长焦、标准、变焦、微距、运动位移"
+    },
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "第七、八章：透视调整与附件",
+      "page": "书内pp.363–442",
+      "location": "移轴、俯仰、Scheimpflug、光学附件与近摄"
+    }
+  ]
+}

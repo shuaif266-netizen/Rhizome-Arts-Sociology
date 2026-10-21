@@ -1,0 +1,31 @@
+{
+  "id": "topic_photographic_lens_perception_space_and_motion",
+  "type": "topic",
+  "name_zh": "摄影镜头、知觉、空间与运动",
+  "name_en": "Photographic lenses, perception, space, and motion",
+  "summary": "把人眼与镜头的差异、焦距与视点、景深与视觉注意、透视调整、运动影像及光学附件联成一条理解摄影造型的路径。此跨学科框架为知识库编者整理，不代表原书统一理论。",
+  "related_concepts": [
+    "concept_lens_and_human_vision_photo_art",
+    "concept_focal_length_viewpoint_and_perspective",
+    "concept_depth_of_field_hyperfocal_and_circle_of_confusion",
+    "concept_focus_and_viewer_attention",
+    "concept_motion_blur_and_screen_speed",
+    "concept_lens_shift_scheimpflug_perspective_control",
+    "concept_optical_lens_accessories_and_image_quality"
+  ],
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited",
+    "book_photography_composition_best_choices_weber_zh_1993",
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_hockney_on_photography"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "知识库编者综合可读页",
+      "chapter": "全书结构",
+      "page": "书内pp.1–442（7页无法解码）",
+      "location": "从视觉生理到光学、透视、运动、摄影实践和镜头附件"
+    }
+  ]
+}

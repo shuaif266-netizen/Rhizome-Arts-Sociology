@@ -1,0 +1,18 @@
+{
+  "id": "concept_optical_lens_accessories_and_image_quality",
+  "type": "concept",
+  "name_zh": "镜头附件与成像条件",
+  "summary": "倍率镜、滤镜、近摄镜、接圈、皮腔、稳定器、遮光罩和遮片会改变焦距、放大率、光量、反差、视场与曝光；附件扩展表达，也带来像差和操作限制。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "镜头附件的性能与应用",
+      "page": "书内pp.400–442",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

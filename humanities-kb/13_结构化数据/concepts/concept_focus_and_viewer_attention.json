@@ -1,0 +1,18 @@
+{
+  "id": "concept_focus_and_viewer_attention",
+  "type": "concept",
+  "name_zh": "调焦与视觉注意",
+  "summary": "焦点确定清晰平面，也可把观众注意从近景转向远景。定点预焦、景深预调焦和转移调焦使机械对焦成为画面叙事手段。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "调焦、预调焦与转移调焦",
+      "page": "书内pp.33–62、58–59、122–130",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

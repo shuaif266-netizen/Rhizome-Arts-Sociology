@@ -1,0 +1,18 @@
+{
+  "id": "concept_motion_blur_and_screen_speed",
+  "type": "concept",
+  "name_zh": "运动模糊、影像位移与银幕速度",
+  "summary": "曝光期间的影像位移受快门、焦距、距离、运动方向、帧率和摇摄速度影响；模糊可作为表达手段，清晰度标准还受画幅与观看条件影响。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "影像清晰度控制、跟拍、摇摄与位移计算",
+      "page": "书内pp.327–362",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

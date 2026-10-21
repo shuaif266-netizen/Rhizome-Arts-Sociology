@@ -1,0 +1,18 @@
+{
+  "id": "concept_focal_length_viewpoint_and_perspective",
+  "type": "concept",
+  "name_zh": "焦距、视点与透视关系",
+  "summary": "焦距影响视场和影像放大率；透视主要取决于拍摄视点和物距。保持主体大小而改变机位，会改变近景与远景比例；固定视点变焦主要改变取景。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "影像透视、焦距作用与透视调整",
+      "page": "书内pp.146–252、363–399",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

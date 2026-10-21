@@ -1,0 +1,18 @@
+{
+  "id": "concept_lens_shift_scheimpflug_perspective_control",
+  "type": "concept",
+  "name_zh": "镜头移轴、像平面与Scheimpflug调焦",
+  "summary": "镜头座和片夹座的升降、平移、俯仰、摇摆改变取景、透视和焦平面；大型相机可将倾斜物平面带入清晰范围，也可校正建筑线条。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "画面透视调整与大型相机操作",
+      "page": "书内pp.363–399",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

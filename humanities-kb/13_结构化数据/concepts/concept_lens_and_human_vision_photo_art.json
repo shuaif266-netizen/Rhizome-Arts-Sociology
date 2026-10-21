@@ -1,0 +1,18 @@
+{
+  "id": "concept_lens_and_human_vision_photo_art",
+  "type": "concept",
+  "name_zh": "镜头与人眼：成像条件和主动观看",
+  "summary": "镜头与人眼都形成影像、调焦、控制光量并具有视野；人眼由大脑主动选择和补偿，摄影镜头则按机位、焦距和曝光记录画面。",
+  "related_books": [
+    "book_photography_lens_techniques_bexp_zh_source_limited"
+  ],
+  "sources": [
+    {
+      "book": "《摄影镜头的使用技巧》",
+      "author": "作者身份未核；bookinfo.dat作者栏为BEXP",
+      "chapter": "绪论：摄影镜头与摄影艺术",
+      "page": "书内pp.1–7",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}
