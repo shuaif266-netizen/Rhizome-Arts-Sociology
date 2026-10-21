@@ -1,0 +1,31 @@
+{
+  "id": "person_an_my_le",
+  "type": "person",
+  "name_zh": "An-My Lê（中文译名待核）",
+  "name_en": "An-My Lê",
+  "aliases": [
+    "AN-MYLÊ",
+    "An-My Lê"
+  ],
+  "fields": [
+    "当代艺术",
+    "摄影",
+    "风景与战争影像"
+  ],
+  "sources": [
+    {
+      "book": "An-My Lê《AN-MYLÊ》项目作品图册",
+      "author": "项目PDF p.1",
+      "page": "PDF p.1",
+      "location": "首页署名AN-MYLÊ"
+    },
+    {
+      "book": "An-My Lê艺术家简介",
+      "author": "SFMOMA",
+      "page": "人物网页",
+      "location": "人物及教育经历资料",
+      "url": "https://www.sfmoma.org/artist/An-My_L%C3%AA/"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

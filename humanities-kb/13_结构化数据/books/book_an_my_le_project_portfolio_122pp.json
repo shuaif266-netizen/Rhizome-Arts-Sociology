@@ -1,0 +1,63 @@
+{
+  "id": "book_an_my_le_project_portfolio_122pp",
+  "type": "book",
+  "name_zh": "An-My Lê《AN-MYLÊ》项目作品图册",
+  "name_en": "An-My Lê project portfolio",
+  "aliases": [
+    "AN-MYLÊ项目图册",
+    "An-My Lê课程作品档案"
+  ],
+  "artist_ids": [
+    "person_an_my_le"
+  ],
+  "material_type": "course artist-project portfolio",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 122,
+  "word_volume_count": 7,
+  "page_coverage": "项目PDF pp.1–122/122全卷核读；7份Word页标连续覆盖全卷，并回看图像页。",
+  "reading_status": "completed_entire_project_archive",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/AN-MYLÊ .pdf；Word辅助稿在PDF转Word/全量输出同相对目录",
+  "source_note": "PDF以题注、图像和少量简介为主，未见出版社、版权页、ISBN或纸本版次；按项目作品图册归档，不认定为正式出版单行本。原始PDF与Word留在本地只读。",
+  "sources": [
+    {
+      "book": "An-My Lê《AN-MYLÊ》项目作品图册",
+      "author": "项目PDF",
+      "page": "PDF pp.1–122",
+      "location": "7份Word页标连续；图像页回看PDF"
+    },
+    {
+      "book": "An-My Lê《AN-MYLÊ》项目作品图册",
+      "author": "项目PDF",
+      "page": "PDF pp.16–58",
+      "location": "《Small Wars》与《29 Palms》的作品题注和图像"
+    },
+    {
+      "book": "An-My Lê《AN-MYLÊ》项目作品图册",
+      "author": "项目PDF",
+      "page": "PDF pp.59–122",
+      "location": "《Events Ashore》《Silent General》与边境段落"
+    },
+    {
+      "book": "SFMOMA展览资料",
+      "author": "SFMOMA",
+      "page": "展览网页",
+      "location": "核对越战重演与Twentynine Palms训练系列背景",
+      "url": "https://www.sfmoma.org/exhibition/an-my-le/"
+    },
+    {
+      "book": "An-My Lê艺术家官网",
+      "author": "An-My Lê",
+      "page": "项目网页",
+      "location": "项目说明与图版题注",
+      "url": "https://anmyle.com/silent-general-1"
+    },
+    {
+      "book": "Whitney 2017 Biennial",
+      "author": "Whitney Museum of American Art",
+      "page": "展览网页",
+      "location": "《Silent General》作品与历史景观语境",
+      "url": "https://whitney.org/exhibitions/2017-biennial/art?section=29"
+    }
+  ],
+  "source_sha256": "E08C114B1CE57EB6B9A1DEFBB0C7C2997AE7EB151A912570D4C291CA321F1321"
+}

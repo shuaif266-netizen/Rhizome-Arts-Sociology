@@ -1,0 +1,53 @@
+{
+  "id": "topic_an_my_le_landscape_war_state_memory",
+  "type": "topic",
+  "name_zh": "风景、战争重演、国家日常与历史记忆：An-My Lê",
+  "name_en": "Landscape, reenactment, state presence, and historical memory in An-My Lê",
+  "aliases": [
+    "An-My Lê项目册跨学科阅读路径"
+  ],
+  "summary": "从摄影史中的战争图像和越战重演，经过当代军事训练、海军救援与医疗行动，延伸到美国南方纪念物和边境地貌。该路径为知识库编者的阅读组织，不代表艺术家提出单一理论。",
+  "source_status": "reader-organized cross-disciplinary map",
+  "person_ids": [
+    "person_an_my_le"
+  ],
+  "book_ids": [
+    "book_an_my_le_project_portfolio_122pp"
+  ],
+  "concept_ids": [
+    "concept_war_reenactment_photographic_memory_an_my_le",
+    "concept_military_presence_everyday_logistics_an_my_le",
+    "concept_historical_war_photography_landscape_witness_an_my_le",
+    "concept_monuments_film_sets_civic_memory_an_my_le",
+    "concept_border_landscape_state_vision_an_my_le"
+  ],
+  "sources": [
+    {
+      "book": "An-My Lê《AN-MYLÊ》项目作品图册",
+      "author": "项目PDF",
+      "page": "PDF pp.4–14、16–58",
+      "location": "战争摄影史、重演与军事训练"
+    },
+    {
+      "book": "An-My Lê《AN-MYLÊ》项目作品图册",
+      "author": "项目PDF",
+      "page": "PDF pp.59–122",
+      "location": "海军行动、历史纪念景观与边境图像"
+    },
+    {
+      "book": "SFMOMA展览资料",
+      "author": "SFMOMA",
+      "page": "展览网页",
+      "location": "战争重演与训练背景",
+      "url": "https://www.sfmoma.org/exhibition/an-my-le/"
+    },
+    {
+      "book": "Whitney 2017 Biennial",
+      "author": "Whitney Museum of American Art",
+      "page": "展览网页",
+      "location": "《Silent General》资料",
+      "url": "https://whitney.org/exhibitions/2017-biennial/art?section=29"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
