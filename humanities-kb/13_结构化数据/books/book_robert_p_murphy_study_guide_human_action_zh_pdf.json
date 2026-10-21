@@ -1,0 +1,56 @@
+{
+  "id": "book_robert_p_murphy_study_guide_human_action_zh_pdf",
+  "type": "book",
+  "name_zh": "罗伯特·P·墨菲《人的行动》学习指南",
+  "name": "Study Guide to Human Action",
+  "aliases": [
+    "《人的行动》学习指南",
+    "导读米塞斯《人的行动》",
+    "Robert P. Murphy Study Guide to Human Action"
+  ],
+  "author_ids": [
+    "person_robert_p_murphy"
+  ],
+  "translator": "吴烽炜",
+  "proofreader": "熊越",
+  "series": "通天译丛；熊越主编",
+  "fields": [
+    "经济学",
+    "奥地利学派",
+    "经济学方法论",
+    "政治经济学"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 356,
+  "source_sha256": "F8B187091819E8EA47FD7D3D0F960D6BDDD4C53B53ECEEFD57A41C1549A5AC54",
+  "local_source_status": "项目PDF共356页；9份Word OCR分卷页标连续覆盖pp.1–356。封面与题名页、空白页、目录、末章、捐助页和封底已核对。出版项未核；原PDF和Word只读留在本地。",
+  "related_people": [
+    "person_robert_p_murphy",
+    "person_ludwig_von_mises"
+  ],
+  "related_concepts": [
+    "concept_murphy_praxeology_action_methodological_dualism",
+    "concept_murphy_socialist_economic_calculation",
+    "concept_mises_natural_vs_money_interest",
+    "concept_mises_credit_expansion_cycle",
+    "concept_mises_fiduciary_media",
+    "concept_mises_sound_money"
+  ],
+  "sources": [
+    {
+      "book": "《人的行动》学习指南项目扫描PDF",
+      "author": "题名页",
+      "chapter": "书目信息",
+      "page": "PDF pp.1、4",
+      "location": "封面与题名页确认中英文题名、作者、译者和校者"
+    },
+    {
+      "book": "《人的行动》学习指南项目扫描PDF",
+      "author": "Robert P. Murphy",
+      "chapter": "全书",
+      "page": "PDF pp.19–354",
+      "location": "七篇、三十九章的学习指南正文；PDF pp.355–356为捐助页与封底"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

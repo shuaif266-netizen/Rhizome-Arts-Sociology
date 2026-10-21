@@ -1,0 +1,31 @@
+{
+  "id": "person_robert_p_murphy",
+  "type": "person",
+  "name": "Robert P. Murphy",
+  "name_zh": "罗伯特·P·墨菲",
+  "aliases": [
+    "Robert Murphy",
+    "罗伯特·墨菲"
+  ],
+  "fields": [
+    "奥地利学派经济学",
+    "经济学方法论",
+    "政治经济学"
+  ],
+  "related_people": [
+    "person_ludwig_von_mises"
+  ],
+  "related_books": [
+    "book_robert_p_murphy_study_guide_human_action_zh_pdf"
+  ],
+  "sources": [
+    {
+      "book": "《人的行动》学习指南项目扫描PDF",
+      "author": "题名页与序言",
+      "chapter": "书目信息及作者序言",
+      "page": "PDF pp.1、4、14–16",
+      "location": "确认本书作者身份、指南体例及对米塞斯《人的行动》的导读关系"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

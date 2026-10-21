@@ -1,0 +1,33 @@
+{
+  "id": "topic_murphy_action_calculation_market_adjustment",
+  "type": "topic",
+  "name_zh": "行动学—经济计算—市场调整",
+  "aliases": [
+    "墨菲导读《人的行动》的跨学科路径"
+  ],
+  "related_books": [
+    "book_robert_p_murphy_study_guide_human_action_zh_pdf"
+  ],
+  "related_people": [
+    "person_robert_p_murphy",
+    "person_ludwig_von_mises"
+  ],
+  "related_concepts": [
+    "concept_murphy_praxeology_action_methodological_dualism",
+    "concept_murphy_socialist_economic_calculation",
+    "concept_mises_natural_vs_money_interest",
+    "concept_mises_credit_expansion_cycle",
+    "concept_mises_fiduciary_media",
+    "concept_mises_sound_money"
+  ],
+  "sources": [
+    {
+      "book": "《人的行动》学习指南项目扫描PDF",
+      "author": "知识库阅读整理",
+      "chapter": "全书",
+      "page": "PDF pp.19–354",
+      "location": "由行动学、经济计算、利息与信用、制度干预及价值边界串成的阅读路径"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}
