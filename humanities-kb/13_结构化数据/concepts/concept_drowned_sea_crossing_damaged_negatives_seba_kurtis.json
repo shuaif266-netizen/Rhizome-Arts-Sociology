@@ -1,0 +1,18 @@
+{
+  "id": "concept_drowned_sea_crossing_damaged_negatives_seba_kurtis",
+  "type": "concept",
+  "name_zh": "海水、负片损伤与迁移图像：Drowned",
+  "name_en": "Sea water, damaged negatives, and migration images in Drowned",
+  "aliases": [],
+  "summary": "《Drowned》以海岸、海面和跨海迁移为视觉入口。代表画廊说明，Kurtis将胶片浸入海水造成化学损伤，让影像的物质状态与跨海路线的危险互相映照。",
+  "scope_note": "依据项目册对应题注与图版整理；外部画廊、策展和学术说明仅在正文标出时辅助核对。",
+  "sources": [
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地项目PDF题注与图像",
+      "page": "PDF pp.1–11",
+      "location": "对应作品组，见整卷档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "person_seba_kurtis",
+  "type": "person",
+  "name_zh": "Seba Kurtis（中文译名待核）",
+  "name_en": "Seba Kurtis",
+  "aliases": [
+    "Seba Kurtis"
+  ],
+  "fields": [
+    "摄影",
+    "迁移与边境影像",
+    "档案与模拟影像"
+  ],
+  "sources": [
+    {
+      "book": "Seba Kurtis人物资料",
+      "author": "Christophe Guye Galerie",
+      "page": "人物网页",
+      "location": "出生年份、新闻学背景与迁移经历",
+      "url": "https://christopheguye.com/artists/seba-kurtis/biography"
+    },
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地PDF p.1",
+      "page": "PDF p.1",
+      "location": "首页署艺术家姓名"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "book_seba_kurtis_project_dossier_127pp",
+  "type": "book",
+  "name_zh": "Seba Kurtis项目作品图册",
+  "name_en": "Seba Kurtis course portfolio and selected project works",
+  "aliases": [
+    "Seba Kurtis专题PDF",
+    "Drowned Seba Kurtis图册"
+  ],
+  "artist_ids": [
+    "person_seba_kurtis",
+    "person_gideon_mendel"
+  ],
+  "material_type": "course artist portfolio with a separate Gideon Mendel reference section",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 127,
+  "word_volume_count": 7,
+  "page_coverage": "项目PDF pp.1–127/127全卷核读；7份Word页标唯一连续，图版逐页查看。",
+  "reading_status": "completed_entire_project_archive",
+  "source_sha256": "3B36C71E73A553682DCB8FDEAB9D8600F976CE465A695EF8959AF7ADD1146C18",
+  "source_locator": "新鬼专栏课件/第一季：当作艺术摄影作品解读课件/Seba Kurtis .pdf；Word辅助稿在PDF转Word/全量输出同相对目录",
+  "source_note": "首页署名Seba Kurtis；p.2呈现《Drowned》封面式页面，但全卷包含多个作品组及单独的Gideon Mendel洪水摄影区段。未见版权页、出版社、ISBN或正式版次，不将此课程汇编认定为《Drowned》或《KIF》的完整出版扫描。",
+  "sources": [
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地项目PDF",
+      "page": "PDF pp.1–127",
+      "location": "7份Word页标唯一连续覆盖全卷"
+    },
+    {
+      "book": "Seba Kurtis《Drowned》系列",
+      "author": "Christophe Guye Galerie",
+      "page": "作品网页",
+      "location": "海上迁移、底片浸水与化学损伤的系列说明",
+      "url": "https://christopheguye.com/de/kuenstler/seba-kurtis/werkauswahl"
+    },
+    {
+      "book": "Seba Kurtis《700 Miles》",
+      "author": "Seba Kurtis与Barry W. Hughes",
+      "page": "Granta网页",
+      "location": "美墨边境及美国侧拍摄说明",
+      "url": "https://granta.com/700-miles/"
+    },
+    {
+      "book": "Gideon Mendel《Drowning World》",
+      "author": "Gideon Mendel",
+      "page": "艺术家官网",
+      "location": "洪水肖像及洪灾环境的独立作者说明",
+      "url": "https://gideonmendel.com/drowningworld/"
+    }
+  ]
+}

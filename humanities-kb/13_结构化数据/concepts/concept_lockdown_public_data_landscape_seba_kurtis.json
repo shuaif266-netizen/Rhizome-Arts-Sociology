@@ -1,0 +1,18 @@
+{
+  "id": "concept_lockdown_public_data_landscape_seba_kurtis",
+  "type": "concept",
+  "name_zh": "疫情数据、旧底片与封控地景：Lockdown Project",
+  "name_en": "Pandemic data, archival negatives, and lockdown landscapes in Lockdown Project",
+  "aliases": [],
+  "summary": "2020年《Lockdown Project》将旧底片、色片与疫情统计信息叠合在海滩、城市和居住空间上。代表画廊说明艺术家在居家隔离期间以旧底片和新数据创作，呈现不同地点经历封控的差异。",
+  "scope_note": "依据项目册对应题注与图版整理；外部画廊、策展和学术说明仅在正文标出时辅助核对。",
+  "sources": [
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地项目PDF题注与图像",
+      "page": "PDF pp.118–127",
+      "location": "对应作品组，见整卷档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

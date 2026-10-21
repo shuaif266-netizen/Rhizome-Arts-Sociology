@@ -1,0 +1,18 @@
+{
+  "id": "concept_drowning_world_flood_portraits_gideon_mendel",
+  "type": "concept",
+  "name_zh": "洪水肖像与灾后地景：Gideon Mendel",
+  "name_en": "Flood portraits and post-disaster landscapes in Gideon Mendel",
+  "aliases": [],
+  "summary": "本地册p.12另列Gideon Mendel（原册误作Mendell），p.26出现“淹没的肖像”标题。相关图版呈现洪水中的人物、家园和被水损坏的照片。该段与Kurtis《Drowned》分开归属；若个别图版无题注，则不再推定子系列。",
+  "scope_note": "依据项目册对应题注与图版整理；外部画廊、策展和学术说明仅在正文标出时辅助核对。",
+  "sources": [
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地项目PDF题注与图像",
+      "page": "PDF pp.12–53",
+      "location": "对应作品组，见整卷档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

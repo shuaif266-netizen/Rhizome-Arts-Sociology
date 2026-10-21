@@ -1,0 +1,18 @@
+{
+  "id": "concept_kif_shoebox_family_archive_seba_kurtis",
+  "type": "concept",
+  "name_zh": "KIF、Shoebox与家庭影像档案",
+  "name_en": "KIF, Shoebox, and the family photographic archive",
+  "aliases": [],
+  "summary": "《KIF》以书名页和图像摘录构成一段独立序列；《Shoebox》则回到家庭相册和旧照片。艺术家谈到家庭搬迁、房屋被收回及一盒洪水损坏的旧照片；私人影像在此承载家庭记忆和经济迁徙。",
+  "scope_note": "依据项目册对应题注与图版整理；外部画廊、策展和学术说明仅在正文标出时辅助核对。",
+  "sources": [
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地项目PDF题注与图像",
+      "page": "PDF pp.73–101",
+      "location": "对应作品组，见整卷档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "topic_seba_kurtis_migration_files_visibility",
+  "type": "topic",
+  "name_zh": "迁移档案、图像损伤、边境治理与身份可见性：Seba Kurtis",
+  "name_en": "Migration files, damaged images, border governance, and visibility in Seba Kurtis",
+  "aliases": [
+    "Seba Kurtis项目册跨学科阅读路径"
+  ],
+  "summary": "从跨海迁移与国家档案，经过底片损伤、过曝、个人相册和边境摄影，延伸到疫情数据与封控景观。将视觉技术与身份记录、边界和公共信息连接起来；图册中的Gideon Mendel段落另行归属。",
+  "source_status": "reader-organized cross-disciplinary map",
+  "person_ids": [
+    "person_seba_kurtis",
+    "person_gideon_mendel"
+  ],
+  "book_ids": [
+    "book_seba_kurtis_project_dossier_127pp"
+  ],
+  "concept_ids": [
+    "concept_drowned_sea_crossing_damaged_negatives_seba_kurtis",
+    "concept_drowning_world_flood_portraits_gideon_mendel",
+    "concept_unclassified_state_archive_76_83_seba_kurtis",
+    "concept_immigration_documents_8_years_undocument_seba_kurtis",
+    "concept_photo_visibility_screening_talcum_heartbeat_seba_kurtis",
+    "concept_paraiso_statistics_landscape_seba_kurtis",
+    "concept_kif_shoebox_family_archive_seba_kurtis",
+    "concept_700_miles_border_landscape_seba_kurtis",
+    "concept_lockdown_public_data_landscape_seba_kurtis"
+  ],
+  "sources": [
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地项目PDF",
+      "page": "PDF pp.1–127",
+      "location": "专题图版及作品题注"
+    },
+    {
+      "book": "Immigration Files",
+      "author": "Centre Photographique",
+      "page": "展览网页",
+      "location": "迁移经验、影像处理及系列项目概览",
+      "url": "https://centrephotographique.com/201509110800-seba-kurtis/"
+    },
+    {
+      "book": "Seba Kurtis《700 Miles》",
+      "author": "Seba Kurtis与Barry W. Hughes",
+      "page": "Granta网页",
+      "location": "边境地景与美国侧拍摄说明",
+      "url": "https://granta.com/700-miles/"
+    },
+    {
+      "book": "Gideon Mendel《Drowning World》",
+      "author": "Gideon Mendel",
+      "page": "艺术家官网",
+      "location": "本地专题中另列的洪水影像作者",
+      "url": "https://gideonmendel.com/drowningworld/"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

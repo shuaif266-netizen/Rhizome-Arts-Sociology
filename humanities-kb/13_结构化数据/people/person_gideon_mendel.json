@@ -1,0 +1,31 @@
+{
+  "id": "person_gideon_mendel",
+  "type": "person",
+  "name_zh": "Gideon Mendel（中文译名待核）",
+  "name_en": "Gideon Mendel",
+  "aliases": [
+    "Gideon Mendel",
+    "PDF原册误作Gideon Mendell"
+  ],
+  "fields": [
+    "摄影",
+    "纪录影像",
+    "洪水与气候影像"
+  ],
+  "sources": [
+    {
+      "book": "Gideon Mendel《Drowning World》",
+      "author": "Gideon Mendel",
+      "page": "艺术家官网",
+      "location": "洪水受灾者肖像及环境记录",
+      "url": "https://gideonmendel.com/drowningworld/"
+    },
+    {
+      "book": "Seba Kurtis项目作品图册",
+      "author": "本地PDF",
+      "page": "PDF p.12、p.26",
+      "location": "目录页列Gideon Mendell；分隔标题为Submerged Portraits"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

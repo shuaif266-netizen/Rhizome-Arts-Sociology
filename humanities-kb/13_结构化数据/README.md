@@ -1,6 +1,14 @@
 # 结构化数据层
 
-本目录为Markdown知识库的机器可读补充。当前累计2,405个实体、2,810条关系，其中2,617条为status=verified，121条历史关系未标status（不自动视为verified），另有72条跨学科或跨书关系保留status=suggested。统计按当前JSON文件与relations.jsonl逐条重计；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+本目录为Markdown知识库的机器可读补充。当前累计2,418个实体、2,822条关系，其中2,628条为status=verified，121条历史关系未标status（不自动视为verified），另有73条跨学科或跨书关系保留status=suggested。统计按当前JSON文件与relations.jsonl逐条重计；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。
+
+### 2026-10-22：Seba Kurtis项目作品图册（全卷完成，课程项目汇编）
+
+- 新增13个实体：作品图册1、艺术家2（Seba Kurtis、Gideon Mendel）、来源限定概念9、跨学科主题1。
+- 新增12条有来源关系：图册署名、Gideon Mendel独立区段及9条作品组概念关系为verified；跨学科路径1条为suggested。
+- 项目PDF pp.1–127/127与7份Word页标全卷核读；127个页标唯一连续覆盖全卷，图版逐页查看。
+- 本地PDF包含《Drowned》《KIF》等题页、多个迁移项目和Gideon Mendel洪水影像，不是单行本《Drowned》的完整扫描；未见正式出版项，按课程图册归档。
+- 原PDF、Word分卷、页图和OCR抽取留在本地；中文档案与可回查关系进入GitHub。
 
 ### 2026-10-22：Erica Baum《特别关注单元》项目作品图册（全卷完成，非正式出版书）
 
