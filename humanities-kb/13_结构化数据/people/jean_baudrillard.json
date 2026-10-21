@@ -3,5 +3,24 @@
   "type": "person",
   "name_zh": "让·鲍德里亚",
   "name_en": "Jean Baudrillard",
-  "aliases": []
+  "aliases": [],
+  "fields": [
+    "哲学",
+    "社会理论",
+    "符号学",
+    "文化理论"
+  ],
+  "related_books": [
+    "book_sophie_calle_suite_venitienne_please_follow_me_1988_en"
+  ],
+  "sources": [
+    {
+      "book": "Suite vénitienne / Please follow me项目扫描PDF",
+      "author": "Jean Baudrillard",
+      "chapter": "Please follow me",
+      "page": "PDF pp.81–92",
+      "location": "署名评论文本，讨论跟随、诱惑与主体位置"
+    }
+  ],
+  "last_updated": "2026-10-21"
 }

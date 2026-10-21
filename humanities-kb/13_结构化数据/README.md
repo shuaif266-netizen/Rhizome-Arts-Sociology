@@ -1,6 +1,13 @@
 # 结构化数据层
 
-本目录为Markdown知识库的机器可读补充。当前累计2,307个实体、2,690条关系，其中2,518条为status=verified，121条历史关系未标status（不自动视为verified），另有51条跨学科或跨书关系保留status=suggested。统计按当前JSON文件与relations.jsonl逐条重计；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。奥斯特《巨兽》新增项目记录见下文。
+本目录为Markdown知识库的机器可读补充。当前累计2,313个实体、2,698条关系，其中2,524条为status=verified，121条历史关系未标status（不自动视为verified），另有53条跨学科或跨书关系保留status=suggested。统计按当前JSON文件与relations.jsonl逐条重计；旧文件继续保留，新结构按轻量实体和少量有来源的连接自然累积。苏菲·卡尔《Suite vénitienne》与鲍德里亚《Please follow me》及卡尔—奥斯特跨书路径记录见下文。
+
+### 2026-10-21：苏菲·卡尔《Suite vénitienne》与鲍德里亚《Please follow me》
+
+- 新增6个实体：书籍1、来源限定概念4、跨书主题1；复用Sophie Calle与Jean Baudrillard人物实体。
+- 新增8条有来源关系：人物署名2、概念入口4、跨书阅读路径2；6条为verified，2条知识库综合路径为suggested。
+- 项目PDF pp.1–93/93全卷阅读，5份Word页段连续；图像序列接触页覆盖全卷。题名/版权页回核法文版1983、Bay Press英文版1988、译者及ISBN；原PDF/Word留本地只读。
+- 新增跨书主题连到已读奥斯特《巨兽》，明确区分小说人物与现实艺术家，不表示直接影响。
 
 ### 2026-10-21：奥斯特《巨兽》
 

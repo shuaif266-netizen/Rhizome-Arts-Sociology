@@ -1,0 +1,81 @@
+{
+  "id": "book_sophie_calle_suite_venitienne_please_follow_me_1988_en",
+  "type": "book",
+  "name_zh": "苏菲·卡尔《Suite vénitienne》与让·鲍德里亚《Please follow me》",
+  "name": "Suite vénitienne / Please follow me",
+  "aliases": [
+    "1988 Suite Vénitienne / Please Follow Me",
+    "Suite vénitienne",
+    "Please follow me"
+  ],
+  "author_ids": [
+    "person_sophie_calle"
+  ],
+  "contributor_ids": [
+    "person_jean_baudrillard"
+  ],
+  "contributions": [
+    {
+      "person_id": "person_sophie_calle",
+      "role": "artist and author",
+      "work": "Suite vénitienne"
+    },
+    {
+      "person_id": "person_jean_baudrillard",
+      "role": "essay author",
+      "work": "Please follow me"
+    }
+  ],
+  "translator": "Dany Barash; Danny Hatfield",
+  "publisher": "Bay Press, Seattle",
+  "publication_year": "1988",
+  "original_publication": "Éditions de l’Étoile—Cahiers du cinéma, ©1983",
+  "edition": "U.S. English edition ©1988",
+  "isbn": "0-941920-09-7",
+  "language": "English",
+  "fields": [
+    "艺术家书",
+    "摄影",
+    "观念艺术",
+    "视觉文化",
+    "文化理论"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 93,
+  "source_sha256": "087EEF5E9A7D387ECE16AF64A9D2D53426570E75C36685DA396C6F8DF7535824",
+  "local_source_status": "项目PDF共93页，5份Word页段连续且COM统计93页。p.2、4空白；封面、题名/版权、图像序列和封底已回看。原PDF与Word只读留在本地。",
+  "related_people": [
+    "person_sophie_calle",
+    "person_jean_baudrillard"
+  ],
+  "related_concepts": [
+    "concept_calle_following_photographic_action",
+    "concept_calle_disguise_gaze_reciprocity",
+    "concept_baudrillard_following_seduction_subject_disappearance",
+    "concept_calle_route_diary_photographic_archive"
+  ],
+  "sources": [
+    {
+      "book": "Suite vénitienne / Please follow me项目扫描PDF",
+      "author": "题名页与版权页",
+      "chapter": "书目信息",
+      "page": "PDF pp.1、3、5–6",
+      "location": "核对题名、作者、译者、Bay Press英文版1988、法文版©1983及ISBN"
+    },
+    {
+      "book": "Suite vénitienne / Please follow me项目扫描PDF",
+      "author": "Sophie Calle",
+      "chapter": "Suite vénitienne",
+      "page": "PDF pp.8–80",
+      "location": "1980年2月11–24日日记、摄影项目与威尼斯路线"
+    },
+    {
+      "book": "Suite vénitienne / Please follow me项目扫描PDF",
+      "author": "Jean Baudrillard",
+      "chapter": "Please follow me",
+      "page": "PDF pp.81–92",
+      "location": "对跟随、诱惑、影子和主体消隐的理论评论"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}
