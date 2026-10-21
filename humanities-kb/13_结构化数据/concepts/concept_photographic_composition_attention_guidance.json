@@ -1,0 +1,18 @@
+{
+  "id": "concept_photographic_composition_attention_guidance",
+  "type": "concept",
+  "name_zh": "构图作为观看注意的引导",
+  "summary": "线条、焦点、运动虚化、拍摄位置与画幅比例安排观者进入图像和移动视线的路线。构图原则适合作为分析工具，不应被当成普遍审美处方。",
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "形式分析、构图技巧、概要和视觉练习",
+      "page": "书内pp.80–114、140–159",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

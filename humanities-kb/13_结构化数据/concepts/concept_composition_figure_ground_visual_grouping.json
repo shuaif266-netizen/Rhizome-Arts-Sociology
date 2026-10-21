@@ -1,0 +1,18 @@
+{
+  "id": "concept_composition_figure_ground_visual_grouping",
+  "type": "concept",
+  "name_zh": "摄影构图中的图形—基底与知觉组织",
+  "summary": "图形与背景的划分会随形式关系、注意、记忆和观看经验而转换。构图分析应说明画面如何组织知觉，而不把主体性当作对象本身固定不变的属性。",
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "格式塔、知觉心理学、图形—基底与错视图示",
+      "page": "书内pp.20–35",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

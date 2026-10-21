@@ -1,0 +1,18 @@
+{
+  "id": "concept_photographic_composition_information_value",
+  "type": "concept",
+  "name_zh": "摄影构图中的信息值与对比",
+  "summary": "主体与背景、明暗、重复、复杂度和信息分配共同影响画面中哪些部分先被观看。信息值是读图入口，不是脱离语境的客观评分。",
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "黑白照片分析的观察标准、对比与案例",
+      "page": "书内pp.47–114",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "concept_photographic_composition_color_contrast",
+  "type": "concept",
+  "name_zh": "彩色摄影中的关系性对比",
+  "summary": "色相、补色、明暗、冷暖、同时与连续对比以及色彩面积会彼此影响。彩色分析应注意邻接关系和比例，而非为单色赋予固定含义。",
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "色视觉理论与彩色照片分析",
+      "page": "书内pp.116–139",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}

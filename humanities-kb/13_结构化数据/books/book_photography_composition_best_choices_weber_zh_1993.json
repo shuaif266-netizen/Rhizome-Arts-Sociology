@@ -1,0 +1,72 @@
+{
+  "id": "book_photography_composition_best_choices_weber_zh_1993",
+  "type": "book",
+  "name_zh": "《摄影构图的最佳选择》",
+  "aliases": [
+    "摄影家参考丛书·摄影构图的最佳选择"
+  ],
+  "author_attribution": "外部书目著录“韦伯”；本地扫描无题名页、版权页，作者全名与身份未核",
+  "translator_attribution": [
+    "贺西安",
+    "李海靖"
+  ],
+  "publisher": "中国摄影出版社（外部书目匹配，底本未核）",
+  "edition_and_printing": "Google Books同题记录著录1993年再版；本地扫描未见版权页，不能确认本扫描印次。",
+  "isbn": "7800070867（外部书目记录，底本未核）",
+  "pdf_page_count": 163,
+  "book_page_count": 159,
+  "scan_page_image_count": 163,
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/关于摄影的书/摄影家参考丛书  摄影构图的最佳选择；163个PDG页图",
+  "source_note": "159个正文页中116页已读，43页无法由当前解码流程读取。正文对应校正阅读PDF pp.4–162。外部书目匹配作者姓氏、译者、出版社、1993年再版和ISBN；扫描缺题名页与版权页，未把外部数据视为底本内证。不得将“韦伯”与马克思·韦伯混同。",
+  "related_concepts": [
+    "concept_composition_figure_ground_visual_grouping",
+    "concept_photographic_composition_information_value",
+    "concept_photographic_composition_depth_cues",
+    "concept_photographic_composition_color_contrast",
+    "concept_photographic_composition_attention_guidance"
+  ],
+  "related_books": [
+    "book_photography_theory_bexp_zh_source_limited",
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_hockney_on_photography_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "第一部分：视觉与构图",
+      "page": "书内pp.1–48",
+      "location": "视觉生理、格式塔、图形—基底与深度线索"
+    },
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "第二部分：黑白照片分析",
+      "page": "书内pp.50–114",
+      "location": "对比、信息值、照明、线条、焦点、运动与画幅"
+    },
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "第三、四部分：彩色视觉与彩色照片分析",
+      "page": "书内pp.116–139",
+      "location": "加色、减色、补色及色彩对比"
+    },
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "第五、六部分与附录",
+      "page": "书内pp.140–159",
+      "location": "构图技巧、概要和60道练习"
+    },
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "Google Books书目记录",
+      "chapter": "书目记录",
+      "page": "外部目录",
+      "location": "作者姓氏、译者、出版社、再版年、ISBN与页数",
+      "url": "https://books.google.com/books/about/%E6%91%84%E5%BD%B1%E6%9E%84%E5%9B%BE%E7%9A%84%E6%9C%80%E4%BD%B3%E9%80%89%E6%8B%A9.html?id=F7lgAAAACAAJ"
+    }
+  ]
+}

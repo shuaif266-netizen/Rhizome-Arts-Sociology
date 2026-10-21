@@ -1,0 +1,28 @@
+{
+  "id": "topic_vision_psychology_and_photographic_composition",
+  "type": "topic",
+  "name_zh": "视觉心理与摄影构图",
+  "name_en": "Visual psychology and photographic composition",
+  "summary": "把视觉生理、格式塔知觉、图形—基底、信息组织、空间深度、色彩对比和视觉教育放在一条可检验的分析路径中。此跨学科框架为知识库编者整理，不代表原书的统一理论。",
+  "related_concepts": [
+    "concept_composition_figure_ground_visual_grouping",
+    "concept_photographic_composition_information_value",
+    "concept_photographic_composition_depth_cues",
+    "concept_photographic_composition_color_contrast",
+    "concept_photographic_composition_attention_guidance"
+  ],
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993",
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan",
+    "book_hockney_on_photography"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "知识库编者综合可读页",
+      "chapter": "全书结构",
+      "page": "书内pp.1–159",
+      "location": "视觉生理、知觉组织、图像分析、色彩、拍摄技巧和练习"
+    }
+  ]
+}

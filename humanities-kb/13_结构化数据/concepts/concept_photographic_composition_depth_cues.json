@@ -1,0 +1,18 @@
+{
+  "id": "concept_photographic_composition_depth_cues",
+  "type": "concept",
+  "name_zh": "摄影构图中的深度线索",
+  "summary": "透视、重叠、形状梯度、照明和画幅关系共同帮助观看者从平面图像判断空间；这些线索需要结合具体画面来读。",
+  "related_books": [
+    "book_photography_composition_best_choices_weber_zh_1993"
+  ],
+  "sources": [
+    {
+      "book": "《摄影构图的最佳选择》",
+      "author": "作者身份待核；外部目录仅著录“韦伯”",
+      "chapter": "空间视觉、深度知觉与黑白照片分析",
+      "page": "书内pp.31–48、50–79",
+      "location": "基于可读页的知识库概念摘录"
+    }
+  ]
+}
