@@ -1,0 +1,56 @@
+{
+  "id": "book_paul_auster_leviathan_zh_2011_pdf",
+  "type": "book",
+  "name_zh": "保罗·奥斯特《巨兽》",
+  "name": "Leviathan",
+  "aliases": [
+    "《巨兽》",
+    "《Leviathan》",
+    "Paul Auster Leviathan"
+  ],
+  "author_ids": [
+    "person_paul_auster"
+  ],
+  "translator": "焦晓菊",
+  "publisher": "世纪出版集团、上海人民出版社",
+  "publication_year": "2011",
+  "edition": "2011年1月第1版、第1次印刷；同页CIP栏列上海人民出版社及2009年",
+  "isbn": "978-7-208-08759-0",
+  "fields": [
+    "小说",
+    "美国文学",
+    "叙事研究",
+    "摄影与视觉文化",
+    "政治象征"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 287,
+  "source_sha256": "ADFC9683B4DDCF008CECF37C82B8DD5EF094C4B672ED96092FC18550D68E600A",
+  "local_source_status": "项目PDF共287页；15份Word页标连续，Word COM页数统计287。PDF p.3题名页、p.4 CIP/印制项和p.287正文末页回看图像；原PDF和Word只读留在本地。",
+  "related_people": [
+    "person_paul_auster"
+  ],
+  "related_concepts": [
+    "concept_auster_testimony_memory_plural_facts",
+    "concept_auster_photographic_following_private_boundaries",
+    "concept_auster_statue_liberty_symbolic_action",
+    "concept_auster_signature_identity_forensic_evidence"
+  ],
+  "sources": [
+    {
+      "book": "《巨兽》项目扫描PDF",
+      "author": "题名页与版权页",
+      "chapter": "书目信息",
+      "page": "PDF pp.3–4",
+      "location": "确认中文题名、原题、作者、译者、ISBN、CIP年份及2011年印制项"
+    },
+    {
+      "book": "《巨兽》项目扫描PDF",
+      "author": "Paul Auster",
+      "chapter": "全书",
+      "page": "PDF pp.7–287",
+      "location": "小说正文；第一人称叙事、嵌套文本、摄影跟踪与案件证据线索"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

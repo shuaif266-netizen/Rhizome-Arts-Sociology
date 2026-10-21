@@ -1,0 +1,32 @@
+{
+  "id": "topic_auster_testimony_photography_symbol_evidence",
+  "type": "topic",
+  "name_zh": "叙述证词—摄影观察—政治象征—法证证据",
+  "aliases": [
+    "《巨兽》的跨学科叙事链"
+  ],
+  "related_books": [
+    "book_paul_auster_leviathan_zh_2011_pdf"
+  ],
+  "related_people": [
+    "person_paul_auster"
+  ],
+  "related_concepts": [
+    "concept_auster_testimony_memory_plural_facts",
+    "concept_auster_photographic_following_private_boundaries",
+    "concept_auster_statue_liberty_symbolic_action",
+    "concept_auster_signature_identity_forensic_evidence",
+    "narrative_discourse_subjecthood",
+    "concept_derrida_promise_signature_speech_act"
+  ],
+  "sources": [
+    {
+      "book": "《巨兽》项目扫描PDF",
+      "author": "知识库阅读整理",
+      "chapter": "全书",
+      "page": "PDF pp.7–287",
+      "location": "把第一人称见证、摄影记录、政治象征与警方证据串成的阅读路径；与叙事主体、签名概念作有限比较"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}

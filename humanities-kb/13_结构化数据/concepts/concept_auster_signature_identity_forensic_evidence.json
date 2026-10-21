@@ -1,0 +1,11 @@
+{
+  "id": "concept_auster_signature_identity_forensic_evidence",
+  "type": "concept",
+  "name_zh": "作者签名、身份伪造与法证证据",
+  "name_en": "authorial signature, identity forgery, and forensic evidence",
+  "aliases": [
+    "签名与指纹识别"
+  ],
+  "source_book_id": "book_paul_auster_leviathan_zh_2011_pdf",
+  "source_pages": "PDF pp.285–287"
+}

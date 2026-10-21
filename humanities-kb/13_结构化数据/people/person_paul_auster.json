@@ -1,0 +1,26 @@
+{
+  "id": "person_paul_auster",
+  "type": "person",
+  "name": "Paul Auster",
+  "name_zh": "保罗·奥斯特",
+  "aliases": [
+    "保罗·奥斯特（Paul Auster）"
+  ],
+  "fields": [
+    "小说",
+    "美国文学"
+  ],
+  "related_books": [
+    "book_paul_auster_leviathan_zh_2011_pdf"
+  ],
+  "sources": [
+    {
+      "book": "《巨兽》项目扫描PDF",
+      "author": "题名页",
+      "chapter": "书目信息",
+      "page": "PDF p.3",
+      "location": "题名页署Paul Auster著、焦晓菊译"
+    }
+  ],
+  "last_updated": "2026-10-21"
+}
