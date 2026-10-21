@@ -1,0 +1,57 @@
+{
+  "id": "book_hockney_on_photography_zh_scan",
+  "type": "book",
+  "name_zh": "《霍克尼论摄影——和保罗·乔伊斯的谈话录》",
+  "name_original": "Hockney on Photography: Conversations with Paul Joyce",
+  "aliases": [
+    "《霍克尼论摄影》",
+    "Hockney on Photography"
+  ],
+  "author_id": "person_david_hockney",
+  "interviewer_id": "person_paul_joyce",
+  "pdf_page_count": 213,
+  "book_page_count": 212,
+  "scan_page_image_count": 213,
+  "reading_status": "source_limited_scan_read",
+  "source_locator": "书/关于摄影的书/霍克尼论摄影；213个PDG页图",
+  "source_note": "本地bookinfo.dat列书名“霍克尼论摄影——和保罗·乔伊斯的谈话录”、作者代码BEXP、页数212。对谈显示保罗·乔伊斯提问、大卫·霍克尼作答。英文版1988年Jonathan Cape出版线索见大卫·霍克尼基金会书目；《中国摄影》杂志社称1994年引进国内、2021年增订本增收七篇。本地题名页和版权页未见，中文出版社、版次、印次与ISBN未核。PDG包括目录1页和书内pp.1–212；11页无法解码，201页可读页均已阅读。",
+  "related_people": [
+    "person_david_hockney",
+    "person_paul_joyce"
+  ],
+  "related_concepts": [
+    "concept_hockney_joiner_multiple_viewpoint",
+    "concept_hockney_perspective_viewer_movement",
+    "concept_hockney_photographic_reproduction_surface",
+    "concept_photographic_truth_claims"
+  ],
+  "related_books": [
+    "book_photography_theory_bexp_zh_source_limited",
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《霍克尼论摄影——和保罗·乔伊斯的谈话录》",
+      "author": "David Hockney、Paul Joyce（对谈）",
+      "chapter": "第一至第十一场对谈",
+      "page": "书内pp.1–197",
+      "location": "访谈署名、连续对话和图注"
+    },
+    {
+      "book": "Hockney on Photography",
+      "author": "David Hockney；Paul Joyce",
+      "chapter": "书目记录",
+      "page": "英文书目",
+      "location": "1988年英文版书目；本地简体版信息仍未核",
+      "url": "https://www.thedavidhockneyfoundation.org/resources/bibliography?page=11"
+    },
+    {
+      "book": "《霍克尼论摄影》",
+      "author": "大卫·霍克尼；保罗·乔伊斯",
+      "chapter": "后记与附录",
+      "page": "书内pp.198–212",
+      "location": "霍克尼艺术活动年表和乔伊斯摄影履历"
+    }
+  ]
+}
+

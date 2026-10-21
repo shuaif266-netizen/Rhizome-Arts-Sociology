@@ -1,0 +1,33 @@
+{
+  "id": "topic_hockney_photography_perspective_space_time_painting",
+  "type": "topic",
+  "name_zh": "透视、身体移动、时间与摄影拼贴",
+  "name_en": "Perspective, bodily movement, time, and photographic collage",
+  "summary": "以霍克尼的组合照片为入口，讨论透视如何安排观看位置、身体移动如何形成空间经验，以及复制与印刷怎样进入摄影创作。此跨学科框架为知识库编者整理。",
+  "related_people": [
+    "person_david_hockney",
+    "person_paul_joyce"
+  ],
+  "related_concepts": [
+    "concept_hockney_joiner_multiple_viewpoint",
+    "concept_hockney_perspective_viewer_movement",
+    "concept_hockney_photographic_reproduction_surface",
+    "concept_photographic_truth_claims"
+  ],
+  "related_books": [
+    "book_hockney_on_photography_zh_scan",
+    "book_photography_theory_bexp_zh_source_limited",
+    "book_ruan_yizhong_photography_aesthetics_seven_questions_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《霍克尼论摄影》",
+      "author": "大卫·霍克尼（受访者）；跨学科路径为知识库整理",
+      "chapter": "第一至第十一场对谈",
+      "page": "书内pp.1–197",
+      "location": "组合照片、透视、时间、复制与摄影证据"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+

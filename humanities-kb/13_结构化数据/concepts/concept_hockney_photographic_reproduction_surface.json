@@ -1,0 +1,17 @@
+{
+  "id": "concept_hockney_photographic_reproduction_surface",
+  "type": "concept",
+  "name_zh": "照片复制、纸面与组合印制（霍克尼）",
+  "name_en": "photographic reproduction, surface, and photocopier collage",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《霍克尼论摄影》",
+      "author": "大卫·霍克尼（受访者）",
+      "chapter": "第七至第十一场对谈",
+      "page": "书内pp.127–197",
+      "location": "复印机、印刷、传播、作品表面与复制"
+    }
+  ]
+}
+

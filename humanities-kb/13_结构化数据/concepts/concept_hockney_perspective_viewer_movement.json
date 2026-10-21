@@ -1,0 +1,17 @@
+{
+  "id": "concept_hockney_perspective_viewer_movement",
+  "type": "concept",
+  "name_zh": "单点透视、身体移动与记忆（霍克尼）",
+  "name_en": "single-point perspective, bodily movement, and memory",
+  "aliases": [],
+  "sources": [
+    {
+      "book": "《霍克尼论摄影》",
+      "author": "大卫·霍克尼（受访者）",
+      "chapter": "第二、四、五、六、七场对谈",
+      "page": "书内pp.17–48、53–116、117–140",
+      "location": "透视、观察位置和多视点记忆"
+    }
+  ]
+}
+

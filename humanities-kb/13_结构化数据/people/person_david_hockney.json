@@ -1,0 +1,32 @@
+{
+  "id": "person_david_hockney",
+  "type": "person",
+  "name": "David Hockney",
+  "name_zh": "戴维·霍克尼",
+  "name_en": "David Hockney",
+  "aliases": [
+    "大卫·霍克尼"
+  ],
+  "fields": [
+    "绘画",
+    "摄影",
+    "拼贴图像"
+  ],
+  "related_people": [
+    "person_paul_joyce"
+  ],
+  "related_books": [
+    "book_hockney_on_photography_zh_scan"
+  ],
+  "sources": [
+    {
+      "book": "《霍克尼论摄影——和保罗·乔伊斯的谈话录》",
+      "author": "大卫·霍克尼（受访者）",
+      "chapter": "第一至第十一场对谈",
+      "page": "书内pp.1–197",
+      "location": "摄影实践、组合照片与绘画、透视、时间和复制"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
+
