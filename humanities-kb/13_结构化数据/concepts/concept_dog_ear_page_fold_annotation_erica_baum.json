@@ -1,0 +1,18 @@
+{
+  "id": "concept_dog_ear_page_fold_annotation_erica_baum",
+  "type": "concept",
+  "name_zh": "折页、注释与阅读时序：Dog Ear与Stills",
+  "name_en": "Page folds, annotation, and reading sequence in Dog Ear and Stills",
+  "aliases": [],
+  "summary": "折起书页一角既是日常读者记住位置的动作，也会遮挡原文、显露新词语关系。《Dog Ear》把折角变成作品表面，《Stills》则以折线切分照片，令翻页与观看顺序成为视觉构成。",
+  "scope_note": "依据本地项目册对应图版与题注整理；馆藏或画廊说明只在明确注明处辅助核对。",
+  "sources": [
+    {
+      "book": "埃里卡·鲍姆《特别关注单元》项目作品图册",
+      "author": "项目PDF题注与图像",
+      "page": "PDF pp.59–70、117–127",
+      "location": "对应作品序列，见整卷阅读档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

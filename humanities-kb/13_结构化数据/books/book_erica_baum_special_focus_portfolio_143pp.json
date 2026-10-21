@@ -1,0 +1,60 @@
+{
+  "id": "book_erica_baum_special_focus_portfolio_143pp",
+  "type": "book",
+  "name_zh": "埃里卡·鲍姆《特别关注单元》项目作品图册",
+  "name_en": "Erica Baum Special Focus Unit project portfolio",
+  "aliases": [
+    "Erica Baum项目作品图册",
+    "特别关注单元 Erica Baum"
+  ],
+  "artist_ids": [
+    "person_erica_baum"
+  ],
+  "material_type": "course artist-project portfolio",
+  "publication_status": "not_verified_as_formal_book",
+  "page_count_pdf": 143,
+  "word_volume_count": 8,
+  "page_coverage": "项目PDF pp.1–143/143全卷核读；8份Word页标连续覆盖全卷，图版逐页查看。",
+  "capture_date_text": "PDF p.1标注2022-05-07；该日期性质未说明。",
+  "local_source_status": "read_only_verified",
+  "reading_status": "completed_entire_project_archive",
+  "source_sha256": "9B31D9687DE9111D8A31A49D9C9F8FAFC2727771EEC09F0DF09F68FC60560A35",
+  "source_locator": "新鬼专栏课件/第二季：当作艺术摄影作品解读课件/Erica Baum .pdf；Word辅助稿在PDF转Word/全量输出同相对目录",
+  "source_note": "课程专题PDF未见出版社、版权页、ISBN或纸本版次，按艺术家项目作品图册归档，不认定为正式出版单行本。PDF文字层稀疏且部分OCR误识，页图与连续Word页标共同用于阅读。",
+  "sources": [
+    {
+      "book": "Erica Baum《特别关注单元》项目作品图册",
+      "author": "本地项目PDF",
+      "page": "PDF pp.1–143",
+      "location": "8份Word页标连续；图版全卷查看"
+    },
+    {
+      "book": "Erica Baum作品目录",
+      "author": "Bureau",
+      "page": "作品网页",
+      "location": "核对作品系列名称与部分题注",
+      "url": "https://bureau-inc.com/artists/erica-baum/works"
+    },
+    {
+      "book": "Erica Baum访谈",
+      "author": "Erica Baum",
+      "page": "BAXTER ST网页",
+      "location": "艺术家说明印刷材料、卡片目录和纸页折角",
+      "url": "https://www.baxterst.org/interview-with-erica-baum/"
+    },
+    {
+      "book": "Erica Baum《Art》馆藏说明",
+      "author": "Buffalo AKG Art Museum",
+      "page": "馆藏网页",
+      "location": "《Naked Eye》平装书页材料说明",
+      "url": "https://buffaloakg.org/artworks/p201521-art"
+    },
+    {
+      "book": "Erica Baum《Examined》馆藏说明",
+      "author": "The Metropolitan Museum of Art",
+      "page": "馆藏网页",
+      "location": "《Dog Ear》折角、记忆、偶然与意图的馆藏解读",
+      "url": "https://www.metmuseum.org/art/collection/search/681578"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "concept_newspaper_clippings_fragment_reading_erica_baum",
+  "type": "concept",
+  "name_zh": "剪报碎片与版面节奏：Erica Baum",
+  "name_en": "Newspaper fragments and page rhythm in Erica Baum",
+  "aliases": [],
+  "summary": "报纸短句经过裁切、遮挡和色带分割后，既保留印刷物的痕迹，又难以恢复为完整新闻文本。读者在可读与不可读之间移动，版面节奏成为图像的组成部分。",
+  "scope_note": "依据本地项目册对应图版与题注整理；馆藏或画廊说明只在明确注明处辅助核对。",
+  "sources": [
+    {
+      "book": "埃里卡·鲍姆《特别关注单元》项目作品图册",
+      "author": "项目PDF题注与图像",
+      "page": "PDF pp.128–136",
+      "location": "对应作品序列，见整卷阅读档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

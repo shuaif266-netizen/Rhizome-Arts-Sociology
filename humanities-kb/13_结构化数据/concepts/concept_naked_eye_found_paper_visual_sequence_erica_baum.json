@@ -1,0 +1,18 @@
+{
+  "id": "concept_naked_eye_found_paper_visual_sequence_erica_baum",
+  "type": "concept",
+  "name_zh": "平装书页、视觉序列与不完整叙事：Naked Eye",
+  "name_en": "Paperback pages, visual sequence, and incomplete narrative in Naked Eye",
+  "aliases": [],
+  "summary": "扇开的通俗平装书形成纵向页边，书中人物、植物和文字只以片段出现。相机把抽象节奏与印刷叙事并置，观看者沿页面移动目光，并从残片中构想而非还原完整故事。",
+  "scope_note": "依据本地项目册对应图版与题注整理；馆藏或画廊说明只在明确注明处辅助核对。",
+  "sources": [
+    {
+      "book": "埃里卡·鲍姆《特别关注单元》项目作品图册",
+      "author": "项目PDF题注与图像",
+      "page": "PDF pp.71–109",
+      "location": "对应作品序列，见整卷阅读档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

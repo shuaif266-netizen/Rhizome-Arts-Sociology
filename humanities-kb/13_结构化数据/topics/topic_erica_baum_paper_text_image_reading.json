@@ -1,0 +1,47 @@
+{
+  "id": "topic_erica_baum_paper_text_image_reading",
+  "type": "topic",
+  "name_zh": "纸张、文字、图像与阅读动作：Erica Baum",
+  "name_en": "Paper, text, image, and reading gestures in Erica Baum",
+  "aliases": [
+    "Erica Baum项目册跨学科阅读路径"
+  ],
+  "summary": "从黑板书写、卡片目录和索引，经过缝纫纸样、书页折角与平装书图像，抵达剪报和圆盘式文字图版；整理纸质信息如何经摄影选择、裁切和重新排列，成为观看者再次阅读的材料。该路径为知识库编者归纳，不是艺术家自述的总理论。",
+  "source_status": "reader-organized cross-disciplinary map",
+  "person_ids": [
+    "person_erica_baum"
+  ],
+  "book_ids": [
+    "book_erica_baum_special_focus_portfolio_143pp"
+  ],
+  "concept_ids": [
+    "concept_blackboard_card_catalogue_index_erica_baum",
+    "concept_dog_ear_page_fold_annotation_erica_baum",
+    "concept_naked_eye_found_paper_visual_sequence_erica_baum",
+    "concept_patterns_sewing_paper_visual_form_erica_baum",
+    "concept_newspaper_clippings_fragment_reading_erica_baum"
+  ],
+  "sources": [
+    {
+      "book": "Erica Baum《特别关注单元》项目作品图册",
+      "author": "本地项目PDF",
+      "page": "PDF pp.2–143",
+      "location": "各系列作品题名、图像与版面顺序"
+    },
+    {
+      "book": "Erica Baum访谈",
+      "author": "Erica Baum",
+      "page": "BAXTER ST网页",
+      "location": "印刷材料、语言线索、卡片目录和Dog Ear",
+      "url": "https://www.baxterst.org/interview-with-erica-baum/"
+    },
+    {
+      "book": "Erica Baum《Art》馆藏说明",
+      "author": "Buffalo AKG Art Museum",
+      "page": "馆藏网页",
+      "location": "Naked Eye平装书页与图像／文字片段",
+      "url": "https://buffaloakg.org/artworks/p201521-art"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

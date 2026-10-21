@@ -1,0 +1,30 @@
+{
+  "id": "person_erica_baum",
+  "type": "person",
+  "name_zh": "埃里卡·鲍姆",
+  "name_en": "Erica Baum",
+  "aliases": [
+    "Erica Baum"
+  ],
+  "fields": [
+    "当代摄影",
+    "文字与图像",
+    "艺术家书与印刷材料"
+  ],
+  "sources": [
+    {
+      "book": "Erica Baum《特别关注单元》项目作品图册",
+      "author": "本地PDF首页",
+      "page": "PDF p.1",
+      "location": "姓名、生年1961与美国艺术家标注"
+    },
+    {
+      "book": "Erica Baum《Examined》馆藏资料",
+      "author": "大都会艺术博物馆",
+      "page": "馆藏网页",
+      "location": "人物条目列其为1961年生于纽约的美国艺术家",
+      "url": "https://www.metmuseum.org/art/collection/search/681578"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}

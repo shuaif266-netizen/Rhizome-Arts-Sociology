@@ -1,0 +1,18 @@
+{
+  "id": "concept_blackboard_card_catalogue_index_erica_baum",
+  "type": "concept",
+  "name_zh": "课堂书写、卡片目录与索引：Erica Baum",
+  "name_en": "Classroom writing, card catalogues, and indexes in Erica Baum",
+  "aliases": [],
+  "summary": "黑板上的粉笔痕、卡片目录和索引词条把书写与分类系统带进摄影。原本用于教学、检索和归类的信息，在作品中变成可见的文字与图像材料。画廊资料区分Card Catalogue与Index；项目册中相邻编排的图版应保留两种系列名。",
+  "scope_note": "依据本地项目册对应图版与题注整理；馆藏或画廊说明只在明确注明处辅助核对。",
+  "sources": [
+    {
+      "book": "埃里卡·鲍姆《特别关注单元》项目作品图册",
+      "author": "项目PDF题注与图像",
+      "page": "PDF pp.2–29",
+      "location": "对应作品序列，见整卷阅读档案"
+    }
+  ],
+  "last_updated": "2026-10-22"
+}
