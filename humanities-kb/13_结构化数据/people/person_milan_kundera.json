@@ -6,6 +6,20 @@
   "aliases": [],
   "fields": [
     "小说理论",
-    "文学创作"
-  ]
+    "文学创作",
+    "身份与主体",
+    "身体与凝视",
+    "梦境叙事"
+  ],
+  "sources": [
+    {
+      "book": "《本性》（内容对应《L’Identité》／《身份》）",
+      "author": "米兰·昆德拉；本地TXT页眉与译者序",
+      "chapter": "第1–51节及译者序",
+      "page": "按节号定位",
+      "location": "本地题名为《本性》且无版权页；内容与昆德拉1996年完成的L’Identité对应，中文译者、出版社和版次未核",
+      "url": "https://search.worldcat.org/title/L%27identite-%3A-roman/oclc/38424461"
+    }
+  ],
+  "last_updated": "2026-10-24"
 }

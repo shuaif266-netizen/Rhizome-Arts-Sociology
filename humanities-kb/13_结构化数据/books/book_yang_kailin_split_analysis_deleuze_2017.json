@@ -1,0 +1,41 @@
+{
+  "id": "book_yang_kailin_split_analysis_deleuze_2017",
+  "type": "book",
+  "name_zh": "《分裂分析德勒兹：先验经验论与建构主义》",
+  "name": "Schizo-Analyse de Gilles Deleuze · empirisme transcendantal et constructivisme",
+  "authors": [
+    "person_yang_kailin"
+  ],
+  "subject_persons": [
+    "person_gilles_deleuze"
+  ],
+  "publisher": "河南大学出版社",
+  "publication_year": "2017",
+  "isbn": "978-7-5649-2988-6",
+  "fields": [
+    "德勒兹研究",
+    "哲学",
+    "影像理论",
+    "空间与生成"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 327,
+  "local_source_status": "扫描PDF pp.1–327已读完；9份Word OCR分卷原PDF页标连续。题名页及CIP回看PDF原图；正文OCR只作辅助，原书未上传。",
+  "sources": [
+    {
+      "book": "《分裂分析德勒兹》",
+      "author": "杨凯麟",
+      "chapter": "封面、题名页、CIP与版权页",
+      "page": "PDF pp.1–3",
+      "location": "作者、出版社、ISBN、CIP与印刷日期；封面副题为“先验经验论与建构主义”"
+    },
+    {
+      "book": "《分裂分析德勒兹》",
+      "author": "杨凯麟（德勒兹研究，二手阐释）",
+      "chapter": "全书及附录",
+      "page": "PDF pp.1–327",
+      "location": "全文、附录译文、参考书目与词语补注均已核读；Word页标连续覆盖"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}

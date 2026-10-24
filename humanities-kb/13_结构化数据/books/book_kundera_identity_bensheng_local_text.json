@@ -1,0 +1,42 @@
+{
+  "id": "book_kundera_identity_bensheng_local_text",
+  "type": "book",
+  "name_zh": "《本性》（内容对应《身份》）",
+  "name": "L’Identité",
+  "authors": [
+    "person_milan_kundera"
+  ],
+  "local_title": "本性（文件页眉附Natural Character）",
+  "common_zh_title": "《身份》",
+  "translator": null,
+  "publisher": null,
+  "publication_year": null,
+  "original_completion": "1996年秋（据本地附带译者序）",
+  "original_publication_year": "1997（WorldCat法文版书目记录）",
+  "fields": [
+    "文学创作",
+    "身份认同",
+    "身体与凝视",
+    "记忆与梦境"
+  ],
+  "read_status": "read_in_full",
+  "local_source_status": "TXT第1–51节及译者序已读完；文件本身无纸本页码、署名译者、版权页或出版社信息；分卷页名33-42实际从第32节开始。",
+  "sources": [
+    {
+      "book": "《本性》／L’Identité",
+      "author": "米兰·昆德拉；本地TXT附译者序",
+      "chapter": "第1–51节及译者序",
+      "page": "按节号定位",
+      "location": "本地页眉及译者序题名；角色、情节及完成信息与L’Identité对应"
+    },
+    {
+      "book": "L’identité : roman",
+      "author": "Milan Kundera",
+      "chapter": "1997年法文版书目",
+      "page": "WorldCat record OCLC 38424461",
+      "location": "Gallimard, Paris, 1997",
+      "url": "https://search.worldcat.org/title/L%27identite-%3A-roman/oclc/38424461"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}

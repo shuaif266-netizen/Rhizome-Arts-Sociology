@@ -1,0 +1,38 @@
+{
+  "id": "book_kim_jong_il_on_architecture_1991_scan",
+  "type": "book",
+  "name_zh": "《论建筑》",
+  "name": "On Architecture",
+  "authors": [
+    "person_kim_jong_il"
+  ],
+  "publisher": null,
+  "publication_year": null,
+  "document_date": "1991-05-21（题名页日期）",
+  "fields": [
+    "建筑理论",
+    "政治美学",
+    "城市空间",
+    "民族形式"
+  ],
+  "read_status": "read_in_full",
+  "last_read_pdf_page": 172,
+  "local_source_status": "英文扫描PDF pp.1–172全文已读；9份Word页标连续覆盖全卷。题名页未见出版社、译者、ISBN或版次；原件仅留本地。",
+  "sources": [
+    {
+      "book": "On Architecture",
+      "author": "Kim Jong Il（题名页署名）",
+      "chapter": "封面、题名页与目录",
+      "page": "PDF pp.1–3",
+      "location": "p.1题名与作者；p.2题名页标1991-05-21；p.3目录"
+    },
+    {
+      "book": "On Architecture",
+      "author": "Kim Jong Il",
+      "chapter": "四部正文",
+      "page": "PDF pp.4–172",
+      "location": "Architecture and Society; Architecture and Creation; Architecture and Formation; Architecture and Guidance"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}

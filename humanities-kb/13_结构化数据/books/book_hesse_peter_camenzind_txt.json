@@ -1,0 +1,31 @@
+{
+  "id": "book_hesse_peter_camenzind_txt",
+  "type": "book",
+  "name_zh": "《彼得·卡门青》",
+  "name": "Peter Camenzind",
+  "authors": [
+    "person_hermann_hesse"
+  ],
+  "translator": "胡其鼎（据本地译后记署名）",
+  "publisher": null,
+  "publication_year": null,
+  "original_publication_year": "1904（据本地译后记）",
+  "fields": [
+    "德语文学",
+    "成长小说",
+    "自然书写",
+    "伦理与照护"
+  ],
+  "read_status": "read_in_full",
+  "local_source_status": "TXT八章与译后记全部通读；无纸本页码。项目原件保留本地只读；中文出版项未核。",
+  "sources": [
+    {
+      "book": "《彼得·卡门青》",
+      "author": "赫尔曼·黑塞；译后记署名胡其鼎",
+      "chapter": "第I–VIII章及译后记",
+      "page": "按TXT章次定位",
+      "location": "译后记给出原作题名、作者、1904年出版信息及译者署名；正文分八个TXT文件"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}

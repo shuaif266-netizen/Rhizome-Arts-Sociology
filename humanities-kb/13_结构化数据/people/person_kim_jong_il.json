@@ -1,0 +1,23 @@
+{
+  "id": "person_kim_jong_il",
+  "type": "person",
+  "name_zh": "金正日",
+  "name_en": "Kim Jong Il",
+  "aliases": [
+    "Kim Jong-il"
+  ],
+  "fields": [
+    "朝鲜政治",
+    "建筑理论"
+  ],
+  "sources": [
+    {
+      "book": "On Architecture",
+      "author": "题名页",
+      "chapter": "文献署名",
+      "page": "PDF p.2",
+      "location": "题名页署名Kim Jong Il，标注日期1991-05-21；扫描件未载完整出版信息"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}

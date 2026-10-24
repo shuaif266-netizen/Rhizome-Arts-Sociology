@@ -1,0 +1,23 @@
+{
+  "id": "person_hermann_hesse",
+  "type": "person",
+  "name_zh": "赫尔曼·黑塞",
+  "name_en": "Hermann Hesse",
+  "aliases": [
+    "黑塞"
+  ],
+  "fields": [
+    "德语文学",
+    "小说创作"
+  ],
+  "sources": [
+    {
+      "book": "《彼得·卡门青》",
+      "author": "本地译后记",
+      "chapter": "作者与作品介绍",
+      "page": "译后记（无页码）",
+      "location": "记载作者、原作题名及1904年出版信息；属于译者介绍"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}
